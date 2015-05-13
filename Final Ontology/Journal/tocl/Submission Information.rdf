@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_is_one_of_several_institutions_that_is_starting_to_use_the_ORCID_identification_system_of_unique_identifiers_for_researchers_and_scholars_in_order_to_improve_the_accuracy_of_bibliographic_databases._If_you_do_not_already_have_such_an_identifier_when_you_upload_a_new_submission_to_ManuscriptCentral,_you_will_be_asked_to_visit_the_ORCID_web_site_in_order_to_get_such_an_identification._For_more_about_ORCID,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_case_I_need_to_revise_my_submission_to_TOCL,_CoRR_will_contain_the_obsolete_version_of_the_paper.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_can_update_the_status_of_the_paper_you_posted_at_CoRR_by_posting_the_final_version_with_any_information_you_find_relevant,_for_instance_that_the_paper_will_appear_in_TOCL.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <base:_Where_to_submit rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_of_papers_to_ToCL_are_handled_by_the_Manuscript_Central_tracking_software_a_system_now_used_to_manage_all_ACM_Transactions._Please_submit_your_paper_by_following_this_link._If_you_have_not_used_Manuscript_Central_before,_you_will_need_to_follow_the_New_User_link_on_the_right._If_you_have_any_problems_making_a_submission,_contact_the_EditorinChief,_Dale_Miller._Authors_must_specify_one_or_two_Area_Editors_in_the_field_Author_Preferred_Editors_or_in_their_cover_letter.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Where_to_submit>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Isnt_CoRR_some_new_form_of_fad_that_is_likely_to_disappear_in_a_couple_of_years">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Why_should_I_make_the_results_of_my_research_known_to_the_scientific_community_when_they_are_not_yet_in_a_final_form">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Many_papers_posted_at_CoRR_do_not_specify_the_current_status_of_the_paper._Obviously,_you_do_not_need_to_mention_in_the_abstract_or_in_the_Comments_field_that_the_posted_paper_is_submitted_to_TOCL.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Not_quite_so">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Frequently_Asked_Questions_about_using_CoRR"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Such_parallel_submissions_to_CoRR_is_not_a_requirement_for_submission_to_ToCL.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Parallel_submission_to_the_CoRR_repository">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_you_submit_a_paper_to_TOCL,_you_are_apparently_convinced_that_it_is_a_highquality_contribution._Why_not_to_let_the_others_know_the_results_of_your_research_immediately">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_Information">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  </rdf:Description>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Posting_a_paper_at_my_home_page_or_my_home_institution_repository_will_achieve_the_same_effect.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <ns1:_visit_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_about.orcid.orgaboutwhatisorcid.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_visit_http>
+  <base:_Not_quite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Posting_a_paper_at_your_home_page_or_your_home_institution_repository_does_not_lead_to_sending_any_information_to_any_subscription_list._Also,_putting_all_the_papers_in_one_central_repository_makes_it_easier_to_search_for_papers_and_link_papers_together.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Not_quite>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_I_submit_a_paper_to_TOCL_via_CoRR_the_information_that_I_submitted_this_paper_to_TOCL_will_become_known_to_others._So_this_is_not_an_anonymous_submission.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_To_ensure_timely_processing_of_the_submissions,_whenever_a_paper_needs_to_be_revised,_the_authors_will_be_asked_to_prepare_the_revised_version_within_six_months_of_receiving_the_reviews.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Restrictions_on_your_submission">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Frequently_Asked_Questions_about_using_CoRR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Los_Alamos_National_Laboratory_LANL_archives_of_which_CoRR_forms_a_part_have_been_widely_used_since_1992_by_the_physicists_and_mathematicians._The_computer_science_part_of_the_archives_opened,_in_cooperation_with_the_ACM,_in_August_1998.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frequently_Asked_Questions_about_using_CoRR>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_longer_than_45_pages_in_the_ACM_style_file_format_are_discouraged_for_the_simple_reason_that_TOCL_publishes_only_approximately_1000_pages_a_year._The_authors_of_such_submissions,_if_they_are_accepted,_will_be_asked_to_put_part_of_their_material_in_an_electronic_appendix.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Restrictions_on_your_submission"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Many_latex_systems_generate_pdf_files_that_are_not_properly_handled_by_our_document_tracking_system_ManuscriptCentral._Prior_to_submitting_your_pdf_files,_please_follow_the_instructions_for_distilling_pdf_files_into_forms_appropriate_for_ManuscriptCentral.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Restrictions_on_your_submission"/>
+  </owl:NamedIndividual>
+  <base:_New_ACM_Publishing_Policies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_February_2013,_the_ACM_has_some_new_options_for_ACM_authors_to_manage_rights_and_permissions_for_their_work._The_ACM_introduces_a_new_publishing_license_agreement,_an_updated_copyright_transfer_agreement,_and_a_new_authorpays_option_which_allows_for_perpetual_open_access_through_the_ACM_Digital_Library._For_more_information,_visit_the_ACM_Author_Rights_webpage_at_authors.acm.org.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_New_ACM_Publishing_Policies>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_strongly_recommend_that_authors_of_submitted_paper_also_post_their_paper_to_the_Computing_Research_Repository_CoRR._The_submissions_to_CoRR_are_publicly_available_one_day_after_the_posting._Your_submission_to_this_archiving_service_can_help_our_community_have_timely_and_convenient_access_to_recently_written_papers._CoRR_also_allows_new_versions_of_papers_to_be_added_to_submitted_papers_so_it_is_possible_keep_your_entry_at_CoRR_synchronized_with_the_one_you_submit_to_ToCL_if_the_later_is_revised_during_the_reviewing_process.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Parallel_submission_to_the_CoRR_repository"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submitted_manuscripts_should_not_be_published_or_simultaneously_submitted_to_another_journal_or_to_a_conference._Full_extended_versions_of_important,_published,_conference_papers_are_welcome._Upon_acceptance_of_an_article_by_the_journal,_the_authors_will_be_asked_to_transfer_copyright_of_the_article_to_the_ACM.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Restrictions_on_your_submission"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Where_to_submit">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Frequently_Asked_Questions_about_using_CoRR">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Not_quite">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Frequently_Asked_Questions_about_using_CoRR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_is_one_of_several_institutions_that_is_starting_to_use_the_ORCID_identification_system_of_unique_identifiers_for_researchers_and_scholars_in_order_to_improve_the_accuracy_of_bibliographic_databases._If_you_do_not_already_have_such_an_identifier_when_you_upload_a_new_submission_to_ManuscriptCentral,_you_will_be_asked_to_visit_the_ORCID_web_site_in_order_to_get_such_an_identification._For_more_about_ORCID,_visit_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Where_to_submit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_ACM_Publishing_Policies">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+</rdf:RDF>

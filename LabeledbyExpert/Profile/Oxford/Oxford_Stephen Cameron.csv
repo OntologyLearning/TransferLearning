@@ -1,0 +1,81 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Stephen Cameron,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Dr Stephen Cameron,'1-2-1-2-1-1-1-2-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,1,I
+'Reader in Computing Science,'1-2-1-2-1-1-1-2-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Tutorial Fellow, Keble College",'1-2-1-2-1-1-1-2-3,0,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Interests,'1-2-1-2-1-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Geometric reasoning,'1-2-1-2-1-1-2-1-2-1,0,1,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Robot programming and planning,'1-2-1-2-1-1-2-1-2-2,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Scheduling,'1-2-1-2-1-1-2-1-2-3,0,1,0,1,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Biography,'1-2-1-2-1-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Stephen Cameron obtained his PhD in Artificial Intelligence at Edinburgh University, working on the geometric modelling of robots and on collision detection. His general area of interest is in spatial reasoning, although this covers a wide range which includes the planning of tasks and motions for robot vehicles and manipulators, the use of geometric models, and the scheduling of fleets of robots. Some of his work is in collaboration with members of the Oxford University Robotics Research Group in the Department of Engineering Science. He is a member of the AISB, the IEEE Robotics and Automation Society, the Geometric Modelling Society, the IAM and CAMRA.",'1-2-1-2-1-1-2-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Selected Publications,'1-2-1-2-1-1-2-3-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'View all,'1-2-1-2-1-1-2-3-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Doing a Good Turn: The Use of Quaternions for Rotation in Molecular Docking,'1-2-1-2-1-1-3-1-1,1,0,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Gwyn Skone‚ Stephen Cameron and Irina Voiculescu,'1-2-1-2-1-1-3-1-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In Journal of Chemical Information and Modeling. November, 2013.",'1-2-1-2-1-1-3-1-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1021/ci4005139) | Link,'1-2-1-2-1-1-3-1-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Dynamic Team Hierarchies in Communication−Limited Multi−Robot Exploration,'1-2-1-2-1-1-3-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Julian de Hoog‚ Stephen Cameron and Arnoud Visser,'1-2-1-2-1-1-3-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In IEEE International Workshop on Safety‚ Security‚ and Rescue Robotics (SSRR). July, 2010.",'1-2-1-2-1-1-3-2-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,1,0,1,0,0,0,0,2,I
+'Details | BibTeX | Download (pdf),'1-2-1-2-1-1-3-2-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Selection of Rendezvous Points for Multi−Robot Exploration in Dynamic Environments,'1-2-1-2-1-1-3-3-1,1,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Julian de Hoog‚ Stephen Cameron and Arnoud Visser,'1-2-1-2-1-1-3-3-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In Workshop on Agents in Realtime and Dynamic Environments‚ International Conference on Autonomous Agents and Multi−Agent Systems (AAMAS). May, 2010.",'1-2-1-2-1-1-3-3-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | Download (pdf),'1-2-1-2-1-1-3-3-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Info,'1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Computational Biology  | Information Systems,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Spatial Reasoning,'1-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Completed Projects,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+"'Robot Football | millipede | Sensing, Unmanned, Autonomous Aerial VEhicles | Molecular modelling | RoboCup",'1-2-1-2-1-2-2-3-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Current Students,'1-2-1-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Helen Flynn,'1-2-1-2-1-2-2-4-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Victor Spirin,'1-2-1-2-1-2-2-4-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Paul Ward,'1-2-1-2-1-2-2-4-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Zhilong Yang,'1-2-1-2-1-2-2-4-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Past Students,'1-2-1-2-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Julian de Hoog,'1-2-1-2-1-2-2-5-2-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Stuart Golodetz,'1-2-1-2-1-2-2-5-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Jie Ma,'1-2-1-2-1-2-2-5-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Andrej Pancik,'1-2-1-2-1-2-2-5-2-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-2-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-2-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-2-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-2-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-2-1-3-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-2-1-3-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-2-1-4,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-2-1-5-1,0,0,0,1,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-2-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-2-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-2-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-2-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-2-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-2-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

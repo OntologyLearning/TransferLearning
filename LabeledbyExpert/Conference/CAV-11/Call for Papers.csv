@@ -1,0 +1,36 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'23rd International Conference on,'1-1-1-1-2,0,0,1,2,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,C
+'Computer Aided Verification,'1-1-1-2,0,0,1,2,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+'CAV 2011,'1-1-2-1,0,0,1,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+"'July 14-20, Cliff Lodge, Snowbird, Utah",'1-1-2-2,0,0,1,2,1,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Grateful to our sponsors:,'1-2-1-1,0,0,0,1,1,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+"'Call For Papers for CAV 2011, held July 16-20 2011",'1-2-2-1-1-1-1,1,0,1,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,3,C
+'Aims and Scope,'1-2-2-1-1-1-2-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+"'CAV 2011 is the 23rd in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. CAV considers it vital to continue its leadership in hardware verification, maintain its recent momentum in software verification, and consider new domains such as biological systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers will be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.",'1-2-2-1-1-1-2-2,2,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Important Dates,'1-2-2-1-1-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,3,C
+'Abstract submission deadline:,'1-2-2-1-1-2-2-1-1-1-1-1-1-1,0,0,0,1,0,2,0,2,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,1,C
+"'(now closed): January 14, 2011 AOE (Anywhere On Earth)",'1-2-2-1-1-2-2-1-1-1-1-1-1-2,0,0,0,1,1,2,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Paper submission deadline,'1-2-2-1-1-2-2-1-1-1-1-1-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+"'(now closed): January 24, 2011 AOE",'1-2-2-1-1-2-2-1-1-1-1-1-2-2,0,0,0,1,1,2,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,1,1,1,I
+"'Rebuttal period: March 7-9, 2011",'1-2-2-1-1-2-2-1-1-1-1-2-1,0,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,1,0,0,0,0,2,C
+"'Author notification: March 19, 2011",'1-2-2-1-1-2-2-1-1-1-1-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,1,0,0,1,I
+"'Pre-CAV Workshops: July 14-15, 2011",'1-2-2-1-1-2-2-1-1-1-1-2-3,0,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,1,0,0,0,0,2,C
+"'CAV Conference: July 16-20, 2011",'1-2-2-1-1-2-2-1-1-1-2,0,1,0,1,1,2,0,1,1,2,0,1,0,0,0,0,0,0,1,0,0,0,0,1,I
+'Topics of interest include:,'1-2-2-1-1-2-2-1-1-2,0,0,0,1,1,2,0,2,1,2,0,1,0,0,0,0,0,0,0,1,0,1,1,2,C
+'Algorithms and tools for verifying models and implementations,'1-2-2-1-1-2-2-1-2-1,0,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Hardware verification techniques,'1-2-2-1-1-2-2-1-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Hybrid systems and embedded systems verification,'1-2-2-1-1-2-2-1-2-3,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Deductive, compositional, and abstraction techniques for verification",'1-2-2-1-1-2-2-1-2-4,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Program analysis and software verification,'1-2-2-1-1-2-2-1-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Verification techniques for security,'1-2-2-1-1-2-2-1-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Testing and runtime analysis based on verification technology,'1-2-2-1-1-2-2-1-2-7,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Verification methods for parallel and concurrent hardware/software systems,'1-2-2-1-1-2-2-1-2-8,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Applications and case studies,'1-2-2-1-1-2-2-1-2-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Verification in industrial practice,'1-2-2-1-1-2-2-1-2-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Formal methods for biological systems,'1-2-2-1-1-2-2-1-2-11,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Paper Submission,'1-2-2-1-1-2-2-2-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+'There are two categories of submissions:,'1-2-2-1-1-2-2-2-1-2,0,0,0,1,1,0,0,2,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+"'A. Regular Papers: Submissions, not exceeding sixteen (16) pages using Springer's LNCS format, should contain original research, and sufficient detail to assess the merits and relevance of the contribution. For papers reporting experimental results, authors are strongly encouraged to make their data available with their submission. Submissions reporting on case studies in an industrial context are strongly invited, and should describe details, weaknesses and strength in sufficient depth. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed. Please confine your submission to 16 pages, putting appendices - if necessary - on a webpage, and pointing to it.",'1-2-2-1-1-2-2-2-2-1,2,0,0,1,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'B. Tool Presentations: Submissions, not exceeding six (6) pages using Springer's LNCS format, should describe the implemented tool and its novel features. An appendix that will not be part of the published presentation may be added for use in the program committee selection process. A demonstration, in a separate demonstration session, is expected to accompany a tool presentation. Papers describing tools that have already been presented (in any conference) will be accepted only if significant and clear enhancements to the tool are reported and implemented. Please confine your submission to 6 pages, putting appendices - if necessary - on a webpage, and pointing to it.",'1-2-2-1-1-2-2-2-2-2,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Papers must be submitted in PDF format. Submission is done with Easychair.,'1-2-2-1-1-2-2-2-2-3,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,1,0,0,1,0,0,0,2,N
+'CAV Program,'1-2-2-2-1-1-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,N

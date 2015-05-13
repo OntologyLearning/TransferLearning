@@ -1,0 +1,686 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Bank of China,'1-1-1,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,C
+'Not to be confused with the People's Bank of China (the central bank of the People's Republic of China) or the Central Bank of the Republic of China on Taiwan.,'1-1-2-1-1,2,0,0,0,0,2,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,N
+'Bank of China Limited,'1-1-2-1-2-1-1,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,3,N
+'中国银行股份有限公司,'1-1-2-1-2-1-2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Type,'1-1-2-1-2-3-1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Public company,'1-1-2-1-2-3-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Traded as,'1-1-2-1-2-4-1,0,0,0,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'SEHK 3988,'1-1-2-1-2-4-2-1,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'SSE 601988,'1-1-2-1-2-4-2-2,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'OTC Pink BACHY,'1-1-2-1-2-4-2-3,0,0,0,0,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Industry,'1-1-2-1-2-5-1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Banking,'1-1-2-1-2-5-2-1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Financial services,'1-1-2-1-2-5-2-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Founded,'1-1-2-1-2-6-1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Beijing China,'1-1-2-1-2-6-2-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,I
+'Headquarters,'1-1-2-1-2-7-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Beijing, China",'1-1-2-1-2-7-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Area served,'1-1-2-1-2-8-1,0,0,0,0,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Worldwide,'1-1-2-1-2-8-2,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Key people,'1-1-2-1-2-9-1,0,0,0,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Xiao Gang Chairman,'1-1-2-1-2-9-2-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,I
+"'Li Lihui, President",'1-1-2-1-2-9-2-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Products,'1-1-2-1-2-10-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Credit cards, consumer banking, corporate banking, finance and insurance, investment banking, mortgage loans, private banking, private equity, savings, Securities, asset management, wealth management",'1-1-2-1-2-10-2,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Revenue,'1-1-2-1-2-11-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'CN¥ 413.10 billion (2011),'1-1-2-1-2-11-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operating income,'1-1-2-1-2-12-1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'CN¥ 168.12 billion (2011),'1-1-2-1-2-12-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Net income,'1-1-2-1-2-13-1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'CN¥ 124.18 billion (2011),'1-1-2-1-2-13-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-2-14-1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'CN¥ 11.829 trillion (2011),'1-1-2-1-2-14-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Owner(s),'1-1-2-1-2-15-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Government of the People's Republic of China,'1-1-2-1-2-15-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-2-16-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'288,687 (2011)",'1-1-2-1-2-16-2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Website,'1-1-2-1-2-17-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.boc.cn,'1-1-2-1-2-17-2,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Bank of China,'1-1-2-2-1-1,0,0,0,2,0,2,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Simplified Chinese,'1-1-2-2-1-2-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'中国银行,'1-1-2-2-1-2-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Traditional Chinese,'1-1-2-2-1-3-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'Transcriptions,'1-1-2-2-1-4-1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Mandarin,'1-1-2-2-1-4-2-1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Hanyu Pinyin,'1-1-2-2-1-4-2-2-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'Zhōngguó Yínháng,'1-1-2-2-1-4-2-2-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Alternative Chinese name,'1-1-2-2-1-5,0,0,0,0,1,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Simplified Chinese,'1-1-2-2-1-6-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'中银,'1-1-2-2-1-6-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Traditional Chinese,'1-1-2-2-1-7-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'中銀,'1-1-2-2-1-7-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Transcriptions,'1-1-2-2-1-8-1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Mandarin,'1-1-2-2-1-8-2-1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Hanyu Pinyin,'1-1-2-2-1-8-2-2-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'Zhōngyín,'1-1-2-2-1-8-2-2-2,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Second alternative Chinese name,'1-1-2-2-1-9,0,0,0,0,1,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Chinese,'1-1-2-2-1-10-1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'中行,'1-1-2-2-1-10-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Transcriptions,'1-1-2-2-1-11-1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Mandarin,'1-1-2-2-1-11-2-1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Hanyu Pinyin,'1-1-2-2-1-11-2-2-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'Zhōngháng,'1-1-2-2-1-11-2-2-2,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Bank of China Limited simplified Chinese 中国银行 traditional Chinese 中國銀行 pinyin,'1-1-2-2-2-1-1-1-1-1-1,1,0,0,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,N
+'Zhōngguó Yínháng,'1-1-2-2-2-1-1-1-1-1-2-1,0,0,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'big four banks People's Republic of China,'1-1-2-2-2-1-1-1-1-1-2-2,0,0,0,0,0,2,1,0,0,2,0,0,0,1,0,1,0,0,1,0,0,0,3,N
+"'It was founded in 1912 by the Republican government to replace the Imperial Bank of China. It is the oldest bank in China still in existence. From its establishment until 1942, it issued banknotes on behalf of the Government along with the ""Big Four"" banks of the period: the Farmers Bank of China, Bank of Communications and Central Bank of the Republic of China. Although it initially functioned as the Chinese central bank, in 1928 the Central Bank of China replaced it in that role. Subsequently, BOC became a purely commercial bank. Its headquarters are in Xicheng District, Beijing.",'1-1-2-2-2-1-1-1-1-2-1,2,0,0,0,0,2,1,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,3,N
+"'As at 2009, it was the second largest lender in China overall, and the 5th largest bank in the world by market capitalization value.",'1-1-2-2-2-1-1-1-1-2-2,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Contents,'1-1-2-2-2-1-1-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'1 History,'1-1-2-2-2-1-1-1-2-1-2-1,0,0,0,0,0,1,1,0,0,2,1,1,1,0,0,0,1,0,0,1,0,0,3,I
+'2 Timeline of overseas activities,'1-1-2-2-2-1-1-1-2-1-2-2,0,0,0,0,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+'3 Hong Kong,'1-1-2-2-2-1-1-1-2-1-2-3,0,0,0,0,0,2,1,0,0,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'4 Basic facts,'1-1-2-2-2-1-1-1-2-1-2-4,0,0,0,0,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'5 Banknotes,'1-1-2-2-2-1-1-1-2-1-2-5,0,0,0,0,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'6 Ownership,'1-1-2-2-2-1-1-1-2-1-2-6,0,0,0,0,0,1,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'7 Issues 7.1 Guarantee scandal in Poland
+7.2 Wultz v. Bank of China
+7.3 Alleged money transfers to Hamas",'1-1-2-2-2-1-1-1-2-1-2-7-1,1,0,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'8 See also,'1-1-2-2-2-1-1-1-2-1-2-7-2,0,0,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'9 References,'1-1-2-2-2-1-1-1-2-1-2-8,0,0,0,0,0,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'10 Resources,'1-1-2-2-2-1-1-1-2-1-2-9,0,0,0,0,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'11 External links,'1-1-2-2-2-1-1-1-2-1-2-10,0,0,0,0,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-2-2-1-1-1-2-2-1-1,0,0,0,0,1,1,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'Bank of China's history goes back to 1905, when the Qing government established Daqing Hubu Bank (in Chinese: {{{3}}}) in Beijing, which was in 1908 renamed to Daqing Bank (in Chinese: {{{3}}}). When the Republic of China was established in 1912, it was further renamed as Bank of China by President Sun Yat-sen's government, adding a new role of the central bank.",'1-1-2-2-2-1-1-1-2-2-1-2-1,2,0,0,0,0,2,1,1,0,2,1,0,1,0,0,0,0,0,1,0,0,0,2,I
+"'After the Chinese Civil War ended in 1949, the Bank of China effectively split into two operations. Part of the bank relocated to Taiwan with the Kuomintang (KMT) government. It was privatised in 1971 to become the International Commercial Bank of China (中國國際商業銀行). It has subsequently merged with the Taiwan Bank of Communications (Chiao Tung Bank, 交通銀行) to become the Mega International Commercial Bank (兆豐國際商業銀行). The Mainland operation is the current entity known as the Bank of China.",'1-1-2-2-2-1-1-1-2-2-1-2-2,2,0,0,0,0,2,1,0,0,2,1,0,1,1,0,1,0,0,1,0,0,0,1,I
+"'It is the second largest lender in China overall, and the 5th largest bank in the world by market capitalization value. Once 100% owned by the central government, via Central Huijin Investment and National Council for Social Security Fund (SSF), an IPO of its shares took place in June 2006, the free float is at present over 26%. In the Forbes Global 2000 it ranked as the 21st-largest company in the world.",'1-1-2-2-2-1-1-1-2-2-1-2-3,2,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'It is the most international of China's banks, with branches on every inhabited continent. Outside of mainland China, BOC also operates in 27 countries including Australia, Canada, United Kingdom, Ireland, France, Germany, Italy, Luxembourg, Russia, Hungary, United States, Panama, Brazil, Japan, Republic of Korea, Singapore, Taiwan, Philippines, Vietnam, Malaysia, Thailand, Indonesia, Kazakhstan, Bahrain, Zambia, South Africa, and a branch office in the Cayman Islands. In December 2010, the Bank of China New York branch began offering RMB products for Americans. It was the first major Chinese bank to offer such a product.",'1-1-2-2-2-1-1-1-2-2-1-2-4,2,0,0,0,0,2,1,0,0,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Although it is present in the above countries/territories, its operations outside China accounted for less than 4% of the activity of the bank by both profits and assets. Mainland China accounts for 60% of the bank by profits and 76% by assets as at December 2005.",'1-1-2-2-2-1-1-1-2-2-1-2-5,2,0,0,0,0,0,0,0,0,2,1,0,0,1,0,1,0,0,1,0,0,0,2,I
+'Timeline of overseas activities,'1-1-2-2-2-1-1-1-2-2-2,0,0,0,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Daqing Bank's Dalian Branch. (1910),'1-1-2-2-2-1-1-2-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,2,N
+'This section,'1-1-2-2-2-1-2-1-2,0,0,0,0,0,2,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,N
+'needs additional citations for verification,'1-1-2-2-2-1-2-1-3-1,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-2-2-1-2-1-3-3,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'(May 2013),'1-1-2-2-2-1-2-1-3-4,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,3,N
+'Tokyo branch,'1-1-2-2-2-1-2-2-1-1,0,0,0,0,0,2,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+'New York branch,'1-1-2-2-2-1-2-2-1-2,0,0,0,0,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'Bank of China building in Singapore,'1-1-2-2-2-1-2-2-1-3,0,0,0,0,0,2,1,0,1,1,1,1,1,1,0,1,0,0,1,1,0,0,3,N
+'Bank of China in Canada,'1-1-2-2-2-1-2-2-1-4,0,0,0,0,0,2,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0,3,N
+'中国银行股份有限公司 Bank of China in Shenyang,'1-1-2-2-2-1-2-2-1-5-2,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,1,1,1,3,N
+'1917: BOC opened a branch in Hong Kong.,'1-1-2-2-2-1-2-2-2-1-1,0,1,0,0,0,2,0,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,3,I
+"'1929: BOC opened its first overseas branch in London. The branch managed the government's foreign debt, became a center for the bank's management of its foreign exchange, and acted as an intermediary for China's international trade.",'1-1-2-2-2-1-2-2-2-1-2,2,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,3,I
+'1931: BOC opened a branch in Osaka.,'1-1-2-2-2-1-2-2-2-1-3,0,1,0,0,0,2,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'1936: BOC opened a branch in Singapore to handle remittances to China of overseas Chinese. It also opened an agency in New York.,'1-1-2-2-2-1-2-2-2-1-4,1,1,0,0,0,2,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+"'1937: On the outbreak of hostilities with Japan, Japanese forces blockaded China's major ports. BOC opened a number of branches in Batavia, Penang, Kuala Lumpur, Haiphong, Hanoi, Rangoon, Bombay, and Calcutta to facilitate the gathering of remittances and the flow of military supplies. It also opened sub-agencies in Surabaya, Medan, Dabo, Xiaobo, Batu Pahat, Baichilu, Mandalay, Lashio, Ipoh, and Seremban.",'1-1-2-2-2-1-2-2-2-1-5,2,1,0,0,0,2,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'1941-1942: The Japanese conquest of Southeast Asia forced BOC to close all overseas its branches, agencies, sub-branches and sub-agencies, except London, New York, Calcutta, and Bombay. Nevertheless, in 1942, it manages to set up six new overseas branches, such as in Sydney, (Australia), Liverpool, and Havana, and possibly Karachi.",'1-1-2-2-2-1-2-2-2-1-6,2,1,0,0,0,2,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'1946: BOC reopened its branches and agencies in Hong Kong, Singapore, Haiphong, Rangoon, Kuala Lumpur, Penang, and Jakarta. It moved the Hanoi agency to Saigon. At the suggestion of the Allied Forces Headquarters, it liquidated the branch in Osaka and opened a sub-branch in Tokyo.",'1-1-2-2-2-1-2-2-2-1-7,2,1,0,0,0,2,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'1947: BOC opened agencies in Bangkok, Chittagong, and Tokyo.",'1-1-2-2-2-1-2-2-2-1-8,0,1,0,0,0,2,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'1950: After victory of Communist forces in the civil war, some branches (ex. Hong Kong, Singapore, London, Penang, Kuala Lumpur, Jakarta, Calcutta, Bombay, Chittagong, Karachi, and Jakarta) of Bank of China joined the bank headquartered in Beijing, while others (ex. New York, Tokyo, Havana, Bangkok, and one other, possibly Panama) opted to remain with the Bank of China headquartered in Taipei. In 1971, this bank took the name International Commercial Bank of China.",'1-1-2-2-2-1-2-2-2-1-9-1,2,1,0,0,0,2,1,1,1,2,0,0,1,0,0,1,0,0,1,0,0,0,2,I
+"'1963: The Burmese government nationalized all banks, foreign and domestic, including the Bank of China's Rangoon branch.",'1-1-2-2-2-1-2-2-2-1-9-2,1,1,0,0,0,2,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'1971: The Bank of China transferred its two branches in Karachi and Chittagong to the National Bank of Pakistan.,'1-1-2-2-2-1-2-2-2-1-10,1,1,0,0,0,2,1,1,1,1,1,1,1,0,0,1,0,0,1,0,0,0,2,I
+'1975: The People's Republic of Vietnam nationalized the Bank of China's branch in Saigon and the Khmer Rouge government nationalized its Phnom Penh branch.,'1-1-2-2-2-1-2-2-2-1-11,1,1,0,0,0,2,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'1981: BOC opened a branch in New York.,'1-1-2-2-2-1-2-2-2-1-12,0,1,0,0,0,2,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'2001: Kwangtung Provincial Bank was closed and merged under Bank of China, Singapore Branch.",'1-1-2-2-2-1-2-2-2-1-13,1,1,0,0,0,2,0,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0,2,I
+'2002: Bank of China Futures Pte Ltd wound up operations in Singapore.,'1-1-2-2-2-1-2-2-2-1-14-1,1,1,0,0,0,2,0,1,1,2,0,0,1,0,0,1,1,0,1,1,0,0,2,I
+"'2005: In the runup to its initial public offering, BOC solicited long term investors to take strategic stakes in the company, including a $3.1 billion investment by the Royal Bank of Scotland Group PLC and further investments by Swiss bank UBS AG and Temasek Holdings Pte. Ltd (who also promised to subscribe for an additional $500 million worth of shares during the IPO). The Bank was also investigated by the United States in its money laundering probe related to the superdollars affair.",'1-1-2-2-2-1-2-2-2-1-14-2,2,1,0,0,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'2006: BOC's listing on the Hong Kong Stock Exchange on June 1, 2006 was the largest IPO since 2000 and the fourth largest IPO ever, raising some US$9.7 billion in the H-share Global Offering. The Over-Allotment Option was then exercised on June 7, 2006, raising the total value of their IPO to US$11.2 billion. BOC also made a successful IPO in mainland China on July 5, 2006, offering up to 10 billion A-shares on the Shanghai A Stock Exchange for RMB20 billion (US$2.5 billion). BOC also bought Singapore Airlines's stake in Singapore Aircraft Leasing Enterprise, renaming it BOC Aviation in 2007.",'1-1-2-2-2-1-2-2-2-1-15,2,1,0,0,0,2,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'2008: Bank of China buys a 20 percent stake in La Compagnie Financière Edmond de Rothschild (LCFR) for 236.3 million euros (US$340 million),'1-1-2-2-2-1-2-2-2-1-16,1,1,0,0,0,2,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'2001-2007: Massive staff layoffs and paycuts in BOC Singapore Branch, culminating in 2007 with branch head Zhu Hua being asked to leave by the Monetary Authority of Singapore for his poor performance. He was replaced by Liu Yan Fen.",'1-1-2-2-2-1-2-2-2-1-17,2,1,0,0,0,2,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'2008: Head of Settlements at BOC, Chin Chuh Meng, was investigated involvement for Multi-Level Marketing Activities in Singapore, a scheme involving employees of the Bank of China and ex-Kwangtung Bank.",'1-1-2-2-2-1-2-2-2-1-18-1,2,1,0,0,0,2,1,1,1,2,0,0,1,0,0,1,0,0,1,0,0,0,2,I
+'2009: Opened branches in São Paulo and Maputo. Penang branch reopened in October. People's Park Remittance Centre opened in Singapore. Sunday Banking Business ceased in Chinatown Sub-branch in Singapore.,'1-1-2-2-2-1-2-2-2-1-18-2,1,1,0,0,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'2012: BOC opened branch in Taiwan. The opening is seen as a symbol of deepening economic ties across Taiwan Strait Bank of China (M) Bhd opened its 6th branch in Malaysia at Tower 2, PFCC, Bandar Puteri Puchong in 2012.",'1-1-2-2-2-1-2-2-2-1-19,2,1,0,0,0,2,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,2,I
+"'2013: BOC opened a branch in Lisbon, Portugal. During the Korean crisis, the Bank of China halted business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. New branch opened in Montreal. The Canadian arm of the Bank of China now has 10 branches across Canada, including five in Toronto and three in Vancouver.",'1-1-2-2-2-1-2-2-2-1-20,2,1,0,0,0,2,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,2,I
+'Hong Kong,'1-1-2-2-2-1-2-2-2-2,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+'This section,'1-1-2-2-2-1-3-1-2,0,0,0,0,0,2,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,N
+'needs additional citations for verification,'1-1-2-2-2-1-3-1-3-1,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-2-2-1-3-1-3-3,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'(May 2013),'1-1-2-2-2-1-3-1-3-4,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,1,0,0,3,N
+'Bank of China Tower in Hong Kong.,'1-1-2-2-2-1-3-2-1-2,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,3,N
+'Main article: Bank of China (Hong Kong),'1-1-2-2-2-1-3-2-2-1-1,0,0,0,0,0,2,1,1,1,1,1,0,1,0,0,1,0,0,1,1,0,0,3,N
+"'BOC started operations in Hong Kong in 1917 and has become a major player there. It became note-issuing bank Hong Kong in 1994; in Macao, it received note-issuing status in 1995.",'1-1-2-2-2-1-3-2-2-1-2,2,0,0,0,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,3,I
+"'In 2001, BOC regrouped its Hong Kong operations into Bank of China (Hong Kong); then BOCHK listed on the Hong Kong Stock Exchange in October 2002. Two-thirds of its share capital are in free float. The bank's headquarters in Hong Kong are located in the Bank of China Tower, designed by the renowned architect I.M. Pei, and was opened to the public in 1990 as the tallest building of Hong Kong at that time.",'1-1-2-2-2-1-3-2-2-1-3,2,0,0,0,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,3,I
+"'It listed on the Hong Kong Stock Exchange (independently from BOCHK) (SEHK:3988) by floating the largest IPO in the world by any institution since 2000 on June 1, 2006, raising US$9.7 billion. The IPO attracted HK$286 billion (USD 36.7 billion) in retail orders and was the most heavily oversubscribed in the history of the Hong Kong Stock Exchange. The offer was around 76 times oversubscribed. Although some financial analysts advised caution due to the worrying amounts of non-performing loans, this hardly deterred investors. The IPO share price started at HK$2.95 per share and jumped 15% (to HK$3.40) after the first day of trading.",'1-1-2-2-2-1-3-2-2-1-4,2,0,0,0,0,2,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2008, the Bank of China was crowned Deal of the Year - Debt Market Deal of the Year at the 2008 ALB Hong Kong Law Awards.",'1-1-2-2-2-1-3-2-2-1-5,1,0,0,0,0,2,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Basic facts,'1-1-2-2-2-1-3-2-2-2,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'This section,'1-1-2-2-2-1-4-1-2,0,0,0,0,0,2,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,N
+'needs additional citations for verification,'1-1-2-2-2-1-4-1-3-1,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-2-2-1-4-1-3-3,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'(May 2013),'1-1-2-2-2-1-4-1-3-4,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,1,1,1,3,N
+"'It has over RMB6,951.68 billion in assets, making it part of the Fortune Global 500 for the past 17 years.",'1-1-2-2-2-1-4-2-1-1,1,1,0,0,0,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,I
+"'It is the second largest lender in China overall, the largest lender to non-institutions, and the largest foreign exchange lender (the largest lender in China is the Industrial and Commercial Bank of China).",'1-1-2-2-2-1-4-2-1-2-1,2,1,0,0,0,2,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,3,I
+"'In 2002, it made RMB52.7 billion profit, an increase of over 20 percent from the previous year.",'1-1-2-2-2-1-4-2-1-2-2,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,I
+"'All overseas branches are only affiliated with Bank of China branches in China. That means that if you deposit money in a China branch, you cannot access your money in overseas branches.",'1-1-2-2-2-1-4-2-1-3,2,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,2,I
+"'Bank of China, New York internet banking is available for US dollar accounts and online access to stop payments, wire transfers and remittances. Great Wall debit MasterCard is available to account holders.",'1-1-2-2-2-1-4-2-1-4-1,2,1,0,0,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Bank of China, New York has two locations: 410 Madison (open Monday - Friday) and 42 East Broadway (open seven days). It also operates as a functional 24/7 clearinghouse for wire transfers and stop payments (allowing real time payments to China).",'1-1-2-2-2-1-4-2-1-4-2,2,1,0,0,0,2,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Banknotes,'1-1-2-2-2-1-4-2-2-1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Although it is not a central bank, the Bank of China is licensed to issue banknotes in two of China's Special Administrative Regions. Until 1942, the Bank of China issued banknotes in mainland China on behalf of the Government of the Republic of China. Today, the Bank issues banknotes in Hong Kong and banknotes in Macau (under the Portuguese name ""Banco da China, Sucursal de Macau""), along with other commercial banks in those regions.",'1-1-2-2-2-1-4-2-2-2,2,0,0,0,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,2,I
+'Ownership,'1-1-2-2-2-1-4-2-3,0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,C
+'This section,'1-1-2-2-2-1-5-1-2,0,0,0,0,0,2,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,N
+'needs additional citations for verification,'1-1-2-2-2-1-5-1-3-1,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-2-2-1-5-1-3-3,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'(May 2013),'1-1-2-2-2-1-5-1-3-4,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,1,0,0,3,N
+"'As of June 7, 2006, following the Hong Kong IPO, the ownership of the Bank of China (SEHK:3988) was:",'1-1-2-2-2-1-5-2-1-1-1-1,1,0,0,0,0,2,1,2,1,2,1,0,1,0,0,1,0,1,1,0,1,1,3,C
+"'State Administration of Foreign Exchange (an investment arm of the government of the People's Republic of China): 69.265%
+RBS China: 8.467% (4.26% for the benefit of RBS, the remainer held as custodian for the interests of billionaire Li Ka-shing)
+AFH Pte. Ltd. (a wholly owned subsidiary of Temasek): 4.765%
+National Council for Social Security Fund (PRC state pension fund): 4.576%
+UBS AG: 1.366%
+ADB: 0.205%
+Investors who received H shares from the Global Offering (IPO): 11.356%",'1-1-2-2-2-1-5-2-1-1-1-2,2,1,0,0,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,3,I
+"'Li Ka-shing, RBS, Temasek and UBS were contracted to hold their shares until 31 December 2008. All four sold their holdings on the open market in early January 2009.",'1-1-2-2-2-1-5-2-1-1-1-3,1,0,0,0,0,2,1,0,1,2,1,0,0,1,0,0,0,1,0,0,0,0,1,N
+'Issues,'1-1-2-2-2-1-5-2-1-1-2-1-1,0,0,0,0,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Guarantee scandal in Poland,'1-1-2-2-2-1-5-2-1-1-2-1-2,0,0,0,0,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,C
+"'After failure of the building A2 highway in Poland, by COVEC this bank had to repay the guarantee, to the Polish govt. roads organization GDDKiA. However, with Export-Import Bank of China, they refused to pay this, and only Deutsche Bank sent his part of the money required by court.",'1-1-2-2-2-1-5-2-1-1-2-2,2,0,0,0,0,2,1,0,1,2,0,1,0,0,0,0,0,0,1,0,0,0,1,I
+'Wultz v. Bank of China,'1-1-2-2-2-1-5-2-1-1-3-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,1,C
+"'On August 8, 2008, the family of Daniel Wultz, an American teenager killed in a 2006 terrorist attack in Israel, filed suit against the Bank of China in U.S. District Court for the District of Columbia. The case was subsequently transferred to the United States District Court, Southern District of New York, where litigation continues. On October 29, 2012, the Honorable J. Scheindlin issued a ruling compelling Bank of China to provide discovery.",'1-1-2-2-2-1-5-2-1-1-3-2,2,0,0,0,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Alleged money transfers to Hamas,'1-1-2-2-2-1-5-2-1-1-4-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+"'In 2012, the families of eight terror victims of the 2008 Mercaz HaRav massacre in Jerusalem filed a $1 billion lawsuit against the Bank of China. The suit asserted that in 2003 the bank's New York branch wired millions of dollars to Hamas from its leadership in Syria and Iran. The Bank of China subsequently denied providing banking services to terrorist groups: ""The Bank of China has always strictly followed the UN's anti-money laundering and anti-terrorist financing requirements and regulations in China and other judicial areas where we operate.""",'1-1-2-2-2-1-5-2-1-1-4-2,2,0,0,0,0,2,1,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'See also,'1-1-2-2-2-1-5-2-1-1-5-1,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'List of asset management companies of the People's Republic of China,'1-1-2-2-2-1-5-2-1-1-5-2-1,1,0,0,0,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,0,0,0,2,I
+'Foreign exchange reserves of the People's Republic of China,'1-1-2-2-2-1-5-2-1-1-5-2-2,0,0,0,0,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Resources,'1-1-2-2-2-1-5-2-1-1-6-1,0,0,0,0,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+"'Bank of China, A History of the Bank of China, 1912-1949, Beijing: 1999.",'1-1-2-2-2-1-5-2-1-1-6-2,1,1,0,0,0,2,0,1,1,2,0,0,0,1,0,1,1,0,1,1,0,0,2,I
+'External links,'1-1-2-2-2-1-5-2-1-1-7,0,0,0,0,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,C
+'People's Republic of China portal,'1-1-2-2-2-1-5-2-1-2-1-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Republic of China portal,'1-1-2-2-2-1-5-2-1-2-2,0,0,0,0,1,2,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,I
+'Companies portal,'1-1-2-2-2-1-5-2-1-2-3-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Wikimedia Commons has media related to Bank of China.,'1-1-2-2-2-1-5-2-2-1-2,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,2,I
+'Official website,'1-1-2-2-2-1-5-2-2-2,0,0,0,0,0,2,1,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,2,I
+'Bank of China,'1-1-2-2-2-1-6-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Divisions and,'1-1-2-2-2-1-6-2-1-1-1,0,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'subsidiaries,'1-1-2-2-2-1-6-2-1-1-2,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Current,'1-1-2-2-2-1-6-2-1-2-1-1,0,0,0,0,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Bank of China (Canada),'1-1-2-2-2-1-6-2-1-2-1-2-1,0,0,0,0,0,2,1,0,1,2,1,0,1,0,0,1,0,0,1,1,0,0,3,I
+'Bank of China (Hong Kong),'1-1-2-2-2-1-6-2-1-2-1-2-2,0,0,0,0,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,1,I
+'Bank of China Insurance,'1-1-2-2-2-1-6-2-1-2-1-2-3,0,0,0,0,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'BOC Aviation,'1-1-2-2-2-1-6-2-1-2-1-2-4,0,0,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BOC Hong Kong (Holdings),'1-1-2-2-2-1-6-2-1-2-1-2-5,0,0,0,0,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'BOC International,'1-1-2-2-2-1-6-2-1-2-1-2-6,0,0,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Chiyu Banking Corporation,'1-1-2-2-2-1-6-2-1-2-1-2-7,0,0,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Nanyang Commercial Bank,'1-1-2-2-2-1-6-2-1-2-1-2-8,0,0,0,0,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Defunct and,'1-1-2-2-2-1-6-2-1-2-2-1-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'former,'1-1-2-2-2-1-6-2-1-2-2-1-2,0,0,0,0,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
+'Bank of China Group,'1-1-2-2-2-1-6-2-1-2-2-2-1,0,0,0,0,0,2,1,0,1,2,1,1,1,0,0,1,0,0,1,1,0,0,1,I
+'The China & South Sea Bank,'1-1-2-2-2-1-6-2-1-2-2-2-2,0,0,0,0,0,2,1,0,1,2,1,1,0,1,0,1,0,0,1,1,0,0,3,I
+'China State Bank,'1-1-2-2-2-1-6-2-1-2-2-2-3-1,0,0,0,0,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'Hua Chiao Commercial Bank,'1-1-2-2-2-1-6-2-1-2-2-2-3-2,0,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Kincheng Banking Corporation,'1-1-2-2-2-1-6-2-1-2-2-2-4,0,0,0,0,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Kwangtung Provincial Bank,'1-1-2-2-2-1-6-2-1-2-2-2-5,0,0,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'The National Commercial Bank,'1-1-2-2-2-1-6-2-1-2-2-2-6,0,0,0,0,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+'Po Sang Bank,'1-1-2-2-2-1-6-2-1-2-2-2-7-1,0,0,0,0,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Sin Hua Bank,'1-1-2-2-2-1-6-2-1-2-2-2-7-2,0,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Yien Yieh Commercial Bank,'1-1-2-2-2-1-6-2-1-2-2-2-8,0,0,0,0,0,2,1,0,1,2,1,1,0,0,0,0,0,0,1,0,0,0,2,I
+'Other,'1-1-2-2-2-1-6-2-1-4-1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'JETCO,'1-1-2-2-2-1-6-2-1-4-2,0,1,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Category,'1-1-2-2-2-1-6-2-2-1,0,0,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Commons,'1-1-2-2-2-1-6-2-2-2,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,N
+'Links to related articles,'1-1-2-2-2-2-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Hang Seng Index companies of Hong Kong,'1-1-2-2-2-2-2-1-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,1,3,C
+"'Finance
+
+HSBC Holdings
+Hang Seng Bank
+Bank of East Asia
+HKEx
+China Construction Bank
+AIA
+Industrial and Commercial Bank of China
+Ping An Insurance
+BOC Hong Kong (Holdings)
+China Life Insurance Company
+Bank of Communications
+Bank of China",'1-1-2-2-2-2-2-1-2-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,1,0,0,1,1,0,0,3,C
+"'Utilities
+
+CLP Holdings
+Hong Kong and China Gas
+Power Assets Holdings
+China Resources Power",'1-1-2-2-2-2-2-1-2-2,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,1,C
+"'Property
+
+Cheung Kong
+Henderson Land Development
+Sun Hung Kai Properties
+Sino Land
+Hang Lung Properties
+China Overseas
+China Resources Land",'1-1-2-2-2-2-2-1-2-3,1,1,0,1,1,2,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1,C
+'Commercial,'1-1-2-2-2-2-2-1-2-4-1-1,0,0,0,1,1,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'industrial,'1-1-2-2-2-2-2-1-2-4-1-2,0,0,0,1,1,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Wharf Holdings,'1-1-2-2-2-2-2-1-2-4-2-1,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Hutchison Whampoa,'1-1-2-2-2-2-2-1-2-4-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,I
+'New World Development,'1-1-2-2-2-2-2-1-2-4-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Swire Pacific,'1-1-2-2-2-2-2-1-2-4-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'MTR Corporation,'1-1-2-2-2-2-2-1-2-4-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Kunlun Energy,'1-1-2-2-2-2-2-1-2-4-2-5,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'China Merchants,'1-1-2-2-2-2-2-1-2-4-2-6-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Want Want China,'1-1-2-2-2-2-2-1-2-4-2-6-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'CITIC Pacific,'1-1-2-2-2-2-2-1-2-4-2-7,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'China Resources,'1-1-2-2-2-2-2-1-2-4-2-8,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Cathay Pacific Airways,'1-1-2-2-2-2-2-1-2-4-2-9-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tingyi,'1-1-2-2-2-2-2-1-2-4-2-9-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Esprit Holdings,'1-1-2-2-2-2-2-1-2-4-2-10,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Sinopec,'1-1-2-2-2-2-2-1-2-4-2-11,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Li & Fung,'1-1-2-2-2-2-2-1-2-4-2-12-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tencent Holdings,'1-1-2-2-2-2-2-1-2-4-2-12-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'China Unicom,'1-1-2-2-2-2-2-1-2-4-2-13,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'CNOOC,'1-1-2-2-2-2-2-1-2-4-2-14,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'PetroChina,'1-1-2-2-2-2-2-1-2-4-2-15,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'China Mobile,'1-1-2-2-2-2-2-1-2-4-2-16-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Hengan,'1-1-2-2-2-2-2-1-2-4-2-16-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'China Shenhua,'1-1-2-2-2-2-2-1-2-4-2-17,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'COSCO Pacific,'1-1-2-2-2-2-2-1-2-4-2-18,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Belle,'1-1-2-2-2-2-2-1-2-4-2-19-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'China Coal Energy,'1-1-2-2-2-2-2-1-2-4-2-19-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Sands China,'1-1-2-2-2-2-2-1-2-4-2-20,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Aluminum Corporation of China,'1-1-2-2-2-2-2-1-2-4-2-21,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
+'S&P Asia 50 companies,'1-1-2-2-2-2-2-2-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'AIA Group,'1-1-2-2-2-2-2-2-2-1-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BOC Hong Kong (Holdings),'1-1-2-2-2-2-2-2-2-1-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Cathay Financial Holding,'1-1-2-2-2-2-2-2-2-1-2,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Cheung Kong (Holdings),'1-1-2-2-2-2-2-2-2-1-3,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'China Construction Bank,'1-1-2-2-2-2-2-2-2-1-4,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0,2,I
+'China Life Insurance,'1-1-2-2-2-2-2-2-2-1-5-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'China Mobile,'1-1-2-2-2-2-2-2-2-1-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'China Petroleum & Chemical,'1-1-2-2-2-2-2-2-2-1-6,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,2,I
+'China Steel,'1-1-2-2-2-2-2-2-2-1-7,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Chinatrust Financial Holding,'1-1-2-2-2-2-2-2-2-1-8-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Chunghwa Telecom,'1-1-2-2-2-2-2-2-2-1-8-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'CLP Holdings,'1-1-2-2-2-2-2-2-2-1-9,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'CNOOC,'1-1-2-2-2-2-2-2-2-1-10,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'DBS Group,'1-1-2-2-2-2-2-2-2-1-11-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Delta Electronics,'1-1-2-2-2-2-2-2-2-1-11-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Formosa Chem & Fibre,'1-1-2-2-2-2-2-2-2-1-12,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Formosa Plastics,'1-1-2-2-2-2-2-2-2-1-13,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Fubon Financial Holding,'1-1-2-2-2-2-2-2-2-1-14,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Galaxy Entertainment Group,'1-1-2-2-2-2-2-2-2-1-15-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Hang Seng Bank,'1-1-2-2-2-2-2-2-2-1-15-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Hon Hai Precision Industry,'1-1-2-2-2-2-2-2-2-1-16,0,0,0,1,0,2,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,2,I
+'Hong Kong and China Gas,'1-1-2-2-2-2-2-2-2-1-17,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Hong Kong Exchanges and Clearing,'1-1-2-2-2-2-2-2-2-1-18-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
+'Hutchison Whampoa,'1-1-2-2-2-2-2-2-2-1-18-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Hyundai Heavy Industries,'1-1-2-2-2-2-2-2-2-1-19,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Hyundai Mobis,'1-1-2-2-2-2-2-2-2-1-20,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Hyundai Motor,'1-1-2-2-2-2-2-2-2-1-21-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Industrial and Commercial Bank of China,'1-1-2-2-2-2-2-2-2-1-21-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,1,1,0,0,2,I
+'Jardine Matheson,'1-1-2-2-2-2-2-2-2-1-22,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'KB Financial Group,'1-1-2-2-2-2-2-2-2-1-23,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Keppel,'1-1-2-2-2-2-2-2-2-1-24,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Kia Motors,'1-1-2-2-2-2-2-2-2-1-25-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'KT&G,'1-1-2-2-2-2-2-2-2-1-25-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'LG Chem,'1-1-2-2-2-2-2-2-2-1-26,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Li & Fung,'1-1-2-2-2-2-2-2-2-1-27,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Mediatek,'1-1-2-2-2-2-2-2-2-1-28-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Nan Ya Plastics,'1-1-2-2-2-2-2-2-2-1-28-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Oversea-Chinese Banking,'1-1-2-2-2-2-2-2-2-1-29,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'PetroChina,'1-1-2-2-2-2-2-2-2-1-30,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Ping An Insurance,'1-1-2-2-2-2-2-2-2-1-31-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'POSCO,'1-1-2-2-2-2-2-2-2-1-31-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Power Assets Holdings,'1-1-2-2-2-2-2-2-2-1-32,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Samsung Electronics,'1-1-2-2-2-2-2-2-2-1-33,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Sands China,'1-1-2-2-2-2-2-2-2-1-34,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Shinhan Financial Group,'1-1-2-2-2-2-2-2-2-1-35-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Singapore Telecommunications,'1-1-2-2-2-2-2-2-2-1-35-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Sun Hung Kai Properties,'1-1-2-2-2-2-2-2-2-1-36,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Taiwan Semiconductor Manufacturing,'1-1-2-2-2-2-2-2-2-1-37,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,2,I
+'United Overseas Bank,'1-1-2-2-2-2-2-2-2-1-38-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'Want Want China Holdings,'1-1-2-2-2-2-2-2-2-1-38-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+"'Source:[1], 12-31-2013.",'1-1-2-2-2-2-2-2-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Banks of China,'1-1-2-2-2-2-2-3-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Banking in China,'1-1-2-2-2-2-2-3-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,2,N
+"'Central bank
+
+People's Bank of China",'1-1-2-2-2-2-2-3-2-2-1-1,0,0,0,1,1,2,1,0,1,2,1,1,1,0,0,1,0,0,1,1,1,1,1,C
+"'Policy bank
+
+China Development Bank
+Export-Import Bank of China
+Agricultural Development Bank of China",'1-1-2-2-2-2-2-3-2-2-1-2,1,1,0,1,1,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,3,C
+"'State-owned
+
+China Development Bank
+China Construction Bank
+Bank of China
+Industrial and Commercial Bank of China
+Agricultural Bank of China
+Postal Savings Bank of China
+Bank of Communications",'1-1-2-2-2-2-2-3-2-2-1-3,1,1,0,1,1,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,1,C
+"'Commercial
+
+China CITIC Bank
+China Everbright Bank
+Hua Xia Bank
+China Guangfa Bank
+Shenzhen Development Bank
+China Merchants Bank
+Shanghai Pudong Development Bank
+Industrial Bank Co.
+China Minsheng Bank
+Evergrowing Bank
+China Zheshang Bank
+China Bohai Bank
+Xiamen International Bank
+Ping An Bank",'1-1-2-2-2-2-2-3-2-2-1-4,1,1,0,1,1,2,1,0,1,2,1,1,0,1,0,1,0,0,1,1,0,0,1,C
+'City Bank,'1-1-2-2-2-2-2-3-2-2-1-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,1,C
+'Bank of Shanghai,'1-1-2-2-2-2-2-3-2-2-1-5-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,1,I
+'Bank of Beijing,'1-1-2-2-2-2-2-3-2-2-1-5-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'List of banks in China,'1-1-2-2-2-2-2-3-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,1,1,0,0,2,N
+'List of banks in Hong Kong,'1-1-2-2-2-2-2-3-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,N
+'List of banks in Macau,'1-1-2-2-2-2-2-3-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,3,N
+'China-based financial stocks in Hong Kong,'1-1-2-2-2-2-2-4-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,3,C
+'Banks,'1-1-2-2-2-2-2-4-2-1-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,3,C
+'ICBC,'1-1-2-2-2-2-2-4-2-1-1-2-1,0,0,0,1,0,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'BOC,'1-1-2-2-2-2-2-4-2-1-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'CCB BoCom CMB CITIC Minsheng ABC,'1-1-2-2-2-2-2-4-2-1-1-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Insurers,'1-1-2-2-2-2-2-4-2-1-2-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'China Life,'1-1-2-2-2-2-2-4-2-1-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Ping An,'1-1-2-2-2-2-2-4-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'PICC,'1-1-2-2-2-2-2-4-2-1-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'China Taiping,'1-1-2-2-2-2-2-4-2-1-2-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'CPIC,'1-1-2-2-2-2-2-4-2-1-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'See also: List of companies listed on the Hong Kong Stock Exchange,'1-1-2-2-2-2-2-4-2-2,1,0,0,1,0,2,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,2,N
+'SSE 50 companies of China,'1-1-2-2-2-2-2-5-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Agricultural Bank of China,'1-1-2-2-2-2-2-5-2-1-1,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,1,0,0,1,1,0,0,3,I
+'Air China,'1-1-2-2-2-2-2-5-2-1-2,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,1,I
+'Aluminium Corporation of China,'1-1-2-2-2-2-2-5-2-1-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
+'Bank of Beijing,'1-1-2-2-2-2-2-5-2-1-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Bank of China,'1-1-2-2-2-2-2-5-2-2-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'Bank of Communications Baosteel China CITIC Bank China Coal Energy China Construction Bank China COSCO China Life Insurance China Merchants Bank China Metallurgical China Minsheng Bank China Pacific Insurance China Railway Construction China Railway Engineering China Shenhua China State Construction China Unicom China Yangtze Power CITIC Securities CSR Corporation Daqin Railway Everbright Securities GD Power Development Gemdale Group Haitong Securities Hua Xia Bank Industrial and Commercial Bank of China Industrial Bank Jiangxi Copper Jinduicheng Molybdenum Kweichow Moutai Liaoning Chengda Shanxi Lu'an Environmental Energy PetroChina Ping An Insurance Poly Real Estate SAIC Motor Shandong Gold Shanghai Pudong Development Bank Sinopec Tebian Electric Apparatus Tianwei Baobian Electric Western Mining Wuhan Iron and Steel Zhongjin Gold Zijin Mining,'1-1-2-2-2-2-2-5-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,2,I
+'Hang Seng China Enterprises Index companies of Hong Kong,'1-1-2-2-2-2-2-6-1-1,1,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,2,C
+'Tsingtao Brewery,'1-1-2-2-2-2-2-6-1-2-1-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Angang Steel,'1-1-2-2-2-2-2-6-1-2-1-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+'Jiangxi Copper,'1-1-2-2-2-2-2-6-1-2-1-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Sinopec China Railway Engineering,'1-1-2-2-2-2-2-6-1-2-1-4,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Dongfeng Motor Group,'1-1-2-2-2-2-2-6-1-2-1-5,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'China Telecom,'1-1-2-2-2-2-2-6-1-2-1-6,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Air China ZTE,'1-1-2-2-2-2-2-6-1-2-1-7,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Petrochina,'1-1-2-2-2-2-2-6-1-2-1-8,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Huaneng Power,'1-1-2-2-2-2-2-6-1-2-1-9,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Anhui Conch Cement,'1-1-2-2-2-2-2-6-1-2-1-10,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Longyuan Power China Construction Bank,'1-1-2-2-2-2-2-6-1-2-1-11,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,0,0,0,2,I
+'China CITIC Bank,'1-1-2-2-2-2-2-6-1-2-1-12,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Shenhua,'1-1-2-2-2-2-2-6-1-2-1-13,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Sinopharm China Shipping Development,'1-1-2-2-2-2-2-6-1-2-1-14,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Yanzhou Coal,'1-1-2-2-2-2-2-6-1-2-1-15,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'China Railway Construction,'1-1-2-2-2-2-2-6-1-2-1-16,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'BYD Company Agricultural Bank of China,'1-1-2-2-2-2-2-6-1-2-1-17,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'Industrial and Commercial Bank of China,'1-1-2-2-2-2-2-6-1-2-1-18,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'New China Life Insurance,'1-1-2-2-2-2-2-6-1-2-1-19,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Communications Construction,'1-1-2-2-2-2-2-6-1-2-1-20,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'China Coal Energy Minsheng Bank,'1-1-2-2-2-2-2-6-1-2-1-21,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,0,0,0,2,I
+'China COSCO,'1-1-2-2-2-2-2-6-1-2-1-22,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'GAC Group,'1-1-2-2-2-2-2-6-1-2-1-23,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Ping An Insurance PICC Property and Casualty Company,'1-1-2-2-2-2-2-6-1-2-1-24,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Aluminium Corporation of China,'1-1-2-2-2-2-2-6-1-2-1-25,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'China Pacific Insurance,'1-1-2-2-2-2-2-6-1-2-1-26,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Life Insurance R&F Properties,'1-1-2-2-2-2-2-6-1-2-1-27,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Oilfield Services,'1-1-2-2-2-2-2-6-1-2-1-28,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'Zijin Mining,'1-1-2-2-2-2-2-6-1-2-1-29,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'China National Building Material,'1-1-2-2-2-2-2-6-1-2-1-30,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
+'Bank of Communications,'1-1-2-2-2-2-2-6-1-2-1-31-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'China Merchants Bank,'1-1-2-2-2-2-2-6-1-2-1-31-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,1,1,0,0,2,I
+'Bank of China,'1-1-2-2-2-2-2-6-1-2-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'CITIC Securities Haitong Securities,'1-1-2-2-2-2-2-6-1-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Hang Seng China 50 Index Constitutent Stocks,'1-1-2-2-2-2-2-6-2-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,2,C
+'A shares/H shares,'1-1-2-2-2-2-2-6-2-2-1-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Finance,'1-1-2-2-2-2-2-6-2-2-1-2-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Bank of Beijing,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,1,I
+'Bank of China,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,1,1,0,0,1,I
+'Bank of Communications,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,1,0,0,2,I
+'China Construction Bank China CITIC Bank,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Life Insurance,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Merchants Bank,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Merchants Securities China Minsheng Bank,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Pacific Insurance,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'CITIC Securities,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Everbright Securities Haitong Securities,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Industrial and Commercial Bank of China,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'Industrial Bank,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-10,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
+'Ping An Insurance,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-11-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'Shanghai Pudong Development Bank,'1-1-2-2-2-2-2-6-2-2-1-2-1-2-2-2-11-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Other,'1-1-2-2-2-2-2-6-2-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Air China,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,1,0,0,0,1,0,0,2,I
+'Angang Steel,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Anhui Conch Cement,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Baosteel,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'BYD,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Aluminium Corporation of China,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-5-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
+'China Coal Energy,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'China Communications Construction,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,2,I
+'China COSCO,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'China Railway Construction,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'China Railway Engineering,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,0,0,0,2,I
+'China Shenhua,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'China State Construction,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-10,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
+'China Telecom,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-11-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'China Vanke,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-11-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Daqin Railway Company,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-12,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Datang Power,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-13,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Huaneng Power,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-14-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Kweichow Moutai,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-14-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'MCC,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-15,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Petrochina,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-16,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'SAIC Motor,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-17-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Shanghai Electric,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-17-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Shanghai Port,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-18,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Sinopec,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-19,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Yangtze Power,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-20,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Zijin Mining,'1-1-2-2-2-2-2-6-2-2-1-2-2-2-21,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Red chip,'1-1-2-2-2-2-2-6-2-2-2-1-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'China Mobile,'1-1-2-2-2-2-2-6-2-2-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'China Resources Power,'1-1-2-2-2-2-2-6-2-2-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,1,I
+'China Overseas,'1-1-2-2-2-2-2-6-2-2-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'China Unicom,'1-1-2-2-2-2-2-6-2-2-2-1-2-4-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'CNOOC,'1-1-2-2-2-2-2-6-2-2-2-1-2-4-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Others,'1-1-2-2-2-2-2-6-2-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'Tencent,'1-1-2-2-2-2-2-6-2-2-2-2-2,0,1,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Members of Euro Banking Association,'1-1-2-2-2-2-2-7-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,C
+"'Austria
+
+Allgemeine Sparkasse Oberösterreich
+Bank für Tirol und Vorarlberg AG
+BKS Bank AG
+Erste Group Bank AG
+Oberbank AG
+Oesterreichische Nationalbank
+Raiffeisen Zentralbank Österreich AG
+Raiffeisenlandesbank Oberösterreich AG
+Raiffeisen-Landesbank Tirol Aktiengesellschaft
+Steiermärkische Bank und Sparkassen AG",'1-1-2-2-2-2-2-7-2-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,2,C
+"'Belgium
+
+Dexia Bank NV
+KBC Bank NV
+Bank van De Post",'1-1-2-2-2-2-2-7-2-2,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Cyprus
+
+Bank of Cyprus
+Hellenic Bank",'1-1-2-2-2-2-2-7-2-3,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Denmark
+
+Amagerbanken A/S
+Arbejdernes Landsbank A/S
+Danske Andelskassers Bank A/S
+Danske Bank A/S
+DiBa Bank A/S
+Djurslands Bank A/S
+Jyske Bank A/S
+Nordjyske Bank A/S
+Nørresundby Bank
+Østjydsk Bank A/S
+Ringkjøbing Landbobank
+Roskilde Bank A/S
+Skjern Bank
+Spar Nord Bank
+Sparekassen Sjælland
+Sydbank A/S
+Vestfyns Bank A/S
+Vestjysk Bank",'1-1-2-2-2-2-2-7-2-4,2,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Finland
+
+Aktia Bank PLC
+Bank of Åland PLC
+Pohjola Bank PLC
+S-Bank LTD.
+Tapiola Bank LTD",'1-1-2-2-2-2-2-7-2-5,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'France
+
+Banque Michel Inchauspé - BAMI
+Banque Palatine
+BNP Paribas SA
+BPCE
+BRED Banque Populaire
+Crédit Agricole SA
+Crédit Coopératif
+Crédit du Nord
+Crédit Mutuel Arkéa
+Credit Mutuel CIC Banque
+HSBC France
+La Banque postale
+Natixis
+Société Générale",'1-1-2-2-2-2-2-7-2-6,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Germany
+
+Berenberg Bank
+BHF Bank
+Bremer Landesbank
+Commerzbank AG
+Deutsche Bank AG
+Deutsche Bundesbank
+Deutsche Postbank
+DZ Bank AG
+Europe Arab Bank Frankfurt
+Hamburger Sparkasse AG
+J.P. Morgan Chase Bank AG
+Landesbank Baden-Württemberg
+Landesbank Berlin Holding
+Landesbank Hessen-Thüringen
+Oldenburgische Landesbank
+SECB Swiss EURO CLEARING Bank GmbH
+The Bank of New York Mellon, Frankfurt Branch
+VTB Bank (Deutschland) AG",'1-1-2-2-2-2-2-7-2-7,2,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Greece
+
+Alpha Bank AE
+Eurobank Ergasias SA
+National Bank of Greece SA
+Piraeus Bank SA",'1-1-2-2-2-2-2-7-2-8,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,1,0,0,1,0,0,0,1,C
+"'Hungary
+
+Magyar Nemzeti Bank
+OTP Bank
+FHB Mortgage Bank
+Merkantil Bank
+Kereskedelmi és Hitelbank
+Magyar Takarékszövetkezeti Bank
+MKB Bank
+Porsche Bank Hungaria
+Kinizsi Bank
+Magnet Bank
+Hanwha Bank
+Budapest Hitel- és Fejlesztési Bank",'1-1-2-2-2-2-2-7-2-9,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Ireland
+
+Allied Irish Banks
+Bank of Ireland",'1-1-2-2-2-2-2-7-2-10,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Italy
+
+Banca Agricola Popolare di Ragusa
+Banca del Fucino
+Banca del Piemonte
+Banca delle Marche S.p.A.
+Banca di Imola S.p.A.
+Banca di Romagna S.p.A.
+Banca d'Italia
+Monte dei Paschi di Siena
+Banca Monte Parma
+Banca Nazionale del Lavoro
+Banca Popolare del Lazio
+Banca Popolare dell'Emilia Romagna
+Banca Popolare di Milano
+Banca Popolare di Sondrio
+Banca Popolare di Spoleto
+Banca Popolare di Vicenza
+Banca Sella
+Bancaperta S.p.A.
+Banco Popolare Società Cooperativa
+Cassa di Risparmio della Provincia di Chieti S.p.A.
+Cassa di Risparmio della Provincia di Teramo S.p.A.
+Cassa di Risparmio di Cesena S.p.A.
+Cassa di Risparmio di Fermo S.p.A.
+Cassa di Risparmio di Ferrara S.p.A.
+Cassa di Risparmio di Loreto S.p.A.
+Cassa di Risparmio di Ravenna S.p.A.
+Credito Emiliano S.p.A.
+ICCREA Banca
+Intesa Sanpaolo
+Istituto Centrale delle Banche Popolari Italiane
+Raiffeisen Landesbank Südtirol – Cassa Centrale Raiffeisen dell'Alto Adige
+Südtiroler Volksbank – Banca Popolare dell'Alto Adige
+UBI Banca
+Unipol Banca
+UniCredit
+Veneto Banca",'1-1-2-2-2-2-2-7-2-11,2,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Luxembourg
+
+Banque et Caisse d'Épargne de l'État
+Banque Raiffeisen
+Dexia Banque Internationale à Luxembourg SA
+KBL European Private Bankers
+Société Générale Bank & Trust",'1-1-2-2-2-2-2-7-2-12,1,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Netherlands
+
+ABN Amro Bank NV
+De Nederlandsche Bank
+ING Bank NV
+Rabobank Nederland",'1-1-2-2-2-2-2-7-2-13,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Poland
+
+Bank BPH SA
+Narodowy Bank Polski",'1-1-2-2-2-2-2-7-2-14,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Portugal
+
+Banco BPI SA
+Banco Comercial Português
+Banco Espírito Santo
+Caixa Central de Crédito Agrícola Mútuo
+Caixa Geral de Depósitos",'1-1-2-2-2-2-2-7-2-15,1,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Slovenia
+
+Banka Slovenije",'1-1-2-2-2-2-2-7-2-16,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Spain
+
+Banco Bilbao Vizcaya Argentaria, SA
+Banco Español de Crédito, S.A. (Banesto)
+Banco Pastor, S.A.
+Banco Popular Español, S.A.
+Banco Sabadell, S.A.
+Bankia, S.A.
+Bankinter, S.A.
+Banco Santander, S.A.
+Caixa d'Estalvis i Pensions de Barcelona (La Caixa)
+Caixa d'Estalvis de Catalunya, Tarragona i Manresa (CatalunyaCaixa)
+Gipuzkoa eta Donostiako Aurrezki Kutxa (Kutxa)
+Bilbao Bizkaia Kutxa
+NCG Banco, S.A. (Novagalicia Banco/Evo Banco)
+Caja Laboral Popular Cooperativa de Crédito (Caja Laboral)
+Grupo Caja Rural / Banco Cooperativo Español, SA (Caja Rural)
+Spanish Confederation of Savings Banks",'1-1-2-2-2-2-2-7-2-17,2,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Sweden
+
+Skandinaviska Enskilda Banken
+Svenska Handelsbanken
+Swedbank AB
+Nordea Bank AB",'1-1-2-2-2-2-2-7-2-18,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'United Kingdom
+
+Bank of America NA
+Bank of Tokyo-Mitsubishi UFJ Ltd.
+Barclays Bank PLC
+Citibank NA
+HSBC Bank PLC
+Kookmin Bank International Ltd.
+Lloyds TSB Bank PLC
+National Australia Bank Limited
+National Westminster Bank PLC
+Royal Bank of Scotland PLC
+Standard Chartered Bank
+UBS AG
+Wells Fargo Bank NA",'1-1-2-2-2-2-2-7-2-19,2,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Non-EU
+
+Bank of China (CHN)
+DnB NOR Bank (NOR)
+MashreqBank psc (UAE)",'1-1-2-2-2-2-2-7-2-20,0,1,0,1,1,2,1,0,2,1,1,1,0,1,0,1,0,0,1,0,0,0,1,C
+'Associate Members,'1-1-2-2-2-2-2-7-2-21-1,0,0,0,1,1,2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,1,1,1,C
+'[ XMLdation Oy (FIN) http://www.xmldation.com],'1-1-2-2-2-2-2-7-2-21-2,0,1,0,1,0,2,1,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N

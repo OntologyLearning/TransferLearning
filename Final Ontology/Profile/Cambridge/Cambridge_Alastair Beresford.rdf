@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_to_teaching_Java_I_lectured_the_secondyear_undergraduate_course_in_Programming_in_C_and_C._My_lecture_slides,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Device_Analyzer_has_collected_statistical_usage_data_from_over_10,000_Android_mobile_devices_across_the_world._Device_Analyzer_preprocesses_data_on_the_mobile_device_to_remove_direct_personal_identifiers_and_reduce_the_privacy_risk_of_sharing_the_data_with_the_university">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects"/>
+  </owl:NamedIndividual>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_a_University_Lecturer_at_the_University_of_Cambridge_Computer_Laboratory._Im_also_a_Fellow_of_Robinson_College,_Cambridge">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_My_current_research_work_explores_the_intersection_of_three_areas_of_computer_science rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__security__privacy,_mobile_computing,_and_programming_languages">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_My_current_research_work_explores_the_intersection_of_three_areas_of_computer_science>
+  <base:_Previous_work_includes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Cambridge_Mobile_Urban_Sensing_Project_which_measured_and_monitored_air_quality,_particularly_urban_pollution_generated_by_motor_vehicles">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Previous_work_includes>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_201112_academic_year_I_am_teaching_Programming_in_Java_to_firstyear_undergraduate_students_and_Further_Java_to_secondyear_students._I_developed_these_courses_from_scratch_with_Andrew_Rice_students_are_taught_the_material_in_a_handson_practical_class_format">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computing_for_the_Future_of_the_Planet_explores_how_computers_can_help_solve_some_of_the_worlds_most_pressing_problems_arising_from_climate_change_and_the_need_to_build_sustainable_systems">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects"/>
+  </owl:NamedIndividual>
+  <base:_Phone rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__44_1223_763597">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Phone>
+  <base:_Personal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__alastair_at_beresford.me.uk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Personal>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nigori_is_a_distributed_system_for_storing_and_synchronising_application_state_between_mobile_devices_using_cloud_storage._Nigori_provides_strong_privacy_guarantees,_preventing_the_cloud_provider_and_application_developer_from_accessing_any_personal_information">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects"/>
+  </owl:NamedIndividual>
+  <base:_University rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__arb33_at_cam.ac.uk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_University>
+  <base:_Previous_work_includes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_TIMEEACM_project,_which_explored_how_sensor_networks_and_distributed_systems_can_be_used_to_improve_traffic_and_transport_in_the_21st_century">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Previous_work_includes>
+  <base:_AlastairBeresford rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Cambridge">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AlastairBeresford>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Im_not_teaching_this_course_this_year,_so_queries_about_this_course_should_go_to_the_current_lecturer">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_to_teaching_Java_I_lectured_the_secondyear_undergraduate_course_in_Programming_in_C_and_C._My_lecture_slides,_errata_and_the_assessed_course_exercise_are_available_from_the_lecture_course_home_page._Note">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Privacy,_Mobile_Computing__Programming">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Details"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Personal">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Details"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Details"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_current_research_work_explores_the_intersection_of_three_areas_of_computer_science">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AlastairBeresford"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_work_includes"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phone">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Details"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Scheduled_Volumes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_35_COLT_2014_Proceedings">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Scheduled_Volumes>
+  <base:_Scheduled_Volumes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_36_To_be_announced">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Scheduled_Volumes>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_29th_April_2013_Volume_31_AISTATS_2013_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_31st_October_2010_Volume_13_ACML_2010_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_21st_October_2013_Volume_29_ACML_2013_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_._Each_proposal_should_include">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Editors>
+  <base:_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_description_of_the_review_process_for_the_proceedings.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Editors>
+  <base:_ISSN rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__19387228">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ISSN>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_21st_December_2011_Volume_19_COLT_2011_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_27th_January_2014_Volume_32_ICML_2014_Proceedings,_1st_Cycle_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_26th_January_2011_Volume_14_Proceedings_of_the_Learning_to_Rank_Challenge_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_4th_December_2009_Volume_7_Proceedings_of_KDDCup_2009_competition_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_1st_June_2012_Volume_18_KDD_Cup_2011_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_13th_June_2013_Volume_30_COLT_2013_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_21st_October_2011_Volume_17_Workshop_on_Applications_of_Pattern_Analysis_WAPA_2011_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_N.Lawrencedcs.shef.ac.uk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Editors>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_27th_June_2012_Volume_27_Unsupervised_and_Transfer_Learning_Workshop_at_ICML_2011_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Objectives_and_Assessment_NIPS_2008_Workshop_is_available.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_18th_February_2010_Volume_6_Causality">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_26th_May_2013_Volume_28_ICML_2013_Proceedings,_3rd_Cycle_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Neil_Lawrence_Mark_Reid">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Editors>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_16th_August_2012_Volume_21_ICGI_2012_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_26th_May_2010_Volume_10_FSDM_2010_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_JMLR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Workshop_and_Conference_Proceedings">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_15th_February_2013_Volume_28_ICML_2013_Proceedings,_1st_Cycle_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_14th_June_2011_Volume_15_AISTATS_2011_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_16th_June_2012_Volume_23_COLT_2012_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_2nd_of_April_2014_Volume_33_AISTATS_2014_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_3rd_March_2011_Volume_12_NIPS_MiniSymposium_on_Causality_in_Time_Series_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_11th_March_2007_Volume_1_Gaussian_Processes_in_Practice_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_2nd_May_2012_Volume_26_Online_Trading_of_Exploration_and_Exploitation_2011_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_brief_description_of_the_events_scope_and_topics_to_be_covered.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Editors>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_17th_November_2012_Volume_25_ACML_2012_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_15th_April_2009_Volume_5_AISTATS_2009_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_30th_September_2010_Volume_11_Workshop_on_Applications_of_Pattern_Analysis_WAPA_2010_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_17th_November_2011_Volume_20_ACML_2011_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_31st_March_2010_Volume_9_AISTATS_2010_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_5th_May_2013_Volume_28_ICML_2013_Proceedings,_2nd_Cycle_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_12th_January_2013_Volume_24_EWRL_2012_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_31st_December_2008_Volume_3_Causation_and_Prediction_Challenge_WCCI_2008_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_21st_March_2012_Volume_22_AISTATS_2012_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_27th_October_2007_Volume_2_AISTATS_2007_Proceedings_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_Scheduled_Volumes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_34_ICGI_2014_Proceedings">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Scheduled_Volumes>
+  <base:_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_names_and_short_CVs_a_few_lines_of_the_proposed_Proceedings_Editors.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Editors>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_21st_April_2011_Volume_16_Active_Learning_and_Experimental_Design_Workshop_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_11th_September_2008_Volume_4_New_Challenges_for_Feature_Selection_in_Data_Mining_and_Knowledge_Discovery_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_2nd_March_2010_Volume_8_Proceedings_of_MLSB_2009_is_available.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scheduled_Volumes"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editors"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ISSN"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR"/>
+</rdf:RDF>

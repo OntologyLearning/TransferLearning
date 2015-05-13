@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Winter_14_Winter_13_Winter_12_Winter_11_Winter_10">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Winter_04_Winter_03_Winter_02_Winter_01_Winter_00">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_00_Fall_98">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Topics_in_cryptography">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS355">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Directions_to_the_Gates_building">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Address"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_14_Spring_13_Spring_12_Spring_11">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Take_a_look_at_our_Security_Lab._We_are_also_running_a_biweekly_security_seminar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Interests"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__CS_Building,_Gates_475">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Office">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Address"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Telephone"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__650_7253897">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Office"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_of_Computer_Science_and_Electrical_Engineering,_Stanford_University">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dan_Boneh"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Winter_99_Winter_98">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_is_a_list_of_my_publications_and_current_students_and_research_group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Interests"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Introduction_to_cryptography">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS255">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_10_Spring_09_Spring_08_Spring_07">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Secure_web_programming">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS241">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Secure_voting">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_06">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Computer_and_network_security">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS155">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Design_and_Analysis_of_Algorithms">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS161">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_dabocs.stanford.edu">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dan_Boneh"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_14_Spring_10_Fall_07_Fall_04_Fall_02">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_06_Spring_05_Spring_04_Spring_03">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Technologies_for_safe_and_anonymous_Internet_access">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_11">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Computer_Science_Dept.,_Gates_475,_Stanford,_CA,_943059045">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mail">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Address"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__650_7254671">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fax">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Telephone"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_02">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_main_research_focus_is_applied_cryptography_and_computer_security">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Interests"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Online_cryptography_class">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fall_05,___Fall_03,___Fall_99">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Research_project_in_computer_security">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS294s">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Winter_09_Winter_08_Winter_07_Winter_06_Winter_05">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spring_10,___Winter_09">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fall_01,___Spring_01">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Ten_ideas_in_computer_security_and_cryptography">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS55N_freshmen_seminar">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Address"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dan_Boneh"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Interests"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Telephone"/>
+</rdf:RDF>

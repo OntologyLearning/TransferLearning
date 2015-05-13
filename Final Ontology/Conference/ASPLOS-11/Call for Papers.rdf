@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Monday,_July_26,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Like_its_predecessors,_ASPLOS_2011_will_focus_on_groundbreaking_research,"
+>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers_PDF_version"/>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Multidisciplinary_research_issues_for_new_platforms_from_sensor_networks_to_petascale_systems.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security,_reliability_and_availability_for_current_and_future_computer_systems.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <base:_Final_Paper_Submission rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TBD">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Final_Paper_Submission>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Network_security,_reliability,_embedded_computation_and_embedded_storage.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Case_studies_of_architecture_or_software_design_in_novel_experimental_systems.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Power_and_energy_management_in_current_and_future_computer_systems.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <base:_Abstract_Deadline rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Monday,_July_19,_2010_1">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Abstract_Deadline>
+  <base:_Program_Chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_tcmcs.cmu.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Program_Chair>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__papers_in_both_software_and_hardware_areas_are_welcome._The_program_committee_especially_encourages_research_papers_in_nontraditional_topics._Topics_of_interest_include,_but_are_not_limited_to">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Multidisciplinary_research_issues_raised_by_Internet_services_and_cloud_computing.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_guptacs.ucr.edu">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_Chair"/>
+  </owl:NamedIndividual>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Novel_systems_solutions_that_address_social,_educational,_and_environmental_challenges.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nontraditional_computing_models,_including_molecular,_biological,_and_quantum_computing.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rajiv_Gupta_University_of_California,_Riverside">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_Chair"/>
+  </owl:NamedIndividual>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_interaction_of_operating_systems,_compilers,_programming_languages,_and_architectures.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <base:_Rebuttal_Period rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TuesdayThursday,_October_57,_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Rebuttal_Period>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Multidisciplinary_research_issues_for_multicore_systems.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <base:_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Newport_Beach,_California,__March_5__11,__2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011>
+  <base:_Program_Chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Todd_C._Mowry_Carnegie_Mellon_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Program_Chair>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sixteenth_International_Conference_on"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Friday,_October_29,_2010">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notification_of_Acceptance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_59pm_EDT_2">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Monday,_July_26,_2010_11">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Full_Paper_Deadline"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Multidisciplinary_research_issues_for_graphics_and_media_processing.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_Chair"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Program_Chair"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Final_Paper_Submission"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Full_Paper_Deadline"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Like_its_predecessors,_ASPLOS_2011_will_focus_on_groundbreaking_research,_with_an_emphasis_on_the_interplay_of_two_or_more_of_the_major_focus_areas._A_hardware_or_architecture_component_is_not_a_necessary_requirement_for_publication_in_ASPLOS"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rebuttal_Period"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract_Deadline"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notification_of_Acceptance"/>
+</rdf:RDF>

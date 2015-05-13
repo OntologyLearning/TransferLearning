@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_should_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_December_1,_2010_February_1,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_15,"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_May_3,"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Concerning_author_instructions_and_conference_registration,"
+  xmlns:ns6="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_8,"
+  xmlns:ns7="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_3,"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Physically_Grounded_Artificial_Intelligence_Special_Track">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11"/>
+  </owl:NamedIndividual>
+  <base:_Special_Track_Cochairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kurt_Konolige_Willow_Garage">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Track_Cochairs>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_59_PM_PST_on_February_3,_2011.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract_submission_will_close_at_11">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Educational_robotics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Intelligence_and_perception_for_humanrobot_interaction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_learning_for_control_and_decision_making">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Social_network_modeling">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_not_dually_submitted_should_so_indicate_on_the_title_page.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_requires_the_following">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Policy_Concerning_Submissions_to_Other_Conferences_or_Journals"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns3:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Notification_of_acceptance_or_rejection">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns3:_2011>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract_and_Paper_Submission"/>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_vision_and_3D_perception">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_learning_applied_to_speech_and_conversation_modeling">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns2:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Authors_register_on_the_AAAI_web_site">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_2011>
+  <base:_Registration_will_close_at_11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_00_PM_PST_on_February_3,_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Registration_will_close_at_11>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AI_applied_to_health,_development,_and_sustainability_problems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prediction_and_planning_for_transportation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manipulation_and_navigation_planning">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AI_for_robotics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mobile_sensing_and_sensor_networks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <base:_Special_Track_Cochairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tanzeem_Choudhury_Dartmouth_College">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Track_Cochairs>
+  <ns4:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Cameraready_copy_due_at_AAAI_office">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns4:_2011>
+  <base:_Final_paper_submission_will_close_at_11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_59_PM_PST_on_February_8,_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Final_paper_submission_will_close_at_11>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_aaai11aaai.org">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Concerning_author_instructions_and_conference_registration,_write_to">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Questions_and_Suggestions"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_learning_applied_to_robotics_and_perception">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <ns6:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Electronic_papers_due">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns6:_2011>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_must_specify_the_conferences_and_journals_to_which_the_paper_has_been_dually_submitted.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_requires_the_following"/>
+  </owl:NamedIndividual>
+  <ns7:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Electronic_abstracts_due">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns7:_2011>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activity_and_context_recognition">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_must_withdraw_papers_under_review_or_accepted_for_other_AI_conference_venues_if_the_paper_is_submitted_to_AAAI.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_requires_the_following"/>
+  </owl:NamedIndividual>
+  <ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Situated_language_for_robotics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Final_paper_submission_will_close_at_11">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Special_Track_of_the_TwentyFifth_Conference_on_Artificial_Intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Physically_Grounded_Artificial_Intelligence"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Registration_will_close_at_11">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Physically_Grounded_Artificial_Intelligence"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Policy_Concerning_Submissions_to_Other_Conferences_or_Journals"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Questions_and_Suggestions"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_15,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_December_1,_2010_February_1,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_3,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_May_3,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_should_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities_or_issues_underlying_such_systems._Relevant_topics_include_the_following">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Special_Track_of_the_TwentyFifth_Conference_on_Artificial_Intelligence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_8,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_Cochairs"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11"/>
+</rdf:RDF>

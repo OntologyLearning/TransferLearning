@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_Eric_Roberts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_of_Computer_Science">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Eric_Roberts>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Books">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Eric_Roberts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6507236092_FAX">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Eric_Roberts>
+  <base:_Eric_Roberts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stanford,_CA_943059015">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Eric_Roberts>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notes_from_our_political_film_series">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Eric_Roberts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stanford_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Eric_Roberts>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Talks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Curriculum_vitae_pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Eric_Roberts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gates_202">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Eric_Roberts>
+  <base:_Eric_Roberts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6507233642">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Eric_Roberts>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Memorial_page_for_my_late_father_James_S._Roberts">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links_to_articles_about_the_rebound_in_CS_majors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stanfords_version_of_Karel_the_Robot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Some_personal_notes_from_Obamas_inauguration">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <base:_Links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biographical_sketch">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Links>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eric_Roberts"/>
+</rdf:RDF>

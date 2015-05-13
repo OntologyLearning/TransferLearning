@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Applicationspecific_processors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__digital_signal_processing,_computer_arithmetic,_reconfigurablecustom_computing,_implementation_methodologies,_new_technologies,_finegrain_parallelism,_FPGAs,_lowpower_designs_and_asynchronous_hardware.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Applicationspecific_processors>
+  <base:_Applicationspecific_architectures rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__specialpurpose_designs,_design_methodology,_CAD_tools,_fault_tolerance,_specifications_and_interfaces,_networksonachip,_hardwaresoftware_codesign,_processor_arrays,_SoC,_superscalar,_multithreaded,_VLIW_and_EPIC_architectures.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Applicationspecific_architectures>
+  <base:_ASAP_2011_22nd_IEEE_International_Conference_on rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applicationspecific_Systems,_Architectures_and_Processors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ASAP_2011_22nd_IEEE_International_Conference_on>
+  <base:_Applicationspecific_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__network_computing,_specialpurpose_systems,_performance_evaluation,_design_languages,_compilers,_operating_systems,_nanocomputing_systems_and_applications,_hardwaresoftware_integration_and_rapid_prototyping.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Applicationspecific_systems>
+  <base:_ASAP_2011_22nd_IEEE_International_Conference_on rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Santa_Monica,_California,_USA,_September_1114,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ASAP_2011_22nd_IEEE_International_Conference_on>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_conference_will_cover_the_theory_and_practice_of_applicationspecific_systems,_architectures_and_processors._Areas_for_applicationspecific_computing_are_many_and_varied._Some_sample_application_areas_include_information_systems,_signal_and_image_processing,_multimedia_systems,_communication,_highspeed_networks,_sensor_networks,_compression,_graphics,_cryptography,_and_many_areas_of_computational_science._Aspects_of_applicationspecific_computing_that_are_of_interest_include,_but_are_not_limited_to">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Welcome_to_ASAP_2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applicationspecific_architectures">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_conference_will_cover_the_theory_and_practice_of_applicationspecific_systems,_architectures_and_processors._Areas_for_applicationspecific_computing_are_many_and_varied._Some_sample_application_areas_include_information_systems,_signal_and_image_processing,_multimedia_systems,_communication,_highspeed_networks,_sensor_networks,_compression,_graphics,_cryptography,_and_many_areas_of_computational_science._Aspects_of_applicationspecific_computing_that_are_of_interest_include,_but_are_not_limited_to"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ASAP_2011_22nd_IEEE_International_Conference_on"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applicationspecific_systems">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_conference_will_cover_the_theory_and_practice_of_applicationspecific_systems,_architectures_and_processors._Areas_for_applicationspecific_computing_are_many_and_varied._Some_sample_application_areas_include_information_systems,_signal_and_image_processing,_multimedia_systems,_communication,_highspeed_networks,_sensor_networks,_compression,_graphics,_cryptography,_and_many_areas_of_computational_science._Aspects_of_applicationspecific_computing_that_are_of_interest_include,_but_are_not_limited_to"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applicationspecific_processors">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_conference_will_cover_the_theory_and_practice_of_applicationspecific_systems,_architectures_and_processors._Areas_for_applicationspecific_computing_are_many_and_varied._Some_sample_application_areas_include_information_systems,_signal_and_image_processing,_multimedia_systems,_communication,_highspeed_networks,_sensor_networks,_compression,_graphics,_cryptography,_and_many_areas_of_computational_science._Aspects_of_applicationspecific_computing_that_are_of_interest_include,_but_are_not_limited_to"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Welcome_to_ASAP_2011"/>
+</rdf:RDF>

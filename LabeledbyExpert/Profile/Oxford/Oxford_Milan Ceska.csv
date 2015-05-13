@@ -1,0 +1,74 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Milan Ceska,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Dr Milan Ceska,'1-2-1-2-1-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,1,I
+'Visiting Academic,'1-2-1-2-1-1-1-2-1-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'milan.ceska@cs.ox.ac.uk,'1-2-1-2-1-1-1-2-1-3,0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Room 450, Wolfson Building, Parks Road, Oxford OX1 3QD",'1-2-1-2-1-1-1-2-2,1,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,I
+'Interests,'1-2-1-2-1-1-2-1-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Formal methods, model-checking techniques, probabilistic verification, formal analysis of stochastic biochemical systems, parallel programming and algorithms, massively parallel architectures",'1-2-1-2-1-1-2-1-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Biography,'1-2-1-2-1-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'I completed my Ph.D. thesis in the area of data-parallel algorithms for model checking at the Faculty of Informatics, Masaryk University, Brno, Czech Republic in Jun 2012. In spring 2011, I spent 5 months in the Software Technologies Research Group at the Otto-Friedrich-University of Bamberg, Germany as a research assistant and a lecturer in the area of parallel programming under supervision of prof. Gerald Luttgen.  Since July 2012, I have been a postdoctoral researcher in the Systems Biology Laboratory at the Faculty of Informatics, Masaryk University under supervision of prof. Lubos Brim. Currently, I am a visiting postdoctoral researcher at Department of Computer Science at Oxford University in the group led by prof. Marta Kwiatkowska.",'1-2-1-2-1-1-2-2-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Publications,'1-2-1-2-1-1-2-3-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'See here.,'1-2-1-2-1-1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Selected Publications,'1-2-1-2-1-1-2-4-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,3,C
+'View all,'1-2-1-2-1-1-2-4-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-1-2-4-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,I
+'Exploring Parameter Space of Stochastic Biochemical Systems Using Quantitative Model Checking,'1-2-1-2-1-1-3-1-1,1,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'L. Brim‚ M. Češka‚ S. Dražan and D. Šafránek,'1-2-1-2-1-1-3-1-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Computer Aided Verification (CAV'13). Vol. 8044 of LNCS. Pages 107−123. Springer Berlin Heidelberg. 2013.,'1-2-1-2-1-1-3-1-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1007/978-3-642-39799-8\_7),'1-2-1-2-1-1-3-1-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Designing Fast LTL Model Checking Algorithms for Many−Core GPUs,'1-2-1-2-1-1-3-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,1,0,1,0,0,0,0,0,0,3,I
+'J. Barnat‚ P. Bauch‚ L. Brim and M. Češka,'1-2-1-2-1-1-3-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Journal of Parallel and Distributed Computing. Vol. 72. No. 9. Pages 1083–1097. 2012.,'1-2-1-2-1-1-3-2-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1016/j.jpdc.2011.10.015),'1-2-1-2-1-1-3-2-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Computing Strongly Connected Components in Parallel on CUDA,'1-2-1-2-1-1-3-3-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,3,I
+'J. Barnat‚ P. Bauch‚ L. Brim and M. Češka,'1-2-1-2-1-1-3-3-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In International Parallel & Distributed Processing Symposium (IPDPS'11). Pages 541–552. IEEE Computer Society. 2011.,'1-2-1-2-1-1-3-3-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1109/IPDPS.2011.59),'1-2-1-2-1-1-3-3-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Info,'1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Automated Verification,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Probabilistic Verification for Systems Biology  | Quantitative Analysis and Verification,'1-2-1-2-1-2-2-2-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Projects,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'VERIWARE,'1-2-1-2-1-2-2-3-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Supervisor,'1-2-1-2-1-2-2-4-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Marta Kwiatkowska,'1-2-1-2-1-2-2-4-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-2-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-2-1-2-1,0,0,0,1,0,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-2-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-2-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-1,0,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-2-1-3-2-2-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-2-1-3-2-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-2-1-4,0,0,1,2,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-2-1-5-1,0,0,0,1,0,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-2-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-2-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-2-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-2-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-2-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-2-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

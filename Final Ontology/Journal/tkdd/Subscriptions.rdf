@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alternatively,_in_North_America,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Single_copies_are_18_each_to_ACM_members_and_40_to_nonmembers._For_credit_card_orders_MasterCard,_VISA,_American_Express_in_the_US_and_Canada,"
+>
+  <base:_Address_Changes_and_Requests_for_Membership_Applications_and_Information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_York,_NY_10036">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Address_Changes_and_Requests_for_Membership_Applications_and_Information>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Knowledge_Discovery_from_Data"/>
+  <ns1:_please_send_your_order_to_one_of_the_following_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_York,_NY_10257">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_send_your_order_to_one_of_the_following_addresses.>
+  <base:_Address_Changes_and_Requests_for_Membership_Applications_and_Information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1515_Broadway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Address_Changes_and_Requests_for_Membership_Applications_and_Information>
+  <ns1:_please_send_your_order_to_one_of_the_following_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Church_Street_Station">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_send_your_order_to_one_of_the_following_addresses.>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_acm"/>
+  <base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_the_web">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by>
+  <base:_Acquiring_Individual_Articles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_past_articles_published_in_ACM_TKDD_are_available_through_the_ACM_Portal_TKDD_gateway_and_the_ACM_Article_Delivery_Service.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Acquiring_Individual_Articles>
+  <base:_In_Europe_you_may_use_one_of_the_following_contact_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Belgium">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_Europe_you_may_use_one_of_the_following_contact_addresses.>
+  <base:_Address_Changes_and_Requests_for_Membership_Applications_and_Information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Address_Changes_and_Requests_for_Membership_Applications_and_Information>
+  <base:_Fax rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2129441318_Email">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fax>
+  <base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_acm_europeacm.org">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by>
+  <base:_Phone rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__32_2_774_9602Fax">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Phone>
+  <base:_In_Europe_you_may_use_one_of_the_following_contact_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Avenue_Marcel_Third_204">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_Europe_you_may_use_one_of_the_following_contact_addresses.>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscriptions">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_TKDD"/>
+  </rdf:Description>
+  <base:_In_Europe_you_may_use_one_of_the_following_contact_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Postal_mail">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alternatively,_in_North_America,_please_send_your_order_to_one_of_the_following_addresses.">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_TKDD"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_Europe_you_may_use_one_of_the_following_contact_addresses.>
+  <base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_calling_18003426626_outside_the_U.S.,_12126260500,_or">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by>
+  <ns1:_please_send_your_order_to_one_of_the_following_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RO._Box_12114">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_send_your_order_to_one_of_the_following_addresses.>
+  <base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_sending_email_to">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by>
+  <ns1:_please_send_your_order_to_one_of_the_following_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Order_Department">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_send_your_order_to_one_of_the_following_addresses.>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Single_Copies_of_Issues">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_TKDD"/>
+  </rdf:Description>
+  <base:_In_Europe_you_may_use_one_of_the_following_contact_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1200_Brussels">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_Europe_you_may_use_one_of_the_following_contact_addresses.>
+  <ns2:_call_toll_tree_18003426626._From_New_York_or_outside_the_US_and_Canada rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2126260500.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_call_toll_tree_18003426626._From_New_York_or_outside_the_US_and_Canada>
+  <base:_In_Europe_you_may_use_one_of_the_following_contact_addresses. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_European_Member_Service_Center">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_Europe_you_may_use_one_of_the_following_contact_addresses.>
+  <base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_acmhelpacm.org_or">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Acquiring_Individual_Articles">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_TKDD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_price_for_submission_will_be_made_available_as_soon_as_the_journal_is_in_production.__You_can_subscribe_the_journal_by">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_TKDD"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_TKDD"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phone">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Europe_you_may_use_one_of_the_following_contact_addresses.">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_TKDD"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Address_Changes_and_Requests_for_Membership_Applications_and_Information"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Single_copies_are_18_each_to_ACM_members_and_40_to_nonmembers._For_credit_card_orders_MasterCard,_VISA,_American_Express_in_the_US_and_Canada,_call_toll_tree_18003426626._From_New_York_or_outside_the_US_and_Canada">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alternatively,_in_North_America,_please_send_your_order_to_one_of_the_following_addresses."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fax">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alternatively,_in_North_America,_please_send_your_order_to_one_of_the_following_addresses."/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_run_its_investment_branch_through_AXA_Investment_Managers_IM">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_United_Kingdom"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UIIC_India">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Air_Liquide_Allianz_AnheuserBusch_InBev_ArcelorMittal_ASML_Holding">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Euro_Stoxx_50_companies_of_Europe"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Financial_services">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  </owl:NamedIndividual>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chairman_and_CEO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Science">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Applicable_FY201011_revenues_of_over_US3_billion">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Methodology"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Daiichi_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Employees rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_102,960_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Employees>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_256_research_projects_funded_as_of_today_are_implemented_in_22_countries_with_researchers_of_42_different_nationalities._The_Scientific_Board_is_chaired_by_Ezra_Suleiman_and_composed_of_eminent_members_of_the_academic_world_and_AXA_Group_representatives_Pascale_Cossart,_Brian_Hoskins,_Jos_Scheinkman,_member_of_the_Scientific_Board_and_James_Vaupel">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philanthropic_initiatives"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sun_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vienna_Insurance_Group">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sumitomo_Mitsui_4.0">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website_and_list_of_supported_projects_on_the_axa.research.org_website">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philanthropic_initiatives"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_QBE_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.5_In_the_United_States">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paris_portal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.7_In_Asia_Pacific">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Euro_Stoxx_50_companies_of_Europe"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CAC_40_companies_of_France_Last_update_21._January_2013"/>
+  </base:_Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Hartford">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_List_of_investors_in_Bernard_L._Madoff_Securities">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Taikang_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2009,_AXA_PPP_International_was_created,_catering_for_the_expatriate_health_cover_market">
+    <rdf:type>
+      <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_PPP_healthcare">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Sun_Life"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+      </owl:NamedIndividual>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_sold_AXA_Sun_Life_Holdings_Ltd_to_Resolution_Limited_in_autumn_2010,_whilst_retaining_AXA_Wealth_including_Architas_and_the_Elevate_wrap_platform,_Sun_Life_Direct_and_Bancassurance_business_units._Closure_of_the_Bancassurance_arm_was_announced_in_April_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Schengen_Travel_Insurance_provides_insurance_to_travelers_who_need_a_visa_to_enter_the_Schengen_Area">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Schengen"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3_AXA_Schengen">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_9_External_links">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.6_In_Mexico">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_256_basicresearch_projects_were_funded_within_three_years,_including_230_young_researchers,_PhDs_or_in_postdoctoral_year,_working_in_laboratories_all_around_the_world._In_addition_to_this_support,_AXA_gathers_every_year_the_young_fellows_to_meet_a_worldclass_researcher,_exchange_best_practices_and_network,_above_any_education_or_discipline">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philanthropic_initiatives"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_25_avenue_Matignon,_75008,_Paris,_France">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nippon_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.4_In_Canada">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Besides_its_artistic_and_social_philanthropic_initiatives_AXA_Heart_in_action,_AXA_created_the_AXA_Research_Fund_in_2008._Endowed_with_100_million,_it_provides_support_for_research_focused_on_understanding_and_preventing_the_risks_threatening_the_environment,_human_life_and_our_societies">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philanthropic_initiatives"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_PPP_healthcare_was_originally_known_as_The_London_Association_of_Hospital_Services,_which_was_set_up_up_in_1938_as_a_private_healthcare_scheme_for_people_of_middle_income_in_London">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_PPP_healthcare"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BNP_Paribas_Bouygues_Capgemini_Carrefour_Crdit_Agricole_EDF_Essilor_GDF_Suez_Gemalto_Groupe_Danone_LOral_Lafarge_Legrand_LVMH_Michelin_Orange_Pernod_Ricard_PPR_Publicis_Renault_Safran_SaintGobain_Sanofi_Schneider_Electric_Socit_Gnrale_Solvay_STMicroelectronics_Technip_Total_UnibailRodamco_Vallourec_Veolia_Environnement_VINCI_Vivendi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CAC_40_companies_of_France_Last_update_21._January_2013"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manulife_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Fund_has_also_awarded_11_endowments_for_several_million_euros_supporting_research_institutions_of_excellence__HEC_Paris,_NUS,_University_of_Bristol,_LSE,_MetOffice,_INSERM,_IHES...._These_Research_and_Education_Chairs_intend_to_attract_the_best_scientists._For_example,_the_AXA__Polytechnique_Chair_in_Cellular_Cardiovascular_Engineering,_held_by_Abdul_Barakat,_aims_to_promote_research_on_cardiovascular_diseases,_but_also_to_train_and_develop_young_researchers_through_extended_educational_programs">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philanthropic_initiatives"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_XL_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PICC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Claude_Bbar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founders"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bradesco_Seguros">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samsung_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_The_AXA_name">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edward_L._Skyward_5.1">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Munich_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </owl:NamedIndividual>
+  <base:_Area_served rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Worldwide">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Area_served>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance_Group_of_America">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_PPP_healthcare_is_a_UK_private_medical_insurance_provider">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_PPP_healthcare"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Legal__General">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Protection_This_business_aims_to_market_AXAs_Protection_Account_as_AXA_continues_to_build_on_its_presence_in_this_area_with_the_intention_of_becoming_a_leading_protection_provider">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sompo_Japan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_In_Canada rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Canada_offers_insurance_services_through_a_network_of_affiliates_operating_in_the_different_Canadian_regions_such_as_Quebec,_Ontario,_Western_Canada_and_Atlantic_Canada._In_2009,_the_company_had_a_total_of_approximately_2,300_employees_and_4000_brokers_and_advisors._The_head_office_is_in_Montreal,_Quebec._In_2011,_AXAs_Canadian_operations_were_acquired_by_Intact_Financial_Corp._for_C2.6_billion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_Canada>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_8_References">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aegon_Ageas_AIG_Allianz_Allstate_Aon_Aviva">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_has_its_headquarters_in_the_town_of_Tunbridge_Wells_in_Kent,_England,_and_is_the_town_largest_private_sector_employer._AXA_PPP_healthcare_provides_individual_private_medical_insurance_for_individuals_and_business_as_well_as_employee_assistance_programmes">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_PPP_healthcare"/>
+  </owl:NamedIndividual>
+  <base:_Total_equity rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_9.70_billion_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_equity>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Generali">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gen_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.1.2_AXA_PPP_healthcare">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sun_Life_Direct_This_business_focues_solely_on_selling_protection__savings_products_directly_to_those_in_the_UK">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Life_Insurance_operated_in_the_Asia_Pacific_region_as_AXA_Asia_Pacific_Holdings_Ltd._AXA_APH_which_is_the_former_National_Mutual_Life_Association_of_Australasia_founded_by_actuary_John_Montgomery_Templeton_The_AXA_Collection_and_was_listed_on_the_Australian_Securities_Exchange._The_head_office_of_AXA_APH_was_located_in_Melbourne,_Australia,_and_there_was_a_major_regional_office_in_Hong_Kong._AMP_acquired_AXA_Asia_Pacific_in_2011_it_retained_AXA_APHs_Australia_and_New_Zealand_operations,_and_sold_the_Asia_operations_to_AXA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Asia_Pacific"/>
+  </owl:NamedIndividual>
+  <base:_Website rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_axa.com">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Website>
+  <base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_Business_AXA__Winterthurs_Group_Pensions._AXA_intend_to_create_a_Market_Leading_group_pension_proposition_using_Winterthurs_Embassy_IT_platform">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Qatar_Investment_Authority_3.8">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Liberty_Mutual">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_Kingdom_11.5">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_December_15_of_2006,_AXA_Advisors,_LLC_entered_into_agreements_with_LPL_Linsco_Private_Ledger,_the_countrys_largest_independent_brokerdealer._LPL_agreed_to_provide_brokerage,_clearing_and_custody_services_on_a_fully_disclosed_basis._The_terms_of_the_agreements_are_five_years,_subject_to_additional_24month_extensions._Services_are_expected_to_begin_in_August_2007">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_United_States"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_31.65_billion_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.2_On_the_Isle_of_Man">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_July_2008,_AXA_acquired_ING_Insurance_Mexico,_they_are_offering_essentially_the_same_services_that_ING_offered._The_Chairman_in_Mexico_is_Xavier_de_Bellefon">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Mexico"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jackson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_Capital_ownership">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PZU">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Great_Eastern">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_7_See_also">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scottish_Widows">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_Santander_BASF_Bayer_BMW_BBVA_BNP_Paribas_Carrefour_CRH_Daimler_Danone_Deutsche_Bank_Deutsche_Telekom_E.ON_Enel_Essilor_GDF_Suez_Generali_Iberdrola_Inditex_Intesa_Sanpaolo_LOral_LVMH_Munich_Re_Nokia_Orange_Philips_Repsol_RWE_SaintGobain_Sanofi_SAP_Schneider_Electric_Siemens_Socit_Gnrale_Telefnica_Total_UnibailRodamco_UniCredit_Unilever_Vinci_Vivendi_Volkswagen">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Euro_Stoxx_50_companies_of_Europe"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_PC_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSA_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_American_arm_of_AXA_is_AXA_Financial,_inc.,_which_is_known_mainly_through_its_subsidiaries_such_as_AXA_Advisors,_LLC,_AXA_Equitable_Life_Insurance,_AXA_Network,_MONY_former_Mutual_of_New_York,_US_Financial_Life,_and_AllianceBernstein">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_United_States"/>
+  </owl:NamedIndividual>
+  <base:_On_the_Isle_of_Man rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_While_the_company_trades_upon_the_AXA_logo,_name_and_group_advertising_which_promotes_the_total_wealth_of_the_group,_the_assets_of_the_Isle_of_Man_company_are_limited_to_those_of_the_Isle_of_Man_company_itself">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_On_the_Isle_of_Man>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tokio_Marine">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance_Australia_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phoenix_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LIC_India">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Accor_Air_Liquide_Airbus_Group_Alstom_ArcelorMittal">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CAC_40_companies_of_France_Last_update_21._January_2013"/>
+  </owl:NamedIndividual>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Henri_de_Castries">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BNP_Paribas_5.4">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_National_Mutual_Insurance_Federation_of_Agricultural_Cooperatives">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_was_originally_founded_in_1816_as_Mutuelle_de_Lassurance_contre_Lincendie_the_Ancienne_Mutuelle._It_acquired_Compagnie_Parisienne_de_Garantie_in_1978_and_became_Mutuelles_Unies._It_went_on_to_buy_the_Drouot_Group_in_1982,_becoming_Mutuelles_UniesDrouot._It_adopted_the_at_AXA_name_in_1985._The_takeover_of_The_Equitable,_a_wellknown_American_insurer,_came_in_1991._It_bought_Union_des_Assurances_De_Paris_UAP,_Frances_largest_insurer,_in_1996_becoming_AXAUAP_for_a_while_before_reverting_to_the_name_AXA_in_1999._Then_in_February_1999_AXA_acquired_Guardian_Royal_Exchange._In_May_2000_AXA_acquired_all_shares_it_did_not_already_own_in_Sun_Life__Provincial_Holdings._On_14_June_2006_AXA_acquired_the_leading_Swiss_insurance_company_Winterthur_Group_from_Credit_Suisse_for_approximately__billion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mapfre">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Socit_Anonyme">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hyundai_Marine__Fire_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Standard_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_France_16.5">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AIA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Old_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_.324_billion_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Profit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXAArdian_formerly_AXA_Private_Equity">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Life_and_health_insurance,_investment_management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_plc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Bank_Europe">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Mexico,_as_a_cultural_legacy_for_the_company_and_the_country,_started_la_coleccion_AXA,_directed_by_art_curator_Patricia_Martn._The_collection_integrated_pieces_from_artist_like_Hector_Zamora,_Luis_Felipe_Ortega,_Pedro_Reyes,_Stefan_Brggemann,_Mario_Garca_Torres,_Abraham_Cruzvillegas,_Damian_Ortega_and_Carlos_Amorales">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philanthropic_initiatives"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_European_Financial_Services_Roundtable">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Wealth_This_includes_AXA__Winterthurs_Bonds__Individual_Pensions,_AXA_Distribution_Services_who_offer_the_Elevate_wrap_platform_and_Architas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_head_office_in_Paris">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_headquarters_of_AXA_is_located_in_the_8th_arrondissement_of_Paris._AXA,_which_already_owned_23_Avenue_Matignon,_acquired_the_former_Hotel_de_La_Vaupalire,_an_18thcentury_building,_in_the_late_1990s._Architect_Ricardo_Bofill_integrated_the_facade_of_the_hotel_with_a_modern_glass_building_that_covers_the_courtyard_that_the_hotel_also_occupies._The_complex_serves_as_AXAs_head_office">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hannover_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lincoln">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samsung_Fire__Marine_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_On_the_Isle_of_Man rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Isle_of_Man_Limited_was_originally_created_as_a_subsidiary_of_AXA_Sun_Life_in_the_United_Kingdom,_but_since_the_Isle_of_Man_is_not_a_part_of_the_United_Kingdom_it_is_regulated_instead_by_the_laws_of_the_Isle_of_Man._AXA_Isle_of_Man_Limited_advertises_itself_as_a_repository_for_citizens_of_the_United_Kingdom_and_the_Channel_Islands_who_seek_to_shelter_their_assets_from_taxation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_On_the_Isle_of_Man>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Taiping">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Pacific_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__CS,_OTCQX">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Euronext">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mitsui_Sumitomo_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BNP_Paribas">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lloyds_of_London">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_.103_trillion_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AUM"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Northwestern_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Meiji_Yasuda_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_States_18.8">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zurich_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Farmers_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CNP_Assurances">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_York_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5_Headquarters">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Asia__Based_in_Hong_Kong,_the_AXA_Asia_Regional_Office_is_responsible_for_supporting_the_Groups_existing_operations_in_Hong_Kong,_China_and_South_East_Asia,_propelling_its_perpetual_growth,_and_looking_for_new_markets_and_business_development_opportunities_for_AXA_in_Asia">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Asia_Pacific"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_State_Farm_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Despite_being_written_in_upper_case,_AXA_is_not_an_acronym,_but_was_chosen_because_its_name_can_be_pronounced_easily_by_people_who_speak_any_language._After_acquiring_the_Drouot_Group_in_1982,_Chairman_and_CEO_Claude_Bbar_hired_an_outside_consultant_to_conduct_a_computeraided_search_for_a_new_name._Bbar_wanted_a_short_and_snappy_name_to_convey_vitality_and_could_be_pronounced_the_same_way_in_every_language,_consistent_with_the_groups_desire_for_an_international_presence._Initially,_Elan_was_the_top_choice,_but_Canadian_executives_balked_because_elan_is_the_French_word_for_where_a_moose_or_elk_live._In_1985,_Bbar_chose_the_name_AXA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_AXA_name"/>
+  </owl:NamedIndividual>
+  <base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bancassurance_This_business_is_responsible_for_an_advisory_and_sales_force_that_sell_AXAs_products_and_propositions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are>
+  <base:_Revenue rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6.107_billion_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Revenue>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_History">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Malaysia,_AXA_is_operated_by_Affin_Bank_Malaysia_instead_of_the_AXA_itself,_the_headquarters_of_AXA_Malaysia_is_in_Kuala_Lumpur">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Asia_Pacific"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Capital_ownership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_employees_6.5">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Capital_ownership>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_General_Insurance_operates_in_the_Asia_Pacific_region_as_AXA_Asia_PC._The_headoffice_of_AXA_Asia_PC_is_located_in_Singapore">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Asia_Pacific"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MetLife">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_September_2013,_Axa_Wealth_was_fined_1.8m_by_the_FCA_for_failing_to_ensure_it_gave_suitable_investment_advice_to_its_customers._The_regulator_says_it_found_erious_defectsin_the_way_Axa_advisers_in_Clydesdale_Bank,_Yorkshire_Bank_and_the_West_Bromwich_Building_Society_advised_customers_on_investments">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_United_Kingdom"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_trades_in_the_United_Kingdom_as_AXA_Sun_Life,_AXA_Insurance,_AXA_Investment_Managers,_AXA_Wealth_and_AXA_PPP_Healthcare._AXA_PPP_Healthcare_was_created_when_AXA_bought_Guardian_Royal_Exchange_GRE,_though_it_subsequently_sold_the_other_parts_of_GRE_to_Aegon._The_company_also_owns_the_online_insurer_Swiftcover,_distribution_business_Bluefin_and_fund_manager_Architas._In_January_2007_AXA_was_reorganised_into_strategic_business_units_SBUs_aimed_at_competing_within_their_specific_markets">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_United_Kingdom"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6_Philanthropic_initiatives">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_Operations_3.1_In_the_United_Kingdom_3.1.1_AXA_Sun_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1817">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sumitomo_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UnipolSai">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_has_entered_the_Indian_market_through_Bharti_Enterprises_as_a_joint_venture_and_entered_into_joint_venture_with_Bank_Of_India_in_2012._AXA_has_five_ventures_in_India,_Bharti_AXA_Life_Insurance_Company_Ltd,_Bharti_AXA_General_Insurance_Co._Ltd.,_AXA_assistance_India,_AXA_Business_Services_and_Bank_Of_India_AXA_Investment_Managers,_and_is_also_present_in_fusion_with_OYAK,_as_AXA_OYAK,_in_the_Turkish_market_since_1999">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Asia_Pacific"/>
+  </owl:NamedIndividual>
+  <base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traditional_Business_Concentrating_on_policies_which_are_still_in_force_but_no_longer_actively_marketed">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ING">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bupa">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ping_An_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fundamental_science">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BB_Seguridade">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Travelers">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Metropolitan_Bank_and_Trust_Company_of_the_Philippines_subsequently_entered_into_joint_ventures_with_corporation_the_National_Mutual_Holdings_Ltd._of_Australia_to_create_Philippine_AXA_Life_Insurance_Corporation">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Asia_Pacific"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_the_Isle_of_Man"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_United_Kingdom"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_AXA_name"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Sun_Life_was_created_following_the_merger_between_AXA_Equity__Law_and_Sun_Life_Assurance_Society_PLC._In_2006_Winterthur_Life_in_the_UK_was_absorbed_although_AXA_continue_to_use_the_Winterthur_brand_for_high_net_worth_wealth_management_business._The_business_units_are">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Sun_Life"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Area_served"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philanthropic_initiatives"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Methodology"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Canada"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Profit"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CAC_40_companies_of_France_Last_update_21._January_2013"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Life_insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Mexico"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Euro_Stoxx_50_companies_of_Europe"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_United_States"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Capital_ownership"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founders"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Sun_Life"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AUM"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Asia_Pacific"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA_Schengen"/>
+</rdf:RDF>

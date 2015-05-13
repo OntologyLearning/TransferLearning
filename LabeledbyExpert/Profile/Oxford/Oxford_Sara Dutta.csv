@@ -1,0 +1,63 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Sara Dutta,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Sara Dutta,'1-2-1-2-1-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Doctoral Student,'1-2-1-2-1-1-1-2-1-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Student, Balliol College",'1-2-1-2-1-1-1-2-1-3,0,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Wolfson Building, Parks Road, Oxford OX1 3QD",'1-2-1-2-1-1-1-2-2,0,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,I
+'Interests,'1-2-1-2-1-1-2-1-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'My research interests focus on using a combination of computer simulations and experiments to understand the mechanisms behind the initiation and maintenance of arrhythmias, and especifically the transition from VT to VF. I am particularly interested in the effects of ischaemia-induced electrophysiological changes on the occurrence of these arrhythmias. In my first year I did a combined computational and experimental study on the interpretation of optical mapping recordings in a globally ischaemic heart. We showed how dual wavelength optical mapping can be used to characterise the ischaemic border zone in rabbit hearts. During my second year I investigated the use of recent human cardiac ventricular action potential models in ischaemia. I am now working on whole human ventricle simulations of arrhythmogenesis during ischaemia.",'1-2-1-2-1-1-2-1-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Biography,'1-2-1-2-1-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'I graduated from Imperial College London in 2009 with a Beng in Computer Science. I then joined Oxford as a Systems Biology DTC student. The first taught course year provided a good foundation for the interdisciplinary PhD that I started in 2010 within the Computational Biology group (and more specifically the cardiac modelling group).,'1-2-1-2-1-1-2-2-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Selected Publications,'1-2-1-2-1-1-2-3-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'View all,'1-2-1-2-1-1-2-3-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Interpreting Optical Mapping Recordings in the Ischemic Heart: A Combined Experimental and Computational Investigation,'1-2-1-2-1-1-3-1,1,0,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'T. Alexander Quinn Sara Dutta Martin J. Bishop Pras Pathmanathan Peter Lee Peter Kohl and Blanca Rodriguez,'1-2-1-2-1-1-3-2,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Lecture Notes in Computer Science. Vol. 6666/2011. Pages 20−27. 2011.,'1-2-1-2-1-1-3-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1007/978-3-642-21028-0_3) | Link,'1-2-1-2-1-1-3-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Info,'1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Themes,'1-2-1-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Computational Biology group  | Cardiac Physiology  | Computational Heart Modelling,'1-2-1-2-1-2-2-2-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Supervisors,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Ana Mincholé,'1-2-1-2-1-2-2-3-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'T Alexander Quinn,'1-2-1-2-1-2-2-3-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Blanca Rodriguez,'1-2-1-2-1-2-2-3-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-2-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-2-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-2-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-2-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-2-1-3-2-2-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-2-1-3-2-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-2-1-4,0,0,1,2,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-2-1-5-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-2-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-2-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-2-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-2-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-2-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-2-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

@@ -1,0 +1,33 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Before Submission,'1-1-2-1-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,C
+'ACM Manuscript Central Manuscript Central Help,'1-1-2-1-1-2-1-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,C
+"'2. Submissions should be full papers with appropriate citations. Your submission should adhere to the ACM policies on prior publication, including correct citations of your own and other prior work.",'1-1-2-1-1-2-1-2,2,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,1,C
+'Please read ACM’s policies on these issues:,'1-1-2-1-1-2-2-1,0,0,0,1,1,2,0,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'ACM policy on prior publication and simultaneous submission,'1-1-2-1-1-2-2-2-1,0,0,0,1,0,0,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'ACM policy on plagiarism, including self plagairism",'1-1-2-1-1-2-2-2-2,0,0,0,1,0,0,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+'ACM Categories and Subject Descriptors ACM Computing Classification System,'1-1-2-1-1-2-2-2-3-1,1,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,C
+"'4. Your submission must be formatted in either Microsoft Word or LaTeX, according to the ACM style guides",'1-1-2-1-1-2-2-2-3-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,1,0,0,0,1,C
+'LaTeX style guide,'1-1-2-1-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'here,'1-1-2-1-1-2-2-2-5-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Microsoft Word style guide,'1-1-2-1-1-2-2-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,3,C
+"'Please note that this is the general Microsoft Word style guide page. The correct format for TOS is the Small Standard Format, a direct download can be found",'1-1-2-1-1-2-2-2-6,1,0,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,N
+'here,'1-1-2-1-1-2-2-2-7,0,0,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'MUST,'1-1-2-1-1-2-2-2-8,0,0,0,1,0,1,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,3,N
+'Your submission will be returned to you if it does not include a cover letter.,'1-1-2-1-1-2-3,1,0,0,1,1,0,0,0,1,2,1,1,0,0,0,0,0,0,1,0,0,0,3,I
+'After Acceptance,'1-1-2-1-2-1,0,0,1,2,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Please prepare the following to upload through your Author Center.,'1-1-2-1-2-2,1,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,1,N
+'The final pdf of your paper (compiled from your final source files) - to upload as Main Document. One manuscript should have only one Main Document.,'1-1-2-2-1,1,1,0,1,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,I
+"'Source files (with bibliography) to upload as Supplemental File and formatted according to the style file found at: http://www.acm.org/publications/submissions. Also please include all high resolution figures (if applicable) in .jpg, .png, .tif, or .eps format. Please upload a zipped file in the first File Upload section called ""Upload new files"" and select the ""Supplemental File"" designation. UPLOAD ONLY YOUR FINAL PUBLICATION FILES INCLUDING ANY SUPPLEMENTARY MATERIAL (MOVIES, VIDEOS, ONLINE APPENDIXES, ETC.). Your zipped files should not be unpacked. If you have an updated file, please delete the original version and upload the revision. If a supplemental file exceeds 100MB, load it into a separate zip. (After uploading, designate the order in which your files appear using the drop-down menu in the ""order"" column. Click on PDF to view your paper, then click ""Save and Continue."")",'1-1-2-2-2,2,1,0,1,0,2,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Please also include:,'1-1-2-3,0,0,0,1,0,2,0,2,1,1,1,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Computing Classification Systems Terms: http://www.acm.org/class/how_to_use.html,'1-1-2-4-1,0,1,0,1,0,2,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'General Terms (one or more of the terms listed on the above site),'1-1-2-4-2,1,1,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Additional keywords and phrases,'1-1-2-4-3,0,1,0,1,0,2,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'NB: If you have material owned by a third party, you must secure permission for its use before publication can proceed. If this is the case, please carefully read the guidelines at http://www.acm.org/publications/third-party-material and:",'1-1-2-5,2,0,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Obtain written permissions from the copyright holders.,'1-1-2-6-1,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Add the appropriate attributions to the figure captions in your paper (giving credit to the copyright holder).,'1-1-2-6-2,1,1,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Include the source of the third-party material in the references.,'1-1-2-6-3,1,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'All author rights forms are now filled electronically through the ACM e-Rights Transfer Application. If your paper was submitted before April 2, 2013, has recently been accepted, and you have not yet been contacted concerning e-rights transfer, please send your manuscript number to Laura Lander, Journals Manager, at lander@hq.acm.org. For questions concerning third-party material, please contact Irma Strolia, Editorial Assistant, at strolia@hq.acm.org. All other questions may also be forwarded to Laura at lander@hq.acm.org.",'1-1-2-7-1-1,2,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+"'Prior to publication, you will receive author proofs from the production manager.",'1-1-2-7-1-2,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'ACM Author-Izer,'1-1-2-7-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,3,C
+'Author-Izer http://www.acm.org/publications/acm-author-izer-service,'1-1-2-7-2-2-1,0,0,0,1,0,2,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Thank you again for contribution. We look forward to your continued submissions to ACM Transactions on Storage.,'1-1-2-7-2-2-2,1,0,0,1,0,2,0,0,2,2,0,0,0,1,0,0,0,0,1,0,0,0,2,N

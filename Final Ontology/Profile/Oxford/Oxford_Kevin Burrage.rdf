@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_share_my_time,_half_and_half,"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_was_a_supernumerary_fellow_of_New_College_at_Oxford_University_between_20082012.__Before_coming_to_Oxford_I__was_a_Federation_Fellow_of_the_Australian_Research_Council_20032008_at_the_University_of_Queensland">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Heart_Modelling___Computational_Biology_group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_in_Computational_Systems_Biology">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kevin_Burrage"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Anna_Jones">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stochasticity_in_Action_Potential_duration_Enhances_Dispersion_of_Repolarisation_at_Fast_Pacing_Rates">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry_Liaison">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Class_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Home">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Themes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lecture_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_People">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_J._WalmsleyJ.F._RodriguezG.R._MiramsK._BurrageI.R._Efimov_and_B._Rodriguez">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Walmsley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal__Intranet">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_Kevin_Burrage">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kevin_Burrage"/>
+  </owl:NamedIndividual>
+  <base:_mRNA_expression_levels_in_failing_human_hearts_predict_cellular_electrophysiological_remodelling rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__A_populationbased_simulation_study">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_mRNA_expression_levels_in_failing_human_hearts_predict_cellular_electrophysiological_remodelling>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_Seminars">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Events">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_news">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Estimation_of_conductivity_tensors_from_human_ventricular_optical_mapping_recordings">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activities">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Us">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edit_website__database_login">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_married_to_Pamela,_who_is_also_in_the_Mathematics_Department_at_QUT,_and_we_have_two_children_at_Queensland.__Matt_has_finished_his_medical_program_and_is_a_registrar,_Lauren_is_her_final_year_of_her_Medical_program">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Louie_CardoneNoott">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <ns1:_between_Oxford_and_the_Mathematics_Department_at_the__Queensland_University_of_Technology_QUT__http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.qut.edu.au,_Brisbane,_Australia,_where_I_am_Professor_of_Computational_Mathematics.__I_am_also_a_theme_leader_in_the_new_Institute_for_Future_Environments_at_QUT_http">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_between_Oxford_and_the_Mathematics_Department_at_the__Queensland_University_of_Technology_QUT__http>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Project_news">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ciara_Dangerfield">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Awards">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vol._102._No._3._Pages_592a93a._2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__Studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Practical_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prospective_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1._Professional_and_Social_Background">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Valentina_Carapella">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Students">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Department_of_Computer_Science,_University_of_Oxford_Oxford_Centre_for_Integrative_Systems_Biology">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_PLoS_ONE._Vol._8._No._2._Pages_e56359._2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_J._WalmsleyG.R._MiramsI.R._EfimovK._Burrage_and_B._Rodriguez">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Seminars__timetables">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_WalmsleyKevin_BurrageJoe_M._PittFrancisGary_R._Mirams_and_Blanca_Rodriguez">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Biology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellaneous">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IT_Support">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Xin_Zhou">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Functional_Imaging_and_Modeling_of_the_Heart._Vol._7495._Pages_22431._2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tamas_Szekely">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_mRNA_expression_levels_in_failing_human_hearts_predict_cellular_electrophysiological_remodelling">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_share_my_time,_half_and_half,_between_Oxford_and_the_Mathematics_Department_at_the__Queensland_University_of_Technology_QUT__http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kevin_Burrage"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+</rdf:RDF>

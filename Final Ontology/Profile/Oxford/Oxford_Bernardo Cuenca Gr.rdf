@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_William_Zeng">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellaneous">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_This_Section"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_Bob_Coecke">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Karl_Paulsson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Structures_at_the_Interface_of_Physics_and_Computer_Science">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foundations,_Logic_and_Structures___Security___Information_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nal_Kalchbrenner">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edit_website__database_login">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Practical_timetable">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_This_Section"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_A._Chubb_J._Eskandarian_and_V._Harizanov,_editors,_Logic_and_Algebraic_Structures_in_Quantum_Computing_and_Information._Cambridge_University_Press._2013">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andre_Ranchin">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrei_Akhvlediani">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_44_785_5298183">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_new_description_of_orthogonal_bases">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Class_timetable">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gareth_Charnock">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Yoshihiro_Maruyama">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alex_Merry">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_CoeckeEdward_Grefenstette_and_Mehrnoosh_Sadrzadeh">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Amar_Hadzihasanovic">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__the_Free_University_of_Brussels_where_I_obtained_my_Doctorate_in_Theoretical_Physics,_Imperial_College_in_London_where_I_was_a_postdoc_in_the_Theoretical_Physics_Group,_and_the_Mathematics_and_Statistics_Department_of_McGill_University_in_Montreal_where_I_was_a_postdoc_in_the_Category_Theory_Group._I_was_also_formally_affiliated_to_the_Department_of_Pure_Mathematics_and_Mathematical_Statistics_of_Cambridge_University,_on_a_research_grant_of_the_European_TMR_network_Linear_Logic_in_Computer_Science._I_have_been_offered_a_Long_Term_Visiting_Scientists_position_at_the_Perimeter_Institute_for_Theoretical_Physics,_which_I_took_up_for_a_period_of_3_months_in_2009.__I_held_an_EPSRC_Advanced_Research_Fellow_entitled_The_Structure_of_Quantum_Information_and_its_Ramifications_for_IT__Aug_2006__Jul_2011,_and_University_Lecturer_of_Quantum_Computer_Science_Jun_2007__Sept_2010,_until_I_became_Professor_of_Quantum_Foundations,_Logics_and_Structures,_a_title_awarded_retrospectively_in_July_2011_to_take_effect_from_October_2010.____I_am_a_Governing_Body_Fellow_of_Wolfson_College_since_Jun_2007.__I_coordinated_the_EC_FP6_STREP_Foundational_Structures_in_Quantum_Information_and_Computation_QICS__I_also_holdheld_several_EPSRC,_ONR,_JTF_and_FQXi_grants">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_previous_affiliations_are">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Annals_of_Pure_and_Applied_Logic._2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Electronic_Notes_in_Theoretical_Computer_Science._Vol._23._No._3._Pages_55567._2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Project_news">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dimitri_Kartsaklis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Completed_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Themes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stefano_Gogioso">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Lambek_vs._Lambek rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Functorial_Vector_Space_Semantics_and_String_Diagrams_for_Lambek_Calculus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Lambek_vs._Lambek>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brendan_Fong">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Krzysztof_Bar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Imperial_College_London_Imperial_College_London">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Room_210,_Wolfson_Building,_Parks_Road,_Oxford_OX1_3QD">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hugo_Nava_Kopp">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Quantum_Information_and_its_Ramifications_for_IT__The_Road_to_a_New_Quantum_Formalism__QICS">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dimitri_KartsaklisMehrnoosh_SadrzadehStephen_Pulman_and_Bob_Coecke">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_Seminars">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Quick">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activities">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Awards">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_coeckeacs.ox.ac.uk">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aleks_Kissinger">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philip_Atzemoglou">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_interested_in_the_Foundations_of_Physics,_in_particular_the_structures_involved,_with_a_strong_structural_bias_towards_Logic,_Order_and_Category_Theory,_and_their_applications_e.g._arXiv._I_am_also_active_on_compositional_distributional_models_of_natural_language_meaming_e.g._arXiv.__Some_popural_writing_on_my_work_are_The_quantum_linguist_and_Quantum_mechanical_words_and_mathematical_organisms.__Older_work_includes_information_domains_e.g._arXiv,_dynamic_epistemic_logic_e.g._arXiv,_and_even_longer_ago,_contextual_hidden_variable_models_and_quantum_logic.__I_currently_have_twenty_plus_PhD_students_links_to_them_are_below.__I_jointly_lead_a_multidisciplinary_research_group,_the_Quantum_Group,_which_now_has_40_plus_members.__More_details_on_my_research_and_links_to_publications_and_talks_are_on_my_extremely_outdated_old_informal_webpage">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lecture_timetable">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Quantomatic___Compositional_Distributional_Models_of_Meaning___Computational_Linguistics___Quantum_Group___Epistemic_Logics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_news">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IT_Support">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fellow,_Wolfson_College">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_To_appear">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abhishek_Dasgupta">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_44_1865_273829">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Carmen_Constantin">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reasoning_about_Meaning_in_Natural_Language_with_Compact_Closed_Categories_and_Frobenius_Algebras">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Events">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miriam_Backens">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_of_Quantum_Foundations,_Logics_and_Structures">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nadish_de_Silva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Seminars__timetables">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Norihiro_Yamada">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal__Intranet">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_CoeckeDusko_Pavlovic_and_Jamie_Vicary">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Raymond_Lal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_Coecke"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lambek_vs._Lambek">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_This_Section"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_This_Section"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+</rdf:RDF>

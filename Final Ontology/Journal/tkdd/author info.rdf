@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4._TKDD_will_strive_to_make_papers_straightforward_and_more_readable_by_recommending_that_authors_include_examples_where_appropriate_and_to_make_greater_efforts_to_target_their_presentation_to_a_broader_audience_than_specialists_doing_current_research_in_the_topical_areas_of_the_papers.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuscript_Preparation"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_should_keep_editors_informed_of_changes_of_address._Papers_will_be_refereed_in_the_manner_customary_with_scientific_journals_before_being_accepted_for_publication._It_you_have_any_questions,_please_contact_the_EditorinChief,_and_always_inform_editors_in_your_submission_letters_of_any_possible_conflicts._Correspondence_on_editorial_matters_should_be_addressed_to_one_of_the_editors.__Correspondence_regarding_accepted_papers_should_be_sent_to_the_following_address.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_for_Editorial_Review"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_AuthorIzer_Service">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Should_the_submission_be_accepted_for_TKDD,_it_is_good_form_to_notify_the_editor_handling_papers_in_category_a,_for_the_other_venues,_of_the_overlap.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_Publication_Policy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuscript_Preparation"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3._TKDD_will_publish_outstanding_papers_which_are_major_valueadded_extensions_of_papers_previously_published_in_conferences_that_is,_TKDD_will_not_automatically_reject_papers_that_are_major_extensions_to_previously_published_conference_papers.__These_papers_will_go_through_the_normal_review_process.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <base:_Manuscript_Format rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Citations_to_relevant_literature">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manuscript_Format>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Before_submitting_their_manuscript,_authors_should_examine_the_Prior_Publication_Policy_to_ensure_that_their_manuscript_adheres_to_both_the_novelty_and_disclosure_requirements.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <base:_Manuscript_Format rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manuscript_Format>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_the_paper_has_previously_been_published,_and_the_author_is_submitting_it_with_significant_updates_see_the_Prior_Publication_Policy,_please_upload_the_original_publication_as_a_supplementary_file_for_review.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_11._TKDD_will_also_publish_focused_surveys.__These_reviews_should_be_deeply_focused_and_will_sometimes_be_quite_narrow,_but_will_make_a_contribution_to_our_understanding_of_an_important_area_or_subarea_of_knowledge_discovery_from_data,_broadly_defined.__More_general_surveys_that_are_intended_for_a_broadbased_Computer_Science_audience_or_surveys_that_may_influence_other_areas_of_computing_research_should_continue_to_go_to_ACM_Computing_Surveys.__Brief_surveys_on_recent_developments_in_knowledge_discovery_research_are_more_appropriate_for_ACM_SIGKDD_Explorations._TKDD_surveys_should_be_educational_to_data_mining_audiences_by_presenting_a_relatively_wellestablished_body_of_data_mining_research._Surveys_can_summarize_prior_literature_on_a_theoretical_or_systems_research_topic,_or_can_explain_approaches_implemented_in_commercial_systems.__A_survey_of_the_former_type_summarizes_literature_on_a_particular_subject,_presenting_a_new_way_of_understanding_how_the_papers_in_this_literature_fit_together.__A_survey_of_the_latter_type_summarizes_the_best_industrial_art,_and_can_be_acceptable_even_if_it_represents_no_new_contribution_over_what_has_been_used_in_industry_for_years,_if_the_papers_content_is_not_to_be_found_in_the_published_literature.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <base:_Appeals rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_an_author_has_concerns_about_how_their_paper_was_handled,_that_author_should_first_bring_those_concerns_to_the_Associate_Editor_who_handled_the_processing_of_the_paper._In_almost_all_cases,_any_misunderstanding_will_be_able_to_be_resolved_then._If_the_concern_is_not_addressed,_the_author_can_ask_the_Associate_Editor_to_turn_over_processing_of_the_paper_to_the_EditorinChief._This_is_the_Associate_Editors_decision._Should_the_Associate_Editor_decide_not_to_turn_over_the_processing_of_the_paper,_the_editorial_decision_will_stand._Otherwise,_the_EditorinChief_will_reexamine_the_materials,_and_make_the_final_editorial_decision.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Appeals>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_7._Similarly,_TKDD_encourages_shorter_submissions,_even_very_short_for_example,_five_page_submissions._The_primary_focus_of_review_is_the_significant_improvement_on_the_stateoftheart,_not_the_number_pages_the_manuscript_fills.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TKDD_">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2._TKDD_will_promote_fusion_of_theory_and_systems_by_strongly_encouraging_the_authors_of_theory_papers_to_indicate_applications_and_implementation_considerationsconsequences,_and_the_authors_of_systems_papers_to_indicate_the_use_of_existing_theoretical_results_and_to_point_to_possible_theoretical_research_issues.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_8._TKDD_will_adopt_the_ACM_Computing_Surveys_style_of_references_that_is,_references_will_be_labeled_by_authors_names_and_years_of_publication,_rather_than_by_numbers.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <base:_uthors_whose_papers_are_accepted_sign_a_form_which_transfers_copyright_to_the_ACM._This_form_will_be_sent_by_the_EditorinChief_along_with_notification_of_acceptance._The_completed_form_should_be_returned_as_indicated_on_the_form._Authors_retain_liberal_rights_to_material_published_by_the_ACM._The_following_is_the_standard_copyright_notice_used_by_ACM_journals_ rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_212_8690481,_or_permissionsacm.org.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_uthors_whose_papers_are_accepted_sign_a_form_which_transfers_copyright_to_the_ACM._This_form_will_be_sent_by_the_EditorinChief_along_with_notification_of_acceptance._The_completed_form_should_be_returned_as_indicated_on_the_form._Authors_retain_liberal_rights_to_material_published_by_the_ACM._The_following_is_the_standard_copyright_notice_used_by_ACM_journals_>
+  <base:_Manuscript_Format rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Descriptive_title">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manuscript_Format>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Copyright_and_Use_Agreement">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Procedures_for_Accepted_Papers"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_in_categories_b_and_c_should_be_referenced_by_the_TKDD_submission_and_discussed_in_the_related_work_section_of_the_submission_at_a_level_of_detail_similar_to_the_level_of_detail_used_in_the_coverage_of_related_work_by_other_authors._Papers_that_enter_into_the_categories_b_and_c_during_the_handling_of_the_TKDD_submission_should_be_afforded_the_same_coverage_in_the_first_revision_where_this_is_possible.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_Publication_Policy"/>
+  </owl:NamedIndividual>
+  <base:_Appeals rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_the_concerns_are_still_not_adequately_addressed,_then_the_author_can_appeal_to_the_Chair_of_the_ACM_Publications_Board,_in_accordance_with_ACM_policy.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Appeals>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Prepare_Final_Version">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Procedures_for_Accepted_Papers"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Disclosure_Requirement">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_Publication_Policy"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_Penn_Plaza,_Suite_701_">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1._TKDD_will_encourage_submissions_that_have_not_been_published_or_submitted_previously_to_this_or_any_other_publication,_and_submissions_which_may_significantly_contribute_to_opening_up_new_and_potentially_important_areas_of_research_and_development.___TKDD_will_do_this_by_giving_earliest_possible_publication_dates_for_such_submissions_once_they_have_been_accepted.__The_Associate_Editors,_with_the_recommendation_from_the_reviewers,_will_determine_which_submissions_fall_into_these_categories.__The_subsequent_submissions_are_then_recommended_to_the_EditorinChief,_who_will_make_the_final_decision.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_At_the_time_of_submission_and_in_writing_separate_from_the_submitted_manuscript,_the_corresponding_author_must_inform_the_handling_editor_about_all_papers_in_categories_ac._In_addition,_the_corresponding_author_should_promptly_inform_the_editor_about_any_papers_that_enter_into_categories_ac_during_the_handling_of_the_submission.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_Publication_Policy"/>
+  </owl:NamedIndividual>
+  <base:_Manuscript_Format rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_names_and_affiliations">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manuscript_Format>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Managing_Editor_">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5._The_TKDD_Editorial_Board_is_committed_to_providing_an_editorial_decision_within_five_months,_starting_with_papers_submitted_in_January_2006.__This_turnaround_time_is_defined_to_start_with_the_day_the_paper_was_submitted_electronically_and_extends_to_the_day_the_decision_was_sent_to_the_author.__It_is_expected_that_the_average_turnaround_time_will_be_even_shorter,_so_prospective_authors_can_expect_a_fast_review_of_their_submission.__TKDD_editors_will_also_regard_a_submission_to_have_been_withdrawn_if_its_required_revision_is_not_submitted_within_six_months_of_the_revision_notification.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6._TKDD_will_discourage_excessively_long_papers_longer_than_50_doublespaced_pages_including_figures,_references,_etc.,_and_unnecessary_digressions,_even_in_shorter_papers.__TKDDs_goal_is_to_motivate_the_authors_to_bring_out_the_essence_of_their_papers_more_clearly,_to_make_it_easier_for_the_reviewers_and_readers_to_follow_the_article,_and_to_allow_TKDD_to_publish_more_papers_in_any_given_issue.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <base:_Review_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submitted_papers_are_evaluated_by_anonymous_referees_for_originality,_relevance,_and_presentation._Please_see_the_TKDD_referee_guidelines_for_more_details._The_author_will_be_notified_of_the_name_of_an_Associate_Editor_who_will_be_responsible_for_the_processing_of_the_manuscript,_and_should_address_correspondence_to_that_Associate_Editor.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Review_Process>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_9._The_editor_processing_a_paper_normally_assigns_three_reviewers_to_a_paper.__Reviewers_provide_advice_to_the_editor_to_assist_himher_in_reaching_an_editorial_decision_regarding_the_paper.__The_editors_decision_may_differ_from_the_consensus_of_the_reviewers.__If_the_editor_determines_early_on_in_the_process_that_a_submission_is_a_clearreject_through_an_earlyarriving_review,_editors_own_reading,_etc.,_the_editor_may_stop_the_review_process_without_collecting_all_reviews.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Novelty_Requirement">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_Publication_Policy"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Types_of_Papers">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuscript_Preparation"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_York,_NY_101210701">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_10._TKDD_will_publish_occasional_special_issues_to_provide_timely_enhancement_to_promising_areas_of_research_and_development,_or_a_timely_consolidation_of_the_results_in_other_areas.__Guest_editors_will_be_invited_to_organize_such_issues.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Guidelines"/>
+  </owl:NamedIndividual>
+  <base:_Manuscript_Format rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Content_indicators">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manuscript_Format>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_To_submit_a_paper,_please_use_the_file_upload_submission_process._PDF_or_postscript_are_the_preferred_formats.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Submit"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuscript_Preparation"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_for_Editorial_Review"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Review_Process">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_for_Editorial_Review"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_uthors_whose_papers_are_accepted_sign_a_form_which_transfers_copyright_to_the_ACM._This_form_will_be_sent_by_the_EditorinChief_along_with_notification_of_acceptance._The_completed_form_should_be_returned_as_indicated_on_the_form._Authors_retain_liberal_rights_to_material_published_by_the_ACM._The_following_is_the_standard_copyright_notice_used_by_ACM_journals_">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Procedures_for_Accepted_Papers"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Appeals">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_for_Editorial_Review"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Procedures_for_Accepted_Papers"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuscript_Format">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuscript_Preparation"/>
+  </rdf:Description>
+</rdf:RDF>

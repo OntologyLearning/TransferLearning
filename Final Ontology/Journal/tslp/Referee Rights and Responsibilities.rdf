@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Acknowledge_their_efforts_in_the_publication_process,_while_maintaining_confidentiality_of_which_submissions_they_reviewed.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Allow_a_reasonable_time_for_a_review.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Not_routinely_ask_them_to_make_up_for_delays_introduced_by_other_participants_in_the_reviewing_cycle.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Not_ask_them_to_provide_reviews_for_submissions_that_do_not_satisfy_either_stated_publications_requirements_or_which_are_obviously_inappropriate_for_the_publication._A_TSLP_EditorinChief_checks_every_submission_to_ensure_that_it_satisfies_the_stated_publication_requirements_and_is_appropriate,_and_desk_rejects_those_that_are_inappropriate.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tell_them_who_will_see_the_reviews._The_authorvisible_portion_of_reviews_as_well_as_the_final_editorial_decision_will_be_provided_to_the_contact_author_as_well_as_to_the_reviewers_once_an_editorial_decision_has_been_made._No_one_else_will_be_shown_the_reviews.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Maintain_anonymity_of_reviews._TSLP_employs_singleblind_reviewing._The_identity_of_reviewers_will_not_be_revealed_to_the_authors_or_to_the_other_reviewers.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ask_them_if_they_are_willing_to_review_before_the_submission_is_sent_to_them._The_papers_abstract_and_the_deadline_for_the_review_will_accompany_this_request.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recognize_that_reviewers_own_the_copyright_for_their_reviews.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Request_them_to_review_only_submissions_for_which_the_editor_feels_they_have_expertise.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recognize_that_they_have_the_right_to_decline_a_requested_review,_both_before_and_after_they_have_been_sent_a_manuscript.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Strive_to_not_overload_referees_with_TSLP_reviews._Specifically,_TSLP_will_not_expect_referees_to_formally_review_more_than_one_TSLP_paper_in_any_sixmonth_period.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <base:_Referee_Rights_and_Responsibilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Inform_them_of_the_editorial_decisions_for_the_submission,_including_the_authorvisible_portion_of_reviews._Sending_reviewers_all_the_reviews_allows_them_to_see_what_the_other_reviewers_thought_of_the_manuscript_and_allows_them_to_calibrate_future_reviews.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Referee_Rights_and_Responsibilities>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Rights_and_Responsibilities"/>
+</rdf:RDF>

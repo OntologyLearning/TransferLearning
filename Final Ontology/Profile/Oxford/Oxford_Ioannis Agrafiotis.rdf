@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Before_joining_Cybervis,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prior_to_my_postdoctoral_experience,_I_completed_a_PhD_in_Engineering_at_the_Warwick_Manufacturing_Centre_WMG,_University_of_Warwick,_focusing_on_formal_methods_for_information_privacy._During_my_doctoral_studies,_I_worked_on_the_EnCoRe_project_through_which_I_received_an_EPSRC_studentship._I_also_hold_an_MSc_in_Analysis,_Design_and_Management_of_Information_Systems_from_the_London_School_of_Economics_and_Political_Science_in_the_UK_and_a_BSc_in_Applied_Informatics_from_the_University_of_Macedonia_in_Greece">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jason_R.C._NursePhilip_A._LeggOliver_BuckleyIoannis_AgrafiotisGordon_WrightMonica_WhittyDavid_UptonMichael_Goldsmith_and_Sadie_Creese">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Events">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </base:_RSS_Feeds>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Themes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Students">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_a_postdoctoral_researcher_at_the_Cyber_Security_Centre._Currently,_I_am_working_on_CyberVis,_a_Dstl_funded_project,_aiming_to_create_a_tool_to_increase_situational_awareness_in_CERT_environments._My_specific_research_interests_lay_in_business_process_modeling_and_optimisation,_human_computer_interaction_and_in_the_use_and_development_of_formal_methods">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_People">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jason_R.C._NurseIoannis_AgrafiotisMichael_GoldsmithSadie_CreeseKoen_LambertsDarren_Price_and_Glyn_Jones">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_Seminars">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Seminars__timetables">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__Studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Managing_the_influence_of_social_media_using_information_trust">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Project_news">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Journal_of_Wireless_Mobile_NetworksUbiquitous_Computingand_Dependable_Applications._Vol._4._No._4._Pages_207._2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Practical_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Class_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activities">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recent_News"/>
+  </base:_RSS_Feeds>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Awards">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Towards_a_Conceptual_Model_and_Reasoning_Structure_for_Insider_Threat_Detection">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cyber_Security_Centre">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Cyber_Security_Inside_and_Out._I_have_also_worked_on_the_TSB_and_EPSRC_funded_TEASE_project,_researching_how_people_understand_information_quality_and_provenance,_and_looking__to_develop_mechanisms_that_effectively_communicate_trustworthiness">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Before_joining_Cybervis,_I_worked_on_a_research_project_aiming_at_developing_a_system_able_to_reason_for_and_anticipate_insiderthreat_attacks_Corporate_Insider_Threat_Detection">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EnCoRe___TEASE___CyberVis___Corporate_Insider_Threat_Detection">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Home">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Ioannis_Agrafiotis">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ioannis_Agrafiotis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal__Intranet">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_International_Conference_on_Human_Aspects_of_Information_SecurityPrivacy_and_Trust_at_the_16th_International_Conference_on_HumanComputer_Interaction_HCI._Springer._2014">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Oxford_papers_on_Insider_Threat_accepted_to_key_computer_security_conferences_and_workshops">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recent_News"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edit_website__database_login">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellaneous">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_To_appear">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_news">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Assistant">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ioannis_Agrafiotis"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </base:_RSS_Feeds>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lecture_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prospective_Students">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Us">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Social_Influence_in_the_Information_Age_Conference._2014">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robert_Hooke_Building,_Parks_Road,_Oxford_OX1_3PR">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ioannis_Agrafiotis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IT_Support">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry_Liaison">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philip_A._LeggNick_MoffatJason_R.C._NurseJassim_HappaIoannis_AgrafiotisMichael_Goldsmith_and_Sadie_Creese">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_critical_reflection_on_the_threat_from_human_insiders_its_natureindustry_perceptionsand_detection_approaches">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ioannis_Agrafiotis"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recent_News"/>
+</rdf:RDF>

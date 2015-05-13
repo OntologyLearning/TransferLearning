@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Lloyd_Chapman rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Student,_Lady_Margaret_Hall">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Lloyd_Chapman>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Awards">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_a_first_step_toward_incorporating_the_feedback_effects_of_the_cells_on_the_fluid_flow_and_nutrient_distribution_in_the_bioreactor,_we_have_developed_a_2D_model_of_cell_aggregates_growing_along_a_membrane_separating_an_inflow_and_outflow_region,_in_which_the_permeability_of_the_membrane_surface_is_reduced_by_the_presence_of_the_cell_aggregates._Since_the_cell_regions_are_discrete_it_is_necessary_to_solve_the_governing_equations_numerically._This_model_has_been_used_to_investigate_the_influence_of_the_initial_cell_aggregate_distribution_on_the_subsequent_growth_and_indicates_that_the_combination_of_the_distribution_and_flow_conditions_has_a_major_impact_on_the_cell_yield">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_References">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Lloyd_Chapman rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wolfson_Building,_Parks_Road,_Oxford_OX1_3QD">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Lloyd_Chapman>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3974,_2010">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_future_aims_of_the_project_are_to_develop_more_detailed_mechanical_models_for_the_interaction_of_cells_sparsely_seeded_on_a_bioreactor_scaffold_with_the_fluid_flowing_around_them_to_consider_discrete_cellbased_models_of_tissue_growth_and_derive_continuum_approximations_of_these_models_that_include_cell_division_and_to_couple_these_discrete_and_continuum_models_together_for_tissues_in_which_a_continuum_approximation_is_not_valid_over_the_whole_domain">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2._Continuum_approximations_of_individualbased_models_for_epithelial_monolayers,_J.A._Fozard,_H.M._Byrne,_O.E._Jensen_and_J.R._King,_Mathematical_Medicine_and_Biology,_271">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_Seminars">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Themes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry_Liaison">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Class_timetable">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Project_news">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IT_Support">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Supervisors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prospective_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_To_successfully_grow_tissues_in_the_laboratory_a_better_understanding_of_the_complex_interaction_of_processes_that_underlie_tissue_growth_is_required._For_mathematical_models_and_computer_simulations_to_provide_this_insight_they_must_be_able_to_encompass_huge_changes_in_the_number_of_cells_and_considerable_heterogeneity_in_the_tissue_growth._Hybrid_models_of_tissue_growth_which_combine_discrete_and_continuum_models_at_different_times_and_in_different_regions_of_space_offer_a_potential_solution_to_this_problem">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Home">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellaneous">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Seminars__timetables">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Biology_group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Events">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </base:_Main_sections>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Us">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1._Fluid_and_mass_transport_modelling_to_drive_the_design_of_cellpacked_hollow_fibre_bioreactors_for_tissue_engineering_applications,_R.J._Shipley_and_S.L._Waters,_Mathematical_Medicine_and_Biology,_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal__Intranet">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lloyd_Chapman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lloyd_Chapman"/>
+  </owl:Class>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_have_developed_a_continuum_model_to_study_the_effect_of_fluid_and_nutrient_transport_on_the_growth_of_a_cell_layer_in_a_hollow_fibre_bioreactor_HFB._Asymptotic_analysis_was_used_to_reduce_the_governing_equations_for_the_fluid_and_nutrient_transport_to_an_analytically_tractable_system_by_exploiting_the_small_aspect_ratio_of_the_bioreactor._The_cell_layer_was_assumed_to_grow_in_response_to_the_quasisteady_local_nutrient_concentration_and_the_growth_law_solved_numerically._Simulation_results_show_that_nutrient_delivery_to,_and_waste_product_removal_from,_the_cells_is_improved_by_opening_the_exit_ports_on_the_outside_of_the_bioreactor,_which_enhances_radial_flow_through_the_membrane_to_the_cells._The_model_suggests_that_this_supports_greater_and_more_stable_growth_of_the_cell_layer">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Practical_timetable">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edit_website__database_login">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_People">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_news">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__Studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Biology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lecture_timetable">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  </owl:NamedIndividual>
+  <base:_Lloyd_Chapman rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Doctoral_Student">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Lloyd_Chapman>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activities">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+</rdf:RDF>

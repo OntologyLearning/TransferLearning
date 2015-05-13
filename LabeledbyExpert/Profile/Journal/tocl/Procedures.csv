@@ -1,0 +1,20 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ACM Transactions on Computational Logic (TOCL),'1-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,C
+'Procedures for Submitting Accepted Papers,'1-1-2-1,0,0,0,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Typesetting of accepted Papers,'1-1-2-2-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+"'Please prepare your manuscript using LaTeX, and follow ACM's Guidelines for Submitting Accepted Articles. If your paper has an electronic appendix then format it as explained in Section 8 of the instructions.",'1-1-2-2-1-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Electronic submission of accepted papers,'1-1-2-2-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+'There are two sets of procedures for submitting accepted papers for final publications.,'1-1-2-2-2-2-1,1,0,0,1,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,1,N
+'Papers submitted to TOCL after 1 September 2010 are using the Manuscript Central tracking system and that system will provide authors with instructions for final submission.,'1-1-2-2-2-2-2-1,1,1,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,I
+"'Papers submitted to TOCL prior to 1 September 2010 are using the TOCL Editorial Office. In this case, follow the instructions below.",'1-1-2-2-2-2-2-2,1,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Submissions of accepted papers via the TOCL Editorial Office,'1-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'For submissions that were not submitted via Manuscript Central: The preferred form of submitting the files is by sending to the TOCL Editorial Office, acm-tocl@cs.utexas.edu, the URL address from which they can be fetched.",'1-2-1-2-1,2,0,0,1,0,2,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'In the same email please send the precise address and email of the corresponding author. He/she will be in charge of the galley proofs.,'1-2-1-2-2,1,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Please send the URL's of the following files:,'1-2-1-2-3,0,0,0,1,0,2,0,2,1,1,1,1,0,1,0,0,0,0,0,0,1,1,2,C
+"'the PDF file that corresponds to the manuscript,",'1-2-1-2-4-1,0,1,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'the single LaTeX2e file (so the .bbl file needs to be included in the .tex file), and the EPS files for all graphics (if there are many files in this group, please send a URL of a single gzipped tar file instead).",'1-2-1-2-4-2,2,1,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'What happens after you submitted the files to the TOCL Editorial Office?,'1-2-2-1,1,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'The PDF file will be placed in the list of Accepted Papers for TOCL.,'1-2-2-2-1-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'The copyedited the manuscript will be sent from the ACM Headquarters to the corresponding author for possible corrections.,'1-2-2-2-1-2,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'The corresponding author will be asked to process these corrections in his/her LaTeX files and resubmit them to the TOCL Editorial Office in the same way as originally.,'1-2-2-2-1-3,1,1,0,1,0,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Back to home page,'1-2-2-2-2,0,0,0,1,0,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N

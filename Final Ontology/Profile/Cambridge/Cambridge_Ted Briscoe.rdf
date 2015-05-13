@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_email rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__ejb_at_domain_cl.cam.ac.uk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_email>
+  <base:_Ted_Briscoe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_William_Gates_Building,_JJ_Thomson_Avenue">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ted_Briscoe>
+  <base:_Ted_Briscoe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CAMBRIDGE_CB3_OFD,_United_Kingdom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ted_Briscoe>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Google_Scholar_Search">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Papers"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MS_Academic_Search">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Papers"/>
+  </owl:NamedIndividual>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Textual_Information_Management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Google_Scholar_Profile">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Papers"/>
+  </owl:NamedIndividual>
+  <base:_work rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__44_1223_334616,_fax">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_work>
+  <base:_Ted_Briscoe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Laboratory,_University_of_Cambridge">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ted_Briscoe>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Linguistics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <base:_Ted_Briscoe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professorial_Fellow,_Girton_College">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ted_Briscoe>
+  <base:_Ted_Briscoe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_of_Computational_Linguistics,_NLIP_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ted_Briscoe>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Speech_and_Language_Processing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Gate">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Papers"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Interests">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Information"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Information"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Papers"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_email">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ted_Briscoe"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ted_Briscoe"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_work">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ted_Briscoe"/>
+  </rdf:Description>
+</rdf:RDF>

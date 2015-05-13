@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_3,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_May_3,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_December_1,_2010_February_1,"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_15,"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_8,"
+  xmlns:ns6="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Concerning_author_instructions_and_conference_registration,"
+>
+  <base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Modeling_and_control_of_complex_highdimensional_systems_by_combining_physicsbased_models,_modelbased_reasoning,_optimization_and_control_methods,_and_machine_learning_models_built_from_sensor_data._Examples_include_global_and_regional_climate_models,_ecosystems_models,_models_of_operation_of_office_buildings_and_data_centers.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following>
+  <ns3:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Authors_register_on_the_AAAI_web_site">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns3:_2011>
+  <base:_Modeling_the_interactions_of_agents_with_different_and_often_conflicting_interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__multiagent_systems,_multiagent_equilibrium_models,_game_theory,_and_design_of_effective_mechanisms_and_policies_for_the_exchange_of_goods.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Modeling_the_interactions_of_agents_with_different_and_often_conflicting_interests>
+  <base:_Special_Track_Cochairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brian_C._Williams_Massachusetts_Institute_of_Technology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Track_Cochairs>
+  <base:_Abstract_submission_will_close_at_11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_59_PM_PST_on_February_3,_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Abstract_submission_will_close_at_11>
+  <base:_AAAI_requires_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_must_withdraw_papers_under_review_or_accepted_for_other_AI_conference_venues_if_the_paper_is_submitted_to_AAAI.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI_requires_the_following>
+  <ns4:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Notification_of_acceptance_or_rejection">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns4:_2011>
+  <base:_Sustainability_domains_and_areas_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_human_behavior_for_example,_human_wellbeing,_poverty,_infectious_diseases,_overpopulation,_resource_harvesting,_and_so_on.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sustainability_domains_and_areas_include_the_following>
+  <base:_Abstract_and_Paper_Submission rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Electronic_abstract_and_paper_submission_through_the_AAAI11_special_track_paper_submission_site_is_required_on_or_preferably_before_the_deadline_dates_listed_above._We_cannot_accept_submissions_by_email_or_fax.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Abstract_and_Paper_Submission>
+  <base:_Sustainability_domains_and_areas_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Humanbuilt_systems_and_land_use_for_example,_transportation_systems,_cities,_buildings,_datacenters,_food_systems,_agriculture,_and_so_on.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sustainability_domains_and_areas_include_the_following>
+  <base:_AAAI11_Policy_Concerning_Submissions_to_Other_Conferences_or_Journals rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_submitted_to_this_conference_must_not_have_been_accepted_for_publication_elsewhere_or_be_under_review_for_another_AI_conference._The_AAAI_Nectar_paper_submissions_have_specific_guidelines_that_can_be_found_in_that_call_for_papers.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Policy_Concerning_Submissions_to_Other_Conferences_or_Journals>
+  <ns1:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Electronic_abstracts_due">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_2011>
+  <base:_Registration_will_close_at_11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_00_PM_PST_on_February_3,_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Registration_will_close_at_11>
+  <base:_Sustainability_domains_and_areas_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_This_special_track_invites_the_submission_of_research_papers_on_novel_concepts,_models,_algorithms,_and_systems,_in_order_to_address_problems_in_computational_sustainability._We_are_looking_for_a_broad_range_of_papers_ranging_from_formal_analysis_to_applied_research._Examples_include_papers_explaining_how_the_research_addresses_specific_computational_problems,_opportunities,_or_issues_underlying_sustainability_challenges_and_papers_describing_a_sustainability_challenge_or_application_that_can_be_tackled_using_AI_methods._Papers_proposing_general_challenges_and_competitions_for_computational_sustainability_are_also_welcome.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sustainability_domains_and_areas_include_the_following>
+  <ns2:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Cameraready_copy_due_at_AAAI_office">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_2011>
+  <ns6:_write_to rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_aaai11aaai.org">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns6:_write_to>
+  <base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Control_and_optimization_of_dynamic_and_spatiotemporal_systems._Examples_include_constraint_reasoning_and_optimization,_MDPsPOMDPs,_stochastic_programming,_modelbased_reasoning,_and_optimal_control_of_hybrid_dynamical_systems_for_management_and_control_of_complex_systems_ranging_from_ecosystems_and_natural_resources,_to_humanbuilt_systems_such_as_transportation_and_energy_networks,_communities,_and_cities,_to_socialeconomic_phenomena.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following>
+  <ns5:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Electronic_papers_due">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns5:_2011>
+  <base:_Special_Track_Cochairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Carla_P._Gomes_Cornell_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Track_Cochairs>
+  <base:_Sensor_networks_for_monitoring_environments rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__data_collection,_analysis,_synthesis,_and_inference_in_largescale_autonomous_sensor_networks.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sensor_networks_for_monitoring_environments>
+  <base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Modeling_and_prediction_of_dynamic_and_spatiotemporal_phenomena_and_systems._Examples_include_bird_migration,_invasive_species_diffusion,_ocean_spatial_impacts_of_climate_change,_and_poverty_mapping.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following>
+  <base:_AAAI_requires_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_not_dually_submitted_should_so_indicate_on_the_title_page.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI_requires_the_following>
+  <base:_Final_paper_submission_will_close_at_11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_59_PM_PST_on_February_8,_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Final_paper_submission_will_close_at_11>
+  <base:_AAAI11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Computational_Sustainability_and_Artificial_Intelligence_Special_Track">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11>
+  <base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Network_modeling,_prediction,_and_optimization._Examples_include_transportation_networks,_power_grid,_food_networks,_epidemic_networks,_and_social_networks.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following>
+  <base:_Sustainability_domains_and_areas_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Natural_resources_and_the_environment_for_example,_climate,_atmosphere,_water,_oceans,_forest,_land,_soil,_biodiversity,_species,_and_so_on.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sustainability_domains_and_areas_include_the_following>
+  <base:_Sustainability_domains_and_areas_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Energy_resources_for_example,_renewable_energy,_smart_grid,_material_discovery_for_fuel_cell_technology,_and_so_on.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sustainability_domains_and_areas_include_the_following>
+  <base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Support_for_public_engagement_and_decision_making_by_the_public_collecting,_modeling,_and_presenting_relevant_information_via_usable_interfaces_preference_elicitation_and_automated_decision_making_for_power_purchases_managing_the_timing_of_appliance_loads_to_minimize_cost_while_maximizing_preferences_crowdsourcing_and_citizen_science_computer_games_and_intelligent_tutoring_systems_and_models,_methods_and_tools_for_dissemination_and_increasing_awareness_of_sustainability_practices.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following>
+  <base:_AAAI_requires_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_must_specify_the_conferences_and_journals_to_which_the_paper_has_been_dually_submitted.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI_requires_the_following>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sensor_networks_for_monitoring_environments">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Special_Track_of_the_TwentyFifth_Conference_on_Artificial_Intelligence"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sustainability_domains_and_areas_include_the_following">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Special_Track_of_the_TwentyFifth_Conference_on_Artificial_Intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Sustainability_and_Artificial_Intelligence"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract_and_Paper_Submission"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_December_1,_2010_February_1,_2011">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Special_Track_of_the_TwentyFifth_Conference_on_Artificial_Intelligence"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Questions_and_Suggestions"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Sustainability_and_Artificial_Intelligence"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_3,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Concerning_author_instructions_and_conference_registration,_write_to">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Questions_and_Suggestions"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_15,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_requires_the_following"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Policy_Concerning_Submissions_to_Other_Conferences_or_Journals"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Final_paper_submission_will_close_at_11">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_May_3,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_February_8,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Modeling_the_interactions_of_agents_with_different_and_often_conflicting_interests">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_AI_topics_that_address_computational_sustainability_issues_are_relevant._Examples_of_AI_topics_include_the_following"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract_submission_will_close_at_11">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_Cochairs"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Registration_will_close_at_11">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_Registration"/>
+</rdf:RDF>

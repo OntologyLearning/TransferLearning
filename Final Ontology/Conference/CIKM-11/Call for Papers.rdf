@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Evaluation_measures,_methods_and_frameworks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_topics_related_to_IR_Adverserial_IR,_Advertising,_Privacy,_Text_Mining,_etc.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Tutorial_chairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Jaap_Kamps_University_of_Amsterdam_and_Fabrizio_Silvestri_ISTICNR">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Tutorial_chairs>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Web_and_Social_Knowledge_Management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_Learning_for_IR">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Data_exchange,_integration,_evolution_and_migration">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authorization,_data_privacy_and_security">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_HCIR,_User_Interfaces,_Interactive_IR,_User_models,_User_studies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Papers_due rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__May_24,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Papers_due>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mining_the_usage,_consumption_and_production_of_resources">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Classification_and_clustering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dynamic_aspects_of_databases_updates,_views,_realtime_data,_sensor_data,_active_databases,_data_streams">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Panel_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Jeremy_Pickens_Catalyst_Repository_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Panel_chair>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Link_and_graph_Mining">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Semantic_techniques">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Concurrency_control_and_recovery">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Evaluation,_Test_collections,_Crowdsourcing_for_IR_evaluation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Systems,_platforms,_middleware_and_experiences">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Industry_Event_chairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Daniel_Tunkelang_LinkedIn_and_Tony_RussellRose_Endeca">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry_Event_chairs>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_String_databases,_blogs_and_social_search">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Knowledge_and_privacy_e.g.,_privacypreserving_data_publishing_and_mining">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Noveladvanced_applications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Industry_Research_Track rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industrial_Practice_and_Experience">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry_Research_Track>
+  <base:_Multimedia_IR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__audio,_speech,_image,_video,_and_crossmedia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Multimedia_IR>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Data_pre_and_postprocessing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Poster_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Gianni_Amati_FUB">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Poster_chair>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Personalised_and_collaborative_search">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Notification_of_Acceptance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__July_19,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Notification_of_Acceptance>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Language_technologies_for_IR_NLP,_IE,_Summarization,_QA,_...">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Query_processing,_optimization_and_performance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Domainspecific_databases_multimedia,_scientific,_spatial,_temporal,_text">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Conference_coChairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Iadh_Ounis_University_of_Glasgow_and_Ian_Ruthven_University_of_Strathclyde">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Conference_coChairs>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Filtering_and_Recommender_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Industry_Research_Track rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Technology_for_Developing_Regions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry_Research_Track>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </owl:Class>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Databases">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <base:_Abstracts_due rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__May_17,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Abstracts_due>
+  <base:_Domainspecific_IR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__genomic,_legal,_mobile,_patents,_...">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Domainspecific_IR>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Extraction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_System_Architectures,_Scalability_and_Efficiency">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Advertising_and_optimization">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Semantic_Web_and_ontologies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mobile,_parallel_and_distributed_data_management_including_cloud_computing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Camera_Ready rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__August_12,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Camera_Ready>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Knowledge_synthesis_and_visualization">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Workshop_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Craig_Macdonald,_University_of_Glasgow">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Workshop_chair>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Web_IR_and_Social_media_search">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Data_quality,_provenance,_adaptability_and_reusability">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Database_languages_and_models_e.g.,_fuzzy_data,_probabilistic_databases,_metadata_management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aggregated_search,_Enterprise_search,_Desktop_search">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crosslanguage_retrieval,_Multilingual_retrieval,_Machine_translation_for_IR">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Semistructured_information_retrieval,_Semantic_search">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_PC_CoChairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Arjen_de_Vries_CWI_and_University_of_Delft,_Bettina_Berendt_KU_Leuven_and_Wenfei_Fan_University_of_Edinburgh">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_PC_CoChairs>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workflow,_Web_services_and_Web_Service_Composition">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Information_Retrieval rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Distributed_IR,_Peer_to_peer_IR">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Retrieval>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Temporal,_Spatial_and_Ubiquitous_Data_Mining">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Largescale_statistical_techniques">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Foundations_of_IR rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Theory,_Formal_models">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Foundations_of_IR>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Text_Mining">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <base:_Demonstration_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Omar_Alonso_Microsoft">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Demonstration_chair>
+  <base:_Access_methods_and_indexing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Semistructured_data_processing,_XML_filtering_and_routing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Access_methods_and_indexing>
+  <base:_Knowledge_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Domainspecific_and_crossdomain_knowledge_management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Knowledge_Management>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry_Research_Track">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foundations_of_IR">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Retrieval">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_chairs">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Camera_Ready">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates_for_Full_papers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Access_methods_and_indexing">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notification_of_Acceptance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates_for_Full_papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Knowledge_Management">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Panel_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Poster_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Multimedia_IR">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Retrieval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PC_CoChairs">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Conference_coChairs">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Domainspecific_IR">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Retrieval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry_Event_chairs">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Demonstration_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIKM_2011_Organization_Team"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_due">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates_for_Full_papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstracts_due">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates_for_Full_papers"/>
+  </rdf:Description>
+</rdf:RDF>

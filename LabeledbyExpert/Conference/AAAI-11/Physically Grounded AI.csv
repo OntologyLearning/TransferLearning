@@ -1,0 +1,63 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'AAAI-11: Physically Grounded Artificial Intelligence Special Track,'1-1,1,0,1,2,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Physically Grounded Artificial Intelligence,'1-2-2-1-2-1-1-1-1,0,0,0,2,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'A Special Track of the Twenty-Fifth Conference on Artificial Intelligence,'1-2-2-1-2-1-1-1-2,1,0,0,2,1,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'Call for Papers,'1-2-2-1-2-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,1,1,1,1,1,C
+"'December 1, 2010 – February 1, 2011: Authors register on the AAAI web site",'1-2-2-1-2-1-1-2-1-2-1,1,1,0,1,0,2,0,1,0,2,1,0,1,0,0,0,0,0,1,0,0,0,0,1,I
+"'February 3, 2011: Electronic abstracts due",'1-2-2-1-2-1-1-2-1-2-2,0,1,0,1,0,2,0,1,0,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+"'February 8, 2011: Electronic papers due",'1-2-2-1-2-1-1-2-1-2-3,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,1,1,0,0,2,I
+"'April 15, 2011: Notification of acceptance or rejection",'1-2-2-1-2-1-1-2-1-2-4,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,1,0,0,2,I
+"'May 3, 2011: Camera-ready copy due at AAAI office",'1-2-2-1-2-1-1-2-1-2-5,1,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,1,0,0,0,0,2,I
+'Paper Submission Site,'1-2-2-1-2-1-1-2-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,2,N
+'Author Instructions Page,'1-2-2-1-2-1-1-2-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Blind Review Instructions,'1-2-2-1-2-1-1-2-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+"'Robotics, computer vision, human behavior modeling, social network analysis, and similar disciplines where computers interface to physical environments have proven to be a major source of inspiration and crucial new insights into artificial intelligence. Physical grounding provides ready access to challenging, real problems of perception and action with a rich source of data and the related stochastic effects. Further, applications of physically grounded AI have enormous potential to improve research, learning, entertainment, commerce, and society as a whole.",'1-2-2-1-2-1-1-2-2-2-2,2,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,3,N
+"'The special track invites research papers on AI techniques, systems and concepts applied to physically grounded systems including activity recognition, robotics, and machine perception.",'1-2-2-1-2-1-1-2-2-2-3,1,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'Papers should either describe related research or clearly explain how the work addresses problems in physically embodied agents, opportunities or issues underlying such systems. Relevant topics include the following:",'1-2-2-1-2-1-1-2-2-2-4,1,0,0,1,0,0,0,2,1,2,1,1,0,1,0,0,0,0,0,1,0,1,1,3,C
+'AI for robotics,'1-2-2-1-2-1-1-2-2-2-5-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'AI applied to health, development, and sustainability problems",'1-2-2-1-2-1-1-2-2-2-5-2,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Activity and context recognition,'1-2-2-1-2-1-1-2-2-2-5-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Computer vision and 3D perception,'1-2-2-1-2-1-1-2-2-2-5-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Educational robotics,'1-2-2-1-2-1-1-2-2-2-5-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Intelligence and perception for human-robot interaction,'1-2-2-1-2-1-1-2-2-2-5-6,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Machine learning applied to robotics and perception,'1-2-2-1-2-1-1-2-2-2-5-7,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Machine learning applied to speech and conversation modeling,'1-2-2-1-2-1-1-2-2-2-5-8,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Machine learning for control and decision making,'1-2-2-1-2-1-1-2-2-2-5-9,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Manipulation and navigation planning,'1-2-2-1-2-1-1-2-2-2-5-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Prediction and planning for transportation,'1-2-2-1-2-1-1-2-2-2-5-11,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Mobile sensing and sensor networks,'1-2-2-1-2-1-1-2-2-2-5-12,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Situated language for robotics,'1-2-2-1-2-1-1-2-2-2-5-13,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Social network modeling,'1-2-2-1-2-1-1-2-2-2-5-14,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Papers will be reviewed by qualified reviewers drawn from a special track committee, with specific expertise in the above areas, as well as the general AAAI program committee. Submissions to this special track deemed not to be relevant may be considered for review for the general technical papers track at the discretion of the track and conference cochairs.",'1-2-2-1-2-1-1-2-2-2-6,2,0,0,1,0,0,0,0,1,2,1,1,0,0,1,0,0,0,0,0,0,0,0,2,N
+'Author Registration,'1-2-2-1-2-1-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'Authors must register at the Authors must register at the AAAI-11 Physically Grounded Artificial Intelligence Special Track web-based technical paper submission site. The software will assign a password, which will enable the author to log on to submit an abstract and paper. In order to avoid a rush at the last minute, authors are encouraged to register as soon as possible after December 1, and well in advance of the February 3 abstract deadline.",'1-2-2-1-2-1-2-2-1,2,0,0,1,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,1,N
+"'Registration will close at 11:00 PM PST on February 3, 2011.",'1-2-2-1-2-1-2-2-2-1,1,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,1,0,0,0,0,3,I
+"'Abstract submission will close at 11:59 PM PST on February 3, 2011.",'1-2-2-1-2-1-2-2-2-2,1,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,0,0,0,2,I
+"'Final paper submission will close at 11:59 PM PST on February 8, 2011.",'1-2-2-1-2-1-2-2-2-3,1,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,2,I
+'Abstract and Paper Submission,'1-2-2-1-2-1-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,2,C
+'Electronic abstract and paper submission through the AAAI-11 special track paper submission site is required on or (preferably) before the deadline dates listed above. We cannot accept submissions by e-mail or fax.,'1-2-2-1-2-1-3-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,N
+"'Papers must be in trouble-free, high resolution PDF format, formatted for US letter (8.5"" x 11"") paper, using type 1 or TrueType fonts. Papers may be no longer than 6 pages including references, and formatted in AAAI two-column, camera-ready style (see the author instructions page). Please note that these formatting instructions are for final, accepted papers; no additional pages can be purchased at the review stage. In addition, the copyright slug may be omitted in the initial submission phase. Please also refer to the blind-review webpage for instructions on how to prepare your paper for blind review.",'1-2-2-1-2-1-3-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'Authors will receive confirmation of receipt of their abstracts or papers, including an ID number, shortly after submission. AAAI will contact authors again only if problems are encountered with papers. Inquiries regarding lost papers must be made no later than February 15, 2011.",'1-2-2-1-2-1-3-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,3,N
+'Submissions to Other Conferences or Journals: Papers submitted to this conference must not have been accepted for publication elsewhere or be under review for another AI conference. The guidelines of the AAAI policy on multiple submissions are fully detailed below and must be carefully followed.,'1-2-2-1-2-1-3-2-4,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'Review Process: Program committee members will identify papers they are qualified to review based on the information submitted electronically (the paper's title, keywords, and abstract). Their reviewing will be done blind to the identities of the authors and their institutions.",'1-2-2-1-2-1-3-2-5,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'Authors will have a limited opportunity to respond to initial reviews. This author's feedback may then be taken into account in the final reviews and recommendations. The program committee's reviews will make recommendations to the senior program committee, which in turn will make recommendations to the track cochairs. Although the track cochairs will formally make all final decisions, in practice almost all will be made earlier in the process.",'1-2-2-1-2-1-3-2-6,2,0,0,1,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,3,N
+'Publication: Accepted papers will be allocated six (6) pages in the conference proceedings. Up to two (2) additional pages may be used at a cost to the authors of US$ 275 per page. Final papers exceeding eight (8) pages and those violating the instructions to authors will not be included in the proceedings. Authors will be required to transfer copyright of their paper to AAAI.,'1-2-2-1-2-1-3-2-7,2,0,0,1,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Questions and Suggestions,'1-2-2-1-2-1-4-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'Concerning author instructions and conference registration, write to:",'1-2-2-1-2-1-4-2-1,0,0,0,1,0,0,0,2,1,2,1,0,1,0,0,0,0,0,0,0,0,1,1,1,C
+'aaai11@aaai.org,'1-2-2-1-2-1-4-2-2,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,1,I
+"'Concerning suggestions for the program and other inquiries, write to the special track cochairs.",'1-2-2-1-2-1-4-2-3,1,0,0,1,0,0,0,0,1,2,1,0,0,1,1,0,0,0,0,0,0,0,0,2,N
+'Special Track Cochairs,'1-2-2-1-2-1-5-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,1,1,3,C
+'Kurt Konolige (Willow Garage),'1-2-2-1-2-1-5-2-1-1,0,1,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Tanzeem Choudhury (Dartmouth College),'1-2-2-1-2-1-5-2-1-2,0,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+'The Special Track on Physically Grounded Artificial Intelligence call for papers is also available as a printable PDF document,'1-2-2-1-2-1-5-2-2,1,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'AAAI-11 Policy Concerning Submissions to Other Conferences or Journals,'1-2-2-1-2-1-6-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Papers submitted to this conference must not have been accepted for publication elsewhere or be under review for another AI conference. (The AAAI Nectar paper submissions have specific guidelines that can be found in that call for papers.),'1-2-2-1-2-1-6-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,1,0,0,0,1,N
+"'To encourage interdisciplinary contributions, AAAI will consider work that has been submitted or presented in part elsewhere, if it is unlikely to have been seen by more than a few members of the AAAI audience. As such, papers may not be dually submitted to other AI or AI subarea conferences. Papers under submission to a journal that contain overlap with AAAI papers will be considered as long as the author specifies the dual submission and certifies that the journal submission contains significant material that is not included in the AAAI submission. Papers that have been published in full in another conference or journal will not be accepted for review. Novelty is an important criterion in the selection of papers.",'1-2-2-1-2-1-6-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+'AAAI requires the following:,'1-2-2-1-2-1-6-2-3,0,0,0,1,0,2,0,2,2,2,1,0,0,1,0,0,0,0,0,0,0,1,1,3,C
+'Authors must specify the conferences and journals to which the paper has been dually submitted.,'1-2-2-1-2-2-1,1,1,0,1,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Authors must withdraw papers under review or accepted for other AI conference venues if the paper is submitted to AAAI.,'1-2-2-1-2-2-2,1,1,0,1,0,0,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Papers not dually submitted should so indicate on the title page.,'1-2-2-1-2-2-3,1,1,0,1,0,0,0,0,2,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+"'For questions as to whether a given meeting is considered under the dual submission policy, or for clarifications of this policy, submitters should contact the Program Chairs.",'1-2-2-1-2-3,1,0,0,1,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'AAAI Conferences AI Magazine AI Topics Awards Calendar Digital Library Meetings Membership Press Room Publications Resources Symposia Workshops,'1-2-2-2-1,1,0,0,0,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Terms and Conditions Privacy Policy About AAAI Search Contact AAAI,'1-2-2-2-2,1,0,0,0,0,2,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Copyright,'1-2-2-2-3,0,0,0,0,0,1,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N

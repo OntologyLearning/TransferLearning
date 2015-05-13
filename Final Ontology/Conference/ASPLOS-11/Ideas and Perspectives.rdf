@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Invited_presentation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Human_Processing_Units">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Invited_presentation>
+  <base:_Submissions_of_selected_presentations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shared_Memory_via_Execution_Migration">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submissions_of_selected_presentations>
+  <base:_Instruction_Subset_Architectures_ISA rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Guaranteeing_Functionality_in_High_Defect_Rate_Technologies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Instruction_Subset_Architectures_ISA>
+  <base:_Format_of_the_Session rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proceedings_Accepted_submissions_will_be_posted,_together_with_slides,_on_a_blog_site.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Format_of_the_Session>
+  <base:_Abstract rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#___Computermediated_human_microlabor_markets_allow_human_effort_to_be_treated_as_a_programmatic_function_call._Rather_than_thinking_of_employees_when_we_design_tasks,_we_can_characterize_these_platforms_as_Human_Processing_Units_HPU._This_is_a_first_class_computational_platform,_which_is_different_from_CPU_based_computation,_and_deserves_careful_characterization_and_study._We_demonstrate_that_simple_HPU_computation_can_be_more_accurate_than_complex_CPU_based_algorithms_on_some_important_computer_vision_tasks._We_also_argue_that_HPU_computation_can_be_cheaper_than_stateoftheart_CPU_based_computation._Finally_we_give_some_simplistic_examples_of_characterizing_the_HPU.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Abstract>
+  <base:_What_is_solicited rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Questions_about_suitability_of_a_topic_Email_bodikcs.berkeley.edu.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_What_is_solicited>
+  <base:_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ras_Bodik_chair,_UC_Berkeley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Program_Committee>
+  <base:_What_is_solicited rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2page_papers_in_10pt_singlespaced,_in_either_one_or_singlecolumn,_PDF_format.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_What_is_solicited>
+  <base:_Submissions_of_selected_presentations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hiren_D._Patel_and_Siddharth_Garg">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submissions_of_selected_presentations>
+  <base:_Submissions_due rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Jan_5,_2011,_8pm_PST">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submissions_due>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sixteenth_International_Conference_on"/>
+  <base:_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bill_Thies,_Microsoft_Research_India">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Program_Committee>
+  <base:_Notification_of_acceptance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#___Jan_15,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Notification_of_acceptance>
+  <base:_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reflections,_predictions,_and_trend_identification.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics>
+  <base:_Format_of_the_Session rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Some_of_the_talks_will_be_given_by_invited_speakers.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Format_of_the_Session>
+  <base:_Format_of_the_Session rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_68_short_talks_around_10_minutes,_with_enough_time_for_followup_questions_to_start_a_discussion.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Format_of_the_Session>
+  <base:_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Innovative_ideas_relevant_or_partly_relevant_to_ASPLOS,_especially_those_that_promise_to_be_previews_of_future_influential_projects.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics>
+  <base:_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Newport_Beach,_California,__March_5__11,__2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011>
+  <base:_Invited_presentation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_James_Davis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Invited_presentation>
+  <base:_Submissions_of_selected_presentations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jacob_Nelson,_Adrian_Sampson,_and_Luis_Ceze">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submissions_of_selected_presentations>
+  <base:_Submission_Guidelines rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_send_submissions_by_the_deadline_to_asplos2011.ideasgmail.com._Include_a_complete_list_of_authors,_their_affiliations_and_email_address,_and_identify_the_corresponding_author_for_your_submission.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submission_Guidelines>
+  <base:_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_challenges_and_application_areas_for_ASPLOS_technologies.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics>
+  <base:_Submissions_of_selected_presentations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mieszko_Lis,_Keun_Sup_Shim,_Omer_Khan,_and_Srinivas_Devadas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submissions_of_selected_presentations>
+  <base:_Submissions_of_selected_presentations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dense_Approximate_Storage_in_PhaseChange_Memory">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submissions_of_selected_presentations>
+  <base:_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nickolai_Zeldovich,_MIT">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Program_Committee>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dates">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notification_of_acceptance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_Guidelines">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Topics">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_due">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Format_of_the_Session">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instruction_Subset_Architectures_ISA">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_of_selected_presentations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Invited_presentation">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_What_is_solicited">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Invited_presentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Program_Committee">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ideas_and_Perspectives"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011"/>
+</rdf:RDF>

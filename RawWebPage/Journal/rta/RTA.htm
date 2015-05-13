@@ -1,0 +1,965 @@
+<html>
+  <head>
+    <title>RTA</title>
+    <!-- Changed by: Laurent Vigneron, 01-Dec-2009 -->
+  </head>
+
+  <body>
+    <p><br></p>
+    <center>
+      <strong>
+      	<font size="+3">
+	  International Conference on
+      	</font><p></p>
+      	<font size="+4">
+      	Rewriting Techniques and Applications (RTA)
+      	</font>
+      </strong>
+    </center>
+    <p><br></p>
+
+    <table align=center cellspacing=0 cellpadding=10>
+      <tr>
+      <td>
+	<img src="../pictures/rta.gif">
+      </td>
+      <td>
+      	<li><a href="#intro">Presentation</a></li>
+      	<li><a href="#topics">Conference Topics</a></li>
+      	<li><a href="#newRTA">Upcoming RTAs</a></li>
+      	<li><a href="#oldRTA">Previous RTAs</a>,
+      	  <a href="#CTRS">CTRS Workshops</a></li>
+      	<li><a href="#bylaws">Conference Bylaws</a></li>
+      	<li><a href="#sc">Steering Committee</a></li>
+      	<li><a href="http://www.win.tue.nl/rtaloop/"
+	       target="_top"></a>Open Problems</li>
+      </td>
+      <td align=center>
+      	<a href="http://verify.rwth-aachen.de/IFIP-WG1.6/"
+	   target="_top"
+	   OnMouseOver="window.status='IFIP Working Group 1.6'; return true">
+	  <img src="../IFIP-WG1.6/ifip2.gif"
+	       align="top"
+	       alt="IFIP WG 1.6"></a><p>
+      	<table bgcolor="#FFFFFF" cellpadding=5 border=1>
+	  <td>
+	    <a href="../"
+	       target="_top"
+	       OnMouseOver="window.status='http://rewriting.loria.fr/'; return true">
+	      <font color="#0000FF">
+	      	The Rewriting Home Page</font></a>
+	  </td>
+	</table>
+      </td>
+      <td>
+	<a href="http://www.eatcs.org/">
+	  <img src="../pictures/eatcs.png"></a>
+      </td>
+      </tr>
+      <!--
+      <tr>
+      <td colspan="3" align=center>
+	<font size="+2">
+	  RTA 2009:
+	  Extended deadline for
+	  <a href="http://www.easychair.org/conferences/?conf=rta2009">
+	    abstract submission</a><br>
+	  (January 30, 2009, midnight Samoa timezone (UTC-11))
+	  <a href="http://">
+	    <blink>Accepted papers!</blink></a>
+	</font>
+    	<applet code="deadline" width=600 height=60 align="middle" alt="pb">
+	  <param name="largeur" value=510>
+	  <param name="hauteur" value=50>
+	  The (extended) submission deadline to RTA is getting closer and closer...
+    	</applet>
+      </td>
+      </tr>
+       -->
+      <!--
+      <tr>
+      <td colspan="3" align=center>
+    	<h3>*** 
+ 	  <a href="#sc">
+	    THE STEERING COMMITTEE OF RTA IS LOOKING FOR NEW MEMBERS
+	  </a> ***
+	  <img src=../pictures/new1.gif width=30>
+	</h3>
+      </td>
+      </tr>
+      -->
+    </table>
+
+
+    <h1><hr>
+      <a name="intro">
+	<font color="blue">Presentation:</font>
+      </a></h1>
+
+    <em>Equational reasoning</em> is an important component in symbolic
+    algebra, automated deduction, high-level programming languages, program
+    verification, and artificial intelligence.  Reasoning with equations
+    involves deriving consequences of given equations and finding values for
+    variables that satisfy a given equation.
+    <a href="/"><em><font color="#000000">Rewriting</font></em></a> is a
+    very powerful method for dealing with equations.<p></p>
+
+    Directed equations, called <em>rewrite rules</em>, are used to replace
+    equals by equals, but only in the indicated direction.  The theory of
+    rewriting centers around the concept of <em>normal form</em>, an expression
+    that cannot be rewritten any further.  Computation consists of rewriting to
+    a normal form; when the normal form is unique, it is taken as the value of
+    the initial expression.  When rewriting equal terms always leads to the same 
+    normal form, the set of rules is said to be <em>convergent</em> and
+    rewriting can be used to check for equality.<p></p>
+
+    The International Conference on Rewriting Techniques and Applications (RTA)
+    is the major conference in the domain of rewriting.  Its creation has been
+    decided after the <a href="#RRL">Workshop on the Rewrite Rule Laboratory</a>,
+    held in Schenectady (NY) in September 1983. From 1985 to 1993, RTA has been
+    a bi-annual conference.  In 1995, RTA has been merged with the Workshop on
+    Conditional (and Typed) Term Rewriting Systems (<a href="#CTRS">CTRS</a>)
+    and has become an annual conference.<p></p>
+
+    <p><b><i>RTA has been classified as a class A conference by CORE, and is in
+	    the top 23% in the CiteSeer impact list!</i></b></p>
+
+    <h1><hr>
+      <a name="topics">
+	<font color="blue">Conference Topics:</font>
+      </a></h1>
+    The conference on Rewriting Techniques and Applications solicits oroginal
+    papers on all aspects of rewriting, including
+    (<i>but not limited to</i>):
+    <ul>
+      <li><i>Applications</i>:
+	case studies; rule-based programming; symbolic and algebraic
+	computation; theorem proving; functional and logic programming; proof
+	checking.</li>
+      <li><i>Foundations</i>:
+	matching and unification; completion techniques; strategies; constraint
+	solving; explicit substitutions; tree automata.</li>
+      <li><i>Frameworks</i>:
+	string, term, and graph rewriting; lambda-calculus and higher-order
+	rewriting; conditional rewriting; proof nets; categorical and infinitary
+	rewriting.</li>
+      <li><i>Implementation</i>:
+	compilation techniques; parallel execution; rewriting tools.</li>
+      <li><i>Semantics</i>:
+	equational logic; rewriting logic.</li>
+    </ul>
+
+    In addition to full research papers, systems descriptions and problem sets
+    that provide realistic, interesting challenges in the field of rewriting
+    techniques are also welcome. High quality papers on applications of
+    rewriting techniques are particularly encouraged.<br>
+    The conference proceedings are published by Springer-Verlag as part of their
+    Lecture Notes in Computer Science series.
+
+
+    <h1><hr>
+      <a name="newRTA">
+	<font color="blue">Upcoming RTAs:</font>
+      </a></h1>
+    <ul>
+      <li>
+	<font color="green">RTA-26</font>:
+	Warsaw (Poland), June 29 - July 3, 2015.<br>
+	<tt>PC Chair:</tt> Maribel Fernandez (London).<br>
+	<tt>Conference Chair:</tt> Aleksy Schubert (Warsaw).<br>
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-25</font>:
+	Vienna (Austria), July 14-17, 2014.<br>
+	<tt>PC Chair:</tt> Gilles Dowek (Paris).<br>
+	<tt>Conference Chair:</tt>  Gernot Salzer (Vienna).<br>
+	RTA will be part of <a href="http://vsl2014.at/">FLoC 2014</a>.
+	<p></p>
+      </li>
+      </li>
+    </ul>
+
+
+    <h1><hr>
+      <a name="oldRTA">
+	<font color="blue">Previous RTAs:</font>
+      </a></h1>
+    <ul>
+      <li>
+	<font color="green">RTA-24</font>:
+	Eindhoven (The Netherlands), June 24-26, 2013.<br>
+	<tt>PC Chair:</tt> Femke van Raamsdonk (Amsterdam).<br>
+	<tt>Conference Chair:</tt> Hans Zantema (Eindhoven).<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>Simon Peyton-Jones, <em>Type-directed Compilation in the Wild: Haskell and Core</em></li>
+	  <li>Jarkko Kari, <em>Pattern Generation by Cellular Automata</em></li>
+	  <li>Mitsu Okada, <em>Husserl and Hilbert on Completeness
+	      and Husserl's Term Rewrite-based Theory of
+	      Multiplicity</em></li>
+	</ul>
+	<tt>Best papers:</tt>
+	<ul>
+	  <li>B. Accattoli, <em>Linear Logic and Strong
+	      Normalization</em></li>
+	  <li>Y. Guiraud, P. Malbos and S. Mimram, <em>A Homotopical
+	      Completion Procedure with Applications to Coherence of
+	      Monoids</em></li> 
+	</ul>
+	<tt>Submitted:</tt> 50,
+	<tt>Accepted:</tt> 21<br>
+	<a href="http://rta2013.few.vu.nl/">Web site</a>,
+	<a href="http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=13005">Proceedings</a>,
+	<a href="documents/RTA-2013_CFP.txt">Call for papers</a>,
+	<a href="documents/RTA-2013/RTA2013Minutes.pdf">Minutes of the
+	  Business Meeting</a>.<br>
+	RTA was be part of <a href="http://www.win.tue.nl/rdp2013/">RDP 2013</a>.
+	<p></p>
+      <li>
+	<font color="green">RTA-23</font>:
+	Nagoya (Japan), May 28 - June 2, 2012.<br>
+	<tt>PC Chair:</tt> Ashish Tiwari (SRI).<br>
+	<tt>Conference Chair:</tt> Masahiko Sakai (Nagoya).<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>Hirokazu Anai, <em>Computational Real Algebraic Geometry in Practice</em></li>
+	  <li>Claude Kirchner, <em>Rho-Calculi for Computation and Logic</em></li>
+	  <li>Sebastian Maneth, <em>Dictionary-Based Tree Compression</em></li>
+	</ul>
+	<tt>Best paper:</tt> Kazushige Terui,
+	<em>Semantic Evaluation, Intersection Types and Complexity of
+	Simply Typed Lambda Calculus</em><br>
+	<tt>Submitted:</tt> 46,
+	<tt>Accepted:</tt> 22<br>
+	<a href="http://rta2012.trs.cm.is.nagoya-u.ac.jp/">Web site</a>,
+	<a href="http://www.dagstuhl.de/dagpub/978-3-939897-38-5">Proceedings</a>,
+	<a href="documents/RTA-2012_CFP.txt">Call for papers</a>,
+	<a href="documents/RTA-2012/rta2012-bm-minutes.pdf">Minutes of
+	  the Business Meeting</a>.<br>
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-22</font>:
+	Novi Sad (Serbia), May 30 - June 1, 2011.<br>
+	<tt>PC Chair:</tt> Manfred Schmidt-Schauss (Frankfurt am Main).<br>
+	<tt>Conference Chair:</tt> Silvia Ghilezan (Novi Sad).<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>Sophie Tison, <em>Tree Automata, (Dis-)Equality Constraints and Term Rewriting: What's New?</em></li>
+	  <li>Ashish Tiwari, <em>Rewriting in Practice</em></li>
+	  <li>Stephanie Weirich, <em>Combining Proofs and Programs</em></li>
+	</ul>
+	<tt>Best paper:</tt> Aaron Stump, Garrin Kimmell and Roba El-Haj
+	  Omar, <em>Type Preservation as a Confluence Problem</em><br>
+	<tt>Submitted:</tt> 46,
+	<tt>Accepted:</tt> 28 (including 8 systems)<br>
+	<a href="http://www.rdp2011.uns.ac.rs/rta/">Web site</a>,
+	  <a href="http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=11005">Proceedings</a>,
+	<a href="documents/RTA-2011_CFP.txt">Call for papers</a>.
+	<a href="documents/RTA-2011/rta11bm.pdf">Minutes of the Business
+	  Meeting</a>.<br>
+	RTA was part of <a href="http://www.rdp2011.uns.ac.rs/">RDP 2011</a>.
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-21</font>:
+	Edinburgh (Scotland), July 11-13, 2010.<br>
+	<tt>PC Chair:</tt> Christopher Lynch (Potsdam).<br>
+	<tt>Conference Chair:</tt> Fairouz Kamareddine (Edinburgh).<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>M. Bojanczyk, <em>Automata for Data Words and Data Trees</em></li>
+	  <li>V. van Oostrom, <em>Realizing Optimal Sharing</em></li>
+	</ul>
+	<tt>Best papers:</tt>
+	<ul>
+	  <li>P. Bahr, <em>Partial Order Rewriting and B&ouml;hm Trees</em></li>
+	  <li>P. Bahr, <em>Abstract Models Of Transfinite Reductions</em></li>
+	</ul>
+	<tt>Submitted:</tt> 48,
+	<tt>Accepted:</tt> 26 (including 3 systems)<br>
+	<i><a href="http://www.clarkson.edu/projects/carl/rta-2010/">Web site</a>,
+	  <a href="documents/RTA-2010_CFP.txt">Call for papers</a>,
+	  <a href="http://drops.dagstuhl.de/portals/extern/index.php?semnr=10002">Proceedings</a>,
+	  <a href="documents/RTA-2010_Minutes.pdf">Minutes of the Business
+	    Meeting</a>.
+	</i><br>
+	RTA was part of <a href="http://www.floc-conference.org/">FLOC 2010</a>.
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-20</font>:
+	Bras&iacute;lia (Brazil), June 29 - July 1, 2009. LNCS 5595.<br>
+	<tt>PC Chair:</tt> Ralf Treinen (Paris).<br>
+	<tt>Conference Chair:</tt> Mauricio Ayala-Rinc&oacute;n (Brasilia).<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>V. Danos, <em></em></li>
+	  <li>J. Waldmann, <em>Automatic Termination</em></li>
+	  <li>R. Harper, <em></em> (joint with TLCA)</li>
+	</ul>
+	<tt>Best papers:</tt>
+	<ul>
+	  <li>M. de Falco, <em>An Explicit Framework for Interaction Nets</em></li>
+	  <li>J. Endrullis and D. Hendriks, <em>From Outermost to Context-Sensitive Rewriting</em></li>
+	</ul>
+	<tt>Submitted:</tt> 59,
+	<tt>Accepted:</tt> 26 (including 4 systems)<br>
+	<i><a href="http://rdp09.cic.unb.br/rta.html">Web site</a>,
+	  <a href="documents/RTA-2009_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-2009/RTA-2009_Minutes.pdf">Minutes of the Business
+	    Meeting</a>.
+	</i><br>
+	RTA was part of <a href="http://rdp09.cic.unb.br/">RDP 2009</a>,
+	that was held from June 28th to July 3rd.<br>
+	(<tt>TLCA PC Chair:</tt> Pierre-Louis Curien (Paris))
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-19</font>:
+	Hagenberg/Linz (Austria), July 15-17, 2008. LNCS 5117.<br>
+	<tt>PC Chair:</tt> Andrei Voronkov (Manchester).<br>
+	<tt>Conference Chair:</tt> Bruno Buchberger and Temur Kutsia (Linz).<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>V. Cortier, <em> Verification Techniques for Cryptographic Protocols</em></li>
+	  <li>T. Hillenbrand, <em>Fast Equational Reasoning with Waldmeister</em></li>
+	  <li>A. Rubio, <em>Present and Future of Proving Termination of Rewriting</em></li>
+	  <li>E. Kaltofen, <em>The algebraic Synthesis of Algorithms</em> (tutorial)</li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 57,
+	<tt>Accepted:</tt> 30<br>
+	<i><a href="http://www.risc.uni-linz.ac.at/about/conferences/rta2008/">Web site</a>,
+	  <a href="documents/RTA-2008_CFP.pdf">Call for papers</a>,
+	  <a href="documents/RTA-2008.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2008/RTA-2008_Minutes.pdf">Minutes of the Business
+	    Meeting</a>.
+	</i>
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-18</font>:
+	Paris (France), June 26-28, 2007. LNCS 4533.<br>
+	<tt>PC Chair:</tt> Franz Baader (Dresden).<br>
+	<tt>Conference Chair:</tt> Ralf Treinen (ENS Cachan) and Xavier Urbain (IIE-CNAM, Evry).<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>X. Leroy, <em>Formal Verification of an Optimizing Compiler</em></li>
+	  <li>R. Nieuwenhuis, <em>Challenges in Satisfiability modulo Theories</em></li>
+	  <li>F. Pfenning, <em>On a Logical Foundation for Explicit
+	      Substitutions</em> (joint with TLCA)</li>
+	</ul>
+	<tt>Best paper:</tt> L. Vaux, <em>On Linear Combinations of lamda-Terms</em><br>
+	<tt>Submitted:</tt> 69,
+	<tt>Accepted:</tt> 27 (including 3 systems)<br>
+	<i><a href="http://www.lsv.ens-cachan.fr/rdp07/rta.html">Web site</a>,
+	<a href="documents/RTA-2007_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-2007.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2007_Minutes.pdf">Minutes of the Business
+	    Meeting</a>.
+	</i><br>
+	RTA-18 was part of
+	<a href="http://www.lsv.ens-cachan.fr/rdp07/">RDP</a>,
+	the Federated Conference on Rewriting, Deduction, and Programming.
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-17</font>:
+	Seattle (WA, USA), August 12-14, 2006. LNCS 4098.<br>
+	<tt>PC Chair:</tt> Frank Pfenning (CMU)<br>
+	<tt>Conference Chair:</tt> Ashish Tiwari (SRI)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>R. Bryant, <em>Formal Verification of Infinite State Systems using Boolean Methods</em> (FLoC plenary)</li>
+	  <li>J. Esparza, <em>Rewriting Models of Control-Flow</em></li>
+	  <li>J. Giesl, <em>Automated Termination Analysis for Haskell: From Term Rewriting to Programming Languages</em></li>
+	</ul>
+	<tt>Best paper:</tt> D. Hofbauer and J. Waldmann, <em>Termination of String Rewriting with Matrix Interpretations</em><br>
+	<tt>Submitted:</tt> 52,
+	<tt>Accepted:</tt> 27 (including 4 systems)<br>
+	<i><a href="http://www.easychair.org/FLoC-06/RTA.html">Web site</a>,
+	  <a href="documents/RTA-2006_CFP.txt">Call for papers</a>,
+	  <a href="http://www.easychair.org/FLoC-06/RTA-program.html">Program</a>,
+	  <a href="documents/RTA-2006.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2006_Minutes.ps">Minutes of the Business
+	    Meeting</a>.</i><br>
+	RTA-17 was part of
+	<a href="http://www.easychair.org/FLoC-06/">FLoC</a>,
+	the Federated Logic Conference.
+	<p></p>
+      </li>
+      <li>
+	<font color="green">RTA-16</font>:
+	Nara (Japan), April 19-21, 2005. LNCS 3467.<br>
+	<tt>PC Chair:</tt> J&uuml;rgen Giesl (Aachen)<br>
+	<tt>Conference Chair:</tt> Hitoshi Ohsaki<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>Y. Toyama, <em>Confluent Term Rewriting Systems</em></li>
+	  <li>P. Wadler, <em>Call-by-Value is dual to Call-by-Name, Reloaded</em></li>
+	  <li>A. Felty, <em>A Tutorial Example of the Semantic
+	      Approach to Foundational Proof-Carrying Code</em> (joint
+	    with TLCA)</li>
+	</ul>
+	<tt>Invited speakers: (special session on history and future
+	  of RTA and rewriting)</tt>
+	<ul>
+	  <li>G. Huet, <em>Before RTA: Early Days in  Rewriting Research</em></li>
+	  <li>J.-P. Jouannaud, <em>Twenty Years Later</em></li>
+	  <li>N. Dershowitz, <em>Open. Closed. Open.</em></li>
+	</ul>
+	<tt>Best paper:</tt> D. Kesner and S. Legrand, <em>Extending the Explicit Substitution Paradigm</em><br>
+	<tt>Student travel grants:</tt>
+	<ul>
+	  <li>J. Rocheteau, <em>lambda-my-calculus and Duality: Call-by-Name and Call-by-Value</em></li>
+	  <li>W. Moczydlowski, <em>Termination of Single-Threaded One-Rule Semi-Thue Systems</em></li>
+	</ul>
+	<tt>Submitted:</tt> 79,
+	<tt>Accepted:</tt> 31 (including 2 systems)<br>
+	<i><a href="http://www-i2.informatik.rwth-aachen.de/RTA05/">Web site</a>,
+	  <a href="documents/RTA-2005_CFP.pdf">Call for papers</a>,
+	  <a href="http://www.springerlink.com/openurl.asp?genre=issue&issn=0302-9743&volume=3467&issue=preprint">LNCS 3467</a>,
+	  <a href="documents/RTA-2005.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2005_Minutes.ps">Minutes of the Business
+	    Meeting</a>.</i><br>
+	RTA-16 was a major event of
+	<a href="http://www.kurims.kyoto-u.ac.jp/rdp05/">RDP'05</a>
+	(April 19-23, 2005), together with TLCA.
+      </li>
+      <p></p>
+      <li>
+	<font color="green">RTA-15</font>:
+	Aachen (Germany), June 1-5, 2004. LNCS 3091.<br>
+	<tt>PC Chair:</tt> Vincent van Oostrom (Utrecht)<br>
+	<tt>Conference Chair:</tt> J&uuml;rgen Giesl (Aachen)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>N. D. Jones and N. Bohr, <em>Termination Analysis of the Untyped lamba-Calculus</em></li>
+	  <li>N. Hirokawa and A. Middeldorp, <em>Dependency Pairs Revisited</em></li>
+	  <li>R. Milner, <em>Bigraphs, Link Graphs, Transitions and Nets</em></li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 43,
+	<tt>Accepted:</tt> 19 (including 5 systems)<br>
+	<i><a href="http://www-i2.informatik.rwth-aachen.de/RTA04/">Web site</a>,
+	  <a href="documents/RTA-2004_CFP.txt">Call for papers</a>,
+	  <a href="http://www.springerlink.com/openurl.asp?genre=issue&issn=0302-9743&volume=3091&issue=preprint">LNCS 3091</a>,
+	  <a href="documents/RTA-2004.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2004_Minutes.ps">Minutes of the Business
+	    Meeting</a>.</i><br>
+	<i>RTA-15 was the major event of
+	<a href="http://www-i2.informatik.rwth-aachen.de/RDP04/">RDP'04</a>, the
+	Federated Conference on Rewriting, Deduction and Programming.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-14</font>:
+	Valencia (Spain), June 9-11, 2003. LNCS 2706.<br>
+	<tt>PC Chair:</tt> Robert Nieuwenhuis (Barcelona)<br>
+	<tt>Conference Chair:</tt> Salvador Lucas (Valencia)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>D. McAllester, <em>A Logical Algorithm for ML Type
+	  Inference</em> (joint with TLCA)</li>
+	  <li>P. Lincoln, <em>Symbolic System Biology</em></li>
+	  <li>J.-L. Giavitto, <em>Topological Collections, Transformations and their Application to the Modeling and the Simulation of Dynamical Systems</em></li>
+	</ul>
+	<tt>Best papers:</tt>
+	<ul>
+	  <li>S. Salvati and P. de Groote, <em>On the Complexity of Higher Order Matching in the Linear Lambda Calculus</em></li>
+	  <li>S. Dal Zilio and D. Lugiez, <em>XML Schema, Tree Logic and Sheaves Automata</em></li>
+	  <li>N. Hirokawa and A. Middeldorp, <em>Tsukuba Termination Tool</em></li>
+	</ul>
+	<tt>Submitted:</tt> 61,
+	<tt>Accepted:</tt> 32 (including 6 systems)<br>
+	<i><a href="http://www.dsic.upv.es/~rdp03/rta/">Web site</a>,
+	  <a href="documents/RTA-2003_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-2003_Contents.html">Contents</a>,
+	  <a href="documents/RTA-2003.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2003_Minutes.ps">Minutes of the Business
+	    Meeting</a>.</i><br>
+	<i>RTA-14 was part of the Federated Conference on Rewriting,
+	  Deduction and Programming
+ 	  (<a href="http://www.dsic.upv.es/~rdp03/">RDP'03</a>),
+ 	  together with the 6th Conference on Typed Lambda Calculi and
+ 	  Applications
+	  (<a href="http://www.dsic.upv.es/~rdp03/tlca/">TLCA</a>),
+	  the 5th Workshop on First-order Theorem Proving
+	  (<a href="http://www.dsic.upv.es/~rdp03/ftp/">FTP</a>).</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-13</font>:
+	Copenhagen (Denmark), July 22-24, 2002. LNCS 2378.<br>
+	<tt>PC Chair:</tt> Sophie Tison (Lille)<br>
+	<tt>Conference Chair:</tt> Thomas Arts (Ericsson, &Auml;lvsj&ouml;)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>N. Shankar and H. Ruess, <em>Combining Shostak Theories</em></li>
+	  <li>J. C. Mitchell, <em>Multiset Rewriting and Security Protocol Analysis
+</em></li>
+	  <li>F. Baader, <em>Engineering of Logics for the Content-Based Representation of Information</em></li>
+	</ul>
+	<tt>Best paper:</tt> P.-A. Mellies, <em>Residual Theory Revisited</em><br>
+	<tt>Submitted:</tt> 49,
+	<tt>Accepted:</tt> 26 (including 2 applications and 4 systems)<br>
+	<i><a href="http://floc02.diku.dk/RTA/">Web site</a>,
+	  <a href="documents/RTA-2002_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-2002_Contents.html">Contents</a>,
+	  <a href="documents/RTA-2002.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2002_Minutes.txt">Minutes of the Business
+	    Meeting</a>.</i><br>
+	<i>RTA-13 was part of
+	  <a href="http://floc02.diku.dk/">FLoC'02</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-12</font>:
+	Utrecht (The Netherlands), May 22-24, 2001. LNCS 2051.<br>
+	<tt>PC Chair:</tt> Aart Middeldorp (Tsukuba)<br>
+	<tt>Conference Chair:</tt> Vincent van Oostrom (Utrecht)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>Arvind, <em>Rewriting the Rules for Chip Design</em></li>
+	  <li>H. Barendregt, <em>Computing and Proving</em></li>
+	  <li>M. Rusinowitch, <em>Rewriting for Deduction and Verification</em></li>
+	</ul>
+	<tt>Best paper:</tt> J. R. Woinowski, <em>A Normal Form for Church-Rosser Language Systems</em><br>
+	<tt>Submitted:</tt> 55,
+	<tt>Accepted:</tt> 25 (including 2 systems)<br>
+	<i><a href="documents/RTA-2001/">Web site</a>,
+	  <a href="documents/RTA-2001_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-2001_Contents.html">Contents</a>,
+	  <a href="documents/RTA-2001.bib">BibTeX file</a>,
+	  <a href="documents/RTA-2001_Minutes.txt">Minutes of the Business
+	    Meeting</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-11</font>:
+	University of East Anglia, Norwich (UK), July 10-12, 2000. LNCS 1833.<br>
+	<tt>PC Chair:</tt> Leo Bachmair (Stony Brook)<br>
+	<tt>Conference Chair:</tt> Richard Kennaway (Norwich)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>J. Meseguer, <em>Rewriting Logic and Maude: Concepts and Applications</em></li>
+	  <li>D. Miller, <em>Abstract Syntax for Variable Binders</em></li>
+	  <li>A. Voronkov, <em>Formulae over Reduction Orderings: Some Solved and yet Unsolved Problems</em></li>
+	  <li>S. Tison, <em>Tree Automata and Term Rewrite Systems</em> (tutorial)</li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 44,
+	<tt>Accepted:</tt> 18 (including 3 systems)<br>
+	<i><a href="http://www.sys.uea.ac.uk/RTA2000/">Web site</a>,
+	  <a href="documents/RTA-2000_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-2000_Contents.html">Contents</a>,
+	  <a href="documents/RTA-2000.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-10</font>:
+	Trento (Italy), July 2-4, 1999.
+ 	<a href="http://link.springer.de/link/service/series/0558/tocs/t1631.htm"
+ 	   target="_top">LNCS 1631</a>.<br>
+	<tt>PC Chairs:</tt> Paliath Narendran (Albany) and Micha&euml;l Rusinowitch
+	(Nancy)<br>
+	<tt>Conference Chair:</tt> Andrea Asperti (Bologna)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>B. Courcelle, <em>Hierarchical Graph Decompositions  Defined by Grammars and Logical Formulas</em></li>
+	  <li>F. Otto, <em>On the Connections between Rewriting and Formal Language Theory</em></li>
+	  <li>F. van Ramsdonk, <em>Higher Order Rewriting</em> (tutorial)</li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 53,
+	<tt>Accepted:</tt> 27 (including 4 systems)<br>
+	<i><a href="http://rta99.loria.fr/">Web site</a>,
+	  <a href="documents/RTA-1999_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1999_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1999.bib">BibTeX file</a>,
+	  <a href="documents/RTA-1999_Minutes.txt">Minutes of the Business
+	    Meeting</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-9</font>:
+	Tsukuba (Japan), March 30 - April 1, 1998.
+ 	<a href="http://link.springer.de/link/service/series/0558/tocs/t1379.htm"
+ 	   target="_top">LNCS 1379</a>.<br>
+	<tt>PC Chairs:</tt> Tobias Nipkow (Munich)<br>
+	<tt>Conference Chairs:</tt> Aart Middeldorp and Tetsuo Ida (Tsukuba)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>H. Comon, <em>About Proofs by Consistency</em></li>
+	  <li>J. K. Klop, <em>Origin Tracking in Term Rewriting</em></li>
+	  <li>G. Plotkin, <em>Binding Algebras: A Step between Universal Algebra and Type Theory</em></li>
+	</ul>
+	<tt>Best student paper:</tt> J. Waldmann, <em>Normalization of S Terms is Decidable</em><br -->
+	<tt>Submitted:</tt> 61,
+	<tt>Accepted:</tt> 22<br>
+	<i><a href="http://www.score.is.tsukuba.ac.jp/rta98/">Web site</a>,
+	  <a href="documents/RTA-1998_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1998_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1998.bib">BibTeX file</a>,
+	  <a href="documents/RTA-1998_Minutes.txt">Minutes of the Business Meeting</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-8</font>:
+	Sitges (Spain), June 2-5, 1997. LNCS 1232.<br>
+	<tt>PC Chair:</tt> Hubert Comon (Orsay)<br>
+	<tt>Conference Chair:</tt> Robert Nieuwenhuis (Barcelona)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>W. McCune, <em>Well-Behaved Search and the Robbins Problem</em></li>
+	  <li>Y. Lafont, <em>Two-Dimensional Rewriting</em></li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 54 (including 7 systems),
+	<tt>Accepted:</tt> 27 (including 4 systems)<br>
+	<i><a href="documents/RTA-1997_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1997_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1997.bib">BibTeX file</a>,
+	  <a href="documents/RTA-1997_Minutes.txt">Minutes of the Business Meeting</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-7</font>:
+	New Brunswick (NJ, USA), July 27-30, 1996. LNCS 1103.<br>
+	<tt>PC Chair:</tt> Harald Ganzinger (Saarbruecken)<br>
+	<tt>Conference Chair:</tt> Leo Bachmair (Stony Brook)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>D. Kapur, <em>Rewrite-Based Automated Reasoning: Challenges Ahead</em></li>
+	  <li>G. Huet, <em>Design of a Proof Assistant</em> (joint with LICS)</li>
+	  <li>K. Madlener, <em>Applications of Rewrite Techniques in Monoids and Rings</em></li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 84,
+	<tt>Accepted:</tt> 34 (including 6 systems)<br>
+	<i><a href="http://www.mpi-sb.mpg.de/rta96/">Web site</a>,
+	  <a href="documents/RTA-1996_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1996_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1996.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-6</font>:
+	Kaiserslautern (Germany), April 5-7, 1995. LNCS 914.<br>
+	<tt>PC Chair:</tt> Jieh Hsiang (Taipei)<br>
+	<tt>Conference Chairs:</tt> Juergen Avenhaus and Klaus Madlener
+	(Kaiserslautern)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>Y. Matiyasevich, <em>On Some Mathematical Logic Contributions to Rewriting Techniques: Lost Heritage</em></li>
+	  <li>T. Nipkow, <em>Higher Order Rewrite Systems
+</em></li>
+	  <li>M. Stickel, <em>Term Rewriting in Contemporary Resolution Theorem Proving</em></li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 87,
+	<tt>Accepted:</tt> 40 (including 9 systems and 2 problems)<br>
+	<i><a href="http://www-madlener.informatik.uni-kl.de/ag-madlener/events/rta_95/rta_95_en.html">Web site</a>,
+	  <a href="documents/RTA-1995_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1995_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1995.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-5</font>:
+	Montreal (Canada), June 16-18, 1993. LNCS 690.<br>
+	<tt>PC Chair:</tt> Claude Kirchner (Nancy)<br>
+	<tt>Conference Chair:</tt> Mitsuhiro Okada (Montreal)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>L. Bachmair, <em>Rewrite Techniques in Theorem Proving</em></li>
+	  <li>J. Gallier, <em>Proving Properties of Typed Lambda Terms: Realizability, Covers and Sheaves</em></li>
+	  <li>S. Adian, <em>On Some Algorithmic Problems for Groups and Monoids</em></li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 91,
+	<tt>Accepted:</tt> 36 (including 6 systems and 1 problem)<br>
+	<i><a href="documents/RTA-1993_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1993_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1993.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-4</font>:
+	Como (Italy), April 10-12, 1991. LNCS 488.<br>
+	<tt>PC Chair:</tt> Ronald Book (Santa Barbara)<br>
+	<tt>Conference Chairs:</tt> Degli Antoni and Marelva Bianchi (Milano)<br>
+	<!-- tt>Invited speakers:</tt>
+	<ul>
+	  <li>, <em></em></li>
+	</ul -->
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 87,
+	<tt>Accepted:</tt> 40 (including 4 systems and 1 problem)<br>
+	<i><a href="documents/RTA-1991_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1991_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1991.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-3</font>:
+	Chapel Hill (NC, USA), April 3-5, 1989. LNCS 355.<br>
+	<tt>PC Chair:</tt> Nachum Dershowitz (Urbana)<br>
+	<tt>Conference Chair:</tt> David Plaisted (Chapel-Hill)<br>
+	<tt>Invited speaker:</tt>
+	<ul>
+	  <li>G. Birkhoff, <em>Term Rewriting and Universal Algebra in Historical Perspective</em></li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 84,
+	<tt>Accepted:</tt> 46 (including 12 systems)<br>
+	<i><a href="documents/RTA-1989_CFP.txt">Call for papers</a>,
+	  <a href="documents/RTA-1989_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1989.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-2</font>:
+	Bordeaux (France), May 25-27, 1987. LNCS 256.<br>
+	<tt>PC Chairs:</tt> Pierre Lescanne (Nancy)and David Plaisted
+	(Chapel-Hill)<br>
+	<tt>Conference Chair:</tt> Bruno Courcelle (Bordeaux)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>M. J. O'Donnell, <em>Term-Rewriting Implementation of Equational Logic Programming</em></li>
+	  <li>D. Musser, <em>Inductionless Induction</em></li>
+	  <li>J.-P. Jouannaud, <em>Proof Methods for Completion Procedures</em></li>
+	</ul>
+	<!-- tt>Best paper:</tt> , <em></em><br -->
+	<tt>Submitted:</tt> 70,
+	<tt>Accepted:</tt> 22<br>
+	<i><a href="documents/RTA-1987_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1987.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">RTA-1</font>:
+	Dijon (France), May 20-22, 1985. LNCS 202.<br>
+	<tt>PC Chairs:</tt> Jean-Pierre Jouannaud (Nancy) and David Musser
+	(General Electric Labs)<br>
+	<tt>Conference Chairs:</tt> Jean-Jacques Chabrier and Jean-Marc Gallo
+	(Dijon)<br>
+	<tt>Invited speakers:</tt>
+	<ul>
+	  <li>B. Buchberger, <em>Basic Features and Development of the
+ 	      Critical-Pair/Completion Procedure</em></li>
+	  <li>R. V. Book, <em>Thue Systems as Rewriting Systems</em></li>
+	  <li>N. Dershowitz, <em>Termination</em></li>
+	  <li>G. Huet, <em>Equational Systems for Category Theory and
+	      Intuitionistic Logic</em></li>
+	</ul>
+	<tt>Best paper:</tt> K. A. Yelick, <em>Combining
+ 	  Unification Algorithms for Confined Regular Equational
+ 	  Theories</em><br>
+	<tt>Accepted:</tt> 20<br>
+	<i><a href="documents/RTA-1985_Contents.html">Contents</a>,
+	  <a href="documents/RTA-1985.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<a name="RRL"><font color="green">RTA-0</font></a>:
+	Rewrite Rule Laboratory Workshop,
+ 	Schenectady (NY, USA), September 1983.<br>
+	<tt>PC and Conference Chairs:</tt> John Guttag (MIT), Deepak Kapur and David
+	Musser (General Electric Labs)<br>
+	<i>Preliminary program
+	  (<a href="documents/RRL-1983_Program.ps.gz">
+	     gzipped postscript</a>),
+	  <a href="documents/RRL-1983_Contents.html">
+	    Contents of the proceedings</a>
+	  (<a href="documents/RRL-1983_Contents.ps.gz">
+	    gzipped postscript</a>).</i>
+      </li>
+    </ul>
+
+
+    <h1><a name="CTRS">
+	  <font color="blue">CTRS Workshops:</font>
+      	</a></h1>
+    <ul>
+      <li>
+	<font color="green">CTRS-4</font>:
+ 	Jerusalem (Israel), July 13-15, 1994. LNCS 968.<br>
+	<tt>PC and Conference Chairs:</tt> Nachum Dershowitz (Urbana) and Naomi
+	Lindenstrauss (Jerusalem)<br>
+	<i><a href="documents/CTRS-1994_CFP.txt">Call for papers</a>,
+	  <a href="documents/CTRS-1994_Contents.html">Contents</a>,
+	  <a href="documents/CTRS-1994.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">CTRS-3</font>:
+ 	Pont-&agrave;-Mousson (France), July 8-10, 1992. LNCS 656.<br>
+	<tt>PC and Conference Chairs:</tt> Jean-Luc R&eacute;my and Micha&eacute;l Rusinowitch
+	(Nancy)<br>
+	<i><a href="documents/CTRS-1992_CFP.txt">Call for papers</a>,
+	  <a href="documents/CTRS-1992_Contents.html">Contents</a>,
+	  <a href="documents/CTRS-1992.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">CTRS-2</font>:
+ 	Montreal (Canada), June 11-14, 1990. LNCS 516.<br>
+	<tt>PC and Conference Chair:</tt> Mitsuhiro Okada (Montreal)<br>
+	<i><a href="documents/CTRS-1990_CFP.txt">Call for papers</a>,
+	  <a href="documents/CTRS-1990_Contents.html">Contents</a>,
+	  <a href="documents/CTRS-1990.bib">BibTeX file</a>.</i>
+      <p></p></li>
+      <li>
+	<font color="green">CTRS-1</font>:
+ 	Orsay (France), July 8-10, 1987. LNCS 308.<br>
+	<tt>PC and Conference Chairs:</tt> St&eacute;phane Kaplan and Jean-Pierre
+	Jouannaud (Orsay)<br>
+	<i><a href="documents/CTRS-1987_Contents.html">Contents</a>,
+	  <a href="documents/CTRS-1987.bib">BibTeX file</a>.</i>
+      </li>
+    </ul>
+
+
+    <h1><hr>
+      <a name="bylaws">
+	<font color="blue">Conference Bylaws:</font>
+      </a></h1>
+    <ol>
+      <li>RTA is an annual meeting.</li>
+      <li>There will be a general assembly (GA) to be help during each RTA
+      	meeting.</li>
+      <li>There will be an steering committee (SC), whose composition and
+      	function are specified in the next sections.</li>
+      <li>There will be a program committee (PC), which is solely responsible
+      	for the scientific contents of the program for each RTA.</li>
+      <li>There will be a conference committee (CC) whose chairman is
+      	responsible for the local arrangements of the meeting and solely
+      	financially responsible of the conference it is organizing.</li>
+      <li>There will be a publicity chair, who is responsible for advertising
+      	and other issues concerning publicity of the conference. The publicity
+      	chair will be selected by the SC from within.</li>
+      <li>Nomination for the RTA local organization and site should be submitted 
+      	to SC chair four weeks before the conference.</li>
+      <li>The
+      	<ul>
+	  <li>Program Committee Chairperson,</li>
+	  <li>Conference Chairperson,</li>
+	  <li>site,</li>
+	  <li>tentative date,</li>
+      	</ul>
+	of the RTA to be held in the next two years, will all be nominated by
+	the SC and approved (or disapproved) by a vote at the GA.
+      </li>
+      <li>Nomination of new SC members (with the consent of the nominees) should 
+      	be submitted to SC chair four weeks before the conference.</li>
+      <li>The GA will take up any other agenda suggested by the attendees. It
+      	will be ruled by Robert's Rules of Order.</li>
+      <li>
+	<!-- Changed at the 2007 assembly:
+        Members of the PC should not submit regular papers (except system
+      	demos and problems set).-->
+        The PC Chair should not submit any paper.</li>
+      <li>The composition of the PC is the responsibility of the PC chair.</li>
+      <li>
+        <!-- Changed at the 2008 assembly:
+        Any modification of the bylaws should be proposed to the SC chair four 
+      	weeks before the conference and be ratified at the GA.-->
+	Any modification of the bylaws should be proposed to the SC chair four
+	weeks before the conference and be ratified by a majority at the GA. By
+	default, votes are public.
+      </li>
+    </ol>
+
+
+    <h1><hr>
+      <a name="sc">
+	<font color="blue">Steering Committee:</font>
+      </a></h1>
+<!--    <b>News:</b>  The Steering Committee is looking for 3 new members.
+    Nominations (with the consent of the nominees) should be submitted to Aart
+    Middeldorp (<tt>aart.middeldorp at uibk.ac.at</tt>) by April 8.
+-->
+    <h3>Composition:</h3>
+    <ol>
+      <li>The Steering Committee consists of six elected members. The current
+      	committee is:
+      	<ul>
+      	  <li><a href="http://cl-informatik.uibk.ac.at/~georg/">
+		Georg Moser</a> (Innsbruck), Chair</li>
+      	  <li><a href="http://www.mat.unb.br/~ayala/">
+		Mauricio Ayala-Rinc&oacute;n</a> (Brasilia),<br>
+	    <a href="http://www.lifl.fr/~tison/">
+		Sophie Tison</a> (Lille), Publicity Chair</li>
+      	  <li><a href="https://who.rocq.inria.fr/Gilles.Dowek/">
+	      Gilles Dowek</a> (Paris),<br>
+      	    <a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-krisrose">
+		Kristoffer H. Rose</a> (New York),<br>
+      	    <a href="http://homepage.cs.uiowa.edu/~astump/">
+		Aaron Stump</a> (Iowa)</li>
+      	</ul></li>
+      <li>The Steering Committee selects its own chair.</li>
+      <li>Each Steering Committee member serves until the third subsequent
+      	conference (i.e. the SC is renewed by third at each general
+      	assembly).</li>
+      <li>The General Assembly of each conference votes by secret ballot for new 
+      	Steering Committee members to replace the outgoing members. The number 
+      	of votes allowed to each attendee of the General Assembly equals the
+      	number of the positions.</li>
+    </ol>
+
+    <h3>Function:</h3>
+    <ol>
+      <li>Provide support to the Program Committee and Conference Committee.</li>
+      <li>Propose Program Committee chair, site and tentative date of conference 
+      	to be held in two years.</li>
+      <li>Choose a publicity chair from within.</li>
+      <li>Act as liaison with other conferences and workshops.</li>
+      <li>Call and organize the General Assembly.</li>
+      <li>Organize the election of new Steering Committee members.</li>
+      <li>Explore technical/organizational supports for non-local
+      	resources.</li>
+      <li>Maintain an official mailing list and records of the previous
+      	meetings.</li>
+    </ol>
+
+    <!-- 
+    <h3>E-mail: <tt>RTAsc @ score.is.tsukuba.ac.jp</tt></h3>*** exists no more ***
+    <p><b>*** THE STEERING COMMITTEE OF RTA IS LOOKING FOR NEW MEMBERS ***</b><br>
+      <i>Nominations (with the consent of the nominees) should be submitted to
+      Aart Middeldorp (<tt>aart.middeldorp @ uibk.ac.at</tt>) by June 12.</i></p>
+    -->
+
+    <h3>Former members:</h3>
+    <ul>
+      <li>Fr&eacute;d&eacute;ric Blanqui (INRIA),
+	Salvador Lucas (Valencia),
+	Masahiko Sakai (Nagoya)</li>
+      <li>Ian Mackie (Palaiseau),
+	Joachim Niehren (Lille)</li>
+      <li>Johannes Waldmann (Leipzig)</li>
+      <li>Franz Baader (Dresden),
+	Hitoshi Ohsaki (Osaka),
+	Albert Rubio (Barcelona)</li>
+      <li>Maribel Fernandez (London),
+	Bernhard Gramlich (Vienna)</li>
+      <li>Ashish Tiwari (Menlo Park)</li>
+      <li>J&uuml;rgen Giesl (Aachen),
+	Delia Kesner (Paris),
+	Vincent van Oostrom (Utrecht)</li>
+      <li>Robert Nieuwenhuis (Barcelona),
+	Ralf Treinen (Cachan)</li>
+      <li>Femke van Raamsdonk (Amsterdam)</li>
+      <li>Franz Baader (Dresden),
+      	Pierre Lescanne (Lyon),
+	Aart Middeldorp (Innsbruck)</li>
+      <li>Leo Bachmair (Stony Brook),
+      	H&eacute;l&egrave;ne Kirchner (Nancy)</li>
+      <li>Jose Meseguer (Menlo Park)</li>
+      <li>Nachum Dershowitz (Tel Aviv),
+      	Tobias Nipkow (Munich),
+      	Micha&euml;l Rusinowitch (Nancy)</li>
+      <li>Hubert Comon (Cachan),
+      	Yoshihito Toyama (Tohoku)</li>
+      <li>Harald Ganzinger (Saarbr&uuml;cken),
+      	Paliath Narendran (Albany)</li>
+      <li>Jieh Hsiang (Taipei),
+      	Klaus Madlener (Kaiserslautern)</li>
+      <li>Claude Kirchner (Nancy),
+      	Mitsu Okada (Keio)</li>
+      <li>...</li>
+    </ul>
+
+    <p></p>
+    <hr>
+    <font size="-1">
+      <i><a href="http://www.loria.fr/~vigneron/">Laurent Vigneron</a>
+	(last modified: 2-Jan-2014).</i>
+    </font>
+  </body>
+</html>

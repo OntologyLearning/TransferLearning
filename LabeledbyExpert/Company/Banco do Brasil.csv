@@ -1,0 +1,115 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Banco do Brasil,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'Banco do Brasil S.A.,'1-1-2-1-1-1-1-1-1,0,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Type,'1-1-2-1-1-1-1-1-2-2-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Sociedade Anônima,'1-1-2-1-1-1-1-1-2-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-1-1-1-2-3-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'BM&F Bovespa: BBAS3,'1-1-2-1-1-1-1-1-2-3-2,0,0,0,1,0,2,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Industry,'1-1-2-1-1-1-1-1-2-4-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Financial services,'1-1-2-1-1-1-1-1-2-4-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Founded,'1-1-2-1-1-1-1-1-2-5-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'1808,'1-1-2-1-1-1-1-1-2-5-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-1-1-1-2-6-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Brasília, Brazil",'1-1-2-1-1-1-1-1-2-6-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Key people,'1-1-2-1-1-1-1-1-2-7-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+"'Aldemir Bendine,",'1-1-2-1-1-1-1-1-2-7-2-1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'(Chairman),'1-1-2-1-1-1-1-1-2-7-2-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,1,0,0,1,0,0,2,C
+'Products,'1-1-2-1-1-1-1-1-2-8-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,1,C
+'Banking,'1-1-2-1-1-1-1-1-2-8-2-1,0,0,0,1,0,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Insurance,'1-1-2-1-1-1-1-1-2-8-2-2,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Retail banking,'1-1-2-1-1-1-1-1-2-8-2-3,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Private Equity,'1-1-2-1-1-1-1-1-2-8-2-4,0,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Revenue,'1-1-2-1-1-1-1-1-2-9-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 48.2  billion (2013),'1-1-2-1-1-1-1-1-2-9-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Profit,'1-1-2-1-1-1-1-1-2-10-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 6.6  billion (2013),'1-1-2-1-1-1-1-1-2-10-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-1-1-1-2-11-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'US$ 551.8  billion (2013),'1-1-2-1-1-1-1-1-2-11-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Owner(s),'1-1-2-1-1-1-1-1-2-12-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Brazilian Government (73%),'1-1-2-1-1-1-1-1-2-12-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-1-1-1-2-13-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'118,900",'1-1-2-1-1-1-1-1-2-13-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Subsidiaries,'1-1-2-1-1-1-1-1-2-14-1,0,0,0,1,1,1,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'BB Seguridade,'1-1-2-1-1-1-1-1-2-14-2-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Banco Votorantim,'1-1-2-1-1-1-1-1-2-14-2-2,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Banco Patagonia,'1-1-2-1-1-1-1-1-2-14-2-3,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Banco do Brasil Americas,'1-1-2-1-1-1-1-1-2-14-2-4,0,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Website,'1-1-2-1-1-1-1-1-2-15-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.bb.com.br,'1-1-2-1-1-1-1-1-2-15-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Banco do Brasil Headquarters in Brasília.,'1-1-2-1-1-1-1-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,2,N
+"'Banco do Brasil S.A. (English: Bank of Brazil) is the largest Brazilian and Latin American bank by assets, and the third by market value. The bank, headquartered in Brasília, was founded in 1808 and is the oldest active bank in Brazil, and one of the oldest financial institutions in the world.",'1-1-2-1-1-1-2-1-1-1,2,0,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,1,0,0,0,3,N
+"'Banco do Brasil is controlled by the Brazilian government but its stock is traded at the São Paulo Stock Exchange and its management follows standard international banking practices (Basel Accords). Since 2000 it is one of the four most-profitable Brazilian banks (the others being Itaú Unibanco, Bradesco, and Santander Brasil) and holds a strong leadership position in retail banking.",'1-1-2-1-1-1-2-1-1-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Contents,'1-1-2-1-1-1-2-1-2-1-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'1 History,'1-1-2-1-1-1-2-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,1,0,0,1,0,0,1,I
+'2 Branding,'1-1-2-1-1-1-2-1-2-1-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'3 Services,'1-1-2-1-1-1-2-1-2-1-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'4 International users,'1-1-2-1-1-1-2-1-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'5 Interest rates,'1-1-2-1-1-1-2-1-2-1-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'6 Relationship with the government,'1-1-2-1-1-1-2-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'7 Working at Banco do Brasil,'1-1-2-1-1-1-2-1-2-1-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'8 References,'1-1-2-1-1-1-2-1-2-1-2-8,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'9 External links,'1-1-2-1-1-1-2-1-2-1-2-9,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-1-1-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'Banco do Brasil was founded by then prince-regent João VI of Portugal to finance the kingdom's public debt when he moved from Europe to Brazil, in 1808. It went bankrupt two times in history: one at independence in 1821, when the regent-prince returned to Portugal taking with him some of the bank's assets, and the second in 1898.",'1-1-2-1-1-1-2-1-2-2-1-2-1,2,0,0,1,0,0,1,1,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+"'From 1821 to 1964 Banco do Brasil had sometimes performed tasks that exceeded its role as a traditional commercial bank, issuing currency, having the monopoly of currency exchange transactions and serving as National Treasury holder for the government. Such tasks were gradually given to other governmental institutions, mainly with the creation of the Central Bank of Brazil in 1964 and the separation from the National Treasury in 1987.",'1-1-2-1-1-1-2-1-2-2-1-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'From 1992 onwards it was restructured as a commercial bank, using its huge geographic distribution and credit assets to leverage its redesign as a ""normal"" bank. In the process, tens of thousands of workers were laid off.",'1-1-2-1-1-1-2-1-2-2-1-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'After decades of losses financed by the public treasury, the bank became very profitable and is one of the key structures used by the government to finance public programs, like ""Fome Zero"" (No Hunger) and DRS (Sustainable Regional Development).",'1-1-2-1-1-1-2-1-2-2-1-2-4,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In November 2013, The Banker ranked Banco de Brasil as the top bank in Brazil based on Tier 1 capital.",'1-1-2-1-1-1-2-1-2-2-1-2-5,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,1,1,0,0,0,2,I
+'Branding,'1-1-2-1-1-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'The current logo has been in use since the sixties, when the standard colors changed from brown and yellow to blue-grey-and yellow.",'1-1-2-1-1-1-2-1-2-2-2-2-1,1,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Since the early eighties the bank has sponsored several sports competitions (in sports such as beach soccer, volleyball, tennis, table tennis, futsal, sailing and beach volleyball). It is the official sponsor for Robert Scheidt, Gustavo Kuerten, and the Brazilian national beach soccer, volleyball and futsal teams.",'1-1-2-1-1-1-2-1-2-2-2-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The bank also sponsors other cultural events such as plays through its organization CCBB (Centro Cultural Banco do Brasil) and amateur sport through AABB (Associação Atlética Banco do Brasil).,'1-1-2-1-1-1-2-1-2-2-2-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Supermodel Gisele Bündchen was chosen to front their first global ad campaign in 2012.,'1-1-2-1-1-1-2-1-2-2-2-2-4,1,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Services,'1-1-2-1-1-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,C
+"'Besides commercial and government services, the bank offers a large variety of services to the consumer including bill payment services (Boleto), ATM loans, and a single package that contains the account numbers for checking, multiple savings accounts, and investment account. The account holder may apply for international MasterCard and Visa debit cards which act as both a credit card on a loan account, and as a debit card on the checking account (a little different from the arrangement in many other countries, where both the debit and credit functions of a debit card act on the checking account). The list of services offered encompass many complex automatic functions from ATMs and online such as a wide variety of loans, automatic payments, Brazilian bill payments, and deposits to other Brazilian accounts. Many merchants routinely accept account-to-account transfers as payment for goods.",'1-1-2-1-1-1-2-1-2-2-3-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'International users,'1-1-2-1-1-1-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Banco do Brasil has a few branches in the USA (New York, Miami) and other countries. These branches are intended for use by large companies and for permanent residents of Brasil who visit the other countries, but they offer regular services for residents of the countries where they are located.",'1-1-2-1-1-1-2-1-2-2-4-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Banco do Brasil has been expanding its international presence and currently has more than 44 points of service abroad, divided into branches, sub-branches, business units / offices and subsidiaries.",'1-1-2-1-1-1-2-1-2-2-4-2-2,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Offices and subsidiaries,'1-1-2-1-1-1-2-1-2-2-4-2-3,0,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,C
+'Banco do Brasil office in São Paulo .,'1-1-2-1-1-1-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Amsterdam,'1-1-2-1-1-2-1-1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Asuncion,'1-1-2-1-1-2-1-2,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Buenos Aires,'1-1-2-1-1-2-1-3,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Caracas,'1-1-2-1-1-2-1-4-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Ciudad del Este,'1-1-2-1-1-2-1-4-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Dubai,'1-1-2-1-1-2-1-4-3,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'George Town,'1-1-2-1-1-2-2-1,0,0,0,1,0,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Hong Kong,'1-1-2-1-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'La Paz,'1-1-2-1-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Lima,'1-1-2-1-1-2-2-3,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Lisbon,'1-1-2-1-1-2-2-4,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'London,'1-1-2-1-1-2-2-5,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Luanda,'1-1-2-1-1-2-2-6,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Madrid,'1-1-2-1-1-2-3-1-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Mexico City,'1-1-2-1-1-2-3-1-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Miami,'1-1-2-1-1-2-3-1-3,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Montevideo,'1-1-2-1-1-2-3-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'New York City,'1-1-2-1-1-2-3-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Paris,'1-1-2-1-1-2-3-2-3,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Panama City,'1-1-2-1-1-2-3-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Rome,'1-1-2-1-1-2-3-3-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Seoul,'1-1-2-1-1-2-4-1,0,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Shanghai,'1-1-2-1-1-2-4-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tokyo,'1-1-2-1-1-2-4-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Vienna,'1-1-2-1-1-2-4-2-3,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Washington,'1-1-2-1-1-2-4-3,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Santiago,'1-1-2-1-1-2-4-4,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Interest rates,'1-1-2-1-2-1-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Interest rates on loans vary to a great extent but, being a public-owned bank that operates as a commercial venture, Banco do Brasil is not noted for having the highest, or the lowest rates either. Banco do Brasil is not the only Brazilian bank with high interest rates. The Economist ""Survey of International Banking"" of May 20, 2006 reports that the average Brazilian interest rate on credit cards is 222%, even though inflation is under control, expected to be 5% for 2006. Interest rates have decreased slowly, despite the Brazilian Central Bank recent policy of dropping standard interest rates (which were of 8.5% per month as of June 2009).",'1-1-2-1-2-1-2,2,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Relationship with the government,'1-1-2-1-2-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Traditionally the CEO is appointed by the Brazilian president but usually picked from a list of career directors. A few CEOs were taken from outside the financial industry.,'1-1-2-1-2-2-2-1,1,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'Banco do Brasil has the monopoly of a number of government funding programs, like Pronaf (National Subsistence Farming Support), DRS, Fome Zero (zero hunger), PASEP, and others, and is the bank of choice for most municipal and state governments.",'1-1-2-1-2-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Working at Banco do Brasil,'1-1-2-1-2-3-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Being public-owned, Banco do Brasil must recruit workers through a public draft process, known as Concurso Público and work within strict norms of business. Due to the security which the public draft process provides working for Banco do Brasil is considered a desirable job in most of Brazil. This process is usually carried out separately for each region, with approved candidates being recruited to any branch in the region, in which they completed the process, within the following two years in order of classification (it can be delayed for more than two years, once in each process). Candidates must be Brazilian nationals (or legal residents and naturalised) and must be able to prove that they have completed their military service and electoral registration obligations (both military service and voter registration are mandatory for all Brazilians aged 18 to 70).",'1-1-2-1-2-3-2-1,2,0,0,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Banco do Brasil also has 49 offices/places of business in 23 different countries, and according to the local laws of every country the employees may be local hires. The New York Branch and the Miami Branch plus the North America Regional Office (BBUSA) and its subsidiaries in the USA (Eurobank FL - Banco do Brasil Americas, and BB Money Transfers) also have local hires.",'1-1-2-1-2-3-2-2,2,0,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In order for a local to be hired by the bank, the candidate must pass a competitive test, as well as demonstrate his/her ability to communicate in multiple languages, knowledge of finance, economics, computer sciences, business administration and asset management, trade, structured and project finance, among others, related to the positions that open and become available as the bank expands. Having prior experience working in related areas is fundamental.",'1-1-2-1-2-3-2-3,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Other public-owned Brazilian banks, like Caixa Econômica Federal, Banco da Amazônia, and Banco do Nordeste do Brasil also carry out a similar process but the process carried out by Banco do Brasil is the archetypal Brazilian Concurso Público like that of all Brazilian government funded public service jobs.",'1-1-2-1-2-3-2-4,2,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'External links,'1-1-2-1-2-4,0,0,0,1,1,2,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Wikimedia Commons has media related to Banco do Brasil.,'1-1-2-2-1-2,0,0,0,1,0,2,1,0,2,1,0,0,0,1,0,0,0,0,0,0,1,1,1,I
+'Banco do Brasil website (Portuguese),'1-1-2-2-2-1,0,1,0,1,0,2,1,0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+'Banco do Brasil information (English),'1-1-2-2-2-2,0,1,0,1,0,2,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Companies portal,'1-1-2-2-3-2,0,0,0,0,1,2,1,0,2,1,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Ibovespa companies of Brazil,'1-1-2-2-4-1,0,0,0,2,1,2,1,0,2,1,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+'AES Eletropaulo ALL Ambev Anhanguera,'1-1-2-2-4-2-1,0,0,0,1,0,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Banco do Brasil,'1-1-2-2-4-2-2-1,0,0,0,1,1,2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BB Seguridade BM&F Bovespa Bradesco Bradespar Braskem BRF BR Malls Brookfield Incorporações BR Properties CCR CEMIG CESP Cetip Cia. Hering Cielo Copel Cosan CPFL Energia CSN Cyrela Brazil Realty Dasa Duratex EcoRodovias EDP - Energias do Brasil Eletrobras Embraer Estácio Even Fibria Gafisa Gerdau GPA Hypermarcas Itaú Unibanco Itaúsa JBS Klabin Kroton Light Localiza Lojas Americanas Lojas Renner Marfrig MRV Natura PDG Petrobras Prumo Qualicorp Rossi Sabesp Santander Brasil Souza Cruz Suzano Papel e Celulose Telefônica Vivo TIM Brasil Tractebel Ultrapar Usiminas Vale,'1-1-2-2-4-2-2-2,2,0,0,1,0,2,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I

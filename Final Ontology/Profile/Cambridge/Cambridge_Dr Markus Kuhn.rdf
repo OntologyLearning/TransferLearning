@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Omar_Choudary,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_will_be_able_to_offer_a_fully_funded_3.5year_PhD_studentship_from_October_2014,_for_one_student_to_work_on_Modelbased_assessment_of_compromising_emanations_The_project_aims_to_improve_our_understanding_of_electromagnetic_emissions_that_are_unintentionally_emitted_by_computing_equipment,_and_the_eavesdropping_risks_they_pose._In_particular,_it_aims_to_improve_test_and_measurement_procedures_TEMPEST_for_computing_equipment_that_processes_highly_confidential_data._For_this_project,_I_am_looking_for_an_electrical_engineering,"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Efficient_template_attacks._CARDIS_2013,_Berlin,_2729_November_2013_preproceedings">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Omar_Choudary,_Markus_G._Kuhn">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recent_publications"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Unix_Tools,_Forensic_Signal_Analysis">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2010_Michaelmas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_and_that_of_my_PhD_students_has_focused_so_far_on_computer_security,_in_particular_hardware_and_signalprocessing_aspects_of_this_very_wide_field._Compromising_emanations,_RFID_security,_and_the_security_of_positioning_systems_distancebounding_protocols,_authentication_of_navigation_signals_have_recently_been_particular_areas_of_interest._I_also_worked_in_the_past_on_hardware_tamper_resistance,_smartcards,_network_security,_intellectual_propertyprotection_technology_in_particular_payTV_conditional_access,_data_compression,_video_and_audio_technology,_FPGA_applications,_and_some_standardization_matters_character_sets,_semistructured_data,_file_formats,_etc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_International_standard_paper_sizes_explains_the_A4_format_used_today_everywhere_outside_North_America._I_dearly_wish_folks_in_the_U.S._gave_up_their_strange_Letterformat,_which_only_causes_headaches_all_over_the_planet_for_users_of_word_processors,_laser_printers,_and_copying_machines">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PhD,_University_of_Cambridge_2002">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_Reachability_status rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Away_148_April_2014">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reachability_status>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_Group_web_pages">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_2013_Michaelmas rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Digital_Signal_Processing,_Unix_Tools">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2012_Michaelmas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_2013_Michaelmas>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Purdue_University">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Effective_scientific_electronic_publishing_contains_a_number_of_tips_for_preparing_online_papers,_mostly_intended_for_our_local_research_group,_but_probably_useful_for_others_as_well_who_want_to_generate_nice_PDF_files_with_LaTeX">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <base:_Software rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_OTPW_is_my_onetime_password_package_for_POSIX_systems,_optimized_for_being_used_with_printed_password_lists_and_designed_to_be_more_robust_against_certain_denialofservice_attacks_than_various_older_schemes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Software>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Erlangen">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_2014_Lent rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Security_I,_Security_II">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2013_Lent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_2014_Lent>
+  <base:_Software rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_early_1997,_I_wrote_StirMark,_a_robustness_testing_tool_for_steganographic_watermarking_algorithms_of_still_images._It_is_now_maintained_by_Fabien_Petitcolas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Software>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_International_standard_date_and_time_notation_is_a_brief_introduction_to_ISO_8601">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_UTF8_and_Unicode_FAQ_for_UnixLinux_helped_to_kickstart_replacing_the_now_obsolete_ISO_8859_8bit_character_sets_in_the_Linux_world">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <base:_Email rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_mgk25atcl.cam.ac.uk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Email>
+  <base:_Markus_G._Kuhn rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Compromising_emanations_of_LCD_TV_sets,_IEEE_Transactions_on_Electromagnetic_Compatibility,_Vol._55,_No._3,_pp_56470,_June_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Markus_G._Kuhn>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Home_address_only_local_access">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fulbright_scholarship">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CambridgeCB30FD">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_a_University_Senior_Lecturer_in_Computer_Science_at_the_University_of_Cambridge_Computer_Laboratory_and_a_Fellow_of_Wolfson_College">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_2011_Michaelmas rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Registration,_Digital_Signal_Processing,_Unix_Tools">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2011_Michaelmas>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Studienstiftung_des_deutschen_Volkes">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_have_a_longstanding_interest_in_the_international_standardization_of_technical_conventions._The_habit_of_doing_things_differently_than_the_rest_of_the_world_can_be_a_source_of_great_annoyance,_especially_on_the_Internet._I_wrote_a_few_tutorials_on_areas_that_I_feel_particularly_passionate_about,_some_of_which_have_become_widelyquoted_references_over_the_years">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <base:_Software rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_prepared_and_maintain_the_ISO_106461_extension_of_the_classic_X_Window_System_pixel_fonts">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Software>
+  <base:_PhD_studentship_available_October_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_me_for_more_information_a_formal_advert_will_be_posted_shortly">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_PhD_studentship_available_October_2014>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Laboratory">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </owl:NamedIndividual>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_is_also_a_still_evolving_text_about_metric_font_sizes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__electronics,_radio_communication,_hardware_security,_sidechannel_cryptanalysis,_digital_signal_processing,_electromagnetic_compatibility,_pattern_recognition,_machine_learning">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_will_be_able_to_offer_a_fully_funded_3.5year_PhD_studentship_from_October_2014,_for_one_student_to_work_on_Modelbased_assessment_of_compromising_emanations_The_project_aims_to_improve_our_understanding_of_electromagnetic_emissions_that_are_unintentionally_emitted_by_computing_equipment,_and_the_eavesdropping_risks_they_pose._In_particular,_it_aims_to_improve_test_and_measurement_procedures_TEMPEST_for_computing_equipment_that_processes_highly_confidential_data._For_this_project,_I_am_looking_for_an_electrical_engineering,_computer_science_or_physics_graduate_interested_in_several_of_the_following_areas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PhD_studentship_available_October_2014"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_have_a_sideline_interest_in_computer_timekeeping._I_proposed_a_new_Time_and_calendar_API_for_the_C_programming_language,_which_stimulated_a_lot_of_activity_in_that_direction._My_UTCSLS_is_a_proposed_standard_for_robust_handling_of_UTC_leap_seconds_in_computers._There_is_also_collected_information_on_lowfrequency_radio_time_signals">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_44_1223_334678">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fax"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Digital_Signal_Processing,_Security_I">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2011_Lent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_Kingdom">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Template_attacks_on_different_devices._COSADE_2014,_Paris,_145_April_2014._to_appear">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Omar_Choudary,_Markus_G._Kuhn"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Consulting_services">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_Some_other_online_texts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_wrote_the_Metric_System_FAQ_for_the_USENET_group_misc.metricsystem">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_other_online_texts>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_44_1223_334676">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phone"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Cambridge">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Primarily_a_computer_scientist_by_training,_I_also_have_backgrounds_in_electronics,_digital_signal_processing,_communications_engineering,_and_physiology._My_broader_interests_cover_most_aspects_of_applied_computer_science_and_technology,_including_neurophysiology_and_robotics">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_PhD_studentship_available_October_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_This_studentship_is_funded_through_Government_Communication_Headquarters_CGHQ_under_their_Academic_Centres_of_Excellence_in_Cyber_Security_Research_ACECSR_programme._As_part_of_this_programme,_the_doctoral_student_will_be_able_to_visit_and_work_with_GCHQ_experts_in_Cheltenham._To_enable_such_collaboration,_this_studentship_is_awarded_under_the_condition_that_the_applicant_obtains_an_advanced_UK_government_security_clearance_developped_vetting._To_make_this_feasible,_the_applicant_should_have_lived_in_the_UK_for_the_last_10_years_and_ideally_be_a_British_National">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_PhD_studentship_available_October_2014>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marie_Curie_scholarship">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Project_ideas_for_local_students">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn"/>
+  </owl:NamedIndividual>
+  <base:_Software rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JBIGKIT_is_my_portable_C_implementation_of_a_highly_effective_lossless_bilevel_image_compression_algorithm_based_on_context_sensitive_arithmetic_coding._The_JBIG1_algorithm_specified_in_ITUT_Recommendation_T.82_implemented_in_this_library_is_especially_suitable_for_compressing_scanned_documents_and_fax_pages._You_can_also_download_the_German_project_report_Studienarbeit_that_I_wrote_about_JBIGKIT_abstract">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Software>
+  <base:_2012_Easter rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Security_I">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012_Easter>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_15_JJ_Thomson_Avenue">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Some_other_online_texts"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2012_Easter">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2011_Michaelmas">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Markus_Kuhn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </owl:Class>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2013_Michaelmas">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Email"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Software"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PhD_studentship_available_October_2014"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phone"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fax"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reachability_status">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Markus_G._Kuhn">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recent_publications"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recent_publications"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2014_Lent">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </rdf:Description>
+</rdf:RDF>

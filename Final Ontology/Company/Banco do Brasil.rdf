@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_was_founded_by_then_princeregent_Joo_VI_of_Portugal_to_finance_the_kingdoms_public_debt_when_he_moved_from_Europe_to_Brazil,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Companies_portal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1808">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_current_logo_has_been_in_use_since_the_sixties,_when_the_standard_colors_changed_from_brown_and_yellow_to_bluegreyand_yellow">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Branding"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_also_has_49_officesplaces_of_business_in_23_different_countries,_and_according_to_the_local_laws_of_every_country_the_employees_may_be_local_hires._The_New_York_Branch_and_the_Miami_Branch_plus_the_North_America_Regional_Office_BBUSA_and_its_subsidiaries_in_the_USA_Eurobank_FL__Banco_do_Brasil_Americas,_and_BB_Money_Transfers_also_have_local_hires">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Working_at_Banco_do_Brasil"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Braslia,_Brazil">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_Services">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_48.2__billion_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+  </owl:NamedIndividual>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_information_English">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BB_Seguridade_BMF_Bovespa_Bradesco_Bradespar_Braskem_BRF_BR_Malls_Brookfield_Incorporaes_BR_Properties_CCR_CEMIG_CESP_Cetip_Cia._Hering_Cielo_Copel_Cosan_CPFL_Energia_CSN_Cyrela_Brazil_Realty_Dasa_Duratex_EcoRodovias_EDP__Energias_do_Brasil_Eletrobras_Embraer_Estcio_Even_Fibria_Gafisa_Gerdau_GPA_Hypermarcas_Ita_Unibanco_Itasa_JBS_Klabin_Kroton_Light_Localiza_Lojas_Americanas_Lojas_Renner_Marfrig_MRV_Natura_PDG_Petrobras_Prumo_Qualicorp_Rossi_Sabesp_Santander_Brasil_Souza_Cruz_Suzano_Papel_e_Celulose_Telefnica_Vivo_TIM_Brasil_Tractebel_Ultrapar_Usiminas_Vale">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ibovespa_companies_of_Brazil"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Private_Equity">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_6.6__billion_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Profit"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interest_rates_on_loans_vary_to_a_great_extent_but,_being_a_publicowned_bank_that_operates_as_a_commercial_venture,_Banco_do_Brasil_is_not_noted_for_having_the_highest,_or_the_lowest_rates_either._Banco_do_Brasil_is_not_the_only_Brazilian_bank_with_high_interest_rates._The_Economist_Survey_of_International_Banking_of_May_20,_2006_reports_that_the_average_Brazilian_interest_rate_on_credit_cards_is_222,_even_though_inflation_is_under_control,_expected_to_be_5_for_2006._Interest_rates_have_decreased_slowly,_despite_the_Brazilian_Central_Bank_recent_policy_of_dropping_standard_interest_rates_which_were_of_8.5_per_month_as_of_June_2009">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interest_rates"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_118,900">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_Votorantim">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AES_Eletropaulo_ALL_Ambev_Anhanguera">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ibovespa_companies_of_Brazil"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_publicowned_Brazilian_banks,_like_Caixa_Econmica_Federal,_Banco_da_Amaznia,_and_Banco_do_Nordeste_do_Brasil_also_carry_out_a_similar_process_but_the_process_carried_out_by_Banco_do_Brasil_is_the_archetypal_Brazilian_Concurso_Pblico_like_that_of_all_Brazilian_government_funded_public_service_jobs">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Working_at_Banco_do_Brasil"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6_Relationship_with_the_government">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_website_Portuguese">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_bank_also_sponsors_other_cultural_events_such_as_plays_through_its_organization_CCBB_Centro_Cultural_Banco_do_Brasil_and_amateur_sport_through_AABB_Associao_Atltica_Banco_do_Brasil">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Branding"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_order_for_a_local_to_be_hired_by_the_bank,_the_candidate_must_pass_a_competitive_test,_as_well_as_demonstrate_hisher_ability_to_communicate_in_multiple_languages,_knowledge_of_finance,_economics,_computer_sciences,_business_administration_and_asset_management,_trade,_structured_and_project_finance,_among_others,_related_to_the_positions_that_open_and_become_available_as_the_bank_expands._Having_prior_experience_working_in_related_areas_is_fundamental">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Working_at_Banco_do_Brasil"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_From_1821_to_1964_Banco_do_Brasil_had_sometimes_performed_tasks_that_exceeded_its_role_as_a_traditional_commercial_bank,_issuing_currency,_having_the_monopoly_of_currency_exchange_transactions_and_serving_as_National_Treasury_holder_for_the_government._Such_tasks_were_gradually_given_to_other_governmental_institutions,_mainly_with_the_creation_of_the_Central_Bank_of_Brazil_in_1964_and_the_separation_from_the_National_Treasury_in_1987">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BB_Seguridade">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brazilian_Government_73">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Owners"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Being_publicowned,_Banco_do_Brasil_must_recruit_workers_through_a_public_draft_process,_known_as_Concurso_Pblico_and_work_within_strict_norms_of_business._Due_to_the_security_which_the_public_draft_process_provides_working_for_Banco_do_Brasil_is_considered_a_desirable_job_in_most_of_Brazil._This_process_is_usually_carried_out_separately_for_each_region,_with_approved_candidates_being_recruited_to_any_branch_in_the_region,_in_which_they_completed_the_process,_within_the_following_two_years_in_order_of_classification_it_can_be_delayed_for_more_than_two_years,_once_in_each_process._Candidates_must_be_Brazilian_nationals_or_legal_residents_and_naturalised_and_must_be_able_to_prove_that_they_have_completed_their_military_service_and_electoral_registration_obligations_both_military_service_and_voter_registration_are_mandatory_for_all_Brazilians_aged_18_to_70">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Working_at_Banco_do_Brasil"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5_Interest_rates">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ibovespa_companies_of_Brazil"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_History">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traditionally_the_CEO_is_appointed_by_the_Brazilian_president_but_usually_picked_from_a_list_of_career_directors._A_few_CEOs_were_taken_from_outside_the_financial_industry">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Relationship_with_the_government"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banking">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_8_References">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_office_in_So_Paulo">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Offices_and_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sociedade_Annima">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aldemir_Bendine">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chairman">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__BBAS3">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BMF_Bovespa">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Financial_services">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Retail_banking">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_November_2013,_The_Banker_ranked_Banco_de_Brasil_as_the_top_bank_in_Brazil_based_on_Tier_1_capital">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_has_the_monopoly_of_a_number_of_government_funding_programs,_like_Pronaf_National_Subsistence_Farming_Support,_DRS,_Fome_Zero_zero_hunger,_PASEP,_and_others,_and_is_the_bank_of_choice_for_most_municipal_and_state_governments">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Relationship_with_the_government"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_After_decades_of_losses_financed_by_the_public_treasury,_the_bank_became_very_profitable_and_is_one_of_the_key_structures_used_by_the_government_to_finance_public_programs,_like_Fome_Zero_No_Hunger_and_DRS_Sustainable_Regional_Development">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_7_Working_at_Banco_do_Brasil">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_has_a_few_branches_in_the_USA_New_York,_Miami_and_other_countries._These_branches_are_intended_for_use_by_large_companies_and_for_permanent_residents_of_Brasil_who_visit_the_other_countries,_but_they_offer_regular_services_for_residents_of_the_countries_where_they_are_located">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_International_users"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_From_1992_onwards_it_was_restructured_as_a_commercial_bank,_using_its_huge_geographic_distribution_and_credit_assets_to_leverage_its_redesign_as_a_normal_bank._In_the_process,_tens_of_thousands_of_workers_were_laid_off">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_International_users">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_9_External_links">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_Americas">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_has_been_expanding_its_international_presence_and_currently_has_more_than_44_points_of_service_abroad,_divided_into_branches,_subbranches,_business_units__offices_and_subsidiaries">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_International_users"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_551.8__billion_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Supermodel_Gisele_Bndchen_was_chosen_to_front_their_first_global_ad_campaign_in_2012">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Branding"/>
+  </owl:NamedIndividual>
+  <ns1:_in_1808._It_went_bankrupt_two_times_in_history rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__one_at_independence_in_1821,_when_the_regentprince_returned_to_Portugal_taking_with_him_some_of_the_banks_assets,_and_the_second_in_1898">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_in_1808._It_went_bankrupt_two_times_in_history>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wikimedia_Commons_has_media_related_to_Banco_do_Brasil">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Besides_commercial_and_government_services,_the_bank_offers_a_large_variety_of_services_to_the_consumer_including_bill_payment_services_Boleto,_ATM_loans,_and_a_single_package_that_contains_the_account_numbers_for_checking,_multiple_savings_accounts,_and_investment_account._The_account_holder_may_apply_for_international_MasterCard_and_Visa_debit_cards_which_act_as_both_a_credit_card_on_a_loan_account,_and_as_a_debit_card_on_the_checking_account_a_little_different_from_the_arrangement_in_many_other_countries,_where_both_the_debit_and_credit_functions_of_a_debit_card_act_on_the_checking_account._The_list_of_services_offered_encompass_many_complex_automatic_functions_from_ATMs_and_online_such_as_a_wide_variety_of_loans,_automatic_payments,_Brazilian_bill_payments,_and_deposits_to_other_Brazilian_accounts._Many_merchants_routinely_accept_accounttoaccount_transfers_as_payment_for_goods">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.bb.com.br">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_Branding">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Since_the_early_eighties_the_bank_has_sponsored_several_sports_competitions_in_sports_such_as_beach_soccer,_volleyball,_tennis,_table_tennis,_futsal,_sailing_and_beach_volleyball._It_is_the_official_sponsor_for_Robert_Scheidt,_Gustavo_Kuerten,_and_the_Brazilian_national_beach_soccer,_volleyball_and_futsal_teams">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Branding"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_Patagonia">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Offices_and_subsidiaries"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Profit"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_International_users"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interest_rates"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Working_at_Banco_do_Brasil"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ibovespa_companies_of_Brazil"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banco_do_Brasil_was_founded_by_then_princeregent_Joo_VI_of_Portugal_to_finance_the_kingdoms_public_debt_when_he_moved_from_Europe_to_Brazil,_in_1808._It_went_bankrupt_two_times_in_history">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Owners"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Branding"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Relationship_with_the_government"/>
+</rdf:RDF>

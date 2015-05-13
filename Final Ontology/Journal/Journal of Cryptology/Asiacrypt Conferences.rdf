@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2006,_Shanghai,_China._Mirror_of_website_Mirror_created_6Jan07">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2011,_Seoul,_Korea._Mirror_of_website_mirror_created_5Sep13">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2008,_Melbourne,_AUSTRALIA._Mirror_of_website_Mirror_created_27April2009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2010,_Singapore,_Singapore._Mirror_of_website_mirror_created_4Sep13">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2002,_Queenstown,_New_Zealand._Mirror_of_website_Mirror_created_20Oct03.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2007,_Kuching,_Sarawak,_Malaysia._Mirror_of_website_Mirror_created_7Sept2008.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2012,_Beijing,_China._Mirror_of_website_mirror_created_4Sep13">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2004,_Jeju_Island,_Korea._Mirror_of_website_Mirror_created_26May06">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2000,_Kyoto,_Japan._Mirror_of_website_Mirror_created_01Jan01.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2003,_Taipei,_Taiwan._Mirror_of_website_Mirror_created_14Oct04.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2001,_Gold_Coast,_Australia._Mirror_of_website_Mirror_created_30Apr02.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2009,_Tokyo,_Japan._Mirror_of_website_Mirror_created_31May10">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2005,_Chennai,_India._Mirror_of_website_Mirror_created_15Jun07_rump_session_presentations">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2014,_Kaohsiung,_Taiwan.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <base:_Asiacrypt_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_2013,_Bangalore,_India.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Asiacrypt_Conference>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asiacrypt_Conference"/>
+</rdf:RDF>

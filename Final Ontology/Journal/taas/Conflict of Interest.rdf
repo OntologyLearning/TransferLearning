@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_you_are_asked_to_participate_in_the_reviewing_of_a_submission_and_have_a_conflict_of_interest,"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_The_procedure_for_processing_a_submission_to_TiiS_with_an_EiC_as_an_author_is_as_follows rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bob_will_execute_the_normal_function_of_an_Associate_Editor_for_the_paper_see_the_description_of_the_reviewing_procedure,_except_that_that_he_will_also_make_the_final_decision,_without_consulting_the_EiCs._Bob_will_report_the_final_decision_to_Alice,_who_will_in_turn_convey_it_to_the_EiCs.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_procedure_for_processing_a_submission_to_TiiS_with_an_EiC_as_an_author_is_as_follows>
+  <base:_The_procedure_for_processing_a_submission_to_TiiS_with_an_EiC_as_an_author_is_as_follows rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Associate_Editor_designated_in_Step_1_called_Alicefor_concreteness_will_not_process_the_paper_herself,_but_will_hand_it_to_another_Associate_Editor_Bob_whose_identity_will_not_be_disclosed_to_the_EiCs.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_procedure_for_processing_a_submission_to_TiiS_with_an_EiC_as_an_author_is_as_follows>
+  <base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_... rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_..._by_a_family_member">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_...>
+  <base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_... rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_..._in_which_you_have_a_nontrivial_financial_stake">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_...>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_one_of_the_EditorsinChief_EiCs_has_a_conflict_of_interest_with_a_submission_but_is_not_an_author_of_that_submission,_the_other_EiC_will_assign_an_Associate_Editor_to_handle_the_submission._This_other_EiC_will_make_the_final_decision._If_both_EiCs_have_a_conflict_of_interest_with_a_submission,_the_same_procedure_will_be_applied_as_for_a_submission_by_an_EiC_see_the_following_section.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ConflictofInterest_Policy_for_EditorsinChief">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_you_have_a_conflict_of_interest_with_a_submission,_you_should_not_be_involved_in_the_decision_process_for_that_submission_in_any_capacity,_as_Reviewer,_Associate_Editor,_or_EditorinChief.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_When_Does_a_Conflict_of_Interest_Exist">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_... rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_..._from_an_institution_at_which_you_have_recently_worked">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_...>
+  <base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_... rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_..._by_a_recent_coauthor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_...>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associate_Editors_may_publish_papers_in_TiiS._The_EditorsinChief_will_choose_an_Associate_Editor_with_no_conflict_of_interest_to_handle_the_paper._As_usual,_this_Associate_Editor_will_not_be_identified_to_the_authors_of_the_submission.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ConflictofInterest_Policy_for_Associate_Editors">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_The_procedure_for_processing_a_submission_to_TiiS_with_an_EiC_as_an_author_is_as_follows rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_EiC_will_submit_the_paper_to_an_Associate_Editor_who_has_been_specifically_designated_for_this_purpose_and_explicitly_identified_in_the_TiiS_website._The_designated_Associate_Editor_must_have_agreed_to_accept_this_responsibility_and_should_not_be_a_collaborator_of_an_EiC_or_from_the_same_organization_as_an_EiC.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_procedure_for_processing_a_submission_to_TiiS_with_an_EiC_as_an_author_is_as_follows>
+  <base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_... rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_..._by_an_advisor_or_advisee_of_yours">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_...>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Would_an_outsider_who_knew_that_you_were_involved_in_the_reviewing_process_reasonably_be_concerned_that_you_might_be_biased_either_for_or_against_the_submission_because_of_your_relationship_to_the_authors_or_their_research">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_you_are_asked_to_participate_in_the_reviewing_of_a_submission_and_have_a_conflict_of_interest,_please_let_the_requester_know_and_decline_to_participate._Most_conflicts_of_interest_can_be_recognized_with_common_sense">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_When_Does_a_Conflict_of_Interest_Exist"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__First,_it_can_unduly_penalize_the_EiCs_coauthors._In_several_computing_disciplines,_the_ACM_Transactions_is_the_premier_and_sometimes_the_only_highquality,_archival_venue_for_research_publication._A_strict_prohibition_would_impact_the_EiCs_coauthors,_especially_if_they_were_just_starting_their_research_careers._Second,_a_general_prohibition_could_prevent_some_highquality_papers_from_appearing_in_ACM_journals._ACMs_stated_mission_is_to_be_the_publisher_of_choice._Good_work_should_be_evaluated_on_its_merits_and_not_on_the_basis_of_authorship._Third,_a_prohibition_could_be_a_disincentive_for_leading_researchers_to_serve_as_EiC,_especially_insofar_as_this_prohibition_would_affect_coauthors,_in_particular_graduate_students.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_does_permit_an_EiC_to_be_an_author_of_a_paper_in_the_EiCs_journal._Outright_prohibition_of_EiC_authorship_is_considered_too_severe_for_at_least_three_reasons">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Many_ACM_conferences_do_not_permit_a_program_chair_to_submit_papers._The_three_arguments_given_above_apply_with_some_force_to_ACM_conferences_as_well_but_because_of_the_multiyear_terms_of_EiCs,_there_is_a_more_compelling_case_for_journals_than_for_conferences."/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Note rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__ACM_requires_that_a_policy_for_this_situation_exist_and_be_published_on_the_journals_website.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Note>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_purpose_of_this_policy_is_to_address_the_conflict_of_interest_that_arises_when_an_EditorinChief_EiC_of_an_ACM_journal_is_an_author_of_a_paper_submitted_to_that_journal.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ConflictofInterest_Policy_for_a_Submission_by_an_EditorinChief"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ConflictofInterest_Policy_for_a_Submission_by_an_EditorinChief"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reasons_for_Allowing_Submissions_by_an_EditorinChief"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Details_of_the_Policy"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_is_usually_a_conflict_of_interest_if_the_submission_concerns_work_...">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Note">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ConflictofInterest_Policy_for_a_Submission_by_an_EditorinChief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Many_ACM_conferences_do_not_permit_a_program_chair_to_submit_papers._The_three_arguments_given_above_apply_with_some_force_to_ACM_conferences_as_well_but_because_of_the_multiyear_terms_of_EiCs,_there_is_a_more_compelling_case_for_journals_than_for_conferences.">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reasons_for_Allowing_Submissions_by_an_EditorinChief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_procedure_for_processing_a_submission_to_TiiS_with_an_EiC_as_an_author_is_as_follows">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Details_of_the_Policy"/>
+  </rdf:Description>
+</rdf:RDF>

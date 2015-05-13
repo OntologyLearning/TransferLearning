@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Student">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_K._S._BurrowesR._B._Buxton_and_G._K._Prisk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lack_of_functional_information_explains_the_poor_performance_of_clot_load_scores_at_predicting_outcome_in_acute_pulmonary_embolism">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assessing_potential_errors_of_MRIbased_measurements_of_pulmonary_blood_flow_using_a_detailed_network_flow_model">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AirPROM">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Biography rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_obtained_an_undergraduate_degree_in_Chemical_and_Materials_Engineeringwith_first_class_honours_at_the_University_of_Auckland,_New_Zealand._I_continued_with_a_PhD_in_Biomedical_Engineering_at_the_Auckland_Bioengineering_Institute,_graduating_in_2005._My_thesis_was_on_developing_a_mathematical_model_of_the_human_pulmonary_circulation,_supervised_by_Associate_Professor_Merryn_Tawhai_still_a_close_collaborator_and_Professor_Peter_Hunter._Most_recently,_I_have_completed_a_3_year_postdoctoral_fellowship,_funded_through_the_EPSRC_at_the_Life_Sciences_Interface,_where_I_was_based_here_in_the_Oxford_Computational_Biology_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Biography>
+  <base:_Kelly_Burrowes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Senior_Research_Fellow">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Kelly_Burrowes>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A._R._ClarkD._MilneM._WilsherK._S._BurrowesM._Bajaj_and_M._H._Tawhai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Kelly_Burrowes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_kelly.burrowescs.ox.ac.uk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Kelly_Burrowes>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Events">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Kelly_Burrowes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_44_0_1865_610807">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Kelly_Burrowes>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IT_Support">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Respir_Physiol_Neurobiol._2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Themes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Building_models_from_medical_data rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Deriving_species_and_patientspecific_geometric_models_from_imaging_data">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Building_models_from_medical_data>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellaneous">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Analysis_of_hyperpolarised_gas_MRI_data">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Development_of_airway_and_ventilation_models_for_application_to_understanding_remodelling_in_asthma_and_chronic_obstructive_pulmonary_disease">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Home">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Perfusion_control_mechanisms_in_the_pulmonary_circulation__Synergy_COPD">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Application_of_perfusion_models_to_investigate_pulmonary_embolism_and_arterial_spin_labelling_MRI_measurements">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Respiratory_modelling,_in_particular_Physiome_and_VPHrelated_respiratory_projects,_has_developed_somewhat_in_the_shadows_of_other_physiological_areas,_such_as_cardiac_and_musculoskeletal_modelling._However,_the_prominence_of_respiratory_disease_and_the_increasing_morbidity_and_mortality_of_respiratory_illnesses_such_as_chronic_obstructive_pulmonary_disease_COPD,_currently_the_fourth_biggest_killer_provides_strong_motivation_for_development_within_this_area">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_People">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Philos_Trans_A_Math_Phys_Eng_Sci._2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Kelly_Burrowes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Kelly_Burrowes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Kelly_Burrowes>
+  <base:_Pulmonary_embolism rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__predicting_disease_severity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Pulmonary_embolism>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Biology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal__Intranet">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simulating_ventilation_and_perfusion_distributions_within_the_lung">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activities">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edit_website__database_login">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lecture_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__Studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Models_of_tissue_deformation_linked_to_ventilation,_perfusion,_and_gas_exchange">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Seminars__timetables">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lorenz_Berger">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_news">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Awards">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Students">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Practical_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Class_timetable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_interest_is_in_the_application_of_anatomicallybased_computational_models_to_increase_our_understanding_of_respiratory_physiology._To_date,_my_research_has_focussed_on_the_pulmonary_circulation,_however_with_new_projects_starting_in_2011_my_research_will_begin_to_encompass_modelling_ventilation_in_the_airways,_gas_exchange,_with_application_to_the_diseases_of_asthma_and_COPD">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Completed_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prospective_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_have_two_exciting_European_projects_starting_early_2011._These_projects_are_both_funded_through_the_Seventh_Framework_Programme_to_contribute_to_the_development_of_a_Virtual_Physiological_Human_VPH,_in_particular_development_of_a_virtual_lung._Patientspecific_respiratory_models_investigating_ventilation_and_perfusion_relationships_and_gas_exchange_in_patients_with_asthma_and_COPD_will_be_developed,_linking_in_with_several_industrial,_academic_and_clinical_partners_across_Europe">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Biology_group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry_Liaison">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Project_news">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Us">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_K._S._BurrowesA._R._ClarkA._MarcinkowskiM._L._WilsherD._G._Milne_and_M._H._Tawhai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Journal_of_Applied_Physiology._2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Calendars rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_Seminars">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Calendars>
+  <base:_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_main_aspects_of_our_work_within_this_field_include">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Interests>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Pulmonary_embolism">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Building_models_from_medical_data">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kelly_Burrowes"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+</rdf:RDF>

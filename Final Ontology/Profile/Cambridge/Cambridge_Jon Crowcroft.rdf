@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EPSRCs_Rigorous_Engineering_of_Mainstream_Systems,_including_Networks_as_a_Service_NaaS_and_Big_Data">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__survey__Dagstuhl_reports_on_Decentralized_Privacy,_Future_Internet,_Publication_Culture__failure_machinesdiy_nets">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EU_Internet_Science_Network">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_research"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_input rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Some_original_Raspberry_Pi_Projects__plus_Computing_with_People_suggestions_for_CAS_activities">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_input>
+  <base:_output rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_past_students,_work_and_whereabouts,_and_advisor_family_tree">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_output>
+  <base:_input rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Principles_of_Communications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_input>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IEEE_Communications_Surveys_and_Tutorials">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_journals"/>
+  </owl:NamedIndividual>
+  <base:_output rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_gadgets__papers__talks__ware_bookscode__tabs_cure__names_xen_x,__Zen,__raspberry_pi_r_conjectures">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_output>
+  <base:_input rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MPhil_projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_input>
+  <base:_output rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_papers_talks_projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_output>
+  <base:_input rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Part_II_projectsgood_advice_on_experimental_evaluation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_input>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Communications_of_the_ACM_research_highlights">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_journals"/>
+  </owl:NamedIndividual>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Liquid_Computing_and_User_Centric_Networking_from_the_EU">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EPSRCs_Horizon_project_LCD_Net_PAWS_public_access_wifi_service_Cambridge_UK">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_HAT_EPSRC,_started_june__User_Centric_Networking_EU_work__Centre_for_Smart_Infrastructure_and_Construction__interknot__various_hats__Prezi">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_current_phd_students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <base:_input rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cambridge_University_Computing_and_Technology_Society_CUCATS">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_input>
+  <base:_input rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Network_Architecture">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_input>
+  <base:_conferences__deadlines rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_eenergy,_jun_1113_2014,_Cambridge,_England">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_conferences__deadlines>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security,__Cyber__Science_and_Policy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IEEE_Network_Magazine">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_journals"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IEEETransactions_on_Networks_editor_at_large">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_journals"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_future_phd_students_Metrics"/>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Intelligent_Energy_aware_Nets__intro__my_,_CL__Cambridge_energy_use">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <base:_research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_OcamlLabs_digital_life_fndagstuhl_workshop_on_principles">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_research>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_research"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_conferences__deadlines"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_output"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_journals"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_input"/>
+</rdf:RDF>

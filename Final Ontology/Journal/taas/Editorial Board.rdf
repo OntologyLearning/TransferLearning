@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns18="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simon_Dobson,_St_Andrews_University,"
+  xmlns:ns19="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Luck,_University_of_Southampton,"
+  xmlns:ns12="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Salima_Hassas,_University_of_Lyon,"
+  xmlns:ns13="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Omer_F._Rana,_University_of_Cardiff,"
+  xmlns:ns10="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Radhika_Nagpal,_Harvard_University,"
+  xmlns:ns11="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongyan_Xu,_Purdue_University,"
+  xmlns:ns16="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marco_Dorigo,_Universite_Libre_de_Bruxelles,"
+  xmlns:ns17="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Onn_Shehory,_IBM_Haifa_Research_Lab_and_Bar_Ilan_University,"
+  xmlns:ns14="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Julie_Mc_Cann,_Imperial_College_London,"
+  xmlns:ns15="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tarek_Abdelzaher,_University_of_Illinois_at_Urbana_Champaign,"
+  xmlns:ns8="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ivan_Rodero,_Rutgers_University,"
+  xmlns:ns9="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franco_Zambonelli,_University_of_Modena_e_Reggio_Emilia,"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Karl_Aberer,_Ecole_Polytechnique_Federale_de_Lausanne,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Anthony_Karageorgos,_University_of_Thessaly,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrea_Omicini,_University_of_Bologna,"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Indranil_Gupta,_University_of_Illinois,_UrbanaChampaign,"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manish_Parashar,_Rutgers_University,"
+  xmlns:ns6="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jake_Beal,_BBN_Technologies_and_MIT,"
+  xmlns:ns7="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ajoy_Datta,_University_of_Nevada,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns26="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nicola_Bicocchi,_University_of_Modena_e_Reggio_Emilia,"
+  xmlns:ns25="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vinny_Cahill,_Trinity_College_Dublin,"
+  xmlns:ns24="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Luciano_Baresi,_Politecnico_di_Milano,"
+  xmlns:ns23="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Roy_Sterritt,_University_of_Ulster,"
+  xmlns:ns22="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Giovanna_di_Marzo,_University_of_Geneva,"
+  xmlns:ns21="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeremy_Pitt,_Imperial_College_London,"
+  xmlns:ns20="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ozalp_Babaoglu,_University_of_Bologna,"
+>
+  <ns7:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.egr.unlv.edudatta">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns7:_USA_http>
+  <ns21:_UK_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.iis.ee.ic.ac.ukj.pitt">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns21:_UK_http>
+  <ns9:_Italy_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.dismi.unimo.itZambonelli">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns9:_Italy_http>
+  <ns16:_Belgium_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iridia.ulb.ac.bemdorigo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns16:_Belgium_http>
+  <ns13:_UK_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_users.cs.cf.ac.ukO.F.Rana">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns13:_UK_http>
+  <base:_Associated_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_H._Van_Dyke_Parunak,_Jacobs_Technology_Inc.,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Associated_Editors>
+  <base:_Alumni_Associated_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eric_Bonabeau,_Icosystem_Corporation,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Alumni_Associated_Editors>
+  <ns4:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.cs.uiuc.eduindy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns4:_USA_http>
+  <ns17:_Israel_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.cs.biu.ac.ilshechory">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns17:_Israel_http>
+  <ns2:_Greece_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_users.teilar.grkarageorgos">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_Greece_http>
+  <ns23:_UKhttp rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.ulster.ac.ukstaffr.sterritt.html">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns23:_UKhttp>
+  <ns19:_UK_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.dcs.kcl.ac.ukstaffmml">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns19:_UK_http>
+  <ns8:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_nsfcac.rutgers.edupeopleirodero">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns8:_USA_http>
+  <ns22:_Switzerlandhttp rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_cui.unige.chdimarzo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns22:_Switzerlandhttp>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <ns6:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_web.mit.edujakebealwww">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns6:_USA_http>
+  <ns24:_Italy_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_home.dei.polimi.itbaresi">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns24:_Italy_http>
+  <ns25:_Ireland_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.dsg.cs.tcd.ievjcahill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns25:_Ireland_http>
+  <ns14:_UK_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.doc.ic.ac.ukjamm">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns14:_UK_http>
+  <ns15:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.cs.uiuc.eduhomeszaher">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns15:_USA_http>
+  <ns1:_Switzerland_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_lsirpeople.epfl.chaberer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Switzerland_http>
+  <ns5:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_nsfcac.rutgers.edupeopleparashar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns5:_USA_http>
+  <base:_Alumni_Associated_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeff_Kephart,_IBM_T.J._Watson_Research_Center,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Alumni_Associated_Editors>
+  <ns12:_France_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www710.univlyon1.frhassas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns12:_France_http>
+  <base:_Alumni_Associated_Editors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Yaneer_Bar_Yam,New_England_Complex_Systems_Institute,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Alumni_Associated_Editors>
+  <ns11:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.cs.purdue.edupeoplefacultydxu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns11:_USA_http>
+  <ns3:_Italy_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_andreaomicini.apice.unibo.it">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns3:_Italy_http>
+  <ns20:_Italy_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.cs.unibo.itbabaoglu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns20:_Italy_http>
+  <ns26:_Italy_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_pervasive2.morselli.unimo.itnicola">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns26:_Italy_http>
+  <ns10:_USA_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.eecs.harvard.edurad">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns10:_USA_http>
+  <ns18:_UK_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.simondobson.org">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns18:_UK_http>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Board">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simon_Dobson,_St_Andrews_University,_UK_http">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Radhika_Nagpal,_Harvard_University,_USA_http">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni_Associated_Editors">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongyan_Xu,_Purdue_University,_USA_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assistant">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Karl_Aberer,_Ecole_Polytechnique_Federale_de_Lausanne,_Switzerland_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni_Associated_Editors"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Giovanna_di_Marzo,_University_of_Geneva,_Switzerlandhttp">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editor_in_Chief_Emeritus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Luciano_Baresi,_Politecnico_di_Milano,_Italy_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vinny_Cahill,_Trinity_College_Dublin,_Ireland_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Manager">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Salima_Hassas,_University_of_Lyon,_France_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Onn_Shehory,_IBM_Haifa_Research_Lab_and_Bar_Ilan_University,_Israel_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Julie_Mc_Cann,_Imperial_College_London,_UK_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeremy_Pitt,_Imperial_College_London,_UK_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ozalp_Babaoglu,_University_of_Bologna,_Italy_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrea_Omicini,_University_of_Bologna,_Italy_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marco_Dorigo,_Universite_Libre_de_Bruxelles,_Belgium_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Luck,_University_of_Southampton,_UK_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Roy_Sterritt,_University_of_Ulster,_UKhttp">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EditorsinChief">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ivan_Rodero,_Rutgers_University,_USA_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Manager"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editor_in_Chief_Emeritus"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franco_Zambonelli,_University_of_Modena_e_Reggio_Emilia,_Italy_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EditorsinChief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nicola_Bicocchi,_University_of_Modena_e_Reggio_Emilia,_Italy_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assistant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Indranil_Gupta,_University_of_Illinois,_UrbanaChampaign,_USA_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manish_Parashar,_Rutgers_University,_USA_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EditorsinChief"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ajoy_Datta,_University_of_Nevada,_USA_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Anthony_Karageorgos,_University_of_Thessaly,_Greece_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tarek_Abdelzaher,_University_of_Illinois_at_Urbana_Champaign,_USA_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Omer_F._Rana,_University_of_Cardiff,_UK_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jake_Beal,_BBN_Technologies_and_MIT,_USA_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Associated_Editors"/>
+  </rdf:Description>
+</rdf:RDF>

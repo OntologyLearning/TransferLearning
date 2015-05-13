@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_June_2008_I_started_a_postdoctoral_research_position_with_the_Virtual_Physiological_Human_Network_of_Excellence_VPH_NoE_project,_based_in_the_Department_of_Computer_Science.__My_role_was_helping_to_lead_the_VPH_ToolKit_development_team,_coordinating_the_integration_of_tools_developed_worldwide_for_modelling_different_aspects_of_human_physiology,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_People">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Supervisors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Whiteley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Project_news">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Calendars">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects"/>
+  </owl:NamedIndividual>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Connecting_models_to_data_in_multiscale_multicellular_tissue_simulations">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_interested_in_the_application_of_software_engineering_to_computational_biology__using_technology_well_to_enable_better_science._In_particular,_I_look_at_the_use_of_domainspecific_languages_to_describe_mathematical_models_of_biology,_and_the_tools_required_to_make_these_usable_for_researchers._My_doctorate,_and_some_subsequent_work,_looked_at_automating_both_the_validation_and_optimisation_of_biological_in_particular,_cardiac_models_described_using_the_CellML_language_of_which_I_am_an_elected_editor._I_have_worked_in_several_EU_projects_within_the_Virtual_Physiological_Human_VPH_initiative,_focusing_on_standardsbased_interoperability_and_the_development_of_modelling_tools">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_J.M._Cooper_J_Osborne">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_current_research_interests_lie_in_developing_the_concept_of_functional_curation,_which_supports_the_specification_of_experiments_through_a_protocol_language,_allowing_an_in_silico_version_of_a_wet_lab_experiment_to_be_run_on_a_range_of_alternative_models_and_the_results_compared._This_has_the_potential_to_transform_our_approach_to_modelling,_putting_the_integration_of_models_and_data_on_a_rigorous_footing,_and_facilitating_the_model_development_process">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal__Intranet">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Osborne_J.M._Bernabeu_M.O._Bruna_M._Calderhead_B._Cooper_J._Dalchau_N._Dunn_SJ._Fletcher_A.G._Freeman_R._Groen_D._Knapp_B._McInerny_G.J._Mirams_G.R._PittFrancis_J._Sengupta_B._Wright_D.W._Yates_C.A._Gavaghan_D.J._Emmott_S._and_C._Deane">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Gavaghan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prospective_Students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Procedia_Computer_Science._Vol._18._Pages_71221._2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_In_This_Section rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Google_Scholar_profile">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_This_Section>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry_Liaison">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_jonathan.coopercs.ox.ac.uk">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Cooper"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_Computational_Biology_Group_I_am_heavily_involved_in_the_Chaste_project,_both_for_cardiac_and_cellbased_applications._I_develop_support_for_the_use_of_CellML,_and_contribute_C_,_Python,_and_software_design_expertise,_as_well_as_having_been_largely_responsible_for_developing_the_project_infrastructure">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Biology___Software_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Heart_Modelling___Information_Modelling___Computational_Biology_group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alumni">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Fellow">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Cooper"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Anthony_Connor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Students">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_In_This_Section rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_2020_Science_pages">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_This_Section>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_PLoS_Computational_Biology._Vol._10._No._3._Pages_e1003506._2014">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_01865_610671">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Cooper"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Themes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__studentships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vacancies__Studentships">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <ns1:_with_a_focus_on_standardsbased_interoperability._Over_the_next_3_years_I_also_worked_on_two_other_projects_within_the_Virtual_Physiological_Human_initiative rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__preDiCT,_which_looked_at_predicting_the_cardiac_toxicity_of_drugs,_and_TUMOR,_working_on_transatlantic_integration_of_cancer_models._In_all_these_projects_my_personal_research_contributions_have_mainly_been_concerned_with_the_use_of_markup_languages_to_represent_models">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_with_a_focus_on_standardsbased_interoperability._Over_the_next_3_years_I_also_worked_on_two_other_projects_within_the_Virtual_Physiological_Human_initiative>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ten_simple_rules_for_effective_computational_research">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_PLoS_Computational_Biology._Vol._9._No._3._Pages_e1002970._2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aidan_Daly">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steve_McKeever">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_In_This_Section rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ResearcherID_profile">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_This_Section>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching_Assistant">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Cooper"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_current_post_as_a_Research_Fellow_in_Computational_Science,_part_of_the_2020_Science_project,_began_in_July_2011._Within_this_context_I_am_primarily_developing_the_concept_of_Functional_Curation,_described_above">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  </owl:NamedIndividual>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IT_Support">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Between_20012004_I_studied_for_a_BA_in_Mathematics__Computer_Science_at_the_University_of_Oxford._On_graduating_with_first_class_honours_I_joined_the_Life_Sciences_Interface_Doctoral_Training_Centre_to_undertake_a_DPhil_with_the_Integrative_Biology_project,_which_I_completed_in_2008">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  </owl:NamedIndividual>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Home">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Events">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Jonathan_Cooper">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Cooper"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Awards">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Seminars__timetables">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects"/>
+  </owl:NamedIndividual>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2020_Science___Chaste">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Internal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edit_website__database_login">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Internal>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Chaste rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__an_open_source_C_library_for_computational_physiology_and_biology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Chaste>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Us">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Integrative_Biology__Chaste__VPH_NoE__preDiCT__TUMOR">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Main_sections rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_sections>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_G.R._MiramsC.J._ArthursM.O._BernabeuR._BordasJ._CooperA._CorriasY._DavitSJ._DunnA.G._FletcherD.G._HarveyM.E._MarshJ._M._OsborneP._PathmanathanJ._PittFrancisJ._SouthernN._Zemzemi_and_D.J._Gavaghan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellaneous">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Room_361,_Wolfson_Building,_Parks_Road,_Oxford_OX1_3QD">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Cooper"/>
+  </owl:NamedIndividual>
+  <base:_RSS_Feeds rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_news">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_RSS_Feeds>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Completed_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <base:_Info rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activities">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Info>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_sections"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Info"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internal"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_This_Section"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jonathan_Cooper"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Links"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_June_2008_I_started_a_postdoctoral_research_position_with_the_Virtual_Physiological_Human_Network_of_Excellence_VPH_NoE_project,_based_in_the_Department_of_Computer_Science.__My_role_was_helping_to_lead_the_VPH_ToolKit_development_team,_coordinating_the_integration_of_tools_developed_worldwide_for_modelling_different_aspects_of_human_physiology,_with_a_focus_on_standardsbased_interoperability._Over_the_next_3_years_I_also_worked_on_two_other_projects_within_the_Virtual_Physiological_Human_initiative">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSS_Feeds"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biography"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chaste">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </rdf:Description>
+</rdf:RDF>

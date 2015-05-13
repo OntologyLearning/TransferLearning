@@ -1,0 +1,70 @@
+<VIPSPage Url="http://mfcs.mimuw.edu.pl/" PageTitle="MFCS 2011" WindowWidth="413" WindowHeight="768" PageRectLeft="10" PageRectTop="15" PageRectWidth="1024" PageRectHeight="768" neworder="0" order="0"><LayoutNode FrameSourceIndex="0" SourceIndex="15" DoC="1" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="1307" LinkTextLen="101" DOMCldNum="1" FontSize="9" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="768" ID="1" order="1"><LayoutNode FrameSourceIndex="0" SourceIndex="20" DoC="11" ContainImg="1" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="1" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="366" ObjectRectHeight="723" Content=" " SRC="
+&lt;DIV id=drzewo&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/drzewo.png&quot;&gt;&lt;/DIV&gt; " ID="1-1" order="2"/><LayoutNode FrameSourceIndex="0" SourceIndex="24" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="1307" LinkTextLen="101" DOMCldNum="2" FontSize="10" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="1065" ID="1-2" order="3"><LayoutNode FrameSourceIndex="0" SourceIndex="25" DoC="10" ContainImg="3" IsImg="false" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="3" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="196" Content="    " SRC="
+&lt;DIV id=logo&gt;&lt;DIV id=naglowek&gt;&lt;A title=&quot;MFCS 2011&quot; href=&quot;http://mfcs.mimuw.edu.pl&quot;&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/naglowek.png&quot;&gt;&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV id=eatcslogo&gt;&lt;A title=EATCS href=&quot;http://www.eatcs.org/&quot;&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/eatcslogo-small.png&quot;&gt;&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV id=znaki&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/znaki.png&quot;&gt; &lt;/DIV&gt;&lt;/DIV&gt; " ID="1-2-1" order="4"/><LayoutNode FrameSourceIndex="0" SourceIndex="37;80" DoC="4" ContainImg="0" IsImg="false" ContainTable="true" ContainP="0" TextLen="1307" LinkTextLen="101" DOMCldNum="2" FontSize="10" FontWeight="400" BgColor="transparent" ObjectRectLeft="234" ObjectRectTop="211" ObjectRectWidth="800" ObjectRectHeight="869" ID="1-2-2" order="5"><LayoutNode FrameSourceIndex="0" SourceIndex="37" DoC="7" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="168" LinkTextLen="0" DOMCldNum="13" FontSize="9" FontWeight="400" BgColor="transparent" ObjectRectLeft="234" ObjectRectTop="217" ObjectRectWidth="176" ObjectRectHeight="336" Content="HomeProgrammeAccepted PapersVenueInvited SpeakersCall For PapersSubmission DetailsLocal InfoRegistrationAccomodationMapProgram CommiteeOrganizersYoung Researchers Forum " SRC="
+&lt;UL class=menu&gt;&lt;LI id=current class=&quot;active item1&quot;&gt;&lt;A href=&quot;http://mfcs.mimuw.edu.pl/&quot;&gt;&lt;SPAN&gt;Home&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item53&gt;&lt;A href=&quot;/index.php/programme&quot;&gt;&lt;SPAN&gt;Programme&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item52&gt;&lt;A href=&quot;/index.php/papers-accepted&quot;&gt;&lt;SPAN&gt;Accepted Papers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item27&gt;&lt;A href=&quot;/index.php/info-venue&quot;&gt;&lt;SPAN&gt;Venue&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item58&gt;&lt;A href=&quot;/index.php/invited-speakers&quot;&gt;&lt;SPAN&gt;Invited Speakers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item20&gt;&lt;A href=&quot;/index.php/papers-cfp&quot;&gt;&lt;SPAN&gt;Call For Papers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item51&gt;&lt;A href=&quot;/index.php/papers-details&quot;&gt;&lt;SPAN&gt;Submission Details&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item56&gt;&lt;A href=&quot;/index.php/general-local-menu&quot;&gt;&lt;SPAN&gt;Local Info&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item54&gt;&lt;A href=&quot;/index.php/registration-menu&quot;&gt;&lt;SPAN&gt;Registration&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item55&gt;&lt;A href=&quot;/index.php/accomodation-menu&quot;&gt;&lt;SPAN&gt;Accomodation&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item57&gt;&lt;A href=&quot;/index.php/localinfo-map-menu&quot;&gt;&lt;SPAN&gt;Map&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item11&gt;&lt;A href=&quot;/index.php/org-pc&quot;&gt;&lt;SPAN&gt;Program Commitee&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item12&gt;&lt;A href=&quot;/index.php/org-organizers&quot;&gt;&lt;SPAN&gt;Organizers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item62&gt;&lt;A href=&quot;/index.php/yrf-menu&quot;&gt;&lt;SPAN&gt;Young Researchers Forum&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt; " ID="1-2-2-1" order="6"/><LayoutNode FrameSourceIndex="0" SourceIndex="80" DoC="4" ContainImg="0" IsImg="false" ContainTable="true" ContainP="0" TextLen="1139" LinkTextLen="101" DOMCldNum="2" FontSize="10" FontWeight="400" BgColor="transparent" ObjectRectLeft="410" ObjectRectTop="211" ObjectRectWidth="624" ObjectRectHeight="869" ID="1-2-2-2" order="7"><LayoutNode FrameSourceIndex="0" SourceIndex="81" DoC="8" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="2" FontSize="0" FontWeight="0" BgColor="#d20028" ObjectRectLeft="410" ObjectRectTop="211" ObjectRectWidth="624" ObjectRectHeight="150" Content="Important Dates
+Full papers: April 15, 2011
+Notification: May 30, 2011
+Final version: June 13, 2011
+Conference: August 22-26, 2011contact
+MFCS 2011 PC chairs:
+Filip Murlak &amp; Piotr Sankowski " SRC="
+&lt;DIV id=boxwrapper&gt;&lt;DIV id=leftbox class=redbox&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=module&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;H3&gt;Important Dates&lt;/H3&gt;
+&lt;DIV&gt;Full papers: April 15, 2011&lt;BR&gt;Notification: May 30, 2011&lt;BR&gt;Final version: June 13, 2011&lt;BR&gt;Conference: August 22-26, 2011&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;
+&lt;DIV id=rightbox class=redbox&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=module&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;H3&gt;contact&lt;/H3&gt;
+&lt;DIV&gt;MFCS 2011 PC chairs:&lt;BR&gt;&lt;A href=&quot;http://www.mimuw.edu.pl/~fmurlak/&quot;&gt;Filip Murlak&lt;/A&gt; &amp;amp; &lt;A href=&quot;http://www.mimuw.edu.pl/~sank/&quot;&gt;Piotr Sankowski&lt;/A&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt; " ID="1-2-2-2-1" order="8"/><LayoutNode FrameSourceIndex="0" SourceIndex="118" DoC="6" ContainImg="0" IsImg="false" ContainTable="false" ContainP="4" TextLen="1139" LinkTextLen="101" DOMCldNum="11" FontSize="24" FontWeight="700" BgColor="transparent" ObjectRectLeft="430" ObjectRectTop="363" ObjectRectWidth="513" ObjectRectHeight="694" Content="36th International Symposium on Mathematical Foundations of Computer Science
+The series of MFCS symposia, organized in rotation by Poland, Slovakia, and the Czech Republic since 1972, has a long and well-established tradition. The MFCS symposia encourage high-quality research in all branches of theoretical computer science. Their broad scope provides an opportunity to bring together researchers who do not usually meet at specialized conferences.
+As in the last year, Young Researchers Forum will be organized in August 22-24 as an event associated with MFCS: http://mfcs.mimuw.edu.pl/yrf
+Venue
+The MFCS 2011 conference will be held on August 22-26, 2011 in the old library of the University of Warsaw, Krakowskie Przedmieście 26/28, in the center of Warsaw. MFCS 2010 proceedings will be published by Springer-Verlag in the new ARCoSS subline of Lecture Notes in Computer Science as Volume 6907.
+Organizers
+MFCS 2011 is organized by the Polish Mathematical Society in cooperation with EATCS.
+Deadlines
+Full papers: April 15, 2011 
+Notification: May 30, 2011 
+Final version: June 13, 2011 
+Contact
+MFCS 2011 PC chairs: Filip Murlak &amp; Piotr Sankowski  " SRC="
+&lt;TD vAlign=top colSpan=2&gt;&lt;H1&gt;36th International Symposium on Mathematical Foundations of Computer Science&lt;/H1&gt;
+&lt;P&gt;The series of &lt;SPAN class=caps&gt;MFCS&lt;/SPAN&gt; symposia, organized in rotation by Poland, Slovakia, and the Czech Republic since 1972, has a long and well-established tradition. The &lt;SPAN class=caps&gt;MFCS&lt;/SPAN&gt; symposia encourage high-quality research in all branches of theoretical computer science. Their broad scope provides an opportunity to bring together researchers who do not usually meet at specialized conferences.&lt;/P&gt;
+&lt;P&gt;As in the last year, Young Researchers Forum will be organized in August 22-24 as an event associated with MFCS: &lt;A href=&quot;/yrf&quot; target=_blank&gt;http://mfcs.mimuw.edu.pl/yrf&lt;/A&gt;&lt;/P&gt;
+&lt;H2&gt;Venue&lt;/H2&gt;
+&lt;P&gt;The &lt;SPAN class=caps&gt;MFCS&lt;/SPAN&gt; 2011 conference will be held on August 22-26, 2011 in the old library of the University of Warsaw, Krakowskie Przedmieście 26/28, in the center of Warsaw. &lt;SPAN class=caps&gt;MFCS&lt;/SPAN&gt; 2010 proceedings will be published by Springer-Verlag in the new &lt;A href=&quot;http://www.springer.com/computer/lncs?SGWID=0-164-6-737109-0&quot;&gt;ARCoSS subline&lt;/A&gt; of Lecture Notes in Computer Science as Volume 6907.&lt;/P&gt;
+&lt;H2&gt;Organizers&lt;/H2&gt;
+&lt;P&gt;&lt;SPAN class=caps&gt;MFCS&lt;/SPAN&gt; 2011 is organized by the &lt;A title=PTM href=&quot;http://www.ptm.org.pl/&quot; target=_self&gt;Polish Mathematical Society&lt;/A&gt; in cooperation with &lt;A title=EATCS href=&quot;http://www.eatcs.org/&quot; target=_self&gt;EATCS&lt;/A&gt;.&lt;/P&gt;
+&lt;H2&gt;Deadlines&lt;/H2&gt;
+&lt;UL&gt;
+&lt;LI&gt;Full papers: &lt;STRONG&gt;April 15, 2011&lt;/STRONG&gt; 
+&lt;LI&gt;Notification: May 30, 2011 
+&lt;LI&gt;Final version: June 13, 2011 &lt;/LI&gt;&lt;/UL&gt;
+&lt;H2&gt;Contact&lt;/H2&gt;
+&lt;UL&gt;
+&lt;LI&gt;&lt;SPAN class=caps&gt;MFCS&lt;/SPAN&gt; 2011 PC chairs: &lt;A href=&quot;http://www.mimuw.edu.pl/~fmurlak/&quot;&gt;Filip Murlak&lt;/A&gt; &amp;amp; &lt;A href=&quot;http://www.mimuw.edu.pl/~sank/&quot;&gt;Piotr Sankowski&lt;/A&gt; &lt;/LI&gt;&lt;/UL&gt;&lt;/TD&gt; " ID="1-2-2-2-2" order="9"/></LayoutNode></LayoutNode></LayoutNode></LayoutNode></VIPSPage>

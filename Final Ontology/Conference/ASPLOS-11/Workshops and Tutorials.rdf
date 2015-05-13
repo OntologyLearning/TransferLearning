@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expected_duration_of_the_workshop,_i.e.,_12_day,_full_day,_or_2_days">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_workshops_is_to_foster_discussion_on_new_topics_in_emerging_areas_with_a_high_level_of_interactivity._Workshop_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_To_be_held_Saturday_and_Sunday,_March_56,_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_ASPLOS11_Workshop_and_Tutorial_Proposals"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Organizers,_their_affiliations,_and_short_bios">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_workshops_is_to_foster_discussion_on_new_topics_in_emerging_areas_with_a_high_level_of_interactivity._Workshop_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Newport_Beach,_California,__March_5__11,__2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Organizers,_presenters,_their_affiliations,_and_short_bios">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,_with_a_high_level_of_interactivity._Tutorial_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expected_workshop_format,_i.e.,_keynotetalkspaneletc.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_workshops_is_to_foster_discussion_on_new_topics_in_emerging_areas_with_a_high_level_of_interactivity._Workshop_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Draft_call_for_papers,_including_the_workshops_main_objectives,_main_topics,_and_expected_program_committee_if_possible">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_workshops_is_to_foster_discussion_on_new_topics_in_emerging_areas_with_a_high_level_of_interactivity._Workshop_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expected_tutorial_format,_i.e.,_talksdemoexercise">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,_with_a_high_level_of_interactivity._Tutorial_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_the_tutorial_was_previously_held,_the_location_i.e.,_which_conference,_date,_and_number_of_attendees_at_the_last_tutorial">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,_with_a_high_level_of_interactivity._Tutorial_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract_of_the_tutorial,_including_the_tutorials_main_objectives,_main_topics,_target_audience,_and_prerequisite_knowledge">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,_with_a_high_level_of_interactivity._Tutorial_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Title_of_the_workshop">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_workshops_is_to_foster_discussion_on_new_topics_in_emerging_areas_with_a_high_level_of_interactivity._Workshop_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorials"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sixteenth_International_Conference_on"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expected_duration_of_the_tutorial_i.e.,_12_day,_full_day,_or_2_days">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,_with_a_high_level_of_interactivity._Tutorial_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Title_of_the_tutorial">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,_with_a_high_level_of_interactivity._Tutorial_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_the_workshop_was_previously_held,_the_location_i.e.,_which_conference,_date,_the_number_of_published_papers_and_attendees_at_the_last_workshop">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_workshops_is_to_foster_discussion_on_new_topics_in_emerging_areas_with_a_high_level_of_interactivity._Workshop_proposals_should_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_workshops_is_to_foster_discussion_on_new_topics_in_emerging_areas_with_a_high_level_of_interactivity._Workshop_proposals_should_include_the_following"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_ASPLOS11_Workshop_and_Tutorial_Proposals"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_goal_of_tutorials_is_to_educate_the_community_on_a_new_idea,_practice,_or_tool,_with_a_high_level_of_interactivity._Tutorial_proposals_should_include_the_following"/>
+</rdf:RDF>

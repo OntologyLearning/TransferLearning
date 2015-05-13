@@ -1,0 +1,12 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Call for Posters,'1-2-1-1-1-2,0,0,1,2,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,C
+"'Poster presentations provide researchers with a unique opportunity to present and to receive direct feedback from an expert audience about significant work in progress, bleeding-edge work, or research that is best communicated in an interactive or graphical fashion.",'1-2-1-1-2-1,2,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+"'We invite you to submit an extended abstract of no longer than 4 pages for poster presentation, in the general areas of databases, information retrieval, and knowledge management, especially posters bridging these areas, or presenting new perspectives in these areas. A full list of current topics of interest can be found at http://www.cikm2011.org/callforpapers.",'1-2-1-1-2-2,2,0,0,1,0,0,1,1,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,3,N
+"'All extended abstracts for posters will be reviewed and published in the ACM CIKM proceedings, which will be distributed in CD-ROM at the conference. Submissions of extended abstracts for posters must be in English and should not exceed 4 pages in ACM CIKM Proceedings format including references and figures. The ACM camera-ready templates are available at: http://www.acm.org/sigs/publications/proceedings-templates.",'1-2-1-1-2-3,2,0,0,1,0,0,1,1,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,3,N
+"'As with full papers, authors are required to anonymize their submission and conceal their identity. Poster papers must be submitted electronically via the posters submission web page.",'1-2-1-1-2-4,1,0,0,1,0,0,1,0,1,2,1,1,0,1,0,0,1,0,0,1,0,0,0,3,N
+'Important Dates for Poster Submissions,'1-2-1-1-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,3,C
+"'Poster papers due: May 30, 2011",'1-2-1-1-2-5-2-1,0,0,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,1,1,1,0,0,1,I
+"'Notification: July 26, 2011",'1-2-1-1-2-5-2-2,0,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,1,0,0,2,I
+"'Camera ready: August 12, 2011",'1-2-1-1-2-5-2-3,0,0,0,1,0,2,0,1,1,2,1,0,0,1,1,0,0,0,1,0,1,0,0,2,I
+'Late submissions will be rejected without further consideration.,'1-2-1-1-2-6,0,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Queries regarding poster submissions should be sent to the Posters Chair: Gianni Amati (posters@cikm2011.org),'1-2-1-1-2-7,1,0,0,1,0,2,1,1,1,2,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N

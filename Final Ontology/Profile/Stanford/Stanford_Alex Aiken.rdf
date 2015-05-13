@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_New rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mistral,_a_SMT_solver_incorporating_support_for_abductive_inference_and_fast_solutions_of_integer_linear_constraints,_is_now_publicly_released">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_New>
+  <base:_New_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Type_System_for_Safe_and_Scalable_Parallelism_using_Logical_Regions_Extended_Version">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_New_Papers>
+  <base:_Cool rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__A_freely_available_course_project_for_teaching_compilers_to_undergraduates">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Cool>
+  <base:_New rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Terra,_a_statically_typed_lowlevel_language_that_is_integrated_with_and_metaprogrammed_by_Lua_a_dynamically_typed_highlevel_language_is_now_available._Terra_provides_support_for_producing_very_high_performance_code_using_metaprogramming_techniques">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_New>
+  <base:_Current_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_demo_video_if_you_just_want_to_get_an_idea_of_how_it_works">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Projects>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Projects"/>
+  <base:_CAP rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Search_millions_of_lines_of_open_source_for_your_code">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_CAP>
+  <base:_Past_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banshee,_daughter_of_BANE,_the_Berkeley_ANalysis_Engine_for_constructing_constraintbased_program_analyses">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Past_Projects>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ben_Liblit">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Miscellany rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_family_took_most_of_the_0708_academic_year_off_to_travel_the_world._Those_with_too_much_time_on_their_hands_can_check_out_the_trips_web_page">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Miscellany>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assistant_Professor,_IIT_Delhi">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Current_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Open_source_respositories_for_the_web_frontend_and_the_theorem_prover_backend_if_you_want_to_hack_on_the_system_yourself">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Projects>
+  <base:_Past_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_is_a_Saturn_release_available_for_download">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Past_Projects>
+  <base:_Current_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sean_Treichler">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Ph.D._Students>
+  <base:_Past_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cooperative_Bug_Isolation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Past_Projects>
+  <base:_Sequoia rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Programming_Hierarchical_Memory_Machines">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sequoia>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zhendong_Su">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Alex_Aiken rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AlcatelLucent_Professor_of_Computer_Science">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Alex_Aiken>
+  <base:_Biographical_Sketch rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alex_is_married_to_Jennifer_Widom._Jennifer_and_Alex_have_a_son_Tim_and_a_daughter_Emily._Here_are_some_photos_from_the_familys_travels">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Biographical_Sketch>
+  <base:_Current_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Legion_is_a_programming_system_for_heterogenous,_parallel_machines_with_complex_memory_hierarchies._There_is_no_web_page_yet,_but_there_is_a_paper_that_will_appear_in_SuperComputing_12_and_another_draft_of_a_paper_on_the_type_system_complete_with_a_long,_tedious_soundness_proof">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Projects>
+  <base:_Miscellany rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_is_my_program_chairs_report_for_PLDI10._Unfortunatley_the_pdf_cant_correctly_display_some_things_in_the_report,_so_here_is_the_original_Power_Point_as_well">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Miscellany>
+  <base:_Current_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_live_DeduceIt_system,_where_you_can_try_a_number_of_different_kinds_of_exercises_developed_for_the_undergraduate_compiler_course_I_teach">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Projects>
+  <base:_Miscellany rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_delivered_a_memorial_for_John_Backus_at_PLDI07">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Miscellany>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Gay">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Thesis rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Peephole_Superoptimization">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Thesis>
+  <base:_Moss rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__A_Measure_of_Software_Similarity,_useful_for_detecting_plagiarism_in_programming_assignments">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Moss>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuel_Fhndrich">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Titanium rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Compiler_support_for_explicit_parallel_programming">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Titanium>
+  <base:_New rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Legion_is_a_datacentric_parallel_programming_system_for_hierarchical,_heterogeneous,_distributed_parallel_machines._Legion_focuses_on_providing_mechanisms_for_the_placement_and_movement_of_data,_allowing_programmers_to_express_locality_and_independence_of_data_while_also_automating_many_of_the_tedious_tasks_programmers_currently_face_in_programming_largescale_supercomputers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_New>
+  <base:_CS295 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Software_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_CS295>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Isil_Dillig">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Past_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Saturn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Past_Projects>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brian_Hackett">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeff_Foster">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simon_Goldsmith">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Chord rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Effective_Static_Race_Detection">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Chord>
+  <base:_Biographical_Sketch rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bowling_Green_State_University_Cornell_University_IBM_Almaden_Research_Center_UC_Berkeley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Biographical_Sketch>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stanford_Software_Seminar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mayur_Naik">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_y_publicly_available,_free,_selfstudy_compilers_course._The_course_covers_the_essentials_of_compiler_construction,_plus_material_on_language_design_and_semantics,_optimization,_and_bit_on_the_history_of_programming_languages._There_are_optional_programming_assignments_for_hardcore_enthusiasts_who_want_to_build_a_full,_functioning_compiler_for_COOL,_the_Classroom_Object_Oriented_Language">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Current_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_DeduceIt_is_a_system_for_checking_student_derivations_in_online_courses_the_idea_is_to_provide_a_richer_and_more_interactive_electronic_homework_than_multiple_choice_questions_for_problems_that_can_be_formulated_as_derivations_in_some_formal_system._A_number_of_things_are_available">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Projects>
+  <base:_Current_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Osbert_Bastani">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Ph.D._Students>
+  <base:_Alex_Aiken rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stanford_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Alex_Aiken>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_weekly_software_research_lunch">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_CS149 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Parallel_Programming">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_CS149>
+  <base:_Current_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lazaro_Clapp">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Ph.D._Students>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Bauer_Advice_for_Program_Chairs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Current_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rahul_Sharma">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Ph.D._Students>
+  <base:_Current_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eric_Schkufza">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Ph.D._Students>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Adam_Oliner">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Current_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manolis_Papadakis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Ph.D._Students>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thomas_Dillig">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Peter_Hawkins">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tachio_Terauchi">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_CQual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Adding_specifications_to_programs_with_programmerdefined_type_qualifiers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_CQual>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sorav_Bansal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Current_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Elliott_Slaughter">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_Ph.D._Students>
+  <base:_Past_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CBI_Talk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Past_Projects>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Yichen_Xie">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <base:_Open_Source_Quality_Project rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Applying_technology_to_software_engineering_problems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Open_Source_Quality_Project>
+  <base:_CS357 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Techniques_for_Program_Analysis_and_Verification">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_CS357>
+  <base:_Graduated_Ph.D._Students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Kodumal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Graduated_Ph.D._Students>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sequoia">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biographical_Sketch"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chord">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Projects"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Titanium">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS295">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CAP">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellany"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Ph.D._Students">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Students"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thesis">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Graduated_Ph.D._Students">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Students"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Open_Source_Quality_Project">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_Papers"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Moss">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS149">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CS357">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cool">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CQual">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Past_Projects"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alex_Aiken"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Students"/>
+</rdf:RDF>

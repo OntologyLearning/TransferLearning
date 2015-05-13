@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_explained_in_the_Editorial_Charter,_ACM_Transactions_on_Graphics_publishes_papers_of_significant_and_lasting_value_in_all_areas_of_computer_graphics,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Associate_Editor_reads_the_paper_and_further_determines_if_it_is_appropriate_for_TOG_consideration,_and_if_so,_selects_several_referees.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_the_summary_description_and_instructions.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_AuthorIzer_Service"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Provisional_reject._The_author_is_encouraged_to_submit_a_revised_version_of_the_manuscript,_but_there_is_no_guarantee_that_even_if_the_requested_revisions_were_successfully_performed_that_the_submission_would_be_accepted._There_may_be_additional_revisions_necessary_beyond_the_ones_originally_requested.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_submission_will_be_returned_with_one_of_the_following_recommendations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recommendations"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Questions_regarding_the_formatting_of_the_final_version_of_the_paper_should_be_directed_to_Joanne_Pello.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Once_Accepted"/>
+  </owl:NamedIndividual>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Graphical_Data_Compression">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Motion_Capture__Synthesis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Documents_should_follow_the_formatting_of_the_sample_paper_in_this_ZIP_file_so_that_we_can_properly_assess_page_count._Note_that_the_format_of_ACM_TOG_differs_from_that_of_other_ACM_Transactions_in_that_it_follows_the_twocolumn_style_of_the_SIGGRAPH_Proceedings.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Format"/>
+  </owl:NamedIndividual>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Texture_Synthesis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Graphics"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reject._The_author_is_encouraged_to_submit_the_manuscript_elsewhere,_or_the_manuscript_does_not_yet_meet_the_standards_of_breadth,_impact,_novelty_or_correctness_required_for_publication_by_the_number_one_journal_in_computer_graphics.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_submission_will_be_returned_with_one_of_the_following_recommendations"/>
+  </owl:NamedIndividual>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Visual_Simulation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Once_a_paper_is_accepted,_we_immediately_make_the_entire_paper_freely_available_on_the_TOG_website,_until_its_TOG_issue_is_physically_published_and_it_becomes_available_in_the_ACM_Digital_Library.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Photorealistic_Rendering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Artistic_Rendering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ImageBased_Rendering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PhysicallyBased_Modeling">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Accept_with_minor_revisions._If_the_author_implements_the_requested_revisions,_the_revised_submission_will_appear_in_an_upcoming_issue._The_revisions_will_be_verified_by_the_Associate_Editor.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_submission_will_be_returned_with_one_of_the_following_recommendations"/>
+  </owl:NamedIndividual>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Parametric_Curves__Surfaces">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Resubmission_of_SIGGRAPH_paper_requesting_reviewer_continuity._If_a_paper_has_previously_been_rejected_from_a_SIGGRAPH_conference,_the_authors_may_request_that_the_original_SIGGRAPH_reviewers_examine_the_revised_paper,_in_order_to_improve_continuity_of_the_review_process._The_SIGGRAPH_organization_will_forward_the_reviews_and_reviewer_names_to_a_TOG_associate_editor,_who_will_coordinate_the_process_and_make_the_acceptance_recommendation._This_type_of_submission_must_be_accompanied_by_an_explanation_of_the_changes_made_since_the_earlier_SIGGRAPH_submission._Also,_be_sure_to_include_the_original_paper_title_if_it_has_changed.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TOG_accepts_manuscript_submissions_in_these_categories">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_categories"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Accept_as_is._The_submission_will_appear_in_an_upcoming_issue_of_ACM_Transactions_on_Graphics.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_submission_will_be_returned_with_one_of_the_following_recommendations"/>
+  </owl:NamedIndividual>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Implicit_Curves__Surfaces">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <base:_Publication_policies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Publications_Policies_page_addresses_issues_of_plagiarism,_copyrights,_simultaneous_submissions,_etc.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Publication_policies>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_EditorinChief_then_determines_if_the_paper_is_appropriate_for_consideration_by_TOG_and,_if_so,_assigns_it_to_an_Associate_Editor.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previously_unpublished_research_paper._These_can_include_material_presented_as_a_SIGGRAPH_Sketch_or_in_a_workshop,_symposium_or_conference_so_long_as_it_was_not_published_in_a_journal._Any_such_prior_presentation_must_be_cited.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TOG_accepts_manuscript_submissions_in_these_categories"/>
+  </owl:NamedIndividual>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_papers_on_which_the_EditorinChief_has_a_conflict,_the_role_of_EditorinChief_is_assigned_to_the_PastEditorinChief.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructions_and_style_files_for_formatting_a_submission_using_LaTeX_are_present_in_the_same_ZIP_file.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Format"/>
+  </owl:NamedIndividual>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_is_no_deadline._Submit_your_manuscript_when_it_is_ready.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interactive_Techniques">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_referees_read_the_submission_and_measure_its_novelty,_impact_and_correctness,_and_each_returns_a_review_to_the_Associate_Editor.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Image_Warping__Morphing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_strive_to_complete_this_process_from_submission_to_decision_in_3_months,_and_our_average_time_is_2.5_months_from_submission_to_decision,_though_some_papers_can_require_longer_periods_to_perform_the_complete_and_thorough_evaluation_required_by_the_top_journal_in_computer_graphics.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_An_administrative_assistant_first_checks_the_submission_for_completeness_and_notifies_the_EditorinChief.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_prefer_manuscripts_submitted_as_PDF_files,_but_can_also_accept_PostScript_or_Microsoft_Word_documents.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Format"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_This_service_extends_ACMs_support_for_selfarchiving_by_enabling_authors_to_generate_and_post_links_in_their_own_bibliographies_that_they_maintain_on_either_their_personal_home_page_or_institutional_repository._These_links_will_let_any_visitors_to_your_personal_bibliography_pages_download_the_definitive_version_of_the_articles_for_free_from_the_ACM_DL._These_downloads_will_be_recorded_as_part_of_the_DL_usage_statistics.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_AuthorIzer_Service"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scope">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </owl:Class>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Procedural_Modeling__Texturing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Font_Rendering__Typography">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SIGGRAPH_accept_with_major_revision._Some_papers_submitted_to_the_SIGGRAPH_conference_are_sufficiently_compelling_to_warrant_acceptance,_but_would_require_more_revision_than_the_few_weeks_the_SIGGRAPH_conference_schedule_permits._The_SIGGRAPH_Papers_Committee_recommends_these_papers_for_acceptance_with_major_revision_to_appear_in_an_upcoming_issue_of_TOG._These_manuscripts_once_revised_are_submitted_to_TOG_under_this_category_for_verification_of_the_revisions_and_eventual_publication.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TOG_accepts_manuscript_submissions_in_these_categories"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_EditorinChief,_based_on_the_reviews_and_Associate_Editors_recommendation,_makes_a_final,_binding_recommendation_on_the_acceptability_of_the_submission,_and_communicates_to_the_author_this_recommendation_along_with_the_Associate_Editors_comments_and_referees_reviews.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Associate_Editor_collects_the_reviews_and_makes_a_recommendation_to_the_EditorinChief_on_the_acceptability_of_the_submission.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Animation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Numerical_Methods">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_is_no_page_limit._Use_the_least_number_of_pages_necessary_to_adequately_describe_your_idea.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Accept_with_major_revisions._If_the_author_implements_the_requested_revisions,_the_revised_submission_will_appear_in_an_upcoming_issue._The_revisions_will_be_verified_by_the_original_referees.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_submission_will_be_returned_with_one_of_the_following_recommendations"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_are_trying_to_improve_the_quality_of_the_PDF_and_print_images_too._Please_help_us_with_that_by_verifying_that_the_images_in_the_proofs_you_receive_have_not_been_overly_compressed.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Once_Accepted"/>
+  </owl:NamedIndividual>
+  <base:_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_at_any_time_during_this_process_we_determine_your_submission_is_inappropriate_for_consideration_by_TOG,_we_will_return_the_submission_to_the_author_immediately_so_the_problem_can_be_fixed_or_the_submission_can_be_sent_to_a_more_appropriate_venue._This_is_in_the_best_interest_of_the_author_and_the_timely_publication_of_the_submission_as_it_avoids_a_lengthy_review_process_that_would_nevertheless_result_in_rejection.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Process>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volumetric_Modeling__Rendering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_acceptance_email_will_contain_the_most_uptodate_instructions.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Once_Accepted"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Because_TOG_has_page_count_constraints,_authors_are_encouraged_to_keep_the_presentation_concise._For_instance,_figures_and_tables_should_be_formatted_to_span_only_a_single_column_rather_than_both_columns_if_possible._Also,_it_may_be_appropriate_to_place_content_in_supplementary_electronic_material_that_accompanies_the_submission._Such_supplementary_material_is_made_available_with_the_paper_in_the_ACM_Digital_Library_after_the_paper_is_published.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Format"/>
+  </owl:NamedIndividual>
+  <ns1:_including_but_not_limited_to_the_following. rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Meshed_Geometry_Processing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_including_but_not_limited_to_the_following.>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_categories">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Process">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Once_Accepted">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recommendations">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publication_policies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Format">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_explained_in_the_Editorial_Charter,_ACM_Transactions_on_Graphics_publishes_papers_of_significant_and_lasting_value_in_all_areas_of_computer_graphics,_including_but_not_limited_to_the_following."/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_AuthorIzer_Service"/>
+</rdf:RDF>

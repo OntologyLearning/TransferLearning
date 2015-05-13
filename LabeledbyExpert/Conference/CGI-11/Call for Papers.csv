@@ -1,0 +1,178 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Call for Papers,'1-2-1-1-1-1,0,0,1,2,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,C
+'Computer Graphics International 2011,'1-2-1-1-1-2-1,0,0,1,2,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+"'Ottawa, Ontario, Canada on June 12-15, 2011",'1-2-1-1-1-2-2-1,0,0,1,2,1,2,0,0,0,2,1,1,0,0,0,1,0,0,1,0,1,0,0,1,I
+"'As one of the oldest International Computer Graphics conferences in the world, Computer Graphics International (CGI) has been a major conference in the area. You are invited to submit your contribution in the CGI'11 conference, which will be held in Ottawa, Ontario, Canada on June 12-15, 2011.",'1-2-1-1-1-2-2-2-1-1,2,0,0,2,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+"'Located on the border of Anglophone and Francophone of Canada Ottawa is one of the most beautiful G8 capitals in the world and has been selected as the Best Place to Live 2010 in Canada. Ottawa is also rich in culture and heritage with parklands, waterways and historic architecture; notably the Rideau Canal, Ontario's first UNESCO World Heritage Site, which becomes the world's largest naturally frozen skating rink in winter. The historic Parliament Hill is the seat of Canada's national government. Besides being a travellers’ attraction on its own, it is also near other popular cities such as Montreal, Toronto, Quebec City, and Niagara Falls.",'1-2-1-1-1-2-2-2-1-2,2,0,0,2,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Paper Publication:,'1-2-1-1-1-2-2-2-2,0,0,1,2,1,2,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'The 30~35 best accepted papers will be published in the Visual Computer at the time of the Conference. Next best accepted papers will appear in the electronic proceedings with ISBN and they will be also invited to submit, after the conference, an improved version for the Visual Computer.",'1-2-1-1-1-2-2-3-1-1,2,0,0,2,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+"'Paper submission Link is provided in conference website, http://cgi2011.site.uottawa.ca/Submission.php",'1-2-1-1-1-2-2-3-1-2,0,0,0,2,0,2,1,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,3,N
+'Important Dates:,'1-2-1-1-1-2-2-3-2,0,0,1,2,1,2,0,2,0,2,0,1,0,0,1,0,0,0,0,0,1,0,0,3,C
+'Full Paper Submission Deadline:,'1-2-1-1-2-1-1-1,0,0,1,2,1,2,0,2,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,1,C
+"'February 8th 12th 23:59 GMT, 2011",'1-2-1-1-2-1-1-2,0,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Notification of Full Paper Acceptance:,'1-2-1-1-2-1-2-1,0,0,1,2,1,2,0,2,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0,2,C
+"'March 10th (Thursday), 2011",'1-2-1-1-2-1-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Camera ready for 35 best papers:,'1-2-1-1-2-1-3-1,0,0,1,2,1,0,0,2,1,2,0,0,1,0,1,0,0,0,0,1,1,0,0,2,C
+"'March 19th (Saturday), 2011",'1-2-1-1-2-1-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Camera ready for full papers:,'1-2-1-1-2-1-4-1,0,0,1,2,1,2,0,2,1,2,0,0,1,0,1,0,0,0,0,1,1,0,0,2,C
+"'March 31st (Thursday), 2011",'1-2-1-1-2-1-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Short Paper Submission Deadline:,'1-2-1-1-2-1-5-1,0,0,1,2,1,2,0,2,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+"'March 25th (Friday), 2011",'1-2-1-1-2-1-5-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Notification of Short Paper Acceptance:,'1-2-1-1-2-1-6-1,0,0,1,2,1,2,0,2,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0,2,C
+"'April 10th (Sunday), 2011",'1-2-1-1-2-1-6-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Posters & Demo Submission Deadline:,'1-2-1-1-2-1-7-1,0,0,1,2,1,2,0,2,1,2,0,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+"'April 30thth (Sunday), 2011",'1-2-1-1-2-1-7-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Conference:,'1-2-1-1-2-1-8-1,0,0,1,2,1,1,0,2,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'June 12th - 15th (Sunday - Wednesday), 2011",'1-2-1-1-2-1-8-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+"'Topics of interest include, but are not limited to:",'1-2-1-1-2-2-1,0,0,1,2,1,0,0,2,1,2,0,1,0,0,0,0,0,0,0,1,0,0,0,2,C
+'Graphics Systems Architecture,'1-2-1-1-2-2-2-1-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Rendering Techniques,'1-2-1-1-2-2-2-1-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Geometric Computing,'1-2-1-1-2-2-2-1-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Shape and Surface Modeling,'1-2-1-1-2-2-2-1-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Physically Based Modeling,'1-2-1-1-2-2-2-1-5,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Scientific Visualization,'1-2-1-1-2-2-2-1-6,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Multimedia and Digital Media,'1-2-1-1-2-2-2-1-7,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Image Based Rendering,'1-2-1-1-2-2-2-1-8,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Computational Photography,'1-2-1-1-2-2-2-1-9,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Medical Imaging,'1-2-1-1-2-2-2-1-10,0,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Interaction and HCI,'1-2-1-1-2-2-2-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Stylized Rendering,'1-2-1-1-2-2-2-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Virtual and Augmented Reality,'1-2-1-1-2-2-2-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Point-based Graphics,'1-2-1-1-2-2-2-2-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Computer Vision,'1-2-1-1-2-2-2-2-5,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Data Compression for Graphics,'1-2-1-1-2-2-2-2-6,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Web Graphics,'1-2-1-1-2-2-2-2-7,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Graphic Toolkits,'1-2-1-1-2-2-2-2-8,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Computer Animation,'1-2-1-1-2-2-2-2-9,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Haptic for Graphics,'1-2-1-1-2-2-2-2-10,0,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Organization:,'1-2-1-2-1-1,0,0,1,2,1,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Conference Chairs,'1-2-1-2-1-2,0,0,1,2,0,2,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,C
+'Chang-Hun Kim,'1-2-1-2-2-1-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'(Korea University),'1-2-1-2-2-1-2-2,0,0,0,2,1,2,0,0,1,2,0,0,0,1,0,1,0,1,0,0,1,0,0,1,I
+'Chris Joslin,'1-2-1-2-2-2-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'(Carleton University),'1-2-1-2-2-2-2-2,0,0,0,2,1,2,0,0,1,2,0,0,0,1,0,0,0,1,0,0,1,0,0,1,I
+'Pierre Poulin,'1-2-1-2-2-3-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'(Université de Montréal),'1-2-1-2-2-3-2-2,0,0,0,2,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Program Chairs,'1-2-1-3-1,0,0,1,2,0,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,2,C
+'WonSook Lee,'1-2-1-3-2-1-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'(University of Ottawa),'1-2-1-3-2-1-2-2,0,0,0,2,1,2,0,0,1,2,0,0,0,1,0,0,0,1,0,0,1,0,0,1,I
+'Nadia Magnenat-Thalmann,'1-2-1-3-2-2-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'(MIRALab, University of Geneva / IMI, NTU, Singapore)",'1-2-1-3-2-2-2-2,0,0,0,2,1,2,0,0,1,2,0,0,0,1,0,1,0,1,0,0,0,0,0,1,I
+'Jos Stam,'1-2-1-3-2-3-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'(Autodesk),'1-2-1-3-2-3-2-2,0,0,0,2,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Posters/Demo Chair,'1-2-1-4-1,0,0,1,2,0,2,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,2,C
+'David Mould (Carleton University),'1-2-1-4-2,0,0,1,2,1,2,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,I
+'Local Organisation and Coordination,'1-2-1-5-1,0,0,1,2,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'WonSook Lee, Mauricio Vines (University of Ottawa)",'1-2-1-5-2,0,0,1,2,1,2,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,I
+'International Program Committee,'1-2-1-6-1,0,0,1,2,0,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,1,2,C
+"'Yiannis Aloimonos (University of Maryland, USA)",'1-2-1-6-2-1-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,1,0,0,0,0,0,1,I
+"'Ali Arya (Carleton University, Canada)",'1-2-1-6-2-1-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Norman Badler (University of Pennsylvania, USA)",'1-2-1-6-2-1-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Selim Balcisoy (Sabanci University, Turkey)",'1-2-1-6-2-1-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Kadi Bouatouch (IRISA, France)",'1-2-1-6-2-1-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Boubakeur Boufama (University of Windsor, Canada)",'1-2-1-6-2-1-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'David Breen (Drexel University, USA)",'1-2-1-6-2-1-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Alfred Bruckstein (Technion, Israel )",'1-2-1-6-2-1-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Yiyu Cai (NTU, Singapore)",'1-2-1-6-2-1-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Tolga Capin (Bilkent University, Turkey)",'1-2-1-6-2-1-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Lap-Pui Chau (NTU, Singapore)",'1-2-1-6-2-1-11,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Parag Chaudhuri (Indian Institute of Technology Bombay, Mumbai, India)",'1-2-1-6-2-1-12,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Fuhua (Frank) Cheng (University of Kentucky, USA)",'1-2-1-6-2-1-13,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Sabine Coquillart (INRIA, France)",'1-2-1-6-2-1-14,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Frederic Cordier (University of Haute-Alsace, France)",'1-2-1-6-2-1-15,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Leila De Floriani (University of Genova, Italy)",'1-2-1-6-2-1-16,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Jean-Michel Dischler (Universit頤e Strasbourg, France)",'1-2-1-6-2-1-17,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Michael Doggett (Lund University, Sweden)",'1-2-1-6-2-1-18,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Stephane Donikian (IRISA, France)",'1-2-1-6-2-1-19,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Rae Earnshaw (University of Bradford, UK)",'1-2-1-6-2-1-20,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Timothy Edmunds (UBC, Canada)",'1-2-1-6-2-1-21,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Arjan Egges (University of Utrecht, Netherlands)",'1-2-1-6-2-1-22,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Bianca Falcidieno (Istituto di Matematica Applicata e Tecnologie Informatiche, Italy)",'1-2-1-6-2-1-23,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Guangzheng Fei (Communication University of China, China)",'1-2-1-6-2-1-24,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Stephane Gobron (EPFL, Switzerland)",'1-2-1-6-2-1-25,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Mark Green (University of Ontario Institute of Technology, Canada)",'1-2-1-6-2-1-26,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Radek Grzeszczuk (Intel, USA)",'1-2-1-6-2-1-27,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Hans Hagen (University of Kaiserslautern, Germany)",'1-2-1-6-2-1-28,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Bruno Herbelin (EPFL, Switzerland)",'1-2-1-6-2-1-29,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Shi-min Hu (Tsinghua University, China)",'1-2-1-6-2-1-30,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Zhiyong Huang (Institute for Infocomm Research (I2R), Singapore)",'1-2-1-6-2-1-31,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Horace Ip (City University of Hong Kong, China)",'1-2-1-6-2-1-32,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Chris Joslin (Carleton University, Canada)",'1-2-1-6-2-1-33,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Prem Kalra (Indian Institute of Technology Delhi, India)",'1-2-1-6-2-1-34,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Hyungseok Kim (Konkuk university, Korea)",'1-2-1-6-2-1-35,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Chang-Hun Kim (Korea University, Korea)",'1-2-1-6-2-1-36,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Jinman Kim (University of Sydney, Australia)",'1-2-1-6-2-1-37,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Hyeong-Seok Ko (Seoul National University, Korea)",'1-2-1-6-2-1-38,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Josef Kohout (University of West Bohemia, Czech Republic)",'1-2-1-6-2-1-39,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Ivana Kolingerova (University of West Bohemia, Czech Republic)",'1-2-1-6-2-1-40,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Jochen Lang (University of Ottawa, Canada)",'1-2-1-6-2-1-41,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Rynson Lau (City University of Hong Kong, Hong Kong)",'1-2-1-6-2-1-42,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'WonSook Lee (University of Ottawa, Canada)",'1-2-1-6-2-1-43,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'J.P. Lewis (Weta Digital Ltd., New Zealand)",'1-2-1-6-2-1-44,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Ik Soo Lim (Bangor University, UK)",'1-2-1-6-2-1-45,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Ming Lin (University of North Carolina, USA )",'1-2-1-6-2-1-46,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Weisi Lin (NTU, Singapore)",'1-2-1-6-2-1-47,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Benjamin Lok (University of Florida, USA)",'1-2-1-6-2-1-48,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Nadia Magnenat-Thalmann (University of Geneva, Switzerland)",'1-2-1-6-2-1-49,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Daniel Meneveaux (Universit頤e Poitiers , France)",'1-2-1-6-2-1-50,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Francisco Morᮠ Burgos (Universidad Polit飮ica de Madrid, Spain)",'1-2-1-6-2-1-51,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'David Mould (Carleton University, Canada)",'1-2-1-6-2-1-52,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Sudhir Mudur (Concordia university, Canada)",'1-2-1-6-2-1-53,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Soraia Raupp Musse (PUCRS, Brazil)",'1-2-1-6-2-1-54,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Ahmad Nasri (American University of Beirut, Lebanon)",'1-2-1-6-2-1-55,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Junyong Noh (KAIST, Korea)",'1-2-1-6-2-1-56,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Manuel Oliveira (UFRGS, MIT Media Lab)",'1-2-1-6-2-1-57,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Charles Owen (Michigan State University, USA)",'1-2-1-6-2-1-58,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+'Renato Pajarola (University of Z? Swizterland),'1-2-1-6-2-1-59,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Zhigeng Pan (Zhejiang University, China)",'1-2-1-6-2-1-60,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Igor S. Pandzic (University of Zagreb, Croatia )",'1-2-1-6-2-1-61,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'George Papagianakis (University of Crete, Greece)",'1-2-1-6-2-1-62,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Eric Paquette (ɣole de technologie sup鲩eure, Canada)",'1-2-1-6-2-1-63,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Alexander Pasko (Bournemouth University, UK)",'1-2-1-6-2-1-64,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Gustavo Patow (Universitat de Girona, Spain)",'1-2-1-6-2-1-65,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Mathias Paulin (Universit預aul Sabatier, France)",'1-2-1-6-2-1-66,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Pierre Payeur (University of Ottawa, Canada)",'1-2-1-6-2-1-67,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Pieter Peers (The College of William & Mary, USA)",'1-2-1-6-2-1-68,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Qunsheng Peng (Zhejiang University, China)",'1-2-1-6-2-1-69,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Tim Poston (Nordic River Software AB, Sweden)",'1-2-1-6-2-1-70,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Pierre Poulin (Universite de Montreal, Canada)",'1-2-1-6-2-1-71,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Marius Preda (Institut TELECOM, France)",'1-2-1-6-2-1-72,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Nicolas Pronost ( Utrecht University, Netherlands)",'1-2-1-6-2-1-73,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Werner Purgathofer (Technische Universitaet Wien, Austria)",'1-2-1-6-2-1-74,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Gerhard Reitmayr (Graz University of Technology, Austria)",'1-2-1-6-2-1-75,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Jarek Rossignac (GATECH, USA)",'1-2-1-6-2-1-76,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Holly Rushmeier (Yale University, USA)",'1-2-1-6-2-1-77,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Faramarz Samavati (University of Calgary, Canada)",'1-2-1-6-2-1-78,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Hyewon Seo (Universit頤e Strasbourg (CNRS), France)",'1-2-1-6-2-1-79,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Mikio Shinya (Toho University, Japan)",'1-2-1-6-2-1-80,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Shervin Shirmohammadi (University of Ottawa, Canada)",'1-2-1-6-2-1-81,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Chang Shu (NRC, Canada)",'1-2-1-6-2-1-82,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Vaclav Skala (University of West Bohemia, Czech Republic)",'1-2-1-6-2-1-83,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Vibeke Sorensen (NTU, Singapore)",'1-2-1-6-2-1-84,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Alexei Sourin (Nanyang Technological University, Singapore)",'1-2-1-6-2-1-85,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Olga Sourina (NTU, Singapore)",'1-2-1-6-2-1-86,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Jos Stam (Alias|Wavefront, Canada)",'1-2-1-6-2-1-87,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Hanqiu Sun (University of Hong Kong, China)",'1-2-1-6-2-1-88,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Yap Peng Tan (NTU, Singapore)",'1-2-1-6-2-1-89,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Daniel Thalmann (Ecole Polytechnique Federale de Lausanne, Switzerland)",'1-2-1-6-2-1-90,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Theoharis Theoharis (University of Athens, Greece )",'1-2-1-6-2-1-91,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Michiel van de Panne (UBC, Canada)",'1-2-1-6-2-1-92,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Petr Vanecek (University of West Bohemia, Czech Republic)",'1-2-1-6-2-1-93,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Libor Vasa (University of West Bohemia, Czech Republic)",'1-2-1-6-2-1-94,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Frederic Vexo (Logitech, Switzerland)",'1-2-1-6-2-1-95,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Pascal Volino (University of Geneva, Switzerland)",'1-2-1-6-2-1-96,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Marcelo Walter (UFRGS, Brazil)",'1-2-1-6-2-1-97,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Franz-Erich Wolter (Leibniz University of Hanover, Germany)",'1-2-1-6-2-1-98,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Woontack Woo (GIST, Korea)",'1-2-1-6-2-1-99,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Enhua Wu (Academia Sinica, China )",'1-2-1-6-2-1-100,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Brian Wyvill (University of Victoria, Canada)",'1-2-1-6-2-1-101,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Sangmin Yoon (AIST, Japan)",'1-2-1-6-2-1-102,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Gabriel Zachmann (Clausthal University, Germany)",'1-2-1-6-2-1-103,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Jian Zhang (Bournemouth University, UK)",'1-2-1-6-2-1-104,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Jianmin Zheng (Nanyang Technological University, Singapore)",'1-2-1-6-2-1-105,0,1,0,1,0,2,0,0,2,2,1,0,0,1,0,1,0,1,0,0,0,0,0,2,I
+"'Comments, Queries, Information:",'1-2-1-6-2-2-1,0,0,1,2,1,2,0,2,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'wslee@uottawa.ca,'1-2-1-6-2-2-2,0,0,0,1,0,0,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'© Copyright 2010 - 2011 Computer Graphics International Ottawa, Ontario, Canada",'1-2-2-1,1,0,0,2,0,2,0,0,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,2,N
+'Shahad Al Fakhri,'1-2-2-2-1,0,0,0,2,0,2,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Allan Yong,'1-2-2-2-2,0,0,0,2,0,2,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'WonSook Lee,'1-2-2-3,0,0,0,2,0,2,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,N

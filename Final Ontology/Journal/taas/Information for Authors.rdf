@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Originality._Contributions_appearing_in_ACM_journals_are_normally_original_papers_that_have_not_been_published_elsewhere._Publication_of_a_paper_that_has_been_widely_disseminated_is_permitted_only_if_the_Editor_judges_that_the_revision_contains_significant_amplification_or_clarification_of_the_original_material_or_there_is_some_significant_additional_benefit_to_be_gained._Any_prior_appearance_should_be_noted_on_the_title_page_and_it_is_the_obligation_of_the_author_to_inform_the_EditorsinChief_if_there_are_any_circumstances_concerning_the_contribution_that_bear_on_this_policy._Submission_of_a_manuscript_that_is_under_review_by_TAAS_to_another_journal_or_conference_without_approval_of_the_EditorsinChief_is_considered_to_be_unethical_and,_when_discovered,_will_result_in_rejection_by_TAAS.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Types_of_Papers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructions_for_Publication_of_Accepted_Papers">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+  </rdf:Description>
+  <base:_Computing_Classification_Systems_terms_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_theory.lcs.mit.edujacmCR1991.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_terms_http">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_Computing_Classification_Systems_terms_http>
+  <base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Name_and_address_of_contact_author,_including_email_address_and_phone_number.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include>
+  <base:_Review_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_plan_to_return_review_results_within_4_months_of_submission._This_interval_is_long_enough_to_ensure_quality_reviews,_and_short_enough_to_ensure_reasonable_publication_delays.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Review_Process>
+  <base:_Submitted_papers_must_include_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submitted_papers_must_include_the_following_information>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TAAS_can_accept_papers_in_electronic_format_only._This_facilitates_both_a_quicker_editorial_review_process_as_well_as_electronic_publication_of_accepted_papers.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructions_for_Submission">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_ACM_AuthorIzer_Service rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_are_several_advantages_to_using_ACMs_AuthorIzer_Service._One_advantage_is_that_visitors_to_your_personal_bibliography_pages_download_the_definitive_version_of_your_paper_for_free_from_the_ACM_DL._A_second_advantage_is_that_papers_downloaded_via_links_on_your_personal_web_page_are_recorded_as_part_of_your_DL_usage_statistics,_which_improves_the_accuracy_of_impact_measurements_related_to_your_paper.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ACM_AuthorIzer_Service>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TAAS_authors_should_prepare_manuscripts,_no_longer_than_10000_words,_according_to_the_ACM_accepted_manuscript_preparation_guidelines._Papers_must_be_sent_either_in_PostScript_or_PDF_format._Papers_exceeding_10000_words_may_be_published,_provided_that_the_reviewers_and_the_editors_explicitly_consider_such_a_length_a_necessary_requirement_for_the_paper_to_be_complete_and_selfcontained._For_those_submitting_papers_in_PDF_format,_please_ensure_that_papers_do_not_contain_embedded_fonts_such_as_embedded_Asian_fonts._These_papers_can_be_difficult_to_read_and_view_with_many_PDF_viewers_not_equipped_to_display_certain_character_sets.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructions_for_Submission"/>
+  </owl:NamedIndividual>
+  <base:_Formatted_source_file_see_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.acm.orgpubssubmissionssubmission.htm.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Formatted_source_file_see_http>
+  <base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PDF_or_PostScript_file_of_final_version.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include>
+  <base:_Submitted_papers_must_include_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_References">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submitted_papers_must_include_the_following_information>
+  <base:_ACM_AuthorIzer_Service rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_may_wish_to_distribute_your_paper_from_your_personal_home_page_or_your_employers_institutional_repository._ACMs_AuthorIzer_Service_extends_ACMs_support_for_selfarchiving_by_enabling_authors_to_generate_and_post_links_to_the_paper_distributed_from_the_ACM_Digital_Library.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ACM_AuthorIzer_Service>
+  <base:_Additional_keywords_and_phrases_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.acm.orgclass1998.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Additional_keywords_and_phrases_http>
+  <base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Figures_in_EPS_or_TIFF_format.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include>
+  <base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_printed_copy_of_the_paper.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Unethical_Papers._TAAS_reserves_the_right_to_impose_the_revision_of,_or_if_necessary_to_refuse,_a_paper__despite_its_scientific_and_technical_quality__whenever_its_content_is_explicitly_unethical_or_if_it_supports_racism,_sexual_or_religious_discrimination,_illegal_activities_or_terrorism_similarly_an_article_may_be_refused_if_the_editors_deem_that_it_might_harm_the_political_or_religious_sensitivity_of_interested_readers_in_any_manner.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Types_of_Papers"/>
+  </owl:NamedIndividual>
+  <base:_Submitted_papers_must_include_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_names_and_affiliation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submitted_papers_must_include_the_following_information>
+  <base:_Submitted_papers_must_include_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Categories_and_Subject_Descriptors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submitted_papers_must_include_the_following_information>
+  <base:_Submitted_papers_must_include_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Primary_author_contact_information">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submitted_papers_must_include_the_following_information>
+  <base:_ACM_Transactions_on rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ACM_Transactions_on>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scope._TAAS_is_a_referred_journal_aimed_at_disseminating_high_quality_scientific_and_technological_research_results_in_the_area_of_autonomous_adaptive_systems,_as_defined_in_the_scopes_and_editorial_charter_sections.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Types_of_Papers"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_AuthorIzer_Service"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatted_source_file_see_http">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Additional_keywords_and_phrases_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computing_Classification_Systems_terms_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_of_accepted_papers_will_submit_a_publication_packet_to_ACM_Publications._The_packet_will_include"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submitted_papers_must_include_the_following_information">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Review_Process">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_Authors"/>
+</rdf:RDF>

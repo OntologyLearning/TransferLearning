@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_previouslyheld_workshops,_in_addition_to_the_above,_proposals_must_provide_the_following_information,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,"
+>
+  <base:_Proposal_Evaluation_Criteria rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_One_of_the_best_ways_to_show_likely_interest_is_to_have_a_strong_set_of_researchers_who_have_agreed_to_serve_on_the_PC.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposal_Evaluation_Criteria>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__before_August_10">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Suggested_workshop_papers_notification">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Proposal_Evaluation_Criteria rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Its_novelty_with_respect_to_other_forums,_especially_with_respect_to_other_CCS_workshops.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposal_Evaluation_Criteria>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_brief_summary_and_justification_for_the_workshop,_including_anticipated_benefits_to_the_ACM_CCS_community.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CALL_FOR_WORKSHOPS"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_title">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposed_format_and_agenda">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include"/>
+  </owl:NamedIndividual>
+  <base:_Suggested_workshop_papers_submission_deadline rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__around_July_2">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Suggested_workshop_papers_submission_deadline>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_oneparagraph_biographical_sketch_for_each_organizer,_describing_relevant_qualifications,_including_research_and_conferenceworkshop_organizing_experience">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include"/>
+  </owl:NamedIndividual>
+  <base:_Proposal_Evaluation_Criteria rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Its_likely_impact_on_the_target_community,_including_likely_high_participation.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposal_Evaluation_Criteria>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expected_number_of_attendees">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expected_number_of_submissions_and_acceptance_rate">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__March_6,_2011">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Decisions_communicated">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Submissions_deadline rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__February_25,_2011_Deadline_Extended,_early_submissions_are_welcome">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submissions_deadline>
+  <ns1:_for_the_most_recent_incarnation_of_the_workshop rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Number_of_registered_attendees">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_for_the_most_recent_incarnation_of_the_workshop>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Program_chairs,_and,_if_available,_tentative_program_committee">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include"/>
+  </owl:NamedIndividual>
+  <ns1:_for_the_most_recent_incarnation_of_the_workshop rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Number_of_accepted_papers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_for_the_most_recent_incarnation_of_the_workshop>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CALL_FOR_WORKSHOPS"/>
+  </rdf:Description>
+  <base:_Important_Dates rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CFP_and_Website_for_each_workshop_by_March_1525">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Important_Dates>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CCS_Support_for_Workshops"/>
+  <base:_Workshop_papers_camera_ready rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__August_25_hard_deadline">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Workshop_papers_camera_ready>
+  <ns1:_for_the_most_recent_incarnation_of_the_workshop rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Number_of_submissions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_for_the_most_recent_incarnation_of_the_workshop>
+  <base:_18th_ACM_Conference_on_Computer_and_Communications_Security rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_OCT_1721_2011._SWISSTEL_Chicago,_Chicago,_IL,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_18th_ACM_Conference_on_Computer_and_Communications_Security>
+  <base:_Proposal_Evaluation_Criteria rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_workshop_is_within_the_scope_of_computer_and_communications_security_and_concerns_a_coherent_and_important_technical_topic_of_high_interest_in_the_community.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposal_Evaluation_Criteria>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_draft_Call_for_Papers_articulating_the_scope_and_topics_covered_by_the_workshop">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_new_workshops,_proposals_should_include"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_18th_ACM_Conference_on_Computer_and_Communications_Security">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CCS_2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Proposal_Submission">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CALL_FOR_WORKSHOPS"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CALL_FOR_WORKSHOPS"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_previouslyheld_workshops,_in_addition_to_the_above,_proposals_must_provide_the_following_information,_for_the_most_recent_incarnation_of_the_workshop">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CALL_FOR_WORKSHOPS"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CCS_2011"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Suggested_workshop_papers_submission_deadline">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CALL_FOR_WORKSHOPS"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_papers_camera_ready">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_deadline">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposal_Evaluation_Criteria">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Proposal_Submission"/>
+  </rdf:Description>
+</rdf:RDF>

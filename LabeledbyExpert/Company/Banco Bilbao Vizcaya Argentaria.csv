@@ -1,0 +1,417 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Banco Bilbao Vizcaya Argentaria,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'This article has multiple issues.,'1-1-2-1-1-1-1-1-2-1-1,0,0,0,1,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Please help improve it or discuss these issues on the talk page.,'1-1-2-1-1-1-1-1-2-1-2,1,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'This article,'1-1-2-1-1-1-1-1-2-2-1-2,0,0,0,1,0,2,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,3,N
+'needs additional citations for verification,'1-1-2-1-1-1-1-1-2-2-1-3-1,0,0,0,1,1,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-1-1-1-1-1-2-2-1-3-3,1,0,0,1,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'(February 2013),'1-1-2-1-1-1-1-1-2-2-1-3-4,0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,3,N
+'list of references,'1-1-2-1-1-1-1-1-2-2-2-2-1,0,0,0,1,0,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,3,N
+'its sources remain unclear because it has insufficient inline citations,'1-1-2-1-1-1-1-1-2-2-2-2-2,1,0,0,1,1,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'Please help to improve this article by introducing more precise citations.,'1-1-2-1-1-1-1-1-2-2-2-2-4,1,0,0,1,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'(February 2013),'1-1-2-1-1-1-1-1-2-2-2-2-5,0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,3,N
+"'Banco Bilbao Vizcaya Argentaria, S.A.",'1-1-2-1-1-1-1-2-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Type,'1-1-2-1-1-1-1-2-3-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Sociedad Anónima,'1-1-2-1-1-1-1-2-3-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-1-1-2-4-1,0,0,0,1,1,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'BMAD BBVA,'1-1-2-1-1-1-1-2-4-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'NYSE BBVA,'1-1-2-1-1-1-1-2-4-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Industry,'1-1-2-1-1-1-1-2-5-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Financial services,'1-1-2-1-1-1-1-2-5-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Predecessor(s),'1-1-2-1-1-1-1-2-6-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Banco Bilbao Vizcaya, S.A.",'1-1-2-1-1-1-1-2-6-2-1,0,1,0,1,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Argentaria, S.A.",'1-1-2-1-1-1-1-2-6-2-2,0,1,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Founded,'1-1-2-1-1-1-1-2-7-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Bilbao, Spain 1857 (1857)",'1-1-2-1-1-1-1-2-7-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Headquarters,'1-1-2-1-1-1-1-2-8-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Bilbao, Spain",'1-1-2-1-1-1-1-2-8-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Key people,'1-1-2-1-1-1-1-2-9-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,1,1,1,2,C
+"'Francisco González, Chairman & CEO",'1-1-2-1-1-1-1-2-9-2-1,0,1,0,1,0,2,1,0,0,2,0,0,1,0,0,0,1,0,1,1,0,0,1,I
+"'Ángel Cano Fernández, COO",'1-1-2-1-1-1-1-2-9-2-2,0,1,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Services,'1-1-2-1-1-1-1-2-10-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,1,1,0,0,2,C
+"'Banking, insurance, asset management",'1-1-2-1-1-1-1-2-10-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Operating income,'1-1-2-1-1-1-1-2-11-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€10.19 billion (2013),'1-1-2-1-1-1-1-2-11-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-1-1-2-12-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'€599 billion (end 2013),'1-1-2-1-1-1-1-2-12-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-1-1-1-2-13-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€44.81 billion (end 2013),'1-1-2-1-1-1-1-2-13-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-1-1-2-14-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'109,305 (end 2013)",'1-1-2-1-1-1-1-2-14-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Website,'1-1-2-1-1-1-1-2-15-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.bbva.com,'1-1-2-1-1-1-1-2-15-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'Banco Bilbao Vizcaya Argentaria, S.A. (BBVA) (Spanish pronunciation: [ˈbaŋko βilˈβao βiθˈkaʝa arxenˈtaɾja] is a multinational Spanish banking group.",'1-1-2-1-1-1-2-1-1,1,0,0,1,1,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'BBVA is a customer-centric global financial services group founded in 1857. The Group has a solid position in Spain, it is the largest financial institution in Mexico and it has leading franchises in South America and the Sunbelt Region of the United States. Its diversified business is biased to high-growth markets and it relies on technology as a key sustainable competitive advantage. Corporate responsibility is at the core of its business model. BBVA fosters financial education and inclusion, and supports scientific research and culture. It operates with the highest integrity, a long-term vision and applies the best practices. The Group is present in the main sustainability indexes.",'1-1-2-1-1-1-2-1-2,2,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Contents,'1-1-2-1-1-1-2-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'1 History 1.1 1960s
+1.2 1980s
+1.3 Merger (1999)
+1.4 The international group
+1.5 The leader in Mexico
+1.6 USA, China and Turkey",'1-1-2-1-1-1-2-2-1-2-1-1,1,0,0,1,0,2,1,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,1,I
+'2 Credit ratings,'1-1-2-1-1-1-2-2-1-2-1-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'3 U.S. market presence,'1-1-2-1-1-1-2-2-1-2-2,0,0,0,1,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'4 See also,'1-1-2-1-1-1-2-2-1-2-3,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'5 References,'1-1-2-1-1-1-2-2-1-2-4,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'6 External links,'1-1-2-1-1-1-2-2-1-2-5,0,0,0,1,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-1-1-1-2-2-2-1-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'BBVA’s story began in 1857 when the Spanish Board of Trade sponsored the creation of Banco de Bilbao as a currency-issuing and discount bank. This was a pioneer initiative driven by economic growth in the region. Until the 1890s it was practically the only bank in the Basque Country. In 1872, the law passed on December 2 created Banco Hipotecario (BHE) with the aim of granting long-term loans for property. In the second half of the 19th century Banco de Bilbao played a leading role in operations involving infrastructure projects and development of the steel industry. In 1878, it lost the right to issue currency and was reorganised as a lending and discount bank.",'1-1-2-1-1-1-2-2-2-1-2-1,2,0,0,1,0,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Banco de Vizcaya was set up in 1901. It carried out its first operations in Bilbao and gradually extended throughout Spain. Apart from its activities as a commercial and general purpose bank, it intervened in the creation and development of a large part of Spanish industry. In 1902, Banco de Bilbao merged with Banco del Comercio although both continued to operate as separate entities. In 1909, Caja Postal de Ahorros was set up as a public entity and started operations in 1916, based on savings books.",'1-1-2-1-1-1-2-2-2-1-2-2,2,0,0,1,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'A consortium of bankers and manufacturers founded Banco de Crédito Industrial (BCI) in 1920 with the express aim of boosting the installation and consolidation of industry through long-term lending. Both Banco de Bilbao and Banco de Vizcaya formed part of this consortium. In 1923, the Servicio Nacional de Crédito Agrícola was created under the ministry of agriculture to provide loans to agricultural associations against the joint and several liability of their members.",'1-1-2-1-1-1-2-2-2-1-2-3,2,0,0,1,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'A combination of public and private interests set up Banco de Crédito Local (BCL) in 1925 in the form of a joint-stock company. Its purpose was to finance local authorities and other public institutions. Banco Exterior de España (BEX) was created in 1929 to encourage foreign trade, to seek new markets for Spanish products and to help local companies with imports and exports.",'1-1-2-1-1-1-2-2-2-1-2-4,2,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'1960s,'1-1-2-1-1-1-2-2-2-2-1,0,0,0,1,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Banco de Bilbao grew further, absorbing other banks. At the same time Banco de Vizcaya also expanded and began to emerge as an important financial group. Greater flexibility by the authorities regarding new branches allowed it to extend its network. Caja Postal added opening current accounts, trading in securities and granting specific credit lines to its existing services. The Banking Sector Reform Act 1962 nationalised BCI, BHE and BCL and converted the Servicio Nacional de Crédito Agrícola into Banco de Crédito Agrícola (BCA). All four thus became public entities. However in 1971 they were recast as joint stock companies and became official loan entities (under the Official Credit System Act).",'1-1-2-1-1-1-2-2-2-2-2,2,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'1980s,'1-1-2-1-1-1-2-2-2-3-1,0,0,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'During the 1980s, Banco de Bilbao’s strategy was to attain sufficient size in order to participate in financial operations generated by advances in technology, deregulation, securitisation and the interrelationship between domestic and international markets. Banco de Vizcaya contributed to the refloating of banks affected by the economic crisis and pursued a policy of strong growth through acquisitions. This turned it into a large banking group. The most important operation was the acquisition of Banca Catalana in 1984.",'1-1-2-1-1-1-2-2-2-3-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In the meantime, the official credit entities expanded their business through market operations. In 1982, BEX lost the exclusive right to provide export finance. It refocused its goals on becoming a universal bank and on building a financial group. During this process it acquired Banco de Alicante in 1983. In 1988, Banco de Bilbao and Banco de Vizcaya merged to form Banco Bilbao Vizcaya (BBV).",'1-1-2-1-1-1-2-2-2-3-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Corporación Bancaria de España (CBE) was set up in 1991 as a government corporation and credit entity with bank status. Argentaria started out with a federated banking model. However, in 1998, Corporación Bancaria de España (already privatised via IPOs), BEX (which had merged with BCI), BHE and Caja Postal were merged into a single bank, Argentaria.",'1-1-2-1-1-1-2-2-2-3-2-3,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Merger (1999),'1-1-2-1-1-1-2-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'BBV and Argentaria announced their planned merger on October 19, 1999. The goal was to continue creating value. The new group, BBVA, had the advantages of significant size, a strong capital base, a considerable financial structure and appropriate geographic diversification of its business and risks. As a result there was a greater profit potential.",'1-1-2-1-1-1-2-2-2-4-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Customers now had access to a larger network and a wider range of products. They also enjoyed easier access to new channels and a considerable international presence. Employees also had more opportunity for career advancement.,'1-1-2-1-1-1-2-2-2-4-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,2,I
+"'The integration of BBVA went very smoothly. This was attributed to the following: • The speed of strategic decisions. • The immediate definition of the new organization and a general agreement with employees. • The speed with which working groups were set up and plans were made for each area of activity. • The successful achievement of ambitious timetables – with time to spare in some cases. • The enthusiasm, commitment, effort and co-operative spirit of everyone at BBVA.",'1-1-2-1-1-1-2-2-2-4-2-3,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The integration process was given an important boost in January 2000 by the roll-out of the single BBVA brand. This helped the group generate an image that was strongly positioned in terms of identity and distinguishing characteristics. The BBVA integration process was carried out with speed and efficiency and concluded in February 2001.,'1-1-2-1-1-1-2-2-2-4-2-4,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The integration of the group's retail businesses in Spain (BBV, Argentaria, Banca Catalana, Banco del Comercio and Banco de Alicante) led to the creation of a significant branch network under the BBVA banner. The efficiency of the BBVA integration was recognised by top financial publications. In 2000 it was chosen World’s Best Bank (Forbes) and Best Bank in Spain (The Banker). In 2001, it was Best Bank in Latin America (Forbes) and Best European Bank (Lafferty).",'1-1-2-1-1-1-2-2-2-4-2-5,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'The international group,'1-1-2-1-1-1-2-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'BBVA's international activities are already a hundred years old. Banco de Bilbao opened a branch in Paris in 1902 and a London branch in 1918. It was thus several decades ahead of other Spanish banks.,'1-1-2-1-1-1-2-2-2-5-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'During the 1970s Banco de Bilbao, Banco de Vizcaya and Banco Exterior became international groups with branches and representative offices in the main financial capitals of Europe, the Americas and Asia. They also started to acquire local banks in these geographies, mainly in Latin America.",'1-1-2-1-1-1-2-2-2-5-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 1968 Banco Exterior created BEX Panama and this became BBVA Panama after merging with BBV Panama in the year 2000. However in 1995 BBV started to develop an international expansion strategy that led to the construction of a large network in Latin America. This entailed important investments in capital, technology and human resources. In 1995 it entered Peru following the privatization of Banco Continental and Mexico through Probursa.",'1-1-2-1-1-1-2-2-2-5-2-3,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The origins of Banco Continental – known as ‘the friendly bank’ – go back to 1951. It combines concern for both customers and culture. Banca Asociada was added in 1970 with a state holding. In 1996 BBV expanded its presence in Colombia through Banco Ganadero and in Argentina through Banco Francés.,'1-1-2-1-1-1-2-2-2-5-2-4,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Banco Ganadero was started in 1956 with the support of some local farmers. Its purpose was to support and encourage agricultural activity. In 1959 legislation (Ley 26) converted the bank into a mixed company with shares held by the government, private individuals and farmers.",'1-1-2-1-1-1-2-2-2-5-2-5,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Banco Francés (Río de La Plata) was set up in Buenos Aires in 1886. For almost a century it serviced large companies in Argentina. During the 1980s it extended its network of branch offices throughout that country, adding SMEs and private individuals to its customer base.",'1-1-2-1-1-1-2-2-2-5-2-6,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 1997 BBVA entered Venezuela through Banco Provincial, which had been set up in 1953. At the beginning this bank focused its activities on the capital city and the central region. Today it is the most important and most solid financial institution in Venezuela. It has enjoyed this position of leadership since 1983.",'1-1-2-1-1-1-2-2-2-5-2-7,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BBVA Francés In 1998 a start was made in Chile through Banco BHIF.,'1-1-2-1-1-1-2-2-2-5-2-8,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The origin of this bank goes back to 1883 and the creation of Banco Hipotecario in Valparaíso. In 1976 it started to expand with the help of the three industrial groups that controlled the bank and it moved its headquarters to Santiago. In 1989 it merged with Banco Nacional and became Banco BHIF.,'1-1-2-1-1-1-2-2-2-5-2-9,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Meanwhile, the Group continues to benefit from growth opportunities in other markets where it already operates. In early 2011, BBVA Uruguay completed the acquisition of Crédit Uruguay Banco and therefore became the second largest private financial institution in the country.",'1-1-2-1-1-1-2-2-2-5-2-10,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'The leader in Mexico,'1-1-2-1-1-1-2-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In the year 2000 in Mexico BBV Probursa merged with Bancomer to create BBVA Bancomer, the leading bank in that country. Bancomer was started in Mexico City in 1932 with the name Banco de Comercio. In 1977 it consolidated the entities in its merchant banking system to create Bancomer. Along with other Mexican banks it was nationalized in 1982 and in 1991 a group of local investors acquired the majority of its stocks.",'1-1-2-1-1-1-2-2-2-6-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Deployment of the common platform was completed in 2001 for all business areas and countries. The BBVA brand was thus applied to the group’s subsidiaries in Latin America. In 2004 the banks in Chile and Colombia changed their name to BBVA.,'1-1-2-1-1-1-2-2-2-6-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'At the beginning of 2004, the Group launched a takeover bid to buy out all the Bancomer stocks that did not yet belong to BBVA. In line with the strengthening of the Group’s position in the Mexican market, BBVA also acquired 100% of Hipotecaria Nacional, the country’s largest private institution specializing in mortgage business.",'1-1-2-1-1-1-2-2-2-6-2-3,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'USA, China and Turkey",'1-1-2-1-1-1-2-2-2-7-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+"'In the same year, the Group started another line of international expansion by entering the U.S. market. During the second quarter of the year, the Group purchased Valley Bank, California through BBVA Bancomer. In September, BBVA continued its expansion in the US Hispanic market when it announced that it was buying Laredo National Bancshares in Texas.",'1-1-2-1-1-1-2-2-2-7-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In order to continue its strategy with individuals and the SME market in the U.S., a specific business unit has been set up which will take charge of all the Group’s businesses in this country.",'1-1-2-1-1-1-2-2-2-7-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In October 2005, BBVA purchased Granahorrar in Colombia; an acquisition that places BBVA at the head of the country’s mortgage market. In the same year a strategic decision was made to achieve a significant presence in the Asia-Pacific region, where the Bank already operated in nine countries.",'1-1-2-1-1-1-2-2-2-7-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'As a result of this plan, a strategic alliance with the Chinese CITIC Group, the seventh largest financial group in the country, was signed in 2006, placing it in a strong position to capitalize on opportunities offered by that market. The deal meant that BBVA has taken both shareholdings in China Citic Bank (CNBC)- 15% - and Citic International Financial Holdings (CIFH)- 30%-. In addition, both groups have signed several agreements to jointly conduct business in China such as private banking and car financing.",'1-1-2-1-1-1-2-2-2-7-2-4,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'BBVA announced in May 2006 the acquisition of Forum, a company that specializes in financing vehicle purchases in Chile. In June, BBVA announced the purchase of Texas Regional Bancshares Inc. and State National Bancshares Inc., two major banking franchises in Texas.",'1-1-2-1-1-1-2-2-2-7-2-5,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2007, BBVA purchased Compass Bank in the U.S., strengthening its franchise in the country and becoming the leading regional bank of the so-called U.S. Sunbelt and one of the top twenty in the country in terms of deposits.",'1-1-2-1-1-1-2-2-2-7-2-6,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'In 2010, the Group also focused on markets with high growth potential. In connection to this, BBVA acquired 24.9% of the capital of Turkiye Garanti Bankasi AS, the leading bank in Turkey, and reached an agreement with the Dogus Group, a majority shareholder in Garanti, to manage the entity jointly. Subsequently, BBVA increased its stake in the company to 25.01%.",'1-1-2-1-1-1-2-2-2-7-2-7,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Credit ratings,'1-1-2-1-1-1-2-2-2-8-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Currently BBVA has the following debt ratings with the four major rating agencies:,'1-1-2-1-1-1-2-2-2-8-2,1,0,0,1,0,0,0,2,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+'Rating Agency,'1-1-2-1-1-2-1-1-1-1,0,0,0,1,1,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,C
+'Long Term Rating,'1-1-2-1-1-2-1-1-1-2,0,0,0,1,1,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,1,C
+'Short Term Rating,'1-1-2-1-1-2-1-1-1-3,0,0,0,1,1,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,1,C
+'S&P,'1-1-2-1-1-2-1-1-2-1,0,0,0,1,0,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'BBB- (Outlook: Stable),'1-1-2-1-1-2-1-1-2-2,0,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'A-3,'1-1-2-1-1-2-1-1-2-3,0,0,0,1,0,1,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Moody’s,'1-1-2-1-1-2-1-1-3-1,0,0,0,1,0,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Baa2 (Outlook: Positive),'1-1-2-1-1-2-1-1-3-2,0,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'P-3,'1-1-2-1-1-2-1-1-3-3,0,0,0,1,0,1,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Fitch,'1-1-2-1-1-2-1-1-4-1,0,0,0,1,0,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BBB+ (Outlook: Stable),'1-1-2-1-1-2-1-1-4-2,0,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'F-2,'1-1-2-1-1-2-1-1-4-3,0,0,0,1,0,1,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'DBRS,'1-1-2-1-1-2-1-1-5-1,0,0,0,1,0,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'A (Outlook: Negative),'1-1-2-1-1-2-1-1-5-2,0,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'R-1 (middle),'1-1-2-1-1-2-1-1-5-3,0,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'U.S. market presence,'1-1-2-1-1-2-1-2,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'BBVA sponsors the BBVA Compass Bowl, a post season college football game played in Birmingham, Alabama. The game matches teams from the Big East Conference and Southeastern Conference.",'1-1-2-1-1-2-2-1-2-1-1-1,1,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'On September 13, 2010 BBVA became an official sponsor of the NBA.",'1-1-2-1-1-2-2-1-2-1-1-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'On May 12, 2012 the BBVA Compass Stadium opened in downtown Houston, Texas. It is home to the Houston Dynamo soccer team.",'1-1-2-1-1-2-2-1-2-1-1-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On February 20, 2014 Simple announced it has been acquired by BBVA.",'1-1-2-1-1-2-2-1-2-1-1-4,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,1,0,0,0,0,2,I
+'See also,'1-1-2-1-1-2-2-1-2-1-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'BBVA Bancomer,'1-1-2-1-1-2-2-1-2-1-2-2-1-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'BBVA Banco Francés,'1-1-2-1-1-2-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BBVA Banco Provincial,'1-1-2-1-1-2-2-1-2-1-2-2-1-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+'BBVA Banco Continental,'1-1-2-1-1-2-2-1-2-1-2-2-1-4,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BBVA Compass,'1-1-2-1-1-2-2-1-2-1-2-2-1-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Liga BBVA,'1-1-2-1-1-2-2-1-2-1-2-2-1-6,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Notes,'1-1-2-1-1-2-2-1-2-1-2-2-2,0,0,0,1,0,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'External links,'1-1-2-1-1-2-2-1-2-1-3,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,3,C
+'BBVA headquarters in Bilbao,'1-1-2-1-1-2-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,1,N
+'BBVA headoffice building in Bilbao.,'1-1-2-1-1-2-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'BBVA offices in Bilbao.,'1-1-2-1-1-2-2-1-2-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'BBVA building in Madrid.,'1-1-2-1-1-2-2-1-2-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Companies portal,'1-1-2-1-1-2-2-1-2-3-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Wikimedia Commons has media related to BBVA.,'1-1-2-1-1-2-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Official website,'1-1-2-1-1-2-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,1,0,0,0,0,1,1,1,3,I
+'BBVA Foundation (in Spanish),'1-1-2-1-1-2-2-2-2-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Banco Bilbao Vizcaya Argentaria companies grouped at OpenCorporates,'1-1-2-1-1-2-2-2-2-3,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Euro Stoxx 50 companies of Europe,'1-1-2-1-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Air Liquide Allianz Anheuser-Busch InBev ArcelorMittal ASML Holding AXA Banco Santander BASF Bayer BMW,'1-1-2-1-2-2-1,1,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'BBVA,'1-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BNP Paribas Carrefour CRH Daimler Danone Deutsche Bank Deutsche Telekom E.ON Enel Essilor GDF Suez Generali Iberdrola Inditex Intesa Sanpaolo L'Oréal LVMH Munich Re Nokia Orange Philips Repsol RWE Saint-Gobain Sanofi SAP Schneider Electric Siemens Société Générale Telefónica Total Unibail-Rodamco UniCredit Unilever Vinci Vivendi Volkswagen,'1-1-2-1-2-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Articles and topics related to Banco Bilbao Vizcaya Argentaria,'1-1-2-2-1,1,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'IBEX 35 companies of Spain,'1-1-2-2-2-1-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,3,C
+'Abengoa Abertis Acciona Acerinox ACS Amadeus IT Holding ArcelorMittal Banco Popular Español Banco Sabadell Banco Santander Bankinter,'1-1-2-2-2-1-1-2-1,1,0,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'BBVA,'1-1-2-2-2-1-1-2-2-1,0,0,0,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BME Caixabank DIA Enagás Endesa FCC Ferrovial Gamesa Gas Natural Grifols Iberdrola Inditex Indra International Airlines Group Jazztel Mapfre Mediaset España Obrascón Huarte Lain Red Eléctrica Repsol Sacyr Vallehermoso Técnicas Reunidas Telefónica,'1-1-2-2-2-1-1-2-2-2,2,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'50 largest banks and bank holding companies in the United States,'1-1-2-2-2-1-2-1,1,0,0,2,1,0,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Ally,'1-1-2-2-2-1-2-2-1-1,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'American Express,'1-1-2-2-2-1-2-2-1-2,0,0,0,2,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'American International Group,'1-1-2-2-2-1-2-2-1-3,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,1,1,2,I
+'BancWest*,'1-1-2-2-2-1-2-2-1-4-1,0,1,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Bank of America,'1-1-2-2-2-1-2-2-1-4-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Bank of New York Mellon,'1-1-2-2-2-1-2-2-1-5,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+'BB&T,'1-1-2-2-2-1-2-2-1-6,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,1,1,2,I
+'BBVA Compass*,'1-1-2-2-2-1-2-2-1-7-1,0,1,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BMO Harris*,'1-1-2-2-2-1-2-2-1-7-2,0,1,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'BOK Financial,'1-1-2-2-2-1-2-2-1-8,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Capital One,'1-1-2-2-2-1-2-2-1-9,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Charles Schwab,'1-1-2-2-2-1-2-2-1-10-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'CIT,'1-1-2-2-2-1-2-2-1-10-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Citigroup,'1-1-2-2-2-1-2-2-1-11,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,1,1,2,I
+'Citizens Financial Group*,'1-1-2-2-2-1-2-2-1-12,0,1,0,2,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'City National (California),'1-1-2-2-2-1-2-2-1-13,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
+'Comerica,'1-1-2-2-2-1-2-2-1-14-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,I
+'Deutsche Bank*,'1-1-2-2-2-1-2-2-1-14-2,0,1,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Discover,'1-1-2-2-2-1-2-2-1-15,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'E-Trade,'1-1-2-2-2-1-2-2-1-16,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Fifth Third,'1-1-2-2-2-1-2-2-1-17-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'First Niagara,'1-1-2-2-2-1-2-2-1-17-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'GE Capital,'1-1-2-2-2-1-2-2-1-18,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Goldman Sachs,'1-1-2-2-2-1-2-2-1-19,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,1,1,2,I
+'HSBC Bank USA*,'1-1-2-2-2-1-2-2-1-20-1,0,1,0,2,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'Hudson City,'1-1-2-2-2-1-2-2-1-20-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Huntington,'1-1-2-2-2-1-2-2-1-21,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'John Deere Capital,'1-1-2-2-2-1-2-2-1-22,0,0,0,2,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'JPMorgan Chase,'1-1-2-2-2-1-2-2-1-23,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Key,'1-1-2-2-2-1-2-2-1-24-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'M&T,'1-1-2-2-2-1-2-2-1-24-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Morgan Stanley,'1-1-2-2-2-1-2-2-1-25,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'New York Community,'1-1-2-2-2-1-2-2-1-26,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Northern Trust,'1-1-2-2-2-1-2-2-1-27-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'People's United,'1-1-2-2-2-1-2-2-1-27-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'PNC,'1-1-2-2-2-1-2-2-1-28,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Popular,'1-1-2-2-2-1-2-2-1-29,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Principal,'1-1-2-2-2-1-2-2-1-30-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Regions,'1-1-2-2-2-1-2-2-1-30-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,2,I
+'Santander*,'1-1-2-2-2-1-2-2-1-31,0,1,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'State Street,'1-1-2-2-2-1-2-2-1-32,0,0,0,2,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'SunTrust,'1-1-2-2-2-1-2-2-1-33,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Synovus,'1-1-2-2-2-1-2-2-1-34-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,I
+'TD Bank*,'1-1-2-2-2-1-2-2-1-34-2,0,1,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'UnionBanCal*,'1-1-2-2-2-1-2-2-1-35,0,1,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'U.S. Bank,'1-1-2-2-2-1-2-2-1-36,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
+'USAA,'1-1-2-2-2-1-2-2-1-37-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,I
+'Utrecht-America*,'1-1-2-2-2-1-2-2-1-37-2,0,1,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Wells Fargo,'1-1-2-2-2-1-2-2-1-38,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Zions,'1-1-2-2-2-1-2-2-1-39,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,1,1,2,I
+"'* indicates the U.S. subsidiary of a non-U.S. bank. Inclusion on this list is based on U.S. assets only, and is current as of September 30, 2013.",'1-1-2-2-2-1-2-2-2,1,1,0,2,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,2,N
+'Members of Euro Banking Association,'1-1-2-2-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,3,C
+"'Austria
+
+Allgemeine Sparkasse Oberösterreich
+Bank für Tirol und Vorarlberg AG
+BKS Bank AG
+Erste Group Bank AG
+Oberbank AG
+Oesterreichische Nationalbank
+Raiffeisen Zentralbank Österreich AG
+Raiffeisenlandesbank Oberösterreich AG
+Raiffeisen-Landesbank Tirol Aktiengesellschaft
+Steiermärkische Bank und Sparkassen AG",'1-1-2-2-2-2-2-1,1,1,0,2,1,2,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,C
+"'Belgium
+
+Dexia Bank NV
+KBC Bank NV
+Bank van De Post",'1-1-2-2-2-2-2-2,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Cyprus
+
+Bank of Cyprus
+Hellenic Bank",'1-1-2-2-2-2-2-3,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Denmark
+
+Amagerbanken A/S
+Arbejdernes Landsbank A/S
+Danske Andelskassers Bank A/S
+Danske Bank A/S
+DiBa Bank A/S
+Djurslands Bank A/S
+Jyske Bank A/S
+Nordjyske Bank A/S
+Nørresundby Bank
+Østjydsk Bank A/S
+Ringkjøbing Landbobank
+Roskilde Bank A/S
+Skjern Bank
+Spar Nord Bank
+Sparekassen Sjælland
+Sydbank A/S
+Vestfyns Bank A/S
+Vestjysk Bank",'1-1-2-2-2-2-2-4,2,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Finland
+
+Aktia Bank PLC
+Bank of Åland PLC
+Pohjola Bank PLC
+S-Bank LTD.
+Tapiola Bank LTD",'1-1-2-2-2-2-2-5,1,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'France
+
+Banque Michel Inchauspé - BAMI
+Banque Palatine
+BNP Paribas SA
+BPCE
+BRED Banque Populaire
+Crédit Agricole SA
+Crédit Coopératif
+Crédit du Nord
+Crédit Mutuel Arkéa
+Credit Mutuel CIC Banque
+HSBC France
+La Banque postale
+Natixis
+Société Générale",'1-1-2-2-2-2-2-6,1,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Germany
+
+Berenberg Bank
+BHF Bank
+Bremer Landesbank
+Commerzbank AG
+Deutsche Bank AG
+Deutsche Bundesbank
+Deutsche Postbank
+DZ Bank AG
+Europe Arab Bank Frankfurt
+Hamburger Sparkasse AG
+J.P. Morgan Chase Bank AG
+Landesbank Baden-Württemberg
+Landesbank Berlin Holding
+Landesbank Hessen-Thüringen
+Oldenburgische Landesbank
+SECB Swiss EURO CLEARING Bank GmbH
+The Bank of New York Mellon, Frankfurt Branch
+VTB Bank (Deutschland) AG",'1-1-2-2-2-2-2-7,2,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,I
+"'Greece
+
+Alpha Bank AE
+Eurobank Ergasias SA
+National Bank of Greece SA
+Piraeus Bank SA",'1-1-2-2-2-2-2-8,1,1,0,2,1,2,1,0,1,1,1,1,1,1,0,1,0,0,1,0,0,0,2,C
+"'Hungary
+
+Magyar Nemzeti Bank
+OTP Bank
+FHB Mortgage Bank
+Merkantil Bank
+Kereskedelmi és Hitelbank
+Magyar Takarékszövetkezeti Bank
+MKB Bank
+Porsche Bank Hungaria
+Kinizsi Bank
+Magnet Bank
+Hanwha Bank
+Budapest Hitel- és Fejlesztési Bank",'1-1-2-2-2-2-2-9,1,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Ireland
+
+Allied Irish Banks
+Bank of Ireland",'1-1-2-2-2-2-2-10,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,I
+"'Italy
+
+Banca Agricola Popolare di Ragusa
+Banca del Fucino
+Banca del Piemonte
+Banca delle Marche S.p.A.
+Banca di Imola S.p.A.
+Banca di Romagna S.p.A.
+Banca d'Italia
+Monte dei Paschi di Siena
+Banca Monte Parma
+Banca Nazionale del Lavoro
+Banca Popolare del Lazio
+Banca Popolare dell'Emilia Romagna
+Banca Popolare di Milano
+Banca Popolare di Sondrio
+Banca Popolare di Spoleto
+Banca Popolare di Vicenza
+Banca Sella
+Bancaperta S.p.A.
+Banco Popolare Società Cooperativa
+Cassa di Risparmio della Provincia di Chieti S.p.A.
+Cassa di Risparmio della Provincia di Teramo S.p.A.
+Cassa di Risparmio di Cesena S.p.A.
+Cassa di Risparmio di Fermo S.p.A.
+Cassa di Risparmio di Ferrara S.p.A.
+Cassa di Risparmio di Loreto S.p.A.
+Cassa di Risparmio di Ravenna S.p.A.
+Credito Emiliano S.p.A.
+ICCREA Banca
+Intesa Sanpaolo
+Istituto Centrale delle Banche Popolari Italiane
+Raiffeisen Landesbank Südtirol – Cassa Centrale Raiffeisen dell'Alto Adige
+Südtiroler Volksbank – Banca Popolare dell'Alto Adige
+UBI Banca
+Unipol Banca
+UniCredit
+Veneto Banca",'1-1-2-2-2-2-2-11,2,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,C
+"'Luxembourg
+
+Banque et Caisse d'Épargne de l'État
+Banque Raiffeisen
+Dexia Banque Internationale à Luxembourg SA
+KBL European Private Bankers
+Société Générale Bank & Trust",'1-1-2-2-2-2-2-12,1,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+"'Netherlands
+
+ABN Amro Bank NV
+De Nederlandsche Bank
+ING Bank NV
+Rabobank Nederland",'1-1-2-2-2-2-2-13,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,2,C
+"'Poland
+
+Bank BPH SA
+Narodowy Bank Polski",'1-1-2-2-2-2-2-14,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Portugal
+
+Banco BPI SA
+Banco Comercial Português
+Banco Espírito Santo
+Caixa Central de Crédito Agrícola Mútuo
+Caixa Geral de Depósitos",'1-1-2-2-2-2-2-15,1,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Slovenia
+
+Banka Slovenije",'1-1-2-2-2-2-2-16,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Spain
+
+Banco Bilbao Vizcaya Argentaria, SA
+Banco Español de Crédito, S.A. (Banesto)
+Banco Pastor, S.A.
+Banco Popular Español, S.A.
+Banco Sabadell, S.A.
+Bankia, S.A.
+Bankinter, S.A.
+Banco Santander, S.A.
+Caixa d'Estalvis i Pensions de Barcelona (La Caixa)
+Caixa d'Estalvis de Catalunya, Tarragona i Manresa (CatalunyaCaixa)
+Gipuzkoa eta Donostiako Aurrezki Kutxa (Kutxa)
+Bilbao Bizkaia Kutxa
+NCG Banco, S.A. (Novagalicia Banco/Evo Banco)
+Caja Laboral Popular Cooperativa de Crédito (Caja Laboral)
+Grupo Caja Rural / Banco Cooperativo Español, SA (Caja Rural)
+Spanish Confederation of Savings Banks",'1-1-2-2-2-2-2-17,2,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Sweden
+
+Skandinaviska Enskilda Banken
+Svenska Handelsbanken
+Swedbank AB
+Nordea Bank AB",'1-1-2-2-2-2-2-18,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+"'United Kingdom
+
+Bank of America NA
+Bank of Tokyo-Mitsubishi UFJ Ltd.
+Barclays Bank PLC
+Citibank NA
+HSBC Bank PLC
+Kookmin Bank International Ltd.
+Lloyds TSB Bank PLC
+National Australia Bank Limited
+National Westminster Bank PLC
+Royal Bank of Scotland PLC
+Standard Chartered Bank
+UBS AG
+Wells Fargo Bank NA",'1-1-2-2-2-2-2-19,2,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,2,C
+"'Non-EU
+
+Bank of China (CHN)
+DnB NOR Bank (NOR)
+MashreqBank psc (UAE)",'1-1-2-2-2-2-2-20,0,1,0,2,1,2,1,0,2,1,1,1,0,1,0,1,0,0,1,0,0,0,1,I
+'Associate Members,'1-1-2-2-2-2-2-21-1,0,0,0,2,1,2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'[ XMLdation Oy (FIN) http://www.xmldation.com],'1-1-2-2-2-2-2-21-2,0,1,0,2,0,2,1,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I

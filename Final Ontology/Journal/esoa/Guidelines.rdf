@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_are_no_additional_semiplenary_invited_ESA_talks._Semiplenary_invited_lectures_of_other_ALGO_conferences_are_not_to_be_scheduled_in_parallel_with_ESA_talks.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_ESA_Organizers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_committee_elects_its_chairperson.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Steering_Committee">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Guidelines_for_Selection_of_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_jobs_of_Program_Chair_and_Local_Organizer_are_decoupled.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Guidelines_for_Selection_of_Program_Committee>
+  <base:_Guidelines_for_Selection_of_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_two_candidates_have_comparable_qualifications,_precedence_should_be_given_to_the_person_who_has_never_been_in_an_ESA_or_ICALP_PC_before.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Guidelines_for_Selection_of_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_talks_are_scheduled_on_three_consecutive_days_only.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_ESA_Organizers"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_It_is_the_decision_of_the_ESA_organizers_which_conferences_or_workshops_are_organized_jointly_with_ESA.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_ESA_Organizers"/>
+  </owl:NamedIndividual>
+  <base:_Guidelines_for_Selection_of_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nobody_should_sit_more_than_once_in_an_ESA_PC_in_a_5year_period,_except,_as_a_Chairperson._Furthermore,_nobody_should_be_a_Chairperson_more_than_once_in_a_10_year_period._Past_ESA_editions_19931999_are_included_in_the_counting.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Guidelines_for_Selection_of_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_are_four_elected_members._Their_term_is_four_years.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Steering_Committee"/>
+  </owl:NamedIndividual>
+  <base:_Guidelines_for_Selection_of_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Program_Chair_selects_the_committee,_trying_to_make_sure_that_the_above_guidelines_are_followed_and_that_all_relevant_research_subareas_are_represented._A_PC_member_is_expected_to_attend_the_PC_meeting_and_the_conference.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Guidelines_for_Selection_of_Program_Committee>
+  <base:_Guidelines_for_Selection_of_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_No_fixed_geographical_quotas_within_Europe_are_allowed.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Guidelines_for_Selection_of_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_budget_calculation_for_ESAALGO_incorporates_a_moderate_contribution_to_the_expenses_for_a_physical_PC_meeting_of_ESA._Details_are_negotiated_with_the_PC_chairs_of_ESA.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_ESA_Organizers"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_steering_committee_consists_of_the_program_chairs_of_three_ESA_conferences_and_of_four_elected_members.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Steering_Committee"/>
+  </owl:NamedIndividual>
+  <base:_Guidelines_for_Selection_of_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_wants_to_be_a_forum_for_algorithmicists_in_computer_science_and_operations_research._The_composition_of_the_program_committees_should_reflect_this_goal.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Guidelines_for_Selection_of_Program_Committee>
+  <base:_Guidelines_for_Selection_of_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_At_least_one_third_of_the_PC_members_must_be_young_researchers_PhD_at_most_10_years_before,_including_preferably_people_who_got_their_PhD_at_most_5_years_before_with_a_strong,_generally_recognised_research_record.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Guidelines_for_Selection_of_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Program_chairs_serve_for_three_years._The_program_chair_of_ESA_x_becomes_a_member_of_the_steering_committee_at_ESAx1_and_retires_at_ESAx2.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Steering_Committee"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_are_a_couple_of_plenary_invited_ALGO_talks._The_selection_of_invited_plenary_speakers_is_made_by_the_organizers_in_close_collaboration_with_the_PC_chairs_of_the_ALGO_conferences_and_workshops.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_ESA_Organizers"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Selection_of_Program_Committee">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines"/>
+  </rdf:Description>
+</rdf:RDF>

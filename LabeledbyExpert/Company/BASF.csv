@@ -1,0 +1,213 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'BASF,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'This article is about the German chemical company. For the French-owned company spun off from the BASF magnetic tape division, see EMTEC.",'1-1-2-1-1-1-1,1,0,0,1,0,2,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,N
+'BASF SE,'1-1-2-1-1-1-2-1-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Type,'1-1-2-1-1-1-2-1-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Societas Europaea,'1-1-2-1-1-1-2-1-3-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-1-2-1-4-1,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'FWB BAS,'1-1-2-1-1-1-2-1-4-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'OTCQX BASFY,'1-1-2-1-1-1-2-1-4-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Industry,'1-1-2-1-1-1-2-1-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Chemicals,'1-1-2-1-1-1-2-1-5-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Founded,'1-1-2-1-1-1-2-1-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'1865,'1-1-2-1-1-1-2-1-6-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-1-2-1-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Ludwigshafen, Germany",'1-1-2-1-1-1-2-1-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Key people,'1-1-2-1-1-1-2-1-8-1,0,0,0,1,1,2,0,0,0,1,1,1,1,0,1,0,0,0,0,1,0,0,2,C
+'Eggert Voscherau,'1-1-2-1-1-1-2-1-8-2,0,0,0,1,0,2,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,I
+'(Chairman of the supervisory board),'1-1-2-1-1-1-2-1-8-3-1,0,0,0,1,0,0,1,0,0,2,1,0,1,0,0,0,1,0,0,0,0,0,2,I
+"', Kurt Bock",'1-1-2-1-1-1-2-1-8-3-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'(CEO and Chairman of the executive board),'1-1-2-1-1-1-2-1-8-3-3,0,0,0,1,0,0,1,0,0,2,1,0,0,1,0,0,1,0,1,1,0,0,2,I
+'Products,'1-1-2-1-1-1-2-1-9-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Chemicals, plastics, performance chemicals, catalysts, coatings, crop technology, crude oil and natural gas exploration and production",'1-1-2-1-1-1-2-1-9-2,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Revenue,'1-1-2-1-1-1-2-1-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€73.97 billion (2013),'1-1-2-1-1-1-2-1-10-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operating income,'1-1-2-1-1-1-2-1-11-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€7.27 billion (2013),'1-1-2-1-1-1-2-1-11-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Profit,'1-1-2-1-1-1-2-1-12-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€4.84 billion (2013),'1-1-2-1-1-1-2-1-12-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-1-2-1-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'€64.38 billion (end 2013),'1-1-2-1-1-1-2-1-13-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-1-1-2-1-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€27.79 billion (end 2013),'1-1-2-1-1-1-2-1-14-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-1-2-1-15-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'112,206 (end 2013)",'1-1-2-1-1-1-2-1-15-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Website,'1-1-2-1-1-1-2-1-16-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.basf.com,'1-1-2-1-1-1-2-1-16-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'BASF SE is the largest chemical company in the world and is headquartered in Ludwigshafen, Germany. BASF originally stood for Badische Anilin- und Soda-Fabrik (English: Baden Aniline and Soda Factory). Today, the four letters are a registered trademark and the company is listed on the Frankfurt Stock Exchange, London Stock Exchange, and Zurich Stock Exchange. The company delisted its ADR from the New York Stock Exchange in September 2007.",'1-1-2-1-1-1-2-2-1-1-1,2,0,0,1,0,2,1,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,2,N
+"'The BASF Group comprises subsidiaries and joint ventures in more than 80 countries and operates six integrated production sites and 390 other production sites in Europe, Asia, Australia, Americas and Africa. Its headquarters is located in Ludwigshafen am Rhein (Rhineland-Palatinate, Germany). BASF has customers in over 200 countries and supplies products to a wide variety of industries. Despite its size and global presence BASF has received relatively little public attention since abandoning its consumer product lines in the 1990s.",'1-1-2-1-1-1-2-2-1-1-2,2,0,0,1,0,0,1,0,0,2,1,0,1,1,0,1,0,0,0,0,0,0,3,N
+"'At the end of 2013, the company employed more than 112,000 people, with over 52,500 in Germany alone. In 2013, BASF posted sales of €73.97 billion and income from operations before special items of about €7.2 billion. The company is currently expanding its international activities with a particular focus on Asia. Between 1990 and 2005, the company invested €5.6 billion in Asia, for example in sites near Nanjing and Shanghai, China and Mangalore in India.",'1-1-2-1-1-1-2-2-1-1-3,2,0,0,1,0,0,1,0,0,2,1,0,0,1,0,1,0,0,0,0,0,0,3,N
+'Contents,'1-1-2-1-1-1-2-2-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+"'1 History 1.1 Dyes
+1.2 Soda
+1.3 Sulphuric acid
+1.4 Ammonia
+1.5 IG Farben
+1.6 World War II
+1.7 BASF refounded
+1.8 Production abroad
+1.9 Takeovers",'1-1-2-1-1-1-2-2-1-2-1-2-1,1,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'2 Business segments 2.1 Chemicals
+2.2 Plastics
+2.3 Performance products
+2.4 Functional Solutions
+2.5 Agricultural
+2.6 Biotechnology
+2.7 Oil and gas",'1-1-2-1-1-1-2-2-1-2-1-2-2,1,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'3 Investors,'1-1-2-1-1-1-2-2-1-2-1-2-3,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'4 Production,'1-1-2-1-1-1-2-2-1-2-1-2-4,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'5 Environmental record,'1-1-2-1-1-1-2-2-1-2-1-2-5,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'6 References,'1-1-2-1-1-1-2-2-1-2-1-2-6,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'7 Further reading,'1-1-2-1-1-1-2-2-1-2-1-2-7,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'8 External links,'1-1-2-1-1-1-2-2-1-2-1-2-8,0,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-1-1-1-2-2-1-2-2-1-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
+"'BASF was founded on 6 April 1865 in Mannheim, in the German-speaking country of Baden by Friedrich Engelhorn. It had been responsible for setting up a gasworks and street lighting for the town council in 1861. The gasworks produced tar as a byproduct, and Engelhorn used this for the production of dyes. BASF was set up in 1865 to produce other chemicals necessary for dye production, notably soda and acids. The plant, however, was erected on the other side of the Rhine river at Ludwigshafen because the town council of Mannheim was afraid that the air pollution of the chemical plant could bother the inhabitants of the town. In 1866 the dye production processes were also moved to the BASF site.",'1-1-2-1-1-1-2-2-1-2-2-1-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Dyes,'1-1-2-1-1-1-2-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'The discovery in 1856 by William Henry Perkin that aniline could be used to make intense colouring agents had led to the commercial production of synthetic dyes in England from aniline extracted from coal tar. BASF recruited Heinrich Caro, a German chemist with experience of the dyestuffs industry in England. Caro developed a synthesis for alizarin (a natural pigment in madder), and applied for a British patent on 25 June 1869. Coincidentally Perkin applied for a virtually identical patent on 26 June 1869, and the two companies came to a mutual commercial agreement about the process.",'1-1-2-1-1-1-2-2-1-2-2-2-2-1,2,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Further patents were granted for the synthesis of methylene blue and eosin, and in 1880 research began to try to find a synthetic process for indigo dye, though this was not successfully brought to the market until 1897. In 1901, some 80% of the BASF production was dyestuffs.",'1-1-2-1-1-1-2-2-1-2-2-2-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Soda,'1-1-2-1-1-1-2-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Sodium carbonate (soda) was produced by the Leblanc process until 1880, when the much cheaper Solvay process became available. BASF ceased to make its own and bought it from the Solvay company thereafter.",'1-1-2-1-1-1-2-2-1-2-2-3-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Sulphuric acid,'1-1-2-1-1-1-2-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Sulfuric acid was initially produced by the Lead chamber process, but in 1890 a unit using the Contact process was brought on stream, producing the acid at higher concentration (98% instead of 80%) and at lower cost. This followed extensive research and development by Rudolf Knietsch, for which he received the Liebig Medal in 1904.",'1-1-2-1-1-1-2-2-1-2-2-4-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Ammonia,'1-1-2-1-1-1-2-2-1-2-2-5-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'The development of the Haber process from 1908 to 1912 made it possible to synthesize ammonia (a major industrial chemical as the primary source of nitrogen), and, after acquiring exclusive rights to the process, in 1913 BASF started a new production plant in Oppau, adding fertilizers to its product range. BASF also acquired and began mining anhydrite for gypsum at the Kohnstein in 1917.",'1-1-2-1-1-1-2-2-1-2-2-5-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'IG Farben,'1-1-2-1-1-1-2-2-1-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'As a result of this monopoly, BASF was able to start operations at a new site in Leuna in 1916, where explosives were produced during the First World War. On 21 September 1921, an explosion occurred in Oppau, killing 565 people. The Oppau explosion was the biggest catastrophe in German industrial history. Under the leadership of Carl Bosch, BASF founded IG Farben with Hoechst, Bayer, and three other companies, thus losing its independence. BASF was the nominal survivor, as all shares were exchanged for BASF shares prior to the merger. Rubber, fuels, and coatings were added to the product range. Following the appointment of Adolf Hitler as Chancellor in 1933, IG Farben cooperated with the Nazi regime, profiting from guaranteed volumes and prices, and from the slave labor provided by the government's concentration camps. IG Farben also achieved notoriety owing to its production of Zyklon-B, the lethal gas used in Nazi extermination camps. In 1935, IG Farben and AEG presented the magnetophon – the first tape recorder – at the Radio Exhibition in Berlin.",'1-1-2-1-1-1-2-2-1-2-2-6-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'World War II,'1-1-2-1-1-1-2-2-1-2-2-7-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In 1925, BASF merged with Bayer, Hoechst and three other companies to form I.G. Farbenindustrie AG. Between 1933 and 1945, I.G. Farben played a central role in the Nazi economy. During World War II, the company manufactured poison gas used at extermination camps and employed forced and slave labor. Several company directors and senior managers were tried for war crimes and crimes against humanity.",'1-1-2-1-1-1-2-2-1-2-2-7-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'The Ludwigshafen site was almost completely destroyed during the Second World War and was subsequently rebuilt. The allies dissolved IG Farben in November 1945.,'1-1-2-1-1-1-2-2-1-2-2-7-2-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Both the Ludwigshafen and Oppau plants were of strategic importance for the war because the German military needed many of their products, e.g. synthetic rubber and gasoline. As a result, they were major targets for air raids. Over the course of the war, Allied bombers attacked the plants 65 times.",'1-1-2-1-1-1-2-2-1-2-2-7-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Shelling took place from the autumn of 1943 on, and saturation bombing inflicted extensive damage. Production virtually stopped by the end of 1944.",'1-1-2-1-1-1-2-2-1-2-2-7-2-4,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Due to a shortage of male workers during the war, women were conscripted to work in the factories, and later prisoners of war and foreign civilians. Concentration camp inmates did not work at the Ludwigshafen and Oppau plants.",'1-1-2-1-1-1-2-2-1-2-2-7-2-5,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In July 1945, the American military administration confiscated the entire assets of IG Farben. That same year, the Allied Commission decreed that IG Farben should be dissolved. The sites at Ludwigshafen and Oppau were controlled by French authorities.",'1-1-2-1-1-1-2-2-1-2-2-7-2-6,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Following extended negotiations, the Badische Anilin- und Soda-Fabrik AG was re-founded on 30 January 1952 as one of the five successor companies of IG Farben.",'1-1-2-1-1-1-2-2-1-2-2-7-2-7,1,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'BASF refounded,'1-1-2-1-1-1-2-2-1-2-2-8-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'On 28 July 1948, an explosion in which 207 people died occurred in Ludwigshafen. In 1952, BASF was refounded under its own name following the efforts of Carl Wurster. With the German economic miracle in the 1950s, BASF added synthetics such as nylon to its product range. BASF developed polystyrene in the 1930s and invented Styropor in 1951.",'1-1-2-1-1-1-2-2-1-2-2-8-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Production abroad,'1-1-2-1-1-1-2-2-1-2-2-9-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In the 1960s, production abroad was expanded and plants were built in Argentina, Australia, Belgium, Brazil, France, United Kingdom, India, Italy, Japan, Mexico, Spain and the United States. Following a change in corporate strategy in 1965, greater emphasis was placed on higher-value products such as coatings, pharmaceuticals, pesticides and fertilizers. Following German reunification, BASF acquired a site in Schwarzheide, eastern Germany, on 25 October 1990. It expanded to Podolsk, Russia, in 2012, and to Kazan in 2013.",'1-1-2-1-1-1-2-2-1-2-2-9-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Takeovers,'1-1-2-1-1-1-2-2-1-2-2-10-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'In 1968 BASF (together with Bayer AG) bought the German coatings company Herbol. BASF completely took over the Herbol branches in Cologne and Würzburg in 1970. Under new management the renewal and expansion of the trademark continued. After an extensive reorganisation and an increasing international orientation of the coatings business Herbol became part of the new founded Deco GmbH in 1997.,'1-1-2-1-1-1-2-2-1-2-2-10-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In 1999 the European coatings business of BASF was taken over by AkzoNobel. On 30 May 2006, BASF bought the Engelhard Corporation for 4.8 billion USD. This takeover is the largest takeover in the company's history. BASF is now the world's largest manufacturer of catalytic converters.",'1-1-2-1-1-1-2-2-1-2-2-10-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Other acquisitions in 2006 were the purchase of Johnson Polymer and the construction chemicals business of Degussa.,'1-1-2-1-1-1-2-2-1-2-2-10-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The acquisition of Johnson Polymer was completed on 1 July 2006. The purchase price was $470 million on a cash and debt-free basis. It provides BASF with a range of water-based resins that complements its portfolio of high solids and UV resins for the coatings and paints industry and will strengthen the company’s market presence, in particular in North America.",'1-1-2-1-1-1-2-2-1-2-2-10-2-4,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Also on 1 July 2006 the acquisition of the construction chemicals business of Degussa AG was completed. The purchase price for equity was just under €2.2 billion. In addition, the transaction was associated with debt of €0.5 billion.",'1-1-2-1-1-1-2-2-1-2-2-10-2-5,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The company agreed to acquire Ciba (formerly part of Ciba-Geigy) in September 2008. The proposed deal was reviewed by the European Commissioner for Competition, and on 9 April 2009, company acquired Ciba (formerly part of Ciba-Geigy).",'1-1-2-1-1-1-2-2-1-2-2-10-2-6,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,1,0,0,0,2,I
+"'On 19 December 2008, BASF acquired U.S.-based Whitmire Micro-Gen together with U.K.-based Sorex Ltd, Widnes, Great Britain. Sorex is a manufacturer of branded chemical and non-chemical products for professional pest management. In March 2007 Sorex was put up for sale with a price tag of about 100 million pounds.",'1-1-2-1-1-1-2-2-1-2-2-10-2-7,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Business segments,'1-1-2-1-1-1-2-2-1-2-2-11,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'BASF Portsmouth Site in the West Norfolk area of Portsmouth, Virginia. The plant is served by the Commonwealth Railway.",'1-1-2-1-1-1-2-2-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'This section,'1-1-2-1-1-1-3-1-2,0,0,0,1,0,2,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'has been nominated to be checked for its neutrality,'1-1-2-1-1-1-3-1-3-1,0,0,0,1,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Discussion of this nomination can be found on the talk page.,'1-1-2-1-1-1-3-1-3-3,1,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'(August 2009),'1-1-2-1-1-1-3-1-3-4,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,1,0,0,2,I
+'BASF building,'1-1-2-1-1-1-3-2-1-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'BASF headquarters, Ludwigshafen, Germany",'1-1-2-1-1-1-3-2-1-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,1,0,0,0,1,0,0,2,I
+"'BASF operates in a variety of markets. Its business is organized in the segments Chemicals, Plastics, Performance Products, Functional Solutions, Agricultural Solutions and Oil & Gas. The company occasionally advertises to the public using the tagline ""At BASF, we don't make a lot of the products you buy. We make a lot of the products you buy better."" Its slogan is ""BASF The Chemical Company"".",'1-1-2-1-1-1-3-2-2-1-1,2,0,0,1,0,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Chemicals,'1-1-2-1-1-1-3-2-2-1-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'BASF produces a wide range of chemicals, for example solvents, amines, resins, glues, electronic-grade chemicals, industrial gases, basic petrochemicals and inorganic chemicals. The most important customers for this segment are the pharmaceutical, construction, textile and automotive industries..",'1-1-2-1-1-1-3-2-2-1-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Plastics,'1-1-2-1-1-1-3-2-2-1-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'BASF offers a comprehensive product line and market expertise ranging from commodities to engineering and high-performance materials in thermoplastics, foams and urethanes.",'1-1-2-1-1-1-3-2-2-1-3-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'1. Engineering Plastics
+ BASF's Engineering Plastics consists of the ""4 Ultras"" - Ultramid polyamide (PA) nylon-based resins, Ultradur, polybutylene terephthalate (PBT), Ultraform, polyacetal (POM), and Ultrason, polysulfone (PSU) and polyethersulfone (PES).",'1-1-2-1-1-1-3-2-2-1-4-1-1,2,0,0,1,1,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'2. Styrenics
+ BASF Styrenics consists of the Foams and Copolymers. BASF's styrenic copolymers have applications in electronics, building and construction, and automotive components. In 2011 BASF and INEOS Industries Holdings Limited blend together their global business activities in the fields of styrene monomers (SM), polystyrene (PS), acrylonitrile butadiene styrene (ABS), styrene butadiene copolymers (SBC) and other styrene-based copolymers (SAN, AMSAN, ASA, MABS) into a joint venture named Styrolution.",'1-1-2-1-1-1-3-2-2-1-4-1-2,2,0,0,1,1,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'3. Polyurethanes
+ BASF's Polyurethanes business consists of diverse technologies and finished products. Urethane chemicals are raw materials used in rigid and flexible foams commonly used for insulation in the construction and appliance industries, furniture, packaging and transportation.",'1-1-2-1-1-1-3-2-2-1-4-1-3,2,0,0,1,1,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'4. Foams
+ Foams like Styropor are generally used as insulating materials. They are eco-efficient and offer advantages over other materials in terms of cost-effectiveness, preservation of resources and environmental protection. Investments made for insulating materials usually pay for themselves within a short time and contribute to retaining and even enhancing the value of buildings.",'1-1-2-1-1-1-3-2-2-1-4-1-4,2,0,0,1,1,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'5. Polyamides and Intermediates
+ BASF is a manufacturer of polyamide precursors and polyamide. BASF offer polyamide 6 and polyamide 6,6 polymers as well as precursors.",'1-1-2-1-1-1-3-2-2-1-4-1-5,1,0,0,1,1,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'6. biodegradable plastics
+ BASF was a pioneer in manufacturing and developing biodegradable plastic, namely, Ecoflex. Ecovio, consists of Ecoflex and a high content of polylactic acid.",'1-1-2-1-1-1-3-2-2-1-4-1-6,1,0,0,1,1,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Performance products,'1-1-2-1-1-1-3-2-2-1-4-1-7,0,0,0,1,1,2,0,0,1,2,1,0,0,1,1,0,0,0,0,1,0,0,2,C
+"'BASF produces a range of performance chemicals, coatings and functional polymers. These include raw materials for detergents, textile and leather chemicals, pigments and raw materials for adhesives, paper chemicals. Customers are the automotive, oil, paper, packaging, textile, sanitary products, detergents, construction materials, coatings, printing and leather industries.",'1-1-2-1-1-1-3-2-2-1-4-2,2,0,0,1,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Functional Solutions,'1-1-2-1-1-1-3-2-2-1-5-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'BASF's Functional Solutions segment consists of the Catalysts, Construction Chemicals and Coatings divisions. These divisions develop innovative, customer-specific products and system solutions, in particular for the automotive and construction industries.",'1-1-2-1-1-1-3-2-2-1-5-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Agricultural,'1-1-2-1-1-1-3-2-2-1-6-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'BASF's pesticide division supplies agricultural products and chemicals. The company produces fungicides, herbicides and insecticides including F500 (pyraclostrobin), epoxiconazole, pendimethalin, boscalid, fipronil, seed treatment products, and imidazolinones for use in the Clearfield Production System. The company also researches Nutrigenomics.",'1-1-2-1-1-1-3-2-2-1-6-2-1,2,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'The BASF Plant Science subsidiary produces the Amflora genetically modified potato. In 2010 BASF conducted Department of Environment, Food and Rural Affairs approved trials of genetically modified potatoes in the United Kingdom.",'1-1-2-1-1-1-3-2-2-1-6-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Biotechnology,'1-1-2-1-1-1-3-2-2-1-7-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'BASF is cooperating with Monsanto Company in research, development and marketing of biotechnology.",'1-1-2-1-1-1-3-2-2-1-7-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Oil and gas,'1-1-2-1-1-1-3-2-2-1-8-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,C
+"'BASF explores for and produces oil and gas through its subsidiary Wintershall Holding AG. In Central and Eastern Europe, Wintershall works with its Russian partner Gazprom.",'1-1-2-1-1-1-3-2-2-1-8-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Investors,'1-1-2-1-1-1-3-2-2-1-9-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'75% of the BASF shares are held by institutional investors (BlackRock more than 5%). 36% of the shares are held in Germany, 11% in the UK and 17% in the U.S.",'1-1-2-1-1-1-3-2-2-1-9-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Production,'1-1-2-1-1-1-3-2-2-1-10-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'BASF's recent success is characterized by a focus on creating resource efficient product lines after completely abandoning consumer products. This strategy was reflected in production by a re-focus towards integrated production sites. The largest such integrated production site is located in Ludwigshafen employing 33,000 people. Integrated production sites are characterized by co-location of a large number of individual production lines (producing a specific chemical), which share an interconnected material flow. Piping is used ubiquitously for volume materials. All production lines use common raw material sourcing and feed back waste resources, which can be used elsewhere (e.g. steam of various temperatures, sulfuric acid, carbon monoxide). The economic incentive for this approach is high resource and energy efficiency of the overall process, reduced shipping cost and associated reduced risk of accidents. Due to the high cost of such an integrated production site it establishes a high entry barrier for competitors trying to enter the market for volume chemicals.",'1-1-2-1-1-1-3-2-2-1-10-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Environmental record,'1-1-2-1-1-1-3-2-2-1-11-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'In 2006 BASF was praised by the Climate Leadership Index for their efforts in problems with climate change and greenhouse gases in our world. In recent years the BASF Company has set aside a large portion of their R&D budget on resource conservation.,'1-1-2-1-1-1-3-2-2-1-11-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'BASF has created filters for wastewater treatment plants that help to reduce emissions.,'1-1-2-1-1-1-3-2-2-1-11-2-2,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The BASF Company and Columbia University formed a partnership to further research “environmentally benign and sustainable energy sources”. The company has recently reported their emissions in 2006 to be “1.50 million metric tons of waste.” Even though it is a lot of waste, BASF has shown improvement in that they have steadily reduced their waste emissions in the last few years.",'1-1-2-1-1-1-3-2-2-1-11-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In May 2009, a BASF Plant in Hannibal, Missouri accidentally discharged chromium into the Mississippi River. The local Department of Natural Resources performed tests in December 2009 showing the chromium levels did not exceed regulatory safety limits. BASF worked with the Missouri Department of Natural Resources (MoDNR) to resolve questions regarding the elevated level of hexavalent chromium that was detected in the effluent from one of its permitted outfalls into the Mississippi River. The state department of health reviewed the test results and determined that the amounts found were well below recommended public health screening levels.",'1-1-2-1-1-1-3-2-2-1-11-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Further reading,'1-1-2-1-1-1-3-2-2-1-12-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Abelshauser, Werner. German History and Global Enterprise: BASF: The History of a Company (2004) covers 1865 to 2000",'1-1-2-1-1-1-3-2-2-1-12-2-1,1,1,0,1,0,2,0,1,1,2,0,0,1,0,0,0,1,0,1,0,0,0,1,I
+"'Beer, John J. The Emergence of the German Dye Industry (1959)",'1-1-2-1-1-1-3-2-2-1-12-2-2,1,1,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,2,I
+'External links,'1-1-2-1-1-1-3-2-2-1-13,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'BASF-sponsored Museum for Laquerware in Münster, Germany",'1-1-2-1-1-1-3-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,N
+'Companies portal,'1-1-2-1-1-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Wikimedia Commons has media related to BASF.,'1-1-2-1-2-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Official website,'1-1-2-1-2-2,0,0,0,1,0,2,1,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,3,N
+'Euro Stoxx 50 companies of Europe,'1-1-2-2-1-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,3,C
+'Air Liquide Allianz Anheuser-Busch InBev ArcelorMittal ASML Holding AXA Banco Santander,'1-1-2-2-1-1-2-1,1,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'BASF,'1-1-2-2-1-1-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Bayer BMW BBVA BNP Paribas Carrefour CRH Daimler Danone Deutsche Bank Deutsche Telekom E.ON Enel Essilor GDF Suez Generali Iberdrola Inditex Intesa Sanpaolo L'Oréal LVMH Munich Re Nokia Orange Philips Repsol RWE Saint-Gobain Sanofi SAP Schneider Electric Siemens Société Générale Telefónica Total Unibail-Rodamco UniCredit Unilever Vinci Vivendi Volkswagen,'1-1-2-2-1-1-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'DAX companies of Germany,'1-1-2-2-1-2-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Adidas Allianz,'1-1-2-2-1-2-1-2-1-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'BASF,'1-1-2-2-1-2-1-2-1-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Bayer Beiersdorf BMW Commerzbank Continental Daimler Deutsche Bank Deutsche Börse Deutsche Post Deutsche Telekom E.ON Fresenius Fresenius Medical Care HeidelbergCement Henkel Infineon Technologies K+S Linde Lanxess Lufthansa Merck Munich Re RWE SAP Siemens ThyssenKrupp Volkswagen,'1-1-2-2-1-2-1-2-1-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'(24. September 2012),'1-1-2-2-1-2-1-2-2,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,2,N
+'IG Farben,'1-1-2-2-1-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,3,C
+"'Predecessors
+
+AGFA
+BASF
+Bayer
+Cassella
+Chemische Fabrik Griesheim-Elektron
+Chemische Fabrik vorm. Weiler Ter Meer
+Chemische Fabrik Kalle
+Hoechst",'1-1-2-2-1-2-2-2-1-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
+"'Successors
+
+BASF
+Bayer
+Hoechst",'1-1-2-2-1-2-2-2-1-2,0,1,0,1,1,2,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'Products,'1-1-2-2-1-2-2-2-1-3-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,1,0,0,0,0,1,0,0,1,C
+'Synthetic dyes,'1-1-2-2-1-2-2-2-1-3-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Nitrile rubber,'1-1-2-2-1-2-2-2-1-3-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Polyurethane,'1-1-2-2-1-2-2-2-1-3-2-3,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Prontosil,'1-1-2-2-1-2-2-2-1-3-2-4,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Resochin,'1-1-2-2-1-2-2-2-1-3-2-5,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Zyklon B,'1-1-2-2-1-2-2-2-1-3-2-6,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'People,'1-1-2-2-1-2-2-2-2-1,0,0,0,1,1,1,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Industrialists,'1-1-2-2-1-2-2-2-2-2-1-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Chief executive officers,'1-1-2-2-1-2-2-2-2-2-1-2-1-1,0,0,0,1,1,2,1,0,2,2,0,1,0,0,0,0,1,0,0,0,1,1,1,C
+'Carl Bosch (1925 – 1935),'1-1-2-2-1-2-2-2-2-2-1-2-1-2-1,0,1,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Hermann Schmitz (1935 – 1945),'1-1-2-2-1-2-2-2-2-2-1-2-1-2-2,0,1,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Non-executive directors,'1-1-2-2-1-2-2-2-2-2-1-2-2-1,0,0,0,1,1,2,1,0,2,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Carl Duisberg (1925 – 1935),'1-1-2-2-1-2-2-2-2-2-1-2-2-2-1-1,0,1,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Carl Bosch (1935 – 1940),'1-1-2-2-1-2-2-2-2-2-1-2-2-2-1-2,0,1,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Carl Krauch (1940 – 1945),'1-1-2-2-1-2-2-2-2-2-1-2-2-2-2,0,1,0,1,0,2,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Other,'1-1-2-2-1-2-2-2-2-2-1-2-3-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Fritz Gajewski,'1-1-2-2-1-2-2-2-2-2-1-2-3-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Heinrich Gattineau,'1-1-2-2-1-2-2-2-2-2-1-2-3-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Max Ilgner,'1-1-2-2-1-2-2-2-2-2-1-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Wilhelm Rudolf Mann,'1-1-2-2-1-2-2-2-2-2-1-2-3-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Georg von Schnitzler,'1-1-2-2-1-2-2-2-2-2-1-2-3-2-5,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Chemists,'1-1-2-2-1-2-2-2-2-2-2-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Otto Ambros,'1-1-2-2-1-2-2-2-2-2-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Heinrich Bütefisch,'1-1-2-2-1-2-2-2-2-2-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Hans Kühne,'1-1-2-2-1-2-2-2-2-2-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Carl Lautenschläger,'1-1-2-2-1-2-2-2-2-2-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Fritz ter Meer,'1-1-2-2-1-2-2-2-2-2-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Heinrich Oster,'1-1-2-2-1-2-2-2-2-2-2-2-6,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Christian Schneider,'1-1-2-2-1-2-2-2-2-2-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Carl Wurster,'1-1-2-2-1-2-2-2-2-2-2-2-8,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Other,'1-1-2-2-1-2-2-2-3-1-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'American IG,'1-1-2-2-1-2-2-2-3-1-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Buna Werke,'1-1-2-2-1-2-2-2-3-1-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'IG Farben Building,'1-1-2-2-1-2-2-2-3-1-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'IG Farben Trial,'1-1-2-2-1-2-2-2-3-1-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Monowitz concentration camp,'1-1-2-2-1-2-2-2-3-1-2-5,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Category,'1-1-2-2-1-2-2-2-3-2-1,0,0,0,1,1,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Commons,'1-1-2-2-1-2-2-2-3-2-2,0,0,0,1,1,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Coordinates: 49°29′47″N 8°25′57″E﻿ / ﻿49.49639°N 8.43250°E﻿ / 49.49639; 8.43250,'1-1-2-2-2,0,0,0,0,0,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N

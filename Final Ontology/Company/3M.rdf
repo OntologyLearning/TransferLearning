@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_public_companiesCompanies_listed_above,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_began_by_mining_stone_from_quarries_for_use_in_grinding_wheels._Struggling_with_quality_and_marketing_of_its_products,_management_supported_its_workers_to_innovate_and_develop_new_products,_which_became_its_core_business._Twelve_years_after_its_inception,"
+>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ameriprise_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_OCelO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotchlite">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_HockeyLiquid_Flex_Stick_Coating">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Henry_Bryan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hockey_Grip_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Conglomerate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thrivent_Financial_for_Lutherans">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Type rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Type>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Novec_1230">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1963966">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Today,_3M_is_one_of_the_30_companies_included_in_the_Dow_Jones_Industrial_Average_added_on_August_9,_1976,_and_is_97_on_the_2011_Fortune_500_list._The_company_has_132_plants_and_over_67,000_employees_worldwide,_with_sales_offices_in_over_200_countries._The_vast_majority_of_the_companys_employees_are_local_nationals,_with_few_employees_residing_outside_their_home_country._Its_worldwide_sales_are_over_20_billion,_with_international_sales_58_of_that_total">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Major_nonpublic_corporations_alphabetically rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Carlson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Major_nonpublic_corporations_alphabetically>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Inge_G._Thulin_Chairman,_President_and_Chief_Executive_Officer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FastBond_Adhesives">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Founded rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Two_Harbors,_Minnesota">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founded>
+  <base:_Major_nonpublic_corporations_alphabetically rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Holiday_Stationstores">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Major_nonpublic_corporations_alphabetically>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_August_30,_2010,_3M_announced_that_they_had_acquired_Cogent_Systems_for_943_million">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chairman_of_the_board"/>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bert_S._Cross">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Joaquin_Delgado_Executive_Vice_President,_Health_Care_Business_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1953963">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reston_selfadhering_foam">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2012present">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_St._Jude_Medical">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edward_M._Liddy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Mincom_was_involved_in_some_of_the_first_digital_audio_recordings_of_the_late_1970s_to_see_commercial_release_when_a_prototype_machine_was_brought_to_the_Sound_80_studios_in_Minneapolis._After_drawing_on_the_experience_of_that_prototype_recorder,_3M_later_introduced_in_1979_a_commercially_available_digital_audio_recording_system_called_the_3M_Digital_Audio_Mastering_System,_which_consisted_of_a_32track_digital_audio_tape_recorder_and_a_companion_4track_digital_recorder_for_final_mastering._3M_later_designed_and_manufactured_several_other_commercially_available_models_of_digital_audio_recorders_used_throughout_the_early_to_mid1980s">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_William_McGonagle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Touchscreen_enabled_kiosk_for_browsing_titles">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Frederick_J._Palensky_Executive_Vice_President,_Research_and_Development_and_Chief_Technology_Officer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_governance"/>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Roofing_Granules">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_A._Kelly_Executive_Vice_President,_Electronics_and_Energy_Business_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Area_served rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Worldwide">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Area_served>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Best_Buy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chief_executive_officers"/>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hockey_Gear_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_October_13,_2010,_3M_completed_acquisition_of_Arizant_Inc._In_December_2011,_3M_completed_the_acquisition_of_the_Winterthur_Technology_Group,_a_bonded_abrasives_company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_High_Visibility_Signals">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Presidents"/>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_moved_to_St._Paul,_where_it_remained_for_52_years_before_outgrowing_the_campus_and_moving_to_its_current_headquarters_at_3M_Centre_in_Maplewood,_Minnesota._The_new_Maplewood_campus_is_475_acres_1.92_km_and_has_over_50_buildings,_including_an_Innovation_Center_that_displays_products_3M_has_taken_to_market">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Deluxe">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Inge_G._Thulin">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_VHB">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Xcel_Energy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_1980,_the_company_introduced_Postit_notes._In_1996,_the_companys_data_storage_and_imaging_divisions_were_spun_off_as_the_Imation_Corporation._Imation_has_since_sold_its_imaging_and_photographic_film_businesses_to_concentrate_on_storage">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Donaldson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_HockeyHyper_Grip_Stick_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jesse_G._Singh_Senior_Vice_President,_Marketing,_Sales_and_Communications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lucius_P._Ordway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2002,_3M_Co._agreed_to_acquire_AiT_Advanced_Information_Technologies_Corp._for_about_37.4million_in_cash,_after_AiT_had_strongly_hinted_it_had_put_itself_on_the_auction_block">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marlene_M._McGrath_Senior_Vice_President,_Human_Resources">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2005012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reddot_ECK_Electrodes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fastenal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Major_nonpublic_corporations_alphabetically rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Land_OLakes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Major_nonpublic_corporations_alphabetically>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_U.S._Bancorp">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fibrlok">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ecolab">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Imiquimod">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ScotchWeld_Adhesives">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Toro">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_December_20,_2005,_3M_announced_a_major_partnership_with_RoushFenway_Racing,_one_of_NASCARs_premier_organizations._In_2008,_the_company_will_sponsor_Greg_Biffle_in_the_NASCAR_Sprint_Cup_Series_as_he_drives_the_No._16_Ford_Fusion._In_addition,_on_February_19,_2006,_3M_announced_that_it_would_become_the_title_sponsor_of_the_3M_Performance_400_at_Michigan_International_Speedway_for_at_least_the_next_three_years">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Five_businessmen_founded_3M_in_Two_Harbors,_Minnesota,_in_1902._Originally_a_mining_venture,_the_goal_was_to_mine_corundum,_but_this_failed_because_the_mines_mineral_holdings_were_anorthosite,_which_had_no_commercial_value._Cofounder_John_Dwan_solicited_funds_in_exchange_for_stock_and_Edgar_Ober_and_Lucius_Ordway_took_over_the_company_in_1905._The_company_moved_to_Duluth_and_began_research_and_producing_sandpaper_products._William_L._McKnight,_later_a_key_executive,_joined_the_company_in_1907,_and_A._G._Bush_joined_in_1909._3M_finally_became_financially_stable_in_1916_and_was_able_to_pay_dividends">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edgar_B._Ober">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rozanne_L._Ridgway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Medipore">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Environmental_record rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_1983_the_Oakdale_Dump_in_Oakdale,_Minnesota,_was_listed_as_an_EPA_Superfund_site_after_significant_groundwater_and_soil_contamination_by_VOCs_and_heavy_metals_was_uncovered._The_Oakdale_Dump_was_a_3M_dumping_site_utilized_through_the_1940s_and_1950s">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Environmental_record>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tartan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_companys_late_innovations_include_waterproof_sandpaper_1921_and_masking_tape_1925,_as_well_as_cellophane_Scotch_Tape_and_sounddeadening_materials_for_cars">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_G._Vale__Executive_Vice_President,_Consumer_Business_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kevin_W._Sharer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Micropore_Hypoallergenic_Skin_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Coban">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotch_Magic_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Components_of_the_Dow_Jones_Industrial_Average rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_American_Express_ATT_Boeing_Caterpillar_Chevron_Cisco_Systems_The_CocaCola_Company_DuPont_ExxonMobil_General_Electric_Goldman_Sachs_The_Home_Depot_Intel_IBM_Johnson__Johnson_JPMorgan_Chase_McDonalds_Merck__Co._Microsoft_Nike_Pfizer_Procter__Gamble_Travelers_UnitedHealth_Group_United_Technologies_Verizon_Communications_Visa_Walmart_The_Walt_Disney_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Components_of_the_Dow_Jones_Industrial_Average>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ScotchBrite">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <ns2:_3M_developed_its_first_exclusive_product rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__ThreeMite_cloth._Other_innovations_in_this_era_included_masking_tape,_waterproof_sandpaper,_and_Scotch_brand_tapes._By_1929,_3M_had_made_its_first_moves_toward_international_expansion_by_forming_Durex_to_conduct_business_in_Europe._The_same_year,_the_companys_stock_was_first_traded_over_the_counter_and_in_1946_listed_on_the_New_York_Stock_Exchange_NYSE._The_company_is_currently_a_component_of_the_Dow_Jones_Industrial_Average_and_of_the_SP_500">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_3M_developed_its_first_exclusive_product>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SuperValu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dobie">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dynatel">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Regis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Securian_Financial_Group">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_nonpublic_corporations_alphabetically">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Selected_factory_detail_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Newton_Aycliffe,_County_Durham,_UK_factory_producing_respirators_for_workers_safety,_using_laser_technology._It_has_370_employees_and_recently_there_was_an_investment_of_4,5_million_7_million">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_factory_detail_information>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aearo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UnitedHealth_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1902905">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nexcare">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_DINOC">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_F._Roman_Senior_Vice_President,_Business_Development">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Command_Adhesive">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ivan_K._Fong_Senior_Vice_President,_Legal_Affairs_and_General_Counsel">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_January_3,_2012,_it_was_announced_that_the_Office_and_Consumer_Products_Division_of_Avery_Dennison_was_being_bought_by_3M_for_550_million">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Minnesotabased_corporations">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  </rdf:Description>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_During_the_1950s,_the_company_expanded_worldwide_with_operations_in_Canada,_Mexico,_France,_Germany,_Australia,_and_the_United_Kingdom_in_large_part_by_Clarence_Sampair._In_1951,_international_sales_were_approximately_20_million._3Ms_achievements_were_recognized_by_the_American_Institute_of_Management_naming_the_company_one_of_the_five_bestmanaged_companies_in_the_United_States_and_included_it_among_the_top_12_growth_stocks_3M">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_President__CEO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Environmental_record rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2002,_3M_ranked_70th_on_the_Political_Economy_Research_Institutes_PERI_list_of_the_top_100_corporations_emitting_airborne_pollutants_in_the_U.S._In_March_2010,_PER_I_ranked_3M_at_98th_place_on_the_list">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Environmental_record>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chrome__Metal_Polish">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Richard_P._Carlton">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotchlok">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Revenue rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__29.6_billion_FY_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Revenue>
+  <base:_Major_nonpublic_corporations_alphabetically rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Schwan_Food_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Major_nonpublic_corporations_alphabetically>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_C._H._Robinson_Worldwide">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fluorinert">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Valspar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tegaderm">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Founding rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_founders_original_plan_was_to_sell_the_mineral_corundum_to_manufacturers_in_the_East_for_making_grinding_wheels._After_selling_one_load,_on_June_13,_1902,_the_five_went_to_the_Two_Harbors_office_of_company_secretary_John_Dwan,_which_was_on_the_shore_of_Lake_Superior_and_is_now_part_of_the_3M_National_Museum,_and_signed_papers_making_Minnesota_Mining_and_Manufacturing_a_corporation._In_reality,_however,_Dwan_and_his_associates_were_not_selling_what_they_thought_they_were_really_selling_the_worthless_mineral_anorthosite">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founding>
+  <base:_Website rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M.com">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Website>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Federated_Mutual_Insurance_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1909929">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Operating_income rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__6.1_billion_FY_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operating_income>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Multimedia_Projectors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_H.C._Hak_Cheol_Shin__Executive_Vice_President,_International_Operations">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Avagard_Hygiene_Range">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CHS">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wetordry_sandpaper">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Major_nonpublic_corporations_alphabetically rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cargill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Major_nonpublic_corporations_alphabetically>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Pentair">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotchprint_Graphics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_U.S">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_L._Eskew">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1905906">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Filtrete">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bondo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Environmental_record rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2013,_3Ms_use_of_the_Sustainable_Forestry_Initiative_label_was_called_into_question_by_the_conservation_group_ForestEthics._On_October_7,_2013,_two_activists_deployed_a_1,600_squarefoot_banner_over_the_Washington_Avenue_Bridge_in_Minneapolis,_Minnesota,_demanding_that_3M_drop_the_SFI_label_and_commit_to_sustainable_forestry_practices">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Environmental_record>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Medtronic">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_late_1960s_and_early_1970s,_3M_published_a_line_of_board_games,_largely_under_the_3M_bookshelf_game_series_brand._These_games_were_marketed_to_adults_and_sold_through_department_stores,_with_easily_learned_simple_rules_but_complex_game_play_and_depth_and_with_uniformly_highquality_components._As_such,_they_are_the_ancestors_of_the_German_Eurogames._The_games_covered_a_variety_of_topics,_from_business_and_sports_simulations_to_word_and_abstract_strategy_games._They_were_a_major_publisher_at_the_time_for_influential_U.S._designers_Sid_Sackson_and_Alex_Randolph._In_the_mid1970s,_the_game_line_was_taken_over_by_Avalon_Hill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SteriStrip">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Petrifilm">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_HockeyFusion_Grip_Stick_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dow_Jones_Industrial_Average_Component">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hermon_Cable">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cubitron_II">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_April_4,_2006,_3M_announced_its_intention_to_sell_its_pharmaceutical_noncore_business._The_pharmaceuticals_businesses_were_sold_off_in_three_deals,_in_Europe,_the_Americas,_and_the_remainder_of_the_world._Another_division_of_the_Health_Care_business,_Drug_Delivery_Systems,_remains_with_3M._The_Drug_Delivery_System_division_continues_to_contract_manufacture_inhalants_and_transdermal_drugdelivery_systems,_and_has_now_taken_on_manufacture_of_the_products_whose_licenses_were_sold_during_the_divestiture_of_the_pharmaceuticals_business._On_September_8,_2008,_3M_announced_an_agreement_to_acquire_Meguiars,_a_carcare_products_company_that_was_familyowned_for_over_a_century">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mosaic">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SP_500_Component">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Microtouch_Touch_Screens">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Littmann_Stethoscopes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vance_D._Coffman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Buf_Puf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr._Danley_Budd">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <base:_Net_income rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__4.3_billion_FY_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Net_income>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Meline_Senior_Vice_President_and_Chief_Financial_Officer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3Ms_Mincom_division_introduced_several_models_of_magnetic_tape_recorders_for_instrumentation_use_and_for_studio_sound_recording._An_example_of_the_latter_is_the_model_M79_recorder,_which_still_has_a_following_today._3M_Mincom_was_also_involved_in_designing_and_manufacturing_video_production_equipment_for_the_television_and_video_postproduction_industries_in_the_1970s_and_1980s,_with_such_items_as_character_generators_and_several_different_models_of_video_switchers,_from_models_of_audio_and_video_routers_to_video_mixers_for_studio_production_work">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steridrape_SD9000">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Dwan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Louis_W._Sullivan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NYSE_MMM">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scientific_Anglers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Herbert_P._Buetow">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nash_Finch">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Founding rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Failing_to_make_sandpaper_with_the_anorthosite,_the_founders_decided_to_import_minerals_like_Spanish_garnet,_after_which_sale_of_sandpapers_grew._In_1914,_customers_complained_that_the_garnet_was_falling_off_the_paper._The_founders_discovered_that_the_stones_had_traveled_across_the_Atlantic_Ocean_packed_near_olive_oil,_and_the_oil_had_penetrated_the_stones._Unable_to_take_the_loss_of_selling_expensive_inventory,_they_roasted_the_stones_over_fire_to_remove_the_olive_oil_this_was_the_first_instance_of_research_and_development_at_3M">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founding>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cavilon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Super_77_Classic_Spray_Adhesive">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Total_assets rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__31.6_billion_FY_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_assets>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Natural_View_protection_film">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vikuiti">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Microfoam">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Durapore">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Founded rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_States_1902">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founded>
+  <base:_Environmental_record rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2008,_3M_created_the_Renewable_Energy_Division_within_3Ms_Industrial_and_Transportation_Business_to_focus_on_Energy_Generation_and_Energy_Management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Environmental_record>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Target">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_George_W._Buckley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotchcal_Film">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotchcast_Fibreglass_casting">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hookit_sandpaper">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Employees rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_88,000_August_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Employees>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Comply_Steam_Indicators">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Henry_S._Bryan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1929949">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_William_L._McKnight">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotchgard">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stikit_sandpaper">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Library_Systems_3M_Cloud_Library__an_app_that_allows_library_patrons_to_browse_and_borrow_ebooks_via_3M_digital_kiosks_in_the_library_or_online">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Quest_Technologies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_Mills">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SandBlaster">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brad_T._Sauer_Executive_Vice_President,_Industrial_Business_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1906909">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gold_Privacy_Filter">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1949953">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <base:_Fortune_500_Corporations_by_size rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hormel">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fortune_500_Corporations_by_size>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thinsulate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Peltor_communication_and_hearing_protection_systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_eReader__a_digital_reading_device_that_can_be_borrowed_in_the_same_fashion_as_a_physical_book">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Intelligent_Return_and_Sorter_System">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fortune_500_Corporations_by_size">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Components_of_the_Dow_Jones_Industrial_Average">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </owl:Class>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crimplok">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Patterson_Companies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_List_of_3M_Company_products">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Environmental_record rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_1999_the_U.S._Environmental_Protection_Agency_EPA_began_investigating_perfluorinated_chemicals_PFCs_after_receiving_data_on_the_global_distribution_and_toxicity_of_PFOS._3M,_the_former_primary_producer_of_PFOS_from_the_U.S.,_announced_the_phaseout_of_PFOS,_PFOA,_and_PFOSrelated_product_production_in_May_2000._PFCs_produced_by_3M_were_used_in_nonstick_cookware_and_stainresistant_fabrics._The_Cottage_Grove_facility_manufactured_PFCs_from_the_1940s_to_2002._In_response_to_PFC_contamination_of_the_Mississippi_River_and_surrounding_area,_3M_states_the_area_will_be_cleaned_through_a_combination_of_groundwater_pumpout_wells_and_soil_sediment_excavation._The_restoration_plan_is_to_be_based_on_an_analysis_of_the_company_property_and_surrounding_lands._The_onsite_water_treatment_facility_that_handles_the_plants_postproduction_water_is_not_capable_of_removing_the_PFCs,_which_were_released_into_the_nearby_Mississippi_River._The_cleanup_cost_estimate_is_50_to_56_million,_which_will_be_funded_from_a_147_million_environmental_reserve_set_aside_in_2006._The_search_area_for_PFCs_in_the_Mississippi_River_now_extends_to_five_states,_spanning_approximately_half_of_the_rivers_total_distance._Perfluorochemicals_do_not_break_down_or_degrade_in_the_environment">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Environmental_record>
+  <base:_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_follows_a_business_model_based_on_the_ability_to_not_only_develop_unique_products,_but_also_to_manufacture_them_efficiently_and_consistently_around_the_world_3M">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Expansion>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Polaris_Industries">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Postit_note">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Clarity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Operating_facilities rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_owns_substantially_all_of_its_physical_properties._Because_3M_is_a_global_enterprise_characterized_by_substantial_intersegment_cooperation,_properties_are_often_used_by_multiple_business_segments_including_Integrity_Supply">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operating_facilities>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACCR">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TattleTape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Purification">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Selected_factory_detail_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cynthiana,_Kentucky,_USA_factory_producing_PostIt_notes_672_SKU_and_scotch_tape_147_SKU._It_has_539_employees_and_was_established_in_1969">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_factory_detail_information>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aulana_L._Peters">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Total_equity rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__15.9_billion_FY_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_equity>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chris_Holmes_Senior_Vice_President,_Supply_Chain">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scotch_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Environmental_record rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_late_2010,_the_state_of_Minnesota_sued_3M_claiming_they_released_PFCs,_a_very_toxic_chemical_according_to_the_EPA_but_unknown_at_the_time_of_release,_into_local_waterways">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Environmental_record>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hockey_Stick_Tape">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Motor_Vehicle_System_Services_Software_Suite">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Current_officers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Julie_Bushman_Executive_Vice_President,_Safety_and_Graphics_Business_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current_officers>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Maplewood,_Minnesota">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <ns1:_plus rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MTS_Systems_Corporation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_plus>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Velostat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Major_nonpublic_corporations_alphabetically rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andersen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Major_nonpublic_corporations_alphabetically>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robert_S._Morrison">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edward_A._Brennan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <base:_Corporate_directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Linda_G._Alvarado">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_directors>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_officers"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_began_by_mining_stone_from_quarries_for_use_in_grinding_wheels._Struggling_with_quality_and_marketing_of_its_products,_management_supported_its_workers_to_innovate_and_develop_new_products,_which_became_its_core_business._Twelve_years_after_its_inception,_3M_developed_its_first_exclusive_product">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_factory_detail_information"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Environmental_record"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Area_served"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_directors">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_facilities"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expansion"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founders"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_public_companiesCompanies_listed_above,_plus">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founding"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Net_income"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3M_Company"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+</rdf:RDF>

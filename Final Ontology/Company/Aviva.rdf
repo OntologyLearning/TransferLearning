@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_September_2011,_Aviva_completed_the_sale_of_RAC_plc_breakdown_recovery_operation_for_1.0_billion_to_The_Carlyle_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aegon_Ageas_AIG_Allianz_Allstate_Aon">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance_Group_of_America">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ireland_Aviva_Direct">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Canada">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mapfre">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UnipolSai">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Generali">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Farmers_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Taikang_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hyundai_Marine__Fire_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Investors">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current"/>
+  </owl:NamedIndividual>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSA_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Canada_Aviva_Canada">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Netherlands_Delta_Lloyd_Groep_43.1_shareholding">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zurich_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Daiichi_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jackson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_National_Mutual_Insurance_Federation_of_Agricultural_Cooperatives">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mitsui_Sumitomo_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Malaysia_CIMB_Aviva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ping_An_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RAC">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Former">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Other rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_A_League">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Old_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_XL_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </base:_General_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CNP_Assurances">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  <base:_Predecessors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Norwich_Union">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Predecessors>
+  <base:_LSE rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__AV.,_NYSE">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_LSE>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UIIC_India">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bupa">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Poland_Aviva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MetLife">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vienna_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Operations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Avivas_main_activities_are_the_provision_of_general_and_life_insurance,_longterm_savings_products_and_fund_management_services._The_group_has_around_36,600_employees,_379_billion_of_assets_under_management_and_43_million_customers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operations>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Spain">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hannover_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_February_2012,_Aviva_sold_its_occupational_health_business_to_the_British_support_services_company_Capita">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_PC_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Australia rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Aviva_Investors_Australia_Ltd,_sold_to_National_Australia_Bank_in_2009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Australia>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  </rdf:Description>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Italy_Aviva_Italia_Holding_S.p.A">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Net_income rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.151_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Net_income>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.049_billion_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_income"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aberdeen_Asset_Management_Admiral_Group_Aggreko_Anglo_American_Antofagasta_ARM_Holdings_Ashtead_Group_Associated_British_Foods_AstraZeneca">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_24_March_2014">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FTSE_100_companies_of_the_United_Kingdom___FTSE_250"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_July_2006,_Aviva_greatly_increased_its_presence_in_the_United_States_by_acquiring_AmerUs_Group,_a_Des_Moinesbased_financial_services_company_founded_in_1896_in_a_2.9_billion_1.6_billion_deal._AmerUs_Group_was_rebranded_as_Aviva_USA_when_the_acquisition_was_completed">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_June_2009_the_Company_decided_to_dispose_of_Navigator,_its_Australian_wealth_management_business,_to_National_Australia_Bank_for_A825_million_401_million">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scottish_Widows">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_London">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sri_Lanka">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_It_was_created_by_a_merger_of_two_British_insurance_firms,_Norwich_Union_and_CGU_plc_itself_created_by_the_1998_merger_of_Commercial_Union_and_General_Accident_as_CGNU_in_2000._The_Aviva_name_was_adopted_in_July_2002._Thereafter,_most_of_the_group_operations,_except_for_some_strong_local_brands,_were_carried_out_under_the_uniform_brand_Aviva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BB_Seguridade">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tokio_Marine">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bradesco_Seguros">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_State_Farm_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Services rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Services>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phoenix_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PICC">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_McFarlane">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Predecessors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CGU">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Predecessors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_Name">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAE_Systems_BG_Group_BHP_Billiton_Babcock_International_Barclays_Barratt_Developments_British_American_Tobacco_British_Land_Company_British_Sky_Broadcasting_BT_Group_Bunzl_Burberry_Group_Capita_Carnival_Centrica_CocaCola_Hellenic_Compass_Group_CRH_Diageo_easyJet_Experian_Fresnillo_G4S_GKN_GlaxoSmithKline_Glencore_Xstrata_Hammerson_Hargreaves_Lansdown_HSBC_Imperial_Tobacco_InterContinental_Hotels_Group_International_Airlines_Group_Intertek_Group_ITV_Johnson_Matthey_Kingfisher_Land_Securities_Group_Legal__General_Lloyds_Banking_Group_London_Stock_Exchange_Group_Marks__Spencer_Meggitt_Melrose_Mondi_Wm_Morrison_Supermarkets_National_Grid_Next_Old_Mutual_Pearson_Persimmon_Petrofac_Prudential_Randgold_Resources_RBS_Group_Reckitt_Benckiser_Reed_Elsevier_Resolution_Rexam_Rio_Tinto_Group_RollsRoyce_Royal_Dutch_Shell_Royal_Mail_RSA_Insurance_Group_SABMiller_Sage_Group_J_Sainsbury_Schroders_Severn_Trent_Shire_Smith__Nephew_Smiths_Group_Sports_Direct_SSE_Standard_Chartered_Standard_Life_St._Jamess_Place_Tesco_Travis_Perkins_TUI_Travel_Tullow_Oil_Unilever_United_Utilities_Vodafone_Weir_Group_Whitbread_William_Hill_Wolseley_WPP">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_24_March_2014"/>
+  </owl:NamedIndividual>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sompo_Japan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5_Sponsorships">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Sigorta">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_Kingdom_Aviva_Life_Pensions,_investments,_Life_Insurance_and_long_term_savings_formerly_Norwich_Union">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lithuania">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Insurance_General_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mark_Wilson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_St._Helens_Tower">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Pacific_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance_Australia_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Russia__Aviva_Russia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_can_trace_its_history_back_to_the_establishment_of_the_Hand_in_Hand_Fire__Life_Insurance_Society_in_London_in_1696">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Financial_services">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_plc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Legal__General">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gen_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6_References">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Taiwan_First_Aviva_in_traditional_Chinese">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Hartford">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Senior_management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CEO_Richard_Harvey_retired_on_11_July_2007._His_successor_was_Andrew_Moss,_the_former_group_finance_director._Moss_was_paid_an_annual_base_salary_of_925,000_for_his_role_as_Chief_Executive._Moss_resigned_on_8_May_2012_after_shareholders_voted_down_a_proposed_senior_management_pay_deal_which_would_have_seen_Moss_increase_his_basic_pay_by_5_despite_several_years_of_Aviva_underperformance._John_McFarlane_was_appointed_to_the_board_of_Aviva_plc_in_September_2011._Following_the_departure_of_Aviva_CEO,_Andrew_Moss,_McFarlane_assumed_the_role_of_executive_deputy_chairman_and_became_executive_chairman_on_1_July_2012._On_20_November_2012,_Aviva_announced_that_Mark_Wilson_will_become_CEO_on_1_January_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Senior_management>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Great_Eastern">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_India_Aviva_India">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AIA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_History">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Services rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Pensions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Services>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_December_2012,_Aviva_agreed_to_sell_Aviva_USA_Corporation_to_Athene_Holding_for_US1.8_billion_1.1_billion_as_part_of_a_plan_to_improve_shareholder_returns_and_reduce_the_groups_capital_requirements._Athene_subsequently_sold_the_life_insurance_business_of_Aviva_to_Atlantic_Global">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CEO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_South_Korea__Woori_Aviva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.1_Principal_subsidiaries">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Health">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_York_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LIC_India">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Singapore">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nippon_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Sponsorships rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2010,_Aviva_also_took_over_sponsorship_of_rugby_unions_English_Premiership_from_Guinness._The_fouryear_sponsorship_deal_is_valued_at_20_million">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sponsorships>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Liberty_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_July_2012,_Aviva_announced_plans_to_sell_or_close_16_noncore_businesses_in_order_to_simplify_its_activities_and_boost_shareholder_returns._As_part_of_the_plans_Aviva_announced_the_sale_of_its_operations_in_South_Korea_and_the_closure_to_new_business_of_its_bulkbuying_annuity_unit_in_the_United_Kingdom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Ireland">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_limited_company">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  </owl:NamedIndividual>
+  <base:_Founded rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2000_by_merger">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founded>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_Senior_management">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Other rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_International_Match">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Turkey_AvivaSA_Emeklilik">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lincoln">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_7_External_links">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Investors_Fund_Management_formerly_Morley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_During_March_2005_Aviva_acquired_the_RAC_plc_breakdown_recovery_operation_for_around_1.1_billion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Meiji_Yasuda_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manulife_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Standard_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_August_2012,_Aviva_announced_that_up_to_800_jobs_would_be_lost_following_a_reorganization_caused_by_further_turmoil_in_the_Eurozone">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lloyds_of_London">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samsung_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Taiping">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chairman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_France_Aviva_France">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Travelers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Former_companies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_AvivaCofco">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former_companies>
+  <base:_Sponsorships rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_May_2008_Aviva_became_Norwich_City_Football_Clubs_main_sponsor._In_a_2009_television_advert_starring_Paul_Whitehouse_they_feature_a_Plymouth_Argyle_F.C._fan_who_uses_Aviva_car_insurance_followed_by_a_Green_Army_chant._It_also_acquired_the_naming_rights_for_the_redeveloped_Lansdowne_Road_stadium_in_Dublin,_Ireland,_and_will_now_be_called_the_Aviva_Stadium">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sponsorships>
+  <base:_Methodology rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Applicable_FY201011_revenues_of_over_US3_billion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Methodology>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Divisions_and_subsidiaries">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva"/>
+  </rdf:Description>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samsung_Fire__Marine_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_Other rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva_Indoor_Grand_Prix">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BNP_Paribas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <base:_General_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_QBE_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_aviva.com">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_40,800_end_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_Operations">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_October_2009_the_company_decided_to_focus_on_its_commercial_insurance_sector_and_demonstrate_its_commitment_to_brokers_by_launching_their_find_a_broker_facility,_using_the_British_Insurance_Brokers_Association_search_engine._To_help_them_with_this_endeavour,_Paul_Whitehouse_was_recruited_to_play_the_part_of_a_successful_hairdresser_running_three_salons._The_message_of_the_campaign_focused_on_business_insurance_through_insurance_brokers._The_closing_line_of_the_campaign_was_Were_in_business_to_keep_you_in_business">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_name_of_the_company_upon_its_formation_in_May_2000_was_CGNU_plc._In_April_2002_the_companys_shareholders_voted_to_change_the_company_name_to_Aviva_plc,_an_invented_word_derived_from_viva,_the_Latin_for_life_and_designed_to_be_short,_memorable_and_work_worldwide._In_April_2008_Aviva_announced_that_it_would_adopt_the_Aviva_name_as_its_worldwide_consumerfacing_brand,_and_that_the_Norwich_Union_brand_would_be_phased_out_in_the_United_Kingdom">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Name"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PZU">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Northwestern_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Company_continued_to_use_the_Norwich_Union_name_as_a_trading_name_in_the_UK_until_1_June_2009_when_it_became_formally_known_as_Aviva_within_the_United_Kingdom._The_launch_was_supported_by_a_9_million_advertising_campaign_to_promote_the_rebranding_one_of_the_most_expensive_ever_in_the_UK_insurance_field,_with_the_participation_of_celebrities_including_Bruce_Willis_and_Alice_Cooper">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ING">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_First_Aviva">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current"/>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Munich_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sumitomo_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sun_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Net_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_income"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Senior_management"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Methodology"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Name"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FTSE_100_companies_of_the_United_Kingdom___FTSE_250"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Australia">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Former_companies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Principal_subsidiaries"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_24_March_2014"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sponsorships"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Predecessors"/>
+  <base:_Services rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Life_insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Services>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Principal_subsidiaries"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LSE">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+</rdf:RDF>

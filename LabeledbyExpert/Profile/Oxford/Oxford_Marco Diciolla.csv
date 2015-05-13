@@ -1,0 +1,74 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Marco Diciolla,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Marco Diciolla,'1-2-1-2-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Doctoral Student,'1-2-1-2-1-1-2-1-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Student, Trinity College",'1-2-1-2-1-1-2-1-3,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Marco.Diciolla@cs.ox.ac.uk,'1-2-1-2-1-1-2-1-4,0,0,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'+44 (0)7403767380,'1-2-1-2-1-1-2-1-5,0,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Room 447, Wolfson Building, Parks Road, Oxford OX1 3QD",'1-2-1-2-1-1-2-2,1,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,I
+'Biography,'1-2-1-2-1-2-1-1-1-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'I'm a third year DPhil student working on VERIWARE. VERIWARE is a five year project at the Department of Computer Science, University of Oxford, funded by the European Research Council Advanced Investigators Grant and led by Marta Kwiatkowska. Prior to this, I studied for a Master Degree in Computer Engineering at Politecnico of Milan. During my last year of university I worked on the PoplMark Challenge with Professor Mads Dam at the Royal Institute of Technology, KTH.",'1-2-1-2-1-2-1-1-1-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'About VERIWARE,'1-2-1-2-1-2-1-1-2-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'The central premise of the VERIWARE project is that there is a need for a paradigm shift in verification to enable ‘everyware’ verification, which can be achieved through a model-based approach that admits discrete and continuous dynamics, the replacement of offline methods with online techniques such as machine learning, and the use of game-theoretic and planning techniques. The project will significantly advance quantitative probabilistic verification in new and previously unexplored directions. This will involve investigating the fundamental principles of ‘everyware’ verification, development of algorithms and prototype implementations, and experimenting with case studies.",'1-2-1-2-1-2-1-1-2-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Selected Publications,'1-2-1-2-1-2-1-1-3-1-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'View all,'1-2-1-2-1-2-1-1-3-1-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-2-1-1-3-1-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Info,'1-2-1-2-1-2-1-1-3-2,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Quantitative Verification of Implantable Cardiac Pacemakers,'1-2-1-2-1-2-1-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Taolue Chen‚ Marco Diciolla‚ Marta Kwiatkowska and Alexandru Mereacre,'1-2-1-2-1-2-1-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Real Time Systems Symposium (RTSS) 2012. Real Time Systems Symposium (RTSS) 2012.,'1-2-1-2-1-2-1-2-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,2,I
+'Details | BibTeX,'1-2-1-2-1-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'A Simulink Hybrid Heart Model for Quantitative Verification of Cardiac Pacemakers,'1-2-1-2-1-2-1-3-1,1,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Taolue Chen‚ Marco Diciolla‚ Marta Kwiatkowska and Alexandru Mereacre,'1-2-1-2-1-2-1-3-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Hybrid Systems: Computation and Control (HSCC 2013). 2013.,'1-2-1-2-1-2-1-3-3,1,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX,'1-2-1-2-1-2-1-3-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Verification of Linear Duration Properties over Continuous−Time Markov Chains,'1-2-1-2-1-2-1-4-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Taolue Chen‚ Marco Diciolla‚ Marta Z. Kwiatkowska and Alexandru Mereacre,'1-2-1-2-1-2-1-4-2,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In HSCC. 2012.,'1-2-1-2-1-2-1-4-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX,'1-2-1-2-1-2-1-4-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Automated Verification,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Quantitative Analysis and Verification,'1-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Projects,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'VERIWARE,'1-2-1-2-1-2-2-3-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Supervisor,'1-2-1-2-1-2-2-4-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Marta Kwiatkowska,'1-2-1-2-1-2-2-4-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-2-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-2-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-2-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-2-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-2-1-3-2-2-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-2-1-3-2-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-2-1-4,0,0,1,2,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-2-1-5-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-2-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-2-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-2-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-2-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-2-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-2-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

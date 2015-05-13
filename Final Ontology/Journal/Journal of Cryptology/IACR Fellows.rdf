@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_IACR_Fellows_Selection_Committee_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phil_Rogaway_UC_Davis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2014>
+  <base:_2007 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hideki_Imai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2007>
+  <base:_2008 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ralph_Merkle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2008>
+  <base:_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ivan_Damgrd">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2010>
+  <base:_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JeanJacques_Quisquater">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2010>
+  <base:_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ron_Rivest">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2004>
+  <base:_2005 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kevin_McCurley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2005>
+  <base:_2009 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Oded_Goldreich">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2009>
+  <base:_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lars_Knudsen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2013>
+  <base:_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Chaum">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2004>
+  <base:_2005 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gustavus_Simmons">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2005>
+  <base:_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phil_Rogaway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012>
+  <base:_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hugo_Krawczyk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2013>
+  <base:_2009 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_O._Rabin.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2009>
+  <base:_Joan_Feigenbaum_Yale_University_20042006_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2004">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Joan_Feigenbaum_Yale_University_20042006_chair>
+  <base:_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Adi_Shamir">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2004>
+  <base:_2008 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ueli_Maurer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2008>
+  <base:_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrew_Odlyzko">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012>
+  <base:_2007 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Silvio_Micali">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2007>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fellows">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  </rdf:Description>
+  <base:_Ivan_Damgaard_Aarhus_University_20042007_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2005">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ivan_Damgaard_Aarhus_University_20042007_chair>
+  <base:_2006 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gilles_Brassard">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2006>
+  <base:_IACR_Fellows_Selection_Committee_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ueli_Maurer_ETH">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows_Selection_Committee_2014"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2013>
+  <base:_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Claude_Crpeau">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2013>
+  <base:_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eli_Biham">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012>
+  <base:_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Claus_Schnorr">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012>
+  <base:_IACR_Fellows_Selection_Committee_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ron_Rivest_MIT">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2013>
+  <base:_2009 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Arjen_K._Lenstra">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2009>
+  <base:_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ronald_Cramer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2013>
+  <base:_Moti_Yung_Google_Inc_and_Columbia_University_20072011_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Moti_Yung_Google_Inc_and_Columbia_University_20072011_chair>
+  <base:_Hugo_Krawczyk_IBM_Research_20042010_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2007">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Hugo_Krawczyk_IBM_Research_20042010_chair>
+  <base:_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Victor_S._Miller">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2013>
+  <base:_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dan_Boneh">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2013>
+  <base:_IACR_Fellows_Selection_Committee_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gilles_Brassard_Universit_de_Montral">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2014>
+  <base:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Kahn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2011>
+  <base:_Nominations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructions_for_Endorsers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Nominations>
+  <base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Advance_the_standing_of_the_cryptologic_community_in_the_wider_scientific_and_technical_world_and_promote_fruitful_relationships_between_the_IACR_and_other_scientific_and_technical_organizations.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that>
+  <base:_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Don_Coppersmith">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2004>
+  <base:_IACR_Fellows_Selection_Committee_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Arjen_Lenstra,_Chair_EPFL">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2013>
+  <base:_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tom_Berson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2004>
+  <base:_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whitfield_Diffie">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2004>
+  <base:_2009 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_G._Robert_Blakley,_Jr.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2009>
+  <base:_Michael_Wiener_Cryptographic_Clarity_20042009_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Michael_Wiener_Cryptographic_Clarity_20042009_chair>
+  <base:_IACR_Fellows_Selection_Committee_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kevin_McCurley_Google">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2013>
+  <base:_IACR_Fellows_Selection_Committee_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Arjen_Lenstra_EPFL">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2014>
+  <base:_IACR_Fellows_Selection_Committee_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kevin_McCurley,_Chair_Google">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2014>
+  <base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Promote_the_free_exchange_of_ideas_and_information_about_cryptology_and_related_fields">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_information"/>
+  <base:_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrew_Clark">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2010>
+  <base:_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrew_Yao">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2010>
+  <base:_Nominations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Qualifications_for_the_rank_of_IACR_Fellow">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Nominations>
+  <base:_Nominations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructions_for_Nominators">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Nominations>
+  <base:_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mihir_Bellare">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012>
+  <base:_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rafail_Ostrovsky">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2013>
+  <base:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Charles_Rackoff">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2011>
+  <base:_2006 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Martin_Hellman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2006>
+  <base:_2005 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jacques_Stern">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2005>
+  <base:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scott_Vanstone_Died_2014">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2011>
+  <base:_Previous_committee_members rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ron_Rivest_MIT_20102012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Previous_committee_members>
+  <base:_2008 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Moni_Naor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2008>
+  <base:_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jennifer_Seberry">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012>
+  <base:_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manuel_Blum">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012>
+  <base:_2007 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shafi_Goldwasser">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2007>
+  <base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Develop_and_maintain_the_professional_skill_and_integrity_of_individuals_in_the_cryptologic_community">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that>
+  <base:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Richard_Schroeppel">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2011>
+  <base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Advance_the_science,_technology,_and_practice_of_cryptology_and_related_fields">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that>
+  <base:_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Yvo_Desmedt">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2010>
+  <base:_2009 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_James_L._Massey_Died_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2009>
+  <base:_Cynthia_Dwork_Microsoft_Research_20042009_chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2008">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Cynthia_Dwork_Microsoft_Research_20042009_chair>
+  <base:_IACR_Fellows_Selection_Committee_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tatsuaki_Okamoto_NTT">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_IACR_Fellows_Selection_Committee_2013>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2008"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows_Selection_Committee_2013"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_has_established_the_IACR_Fellows_Program_to_recognize_outstanding_IACR_members_for_technical_and_professional_contributions_that">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2007"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ivan_Damgaard_Aarhus_University_20042007_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_committee_members"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2006"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2005"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_committee_members"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2009">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2012">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Wiener_Cryptographic_Clarity_20042009_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_committee_members"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2004"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nominations"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Moti_Yung_Google_Inc_and_Columbia_University_20072011_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_committee_members"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows_Selection_Committee_2014"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hugo_Krawczyk_IBM_Research_20042010_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_committee_members"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Joan_Feigenbaum_Yale_University_20042006_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_committee_members"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2013">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2010">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IACR_Fellows"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cynthia_Dwork_Microsoft_Research_20042009_chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_committee_members"/>
+  </rdf:Description>
+</rdf:RDF>

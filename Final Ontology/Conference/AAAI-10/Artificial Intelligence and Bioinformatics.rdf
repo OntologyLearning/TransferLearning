@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scientific_literature_and_textual_annotation_mining">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <base:_Special_Track_Cochairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paolo_Frasconi_Universit_degli_Studi_di_Firenze,_Italy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Track_Cochairs>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Personalized_medicine_applications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <base:_Special_Track_Cochairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Pierre_Baldi_University_of_California,_Irvine,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Track_Cochairs>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Integrative_systems_biology_approaches">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chemoinformatics_and_drug_discovery_applications">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Biological_networks_inference">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Special_Track_on_Artificial_Intelligence_and_Bioinformatics_AIB">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI10"/>
+  </owl:NamedIndividual>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Protein_structure_and_function_prediction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Automated_genome_annotation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <base:_Examples_of_relevant_topics_include_algorithms_for_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Comparative_genomic_analyses">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Examples_of_relevant_topics_include_algorithms_for_the_following>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI10"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_Cochairs">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI10_Special_Track_on_Artificial_Intelligence_and_Bioinformatics_AIB"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI10_Special_Track_on_Artificial_Intelligence_and_Bioinformatics_AIB"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Examples_of_relevant_topics_include_algorithms_for_the_following">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI10_Special_Track_on_Artificial_Intelligence_and_Bioinformatics_AIB"/>
+  </rdf:Description>
+</rdf:RDF>

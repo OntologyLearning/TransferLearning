@@ -1,0 +1,42 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'AAAI-11 Student Abstract and Poster Program,'1-1,1,0,1,2,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'AAAI-11 Student Abstract and Poster Program,'1-2-2-1-2-1-1,0,0,0,2,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+"'AAAI-11 invites submissions to the student abstract and poster program. The goal of this program is to provide a forum in which students can present and discuss their work during its early stages, meet some of their peers who have related interests, and introduce themselves to more senior members of the field. The program is open to all pre-Ph.D students. Nonstudent advisors or collaborators should be acknowledged appropriately, as coauthors or otherwise. However, students are requested to honor the spirit of the program by submitting only work for which they are primary investigators.",'1-2-2-1-2-1-2-1,2,0,0,1,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,N
+'Paper Submission Site,'1-2-2-1-2-1-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0,3,N
+'Timetable for Students,'1-2-2-1-2-1-2-2-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,1,1,3,C
+"'February 15, 2011: Application package submission deadline",'1-2-2-1-2-1-2-2-2-1,0,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,1,0,1,0,1,0,0,1,I
+"'March 30, 2011: Acceptance Notification",'1-2-2-1-2-1-2-2-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,1,0,0,2,I
+"'April 26, 2011: Camera-ready copy due at AAAI office",'1-2-2-1-2-1-2-2-2-3,1,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+"'August 7–11, 2011: Student Abstract and Poster Program",'1-2-2-1-2-1-2-2-2-4,0,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,1,0,0,0,0,2,I
+'Submissions and Dates,'1-2-2-1-2-1-2-3-1,0,0,1,2,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'Electronic submission in PDF format is required. Students should submit an abstract describing their research no later than February 15, 2011. Abstracts must be no longer than 2 pages including references, and formatted in AAAI two-column, camera-ready style. Instructions about how to submit abstracts will be available at the AAAI conference submission web site. Papers exceeding the specified length and formatting requirements are subject to rejection without review.",'1-2-2-1-2-1-2-3-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,I
+"'The abstract must include the following: title; the primary author's full name, affiliation, postal address, phone number, URL (if available), and e-mail address; all coauthors' full names and affiliations; text; and any figures, tables, or diagrams. The abstract should also contain a URL of a location where reviewers can access complementary material about the student's research. The URL is critical to reviewers because of the brevity of the submissions.",'1-2-2-1-2-1-2-3-2-2,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,N
+"'Notification of acceptance or rejection of submitted abstracts will be mailed to the author by March 30, 2011.",'1-2-2-1-2-1-2-3-2-3,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,1,0,1,0,0,0,0,3,N
+"'Camera-ready copy of accepted abstracts will be due by April 26, 2011.",'1-2-2-1-2-1-2-3-2-4,1,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,0,3,N
+'Submissions to AAAI-11 or Other Conferences,'1-2-2-1-2-1-2-4-1,0,0,1,2,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+"'Students are free to submit abstracts for work reported in a regular paper submitted to the AAAI-11 or another conference, but not for work that has already been published. Abstracts will be accepted or rejected for the student session regardless of the outcomes of related paper submissions.",'1-2-2-1-2-1-2-4-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Publication,'1-2-2-1-2-1-2-5-1,0,0,1,2,0,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Accepted abstracts will be allocated two (2) pages in the conference proceedings. Students will be required to transfer copyright of the abstract to AAAI. A copy of the AAAI copyright form is available on the AAAI web site.,'1-2-2-1-2-1-2-5-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Poster Session,'1-2-2-1-2-1-2-6-1,0,0,1,2,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Accepted abstracts will be allocated presentation time and space in the student poster display area at the conference. Student authors of accepted abstracts must agree to prepare a poster representing the work described in their abstracts and to be available to discuss their work with visitors during their allocated time in the student poster display area.,'1-2-2-1-2-1-2-6-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Student Abstract Keywords,'1-2-2-1-2-1-2-7-1,0,0,1,2,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'student-abstract keywords,'1-2-2-1-2-1-2-7-2,0,0,0,0,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Student Abstract Inquiries,'1-2-2-1-2-1-2-8-1,0,0,1,2,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Registration and call clarification inquiries may be sent to:,'1-2-2-1-2-1-2-8-2-1,0,0,0,1,0,0,0,2,1,2,1,1,0,0,0,0,0,0,1,0,0,0,0,1,C
+'AAAI-11 Student Abstracts,'1-2-2-1-2-1-2-8-2-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Association for the Advancement of Artificial Intelligence,'1-2-2-1-2-1-2-8-2-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'445 Burgess Drive,'1-2-2-1-2-1-2-8-2-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Menlo Park, CA 94025-3442 USA",'1-2-2-1-2-1-2-8-2-2-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,1,0,0,2,I
+'aaai11@aaai.org,'1-2-2-1-2-1-2-8-2-2-5,0,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'All other inquiries and suggestions should be directed to the Student Abstract and Poster Program Cochairs.,'1-2-2-1-2-1-2-8-2-3,1,0,0,1,0,2,0,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,N
+'This call for papers is also available as a printable PDF document,'1-2-2-1-2-1-2-8-2-4,1,0,0,1,0,0,1,0,1,2,1,1,0,1,0,0,0,0,0,1,0,0,0,3,N
+'Student Abstract and Poster Program Cochairs,'1-2-2-1-2-2-1,0,0,1,2,0,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,3,C
+'Ugur Kuter,'1-2-2-1-2-2-2-1-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'University of Maryland, College Park",'1-2-2-1-2-2-2-1-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,1,0,0,2,I
+'ukuter@cs.umd.edu,'1-2-2-1-2-2-2-1-3,0,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Rudolph Triebel,'1-2-2-1-2-2-2-2-1,0,0,0,1,0,2,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'ETH Zurich,'1-2-2-1-2-2-2-2-2,0,0,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'rudolph.triebel@mavt.ethz.ch,'1-2-2-1-2-2-2-2-3,0,0,0,1,0,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'AAAI Conferences AI Magazine AI Topics Awards Calendar Digital Library Meetings Membership Press Room Publications Resources Symposia Workshops,'1-2-2-2-1,1,0,0,0,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Terms and Conditions Privacy Policy About AAAI Search Contact AAAI,'1-2-2-2-2,1,0,0,0,0,2,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Copyright,'1-2-2-2-3,0,0,0,0,0,1,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N

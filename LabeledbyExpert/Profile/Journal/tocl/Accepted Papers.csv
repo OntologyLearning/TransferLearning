@@ -1,0 +1,39 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ACM Transactions on Computational Logic (TOCL),'1-1,0,0,1,2,1,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,C
+'Accepted Papers,'1-2-1,0,0,0,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'the TOCL home page,'1-2-2-1,0,0,0,1,0,2,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Previous Issues,'1-2-2-2-1-1-1,0,0,0,1,1,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
+"'Volume 11, 2010",'1-2-2-2-1-1-2,0,0,0,1,1,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Volume 12, 2011",'1-2-2-2-1-1-3,0,0,0,1,1,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Volume 13, 2012",'1-2-2-2-1-1-4,0,0,0,1,1,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Volume 14, 2013",'1-2-2-2-1-1-5,0,0,0,1,1,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Volume 15, Number 1",'1-2-2-2-1-2,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'A PSPACE-Complete First Order Fragment of Computability Logic Matthew S. Bauer,'1-2-2-2-2-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Improved Witnessing and Local Improvement Principles for Second-Order Bounded Arithmetic Arnold Beckmann and Samuel R. Buss,'1-2-2-2-2-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Algebra-Coalgebra Duality in Brzozowski's Minimization Algorithm Filippo Bonchi, Marcello Bonsangue, Helle Hvid Hansen, Prakash Panangaden, Jan Rutten, and Alexandra Silva",'1-2-2-2-2-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Non-finite axiomatizability of Dynamic Topological Logic David Fernández-Duque,'1-2-2-2-2-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Quantifier-Free Interpolation in Combinations of Equality Interpolating Theories Roberto Bruttomesso, Silvio Ghilardi, and Silvio Ranise",'1-2-2-2-2-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Degree Lower Bounds of Tower-Type for Approximating Formulas with Parity Quantifiers Albert Atserias and Anuj Dawar,'1-2-2-2-2-6,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Using Tableau to Decide Description Logics with Full Role Negation and Identity Renate A. Schmidt and Dmitry Tishkovsky,'1-2-2-2-2-7,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Extending two-variable logic on data trees with order on data values and its automata Tony Tan,'1-2-2-2-2-8,1,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'On the Complexity of Existential Positive Queries Hubie Chen,'1-2-2-2-2-9,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'A Resolution Calculus for the Branching-Time Temporal Logic CTL Lan Zhang, Ullrich Hustadt, and Clare Dixon",'1-2-2-2-2-10,1,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Volume 15, Number 2 (tentative)",'1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Preferred First-order Answer Set Programs Vernon Asuncion, Yan Zhang, and Yi Zhou",'1-2-2-3-2-1-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Formalizing Negotiations Using Logic Programming Tran Cao Son, Enrico Pontelli, Ngoc-Hieu Nguyen, and Chiaki Sakama",'1-2-2-3-2-1-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Safety and Liveness, Weakness and Strength, and the Underlying Topological Relations Cindy Eisner, Dana Fisman, and John Havlicek",'1-2-2-3-2-1-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Symbolic bisimulation for quantum processes Yuan Feng, Yuxin Deng, and Mingsheng Ying",'1-2-2-3-2-1-4,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Pebble Weighted Automata and Weighted Logics Benedikt Bollig, Paul Gastin, Benjamin Monmege, and Marc Zeitoun",'1-2-2-3-2-1-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Partial-Observation Stochastic Games: How to Win when Belief Fails Krishnendu Chatterjee and Laurent Doyen,'1-2-2-3-2-1-6,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Parity Games and Propositional Proofs Arnold Beckmann, Pavel Pudlák, and Neil Thapen",'1-2-2-3-2-1-7,1,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Future Issues,'1-2-2-3-2-2,0,0,0,1,0,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Super-Solutions: Succinctly Representing Solutions in Abductive Annotated Probabilistic Temporal Logic Cristian Molinaro, Amy Sliva, and V.S. Subrahmanian",'1-2-2-3-2-3-1,1,1,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Complexity Classifications for logic-based Argumentation Nadia Creignou, Uwe Egly, and Johannes Schmidt",'1-2-2-3-2-3-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'LoCo - A Logic for Configuration Problems Markus Aschinger, Conrad Drescher, Georg Gottlob, and Helibert Vollmer",'1-2-2-3-2-3-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Structural focalization Robert J. Simmons (Electronic Appendix),'1-2-2-3-2-3-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Model-Checking Linear-Time Properties of Quantum Systems Mingsheng Ying, Yangjia Li, Nengkun Yu, and Yuan Feng",'1-2-2-3-2-3-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'A certified reduction strategy for homological image processing María Poza, César Domínguez, Jónathan Heras, and Julio Rubio",'1-2-2-3-2-3-6,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Randomisation in Automata on Infinite Trees Arnaud Carayol, Axel Haddad, and Olivier Serre",'1-2-2-3-2-3-7,1,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Identifying efficient abductive hypotheses using multi-criteria dominance relation Maciej Komosinski, Adam Kups, Dorota Leszczy&nacute;ska-Jasion, and Mariusz Urba&nacute;ski",'1-2-2-3-2-3-8,1,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Temporal Specifications with Accumulative Values Udi Boker, Krishnendu Chatterjee, Thomas A. Henzinger, and Orna Kupferman",'1-2-2-3-2-3-9,1,1,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Back to home page,'1-2-2-3-2-4,0,0,0,1,0,2,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,N

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_Learning_for_control_and_decision_making">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_on_Physically_Grounded_AI_PGAI"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Vision">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Martial_Hebert_Carnegie_Mellon_University">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_Cochairs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_on_Physically_Grounded_AI_PGAI"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Odest_Chadwicke_Jenkins_Brown_University">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_Cochairs"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_Learning_applied_to_robotics,_vision,_and_other_activities_grounded_in_the_real_world">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Intelligence_and_Perception_for_HumanRobot_interaction">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sensor_Networks">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ThreeDimensional_Machine_Perception">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Activity_Recognition">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Motion_planning">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Special_Track_on_Physically_Grounded_AI">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI10"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AI_for_Robotics">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_J._Andrew_Bagnell_Carnegie_Mellon_University">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_Cochairs"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prediction_and_planning_for_transportation">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_will_either_describe_related_research_or_clearly_explain_how_the_work_addresses_problems_in_physically_embodied_agents,_opportunities,_or_issues_underlying_such_systems._Relevant_topics_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Track_on_Physically_Grounded_AI_PGAI"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI10"/>
+</rdf:RDF>

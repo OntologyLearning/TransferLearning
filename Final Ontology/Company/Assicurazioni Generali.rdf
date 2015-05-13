@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries_of_the_group_includes,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_Euro_Stoxx_50_companies_of_Europe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Air_Liquide_Allianz_AnheuserBusch_InBev_ArcelorMittal_ASML_Holding_AXA_Banco_Santander_BASF_Bayer_BMW_BBVA_BNP_Paribas_Carrefour_CRH_Daimler_Danone_Deutsche_Bank_Deutsche_Telekom_E.ON_Enel_Essilor_GDF_Suez">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Euro_Stoxx_50_companies_of_Europe>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sandro_Panizza">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lloyds_of_London">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Profit rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_.1_billion_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Profit>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chairman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AIA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mitsui_Sumitomo_Insurance_Group">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samsung_Fire__Marine_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Genertellife">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_See_also>
+  <ns1:_in_Italy rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Genertellife,_INA_Assitalia,_Alleanza__Toro,_Genertel_and_EuropAssistance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_in_Italy>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CFO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sumitomo_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MetLife">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nikhil_Srinivasan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CNP_Assurances">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UIIC_India">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_Operations">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Trieste,_Italy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chief_Insurance_officer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lincoln">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Legal__General">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Shareholder_structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_13_March_2013,_Assicurazioni_Generalis_largest_shareholder_was_Mediobanca_with_13.24._Other_declared_shareholdings_at_this_date_were_Banca_dItalia_4.49,_Delfin_Sarl__Leonardo_Del_Vecchio_2.99,_BD_HOLDING_Group_2.43,_Effeti_2.15,_Caltagirone_Group_2.23">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Shareholder_structure>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance,_banking,_investment_management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aegon_Ageas_AIG_Allianz_Allstate_Aon_Aviva_AXA_China_Pacific_Insurance_China_Taiping">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Notable_employees rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franz_Kafka_worked_for_nearly_nine_months_between_November_1,_1907,_and_July_15,_1908_at_the_Assicurazioni_Generali_office_in_Prague">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Notable_employees>
+  <base:_Operations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Today_Generali_operates_primarily_in_Europe,_Middle_East_and_East_Asia,_with_large_market_shares_in_Italy,_Poland,_Germany_under_the_name_of_Generali_Deutschland,_France,_Austria,_Slovenia,_Croatia,_Serbia,_Spain,_Switzerland,_Romania,_Israel,_Japan,_China_and_Bosnia_and_Herzegovina,_with_secondary_operations_in_Latin_America,_for_example,_in_Panama._Generalis_United_States_operations_are_concentrated_in_life_reinsurance_and_financial_products_management,_a_result_of_the_groups_acquisition_of_Business_Mens_Assurance_Company_of_America_in_1990">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operations>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_PC_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Taikang_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Subsidiaries rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Genertel,_Alleanza_Toro,_Ina_Assitalia,_Europ_Assistance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Old_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Societ_per_azioni">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manulife_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CEO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_York_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Standard_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5_References">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RSA_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gen_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Hartford">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hyundai_Marine__Fire_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hannover_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CRO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mapfre">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Munich_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__G">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BIT">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  </rdf:Description>
+  <base:_Total_assets rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_41.74_billion_end_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_assets>
+  <base:_Revenue rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_13,8_billion_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Revenue>
+  <base:_Employees rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_79.454_end_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Employees>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Farmers_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bradesco_Seguros">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BB_Seguridade">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance_Group_of_America">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_FTSE_MIB_companies_of_Italy rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A2A_Ansaldo_STS_Atlantia_Autogrill_Azimut_Holding_Banca_Monte_dei_Paschi_di_Siena_Banca_Popolare_dellEmilia_Romagna_Banca_Popolare_di_Milano_Banco_Popolare_Buzzi_Unicem_Campari_CNH_Industrial_Enel_Enel_Green_Power_Exor_Finmeccanica">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_FTSE_MIB_companies_of_Italy>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance_Australia_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Financial_services">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samsung_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ING">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phoenix_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LIC_India">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Travelers">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_QBE_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jackson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ping_An_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UnipolSai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_See_also">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Great_Eastern">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Operations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Serbia_the_company_operates_under_the_name_Delta_Generali__a_joint_venture_of_Assicurazioni_Generali_and_Serbian_Delta_Holding">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operations>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sompo_Japan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PZU">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scottish_Widows">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PICC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Meiji_Yasuda_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Operations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_Jerusalems_Jaffa_Road,_the_Generali_Building__,_built_by_the_company_in_1935,_is_still_known_by_that_name_although_the_company_operated_its_Jerusalem_branch_in_the_building_only_from_1935_to_1946._The_Generali_Building_is_still_owned_by_the_Italian_insurance_firm_through_its_local_representative,_the_Migdal_Insurance_Company._The_building_currently_houses_various_government_offices,_including_the_Jerusalem_District_Administration,_the_Ministry_of_Interior,_the_Department_of_Immigration_and_Population_Registry,_and_the_Internal_Auditing_Office._It_is_a_famous_Jerusalem_landmark,_due_to_the_large_and_wellpreserved_stone_statue_of_a_winged_lion_on_its_roof_this_is_the_Lion_of_Saint_Mark,_patron_saint_of_Venice,_and_the_symbol_of_the_Generali_insurance_company_which_appears_on_all_of_its_branches_worldwide_since_1848">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operations>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nippon_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Website rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.generali.com">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Website>
+  <base:_FTSE_MIB_companies_of_Italy rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_GTECH_Intesa_Sanpaolo_Luxottica_Mediaset_Mediobanca_Mediolanum_Pirelli__C._Prysmian_Saipem_Salvatore_Ferragamo_Snam_STMicroelectronics_Telecom_Italia_Tenaris_Terna_Tods_UBI_Banca_UniCredit_UnipolSai_World_Duty_Free_YOOX">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_FTSE_MIB_companies_of_Italy>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alberto_Minali">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BNP_Paribas">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_plc">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Northwestern_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zurich_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mario_Greco">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assicurazioni_Generali"/>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bupa">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CIO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vienna_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_National_Mutual_Insurance_Federation_of_Agricultural_Cooperatives">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_XL_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </base:_Reinsurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Daiichi_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Total_equity rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.57_billion_end_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_equity>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_Shareholder_structure">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_Notable_employees">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_State_Farm_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Composite>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sergio_Balbinot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tokio_Marine">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6_External_links">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Operations rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_India_the_company_is_represented_by_Future_Generali,_a_joint_venture_of_Future_group_and_Assicurazioni_Generali">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operations>
+  <base:_Founded rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1831">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founded>
+  <base:_Area_served rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Italy,_Europe,_Asia,_Middle_East,_Americas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Area_served>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Liberty_Mutual">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_insurance"/>
+  </owl:NamedIndividual>
+  <base:_Euro_Stoxx_50_companies_of_Europe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Generali">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FTSE_MIB_companies_of_Italy"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Euro_Stoxx_50_companies_of_Europe>
+  <base:_Euro_Stoxx_50_companies_of_Europe rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Iberdrola_Inditex_Intesa_Sanpaolo_LOral_LVMH_Munich_Re_Nokia_Orange_Philips_Repsol_RWE_SaintGobain_Sanofi_SAP_Schneider_Electric_Siemens_Socit_Gnrale_Telefnica_Total_UnibailRodamco_UniCredit_Unilever_Vinci_Vivendi_Volkswagen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Euro_Stoxx_50_companies_of_Europe>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sun_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Life_insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FTSE_MIB_companies_of_Italy"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Area_served"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Profit"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notable_employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Euro_Stoxx_50_companies_of_Europe"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries_of_the_group_includes,_in_Italy">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shareholder_structure"/>
+</rdf:RDF>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_copyedited_the_manuscript_will_be_sent_from_the_ACM_Headquarters_to_the_corresponding_author_for_possible_corrections.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_What_happens_after_you_submitted_the_files_to_the_TOCL_Editorial_Office"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_PDF_file_will_be_placed_in_the_list_of_Accepted_Papers_for_TOCL.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_What_happens_after_you_submitted_the_files_to_the_TOCL_Editorial_Office"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_corresponding_author_will_be_asked_to_process_these_corrections_in_hisher_LaTeX_files_and_resubmit_them_to_the_TOCL_Editorial_Office_in_the_same_way_as_originally.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_What_happens_after_you_submitted_the_files_to_the_TOCL_Editorial_Office"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_submitted_to_TOCL_prior_to_1_September_2010_are_using_the_TOCL_Editorial_Office._In_this_case,_follow_the_instructions_below.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Electronic_submission_of_accepted_papers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_same_email_please_send_the_precise_address_and_email_of_the_corresponding_author._Heshe_will_be_in_charge_of_the_galley_proofs.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_of_accepted_papers_via_the_TOCL_Editorial_Office"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Procedures_for_Submitting_Accepted_Papers">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_prepare_your_manuscript_using_LaTeX,_and_follow_ACMs_Guidelines_for_Submitting_Accepted_Articles._If_your_paper_has_an_electronic_appendix_then_format_it_as_explained_in_Section_8_of_the_instructions.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Typesetting_of_accepted_Papers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__The_preferred_form_of_submitting_the_files_is_by_sending_to_the_TOCL_Editorial_Office,_acmtoclcs.utexas.edu,_the_URL_address_from_which_they_can_be_fetched.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_submissions_that_were_not_submitted_via_Manuscript_Central">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_of_accepted_papers_via_the_TOCL_Editorial_Office"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_the_PDF_file_that_corresponds_to_the_manuscript,">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_send_the_URLs_of_the_following_files"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_the_single_LaTeX2e_file_so_the_.bbl_file_needs_to_be_included_in_the_.tex_file,_and_the_EPS_files_for_all_graphics_if_there_are_many_files_in_this_group,_please_send_a_URL_of_a_single_gzipped_tar_file_instead.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_send_the_URLs_of_the_following_files"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_submitted_to_TOCL_after_1_September_2010_are_using_the_Manuscript_Central_tracking_system_and_that_system_will_provide_authors_with_instructions_for_final_submission.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Electronic_submission_of_accepted_papers"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_of_accepted_papers_via_the_TOCL_Editorial_Office"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_What_happens_after_you_submitted_the_files_to_the_TOCL_Editorial_Office"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_send_the_URLs_of_the_following_files"/>
+</rdf:RDF>

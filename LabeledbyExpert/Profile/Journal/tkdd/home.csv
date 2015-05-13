@@ -1,0 +1,167 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+"'acm Transactions on
+Knowledge Discovery from Data",'1-1-1-2,0,0,0,2,0,2,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,C
+'TKDD Editorial Board,'1-1-2-1,0,0,0,2,0,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,C
+'Editor-in-Chief,'1-1-2-2-2-1-1,0,0,0,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Philip S. Yu,'1-1-2-2-2-1-2-1-2,0,0,0,2,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'Department of Computer Science
+University of Illinois at Chicago
+851 S. Morgan St., Rm 1138 SEO
+Chicago, IL 60607
+Tel: 312-996-0498
+Fax: 312-413-0024
+
+www.cs.uic.edu/~psyu/",'1-1-2-2-2-1-2-2-2,1,0,0,1,0,2,1,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Associate Editors,'1-1-2-2-2-2-1,0,0,0,2,0,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Charu Aggarwal,'1-1-2-2-2-2-2-1-1-2,0,0,0,2,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'IBM T. J. Watson Research
+email: charu AT us.ibm.com
+http://www.charuaggarwal.net/",'1-1-2-2-2-2-2-1-2-2,0,0,0,1,0,2,1,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Diane J. Cook,'1-1-2-2-2-2-2-2-1-2,0,0,0,2,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'School of Electrical Engineering and Computer Science
+EME 121 Spokane Street PO Box 642752",'1-1-2-2-2-2-2-2-2-2-1,1,0,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Washington State University,'1-1-2-2-2-2-2-2-2-2-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Pullman, WA 99164-2752
+Phone:509-335-4985",'1-1-2-2-2-2-2-2-2-2-3,0,0,0,1,0,2,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Fax: 509-335-3818
+email: cook AT eecs DOT wsu DOT edu
+http://www.eecs.wsu.edu/~cook/",'1-1-2-2-2-2-2-2-2-2-4,0,0,0,1,0,2,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Ian Davidson,'1-1-2-2-2-2-2-3-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science
+University of California at Davis 
+Kemper Hall, 1 Shields Avenue
+Davis, CA 95616
+Tel: (530) 752-5764
+Fax: (530) 752-4767
+email: davidson AT cs dot ucdavis dot edu
+http://www.cs.ucdavis.edu/~davidson/",'1-1-2-2-2-2-2-3-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Wei Fan,'1-1-2-2-2-2-2-4-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Huawei Noah’s Ark Lab 
+Hong Kong
+Tel: 1-914-784-7027
+Fax: 1-917-464-6646
+email: wei.fan AT gmail.com
+http://www.cs.columbia.edu/~wfan/",'1-1-2-2-2-2-2-4-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Johannes Gehrke,'1-1-2-2-2-2-2-5-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Sciences
+4105B Upson Hall
+Cornell University
+Ithaca, NY 14853
+Tel: 607-255-1045
+Fax: 607-255-4428
+
+www.cs.cornell.edu/johannes/",'1-1-2-2-2-2-2-5-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Joydeep Ghosh,'1-1-2-2-2-2-2-6-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science
+University of Texas at Austin 
+Tel: (512) 471-8980
+Fax: (512) 471-2893
+email: ghosh AT ece utexas dot edu
+http://www.lans.ece.utexas.edu/~ghosh/",'1-1-2-2-2-2-2-6-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Rong Jin,'1-1-2-2-2-2-2-7-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Department of Computer Science and Engineering,'1-1-2-2-2-2-2-7-2-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'Michigan State University
+Office Address: EB 1124",'1-1-2-2-2-2-2-7-2-2-2,0,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Office Phone: +1 (517) 353-7284
+email: rongjin AT cse.msu.edu
+http://www.cse.msu.edu/~rongjin/",'1-1-2-2-2-2-2-7-2-2-3,0,0,0,1,0,2,1,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'George Karypis,'1-1-2-2-2-2-2-8-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science and Engineering
+University of Minnesota
+email: karypis AT cs.umn.edu
+Tel: (612) 626-7524
+Fax: (612) 625-0572 
+http://www.cs.umn.edu/~karypis",'1-1-2-2-2-2-2-8-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Irwin King,'1-1-2-2-2-2-2-9-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Department of Computer Science & Engineering,'1-1-2-2-2-2-2-9-2-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'The Chinese University of Hong Kong
+Shatin, N.T., Hong Kong 
+Tel: (852) 2609 8398
+Fax: (852) 2603 5024
+email: king [ at ] cse [ dot ] cuhk [ dot ] edu [ dot ] hk
+http://www.cse.cuhk.edu.hk/irwin.king/home",'1-1-2-2-2-2-2-9-2-2-2,2,0,0,1,0,2,1,1,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Ravi Kumar,'1-1-2-2-2-2-2-10-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Google,'1-1-2-2-2-2-2-10-2-2-1,0,0,0,1,0,1,0,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,2,I
+"'Mountain View, CA.
+Tel: (408) 718-1108
+
+email: ravi.k53 AT gmail.com
+https://sites.google.com/site/ravik53/",'1-1-2-2-2-2-2-10-2-2-2,0,0,0,1,0,2,1,1,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Tao Li,'1-1-2-2-2-2-2-11-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'School of Computer Science, Florida International University",'1-1-2-2-2-2-2-11-2-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'ECS 318, 11200 SW 8th Street
+Miami, FL 33199, U.S.A.
+Tel: 1-305-348-6036 
+Fax: 1-305-348-3549
+email: taoli AT cs.fiu.edu
+http://www.cs.fiu.edu/~taoli/",'1-1-2-2-2-2-2-11-2-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Srinivasan Parthasarathy,'1-1-2-2-2-2-2-12-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science and Engineering and Department of Biomedical Informatics
+The Ohio State University 
+Tel: (614) 292-2568 
+Fax: (614) 292-2911 
+email: s r i n i AT cse.ohio-state.edu
+http://www.cse.ohio-state.edu/~srini/",'1-1-2-2-2-2-2-12-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Jian Pei,'1-1-2-2-2-2-2-13-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'School of Computing Science
+Simon Fraser University
+8888 University Drive
+Burnaby, BC Canada V5A 1S6",'1-1-2-2-2-2-2-13-2-2-1-1,1,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'Phone: 1-778-782-6851
+Fax: 1-778-782-3045",'1-1-2-2-2-2-2-13-2-2-1-2,0,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'email: jpei AT cs.sfu.ca
+http://www.cs.sfu.ca/~jpei/",'1-1-2-2-2-2-2-13-2-2-2,0,0,0,2,0,2,1,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Vincent S. Tseng,'1-1-2-2-2-2-2-14-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science and Information Engineering
+National Cheng Kung University 
+No. 1, University Road, Tainan, Taiwan",'1-1-2-2-2-2-2-14-2-2-1-1,1,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'Phone: +886-6-2757575#62536/
+Fax: +886-6-2747076",'1-1-2-2-2-2-2-14-2-2-1-2,0,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'email: tsengsm AT mail.ncku.edu.tw
+http://idb.csie.ncku.edu.tw/tsengsm",'1-1-2-2-2-2-2-14-2-2-2,0,0,0,2,0,2,1,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Ke Wang,'1-1-2-2-2-2-2-15-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science
+Simon Fraser University 
+8888 University Drive
+Burnaby, British Columbia, Canada V5A 1S6
+Tel: 7787824667
+Fax: 7787823045
+email: wangk AT cs.sfu.ca
+http://www.cs.sfu.ca/~wangk/",'1-1-2-2-2-2-2-15-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Mohammed J. Zaki,'1-1-2-2-2-2-2-16-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science
+Rensselaer Polytechnic Institute
+Troy, NY 12180-3590
+Tel: 518-276-6340
+Fax: 518-276-4033
+
+www.cs.rpi.edu/~zaki",'1-1-2-2-2-2-2-16-2-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Information Director,'1-1-2-2-2-3-1,0,0,0,2,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Xiangnan Kong,'1-1-2-2-2-3-2-1-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'Department of Computer Science 
+University of Illinois at Chicago
+851 S. Morgan St., Rm 1336
+Chicago, IL 60607",'1-1-2-2-2-3-2-1-2-2-1,1,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'email: xkong4 AT uic.edu
+http://www.cs.uic.edu/~xkong/",'1-1-2-2-2-3-2-1-2-2-2,0,0,0,2,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Xiaoxiao Shi,'1-1-2-2-2-3-2-2-1-2,0,0,0,2,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Department of Computer Science 
+University of Illinois at Chicago
+851 S. Morgan St., Rm 1336
+Chicago, IL 60607 
+email: xiaoxiao AT cs.uic.edu",'1-1-2-2-2-3-2-2-2-2-1,1,0,0,1,0,2,0,1,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+'http://www.cs.uic.edu/~xiaoxiao/,'1-1-2-2-2-3-2-2-2-2-2,0,0,0,2,0,0,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Information Specialist,'1-1-2-2-2-4-1,0,0,0,2,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Xiangnan Kong,'1-1-2-2-2-4-2-1-2,0,0,0,2,0,2,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'Department of Computer Science 
+University of Illinois at Chicago
+851 S. Morgan St., Rm 1336
+Chicago, IL 60607",'1-1-2-2-2-4-2-2-2-1,1,0,0,1,0,2,0,0,2,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'email: xkong4 AT uic.edu
+http://www.cs.uic.edu/~xkong/",'1-1-2-2-2-4-2-2-2-2,0,0,0,2,0,2,1,1,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Headquarters Quarterlies Staff,'1-1-2-2-2-5-1,0,0,0,2,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Laura Lander,'1-1-2-2-2-5-2-1,0,0,0,2,0,2,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Publisher, ACM Journals 
+lander@hq.acm.org",'1-1-2-2-2-5-2-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'TKDD Former Editors,'1-1-2-2-2-6,0,0,1,2,0,2,1,0,2,1,1,1,0,0,1,0,0,0,0,1,0,0,2,N
+'Email questions and comments to tkdd@acm.org,'1-2,0,0,1,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N

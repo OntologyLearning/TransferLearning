@@ -1,0 +1,65 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Lloyd Chapman,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Lloyd Chapman,'1-2-1-2-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Doctoral Student,'1-2-1-2-1-1-2-1-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Student, Lady Margaret Hall",'1-2-1-2-1-1-2-1-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Wolfson Building, Parks Road, Oxford OX1 3QD",'1-2-1-2-1-1-2-2,0,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,I
+'Interests,'1-2-1-2-1-2-1-1-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'Tissue engineering, fluid dynamics, continuum mechanics, hybrid discrete-continuum modelling",'1-2-1-2-1-2-1-1-2-1,0,0,0,0,1,0,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Hybrid discrete-continuum modelling of tissue growth for tissue engineering applications,'1-2-1-2-1-2-1-1-2-2-1,1,0,0,0,0,0,0,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,3,N
+"'To successfully grow tissues in the laboratory a better understanding of the complex interaction of processes that underlie tissue growth is required. For mathematical models and computer simulations to provide this insight they must be able to encompass huge changes in the number of cells and considerable heterogeneity in the tissue growth. Hybrid models of tissue growth which combine discrete and continuum models at different times and in different regions of space offer a potential solution to this problem.
+
+We have developed a continuum model to study the effect of fluid and nutrient transport on the growth of a cell layer in a hollow fibre bioreactor (HFB). Asymptotic analysis was used to reduce the governing equations for the fluid and nutrient transport to an analytically tractable system by exploiting the small aspect ratio of the bioreactor. The cell layer was assumed to grow in response to the quasi-steady local nutrient concentration and the growth law solved numerically. Simulation results show that nutrient delivery to, and waste product removal from, the cells is improved by opening the exit ports on the outside of the bioreactor, which enhances radial flow through the membrane to the cells. The model suggests that this supports greater and more stable growth of the cell layer.",'1-2-1-2-1-2-1-1-2-2-2,2,0,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,I
+"'As a first step toward incorporating the feedback effects of the cells on the fluid flow and nutrient distribution in the bioreactor, we have developed a 2D model of cell aggregates growing along a membrane separating an inflow and outflow region, in which the permeability of the membrane surface is reduced by the presence of the cell aggregates. Since the cell regions are discrete it is necessary to solve the governing equations numerically. This model has been used to investigate the influence of the initial cell aggregate distribution on the subsequent growth and indicates that the combination of the distribution and flow conditions has a major impact on the cell yield.",'1-2-1-2-1-2-1-1-2-2-3,2,0,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'The future aims of the project are to develop more detailed mechanical models for the interaction of cells sparsely seeded on a bioreactor scaffold with the fluid flowing around them; to consider discrete cell-based models of tissue growth and derive continuum approximations of these models that include cell division; and to couple these discrete and continuum models together for tissues in which a continuum approximation is not valid over the whole domain.
+
+References
+1. Fluid and mass transport modelling to drive the design of cell-packed hollow fibre bioreactors for tissue engineering applications, R.J. Shipley and S.L. Waters, Mathematical Medicine and Biology, 2011
+2. Continuum approximations of individual-based models for epithelial monolayers, J.A. Fozard, H.M. Byrne, O.E. Jensen and J.R. King, Mathematical Medicine and Biology, 27(1):39-74, 2010",'1-2-1-2-1-2-1-1-2-2-4,2,0,0,0,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Info,'1-2-1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Manage publications,'1-2-1-2-1-2-1-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,N
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Computational Biology,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Computational Biology group,'1-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Supervisors,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Helen Byrne,'1-2-1-2-1-2-2-3-2-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Jonathan Whiteley,'1-2-1-2-1-2-2-3-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-2-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-2-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-2-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-2-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-2-1-3-2-2-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-2-1-3-2-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-2-1-4,0,0,1,2,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-2-1-5-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-2-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-2-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-2-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-2-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-2-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-2-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

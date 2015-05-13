@@ -1,0 +1,52 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'JMLR: Workshop and Conference Proceedings,'1-2-1-1,0,0,0,2,1,2,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,C
+'ISSN: 1938-7228,'1-2-1-2-1-1,0,0,1,2,1,2,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+"'The JMLR: Workshop and Conference Proceedings series is a new series aimed specifically at publishing work presented at workshops and conferences. Each volume is separately titled and associated with a particular workshop or conference and will be pulished online on the JMLR web site. Authors will retain copyright and individual volume editors are free to make additional hardcopy publishing arrangements (see for example the Challenges in Machine Learning series which includes free PDFs and low cost hard copies), but JMLR will not produce hardcopies of these volumes.",'1-2-1-2-1-2,2,0,0,1,0,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Editors,'1-2-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,3,C
+'Neil Lawrence Mark Reid,'1-2-1-2-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'N.Lawrencedcs.shef.ac.uk,'1-2-1-2-2-2-1-2-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'. Each proposal should include:,'1-2-1-2-2-2-1-2-2,0,0,0,1,0,2,0,2,1,2,0,0,0,1,0,0,0,0,1,1,1,1,2,I
+'A brief description of the event's scope and topics to be covered.,'1-2-1-2-2-2-2-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'A description of the review process for the proceedings.,'1-2-1-2-2-2-2-2,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The names and short CVs (a few lines) of the proposed Proceedings Editors.,'1-2-1-2-2-2-2-3,1,1,0,1,0,2,0,0,1,2,1,0,0,1,1,0,0,0,0,0,0,0,2,I
+'For frequently asked questions on preparing proceedings please see the FAQ.,'1-2-1-2-2-2-3,1,0,0,1,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,N
+'News,'1-2-1-2-3-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,1,0,0,0,0,1,1,1,3,C
+'As of 11th March 2007 Volume 1 (Gaussian Processes in Practice) is available.,'1-2-1-2-3-2-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,1,0,0,0,0,1,I
+'As of 27th October 2007 Volume 2 (AISTATS 2007 Proceedings) is available.,'1-2-1-2-3-2-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 11th September 2008 Volume 4 (New Challenges for Feature Selection in Data Mining and Knowledge Discovery) is available.,'1-2-1-2-3-2-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'As of 31st December 2008 Volume 3 (Causation and Prediction Challenge (WCCI 2008)) is available.,'1-2-1-2-3-2-4,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 15th April 2009 Volume 5 (AISTATS 2009 Proceedings) is available.,'1-2-1-2-3-2-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 4th December 2009 Volume 7 (Proceedings of KDD-Cup 2009 competition) is available.,'1-2-1-2-3-2-6,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 18th February 2010 Volume 6 (Causality: Objectives and Assessment (NIPS 2008 Workshop)) is available.,'1-2-1-2-3-2-7,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 2nd March 2010 Volume 8 (Proceedings of MLSB 2009) is available.,'1-2-1-2-3-2-8,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 31st March 2010 Volume 9 (AISTATS 2010 Proceedings) is available.,'1-2-1-2-3-2-9,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 26th May 2010 Volume 10 (FSDM 2010 Proceedings) is available.,'1-2-1-2-3-2-10,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 30th September 2010 Volume 11 (Workshop on Applications of Pattern Analysis (WAPA) 2010 Proceedings) is available.,'1-2-1-2-3-2-11,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 3rd March 2011 Volume 12 (NIPS Mini-Symposium on Causality in Time Series) is available.,'1-2-1-2-3-2-12,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 31st October 2010 Volume 13 (ACML 2010 Proceedings) is available.,'1-2-1-2-3-2-13,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 26th January 2011 Volume 14 (Proceedings of the Learning to Rank Challenge) is available.,'1-2-1-2-3-2-14,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 14th June 2011 Volume 15 (AISTATS 2011 Proceedings) is available.,'1-2-1-2-3-2-15,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 21st April 2011 Volume 16 (Active Learning and Experimental Design Workshop) is available.,'1-2-1-2-3-2-16,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 21st October 2011 Volume 17 (Workshop on Applications of Pattern Analysis (WAPA) 2011 Proceedings) is available.,'1-2-1-2-3-2-17,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 17th November 2011 Volume 20 (ACML 2011 Proceedings) is available.,'1-2-1-2-3-2-18,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 21st December 2011 Volume 19 (COLT 2011 Proceedings) is available.,'1-2-1-2-3-2-19,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 21st March 2012 Volume 22 (AISTATS 2012 Proceedings) is available.,'1-2-1-2-3-2-20,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 2nd May 2012 Volume 26 (On-line Trading of Exploration and Exploitation 2011 Proceedings) is available.,'1-2-1-2-3-2-21,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 1st June 2012 Volume 18 (KDD Cup 2011) is available.,'1-2-1-2-3-2-22,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 16th June 2012 Volume 23 (COLT 2012) is available.,'1-2-1-2-3-2-23,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 27th June 2012 Volume 27 (Unsupervised and Transfer Learning Workshop at ICML 2011) is available.,'1-2-1-2-3-2-24,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 16th August 2012 Volume 21 (ICGI 2012 Proceedings) is available.,'1-2-1-2-3-2-25,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 17th November 2012 Volume 25 (ACML 2012 Proceedings) is available.,'1-2-1-2-3-2-26,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 12th January 2013 Volume 24 (EWRL 2012 Proceedings) is available.,'1-2-1-2-3-2-27,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'As of 15th February 2013 Volume 28 (ICML 2013 Proceedings, 1st Cycle) is available.",'1-2-1-2-3-2-28,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 29th April 2013 Volume 31 (AISTATS 2013 Proceedings) is available.,'1-2-1-2-3-2-29,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'As of 5th May 2013 Volume 28 (ICML 2013 Proceedings, 2nd Cycle) is available.",'1-2-1-2-3-2-30,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'As of 26th May 2013 Volume 28 (ICML 2013 Proceedings, 3rd Cycle) is available.",'1-2-1-2-3-2-31,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 13th June 2013 Volume 30 (COLT 2013) is available.,'1-2-1-2-3-2-32,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 21st October 2013 Volume 29 (ACML 2013) is available.,'1-2-1-2-3-2-33,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'As of 27th January 2014 Volume 32 (ICML 2014 Proceedings, 1st Cycle) is available.",'1-2-1-2-3-2-34,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+'As of 2nd of April 2014 Volume 33 (AISTATS 2014 Proceedings) is available.,'1-2-1-2-3-2-35,1,1,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,2,I
+'Scheduled Volumes,'1-2-1-2-4-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Volume 34 ICGI 2014 Proceedings,'1-2-1-2-4-2-1,0,1,0,1,0,2,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Volume 35 COLT 2014 Proceedings,'1-2-1-2-4-2-2,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Volume 36 To be announced,'1-2-1-2-4-2-3,0,1,0,1,0,2,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I

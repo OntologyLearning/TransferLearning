@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_January_28,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_July_1,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_January_14,"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_August_7,"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_December_3,"
+>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Weiru_Liu_Queens_University_Belfast,_UK">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thomas.Lukasiewiczcomlab.ox.ac.uk">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <base:_What_Is_the_Tutorial_Forum rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Tutorial_Forum_provides_an_opportunity_for_junior_and_senior_researchers_to_spend_two_days_each_year_freely_exploring_exciting_advances_in_disciplines_outside_their_normal_focus._We_believe_this_type_of_forum_is_essential_for_the_cross_fertilization,_cohesiveness,_and_vitality_of_the_AI_field._We_all_have_a_lot_to_learn_from_each_other_the_Tutorial_Forum_promotes_the_continuing_education_of_each_member_of_the_AAAI._To_encourage_full_participation_by_technical_conference_registrants,_no_separate_fee_will_be_charged_for_admittance_to_the_Tutorial_Forum_in_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_What_Is_the_Tutorial_Forum>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nate_Chambers_Stanford_University,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rada_Mihalcea_University_of_North_Texas,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Microsoft_Research">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <base:_ubmission_Deadline rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_must_be_received_by_December_3,_2010._Decisions_about_the_tutorial_program_will_be_made_by_January_14,_2011._Speakers_should_be_prepared_to_submit_their_tutorial_descriptions_and_bios_by_January_28,_2011,_and_to_post_completed_course_materials_on_their_websites_by_July_1,_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ubmission_Deadline>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ralf_Mller_TU_Hamburg,_Germany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Carsten_Lutz_University_of_Bremen,_Germany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Heiner_Stuckenschmidt_University_of_Mannheim,_Germany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tommaso_Di_Noia_Technical_University_of_Bari,_Italy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_00441865522566">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_One_Microsoft_Way">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <ns2:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Completed_course_materials_must_be_posted_on_speakers_website">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_2011>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eyal_Amir_University_of_Illinois,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nicola_Fanizzi_University_of_Bari,_Italy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Oxford_University_Computing_Laboratory">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Colin_Cherry_National_Research_Council,_Canada">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_00441865273839_fax">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thomas_Lukasiewicz">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Patrick_Pantel">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Topics">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_Forum_of_the_TwentyFifth_AAAI_Conference_on_Artificial_Intelligence"/>
+  </rdf:Description>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Pascal_Hitzler_Wright_State_University,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_Goal_of_the_tutorial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Who_is_the_target_audience_What_will_the_audience_walk_away_with_What_makes_the_topic_innovative">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Goal_of_the_tutorial>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wolfgang_Faber_University_of_Calabria,_Italy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_Requirements">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_Forum_of_the_TwentyFifth_AAAI_Conference_on_Artificial_Intelligence"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Redmond,_WA_98052">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__name,_mailing_address,_phone_number,_email_address_background_in_the_tutorial_area,_including_a_list_of_publications_andor_presentations_any_available_examples_of_work_in_the_area_ideally,_a_published_tutoriallevel_article_or_presentation_materials_on_the_subject_evidence_of_teaching_experience_courses_taught_or_references_and_evidence_of_scholarship_in_AI_or_computer_science.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_also_submit_the_following_information_about_the_team_of_presenters">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Each_proposal_should_include_at_least_the_following"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wolfson_Building,_Parks_Road">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sofus_Macskassy_Fetch_Technologies,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <ns5:_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Tutorial_Proposals_due_to_tutorial_chairs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns5:_2010>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__AAAI11_Tutorial_Forum">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_August_7,_2011">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ppantelmicrosoft.com">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__List_of_previous_venues_and_approximate_audience_sizes,_if_the_same_or_a_similar_tutorial_has_been_given_elsewhere_otherwise_an_estimate_of_the_audience_size.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Detailed_outline_and_list_of_additional_materials,_augmented_with_samples,_such_as_past_tutorial_slides_and_survey_articles,_whenever_possible._Be_as_complete_as_possible.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Content">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Each_proposal_should_include_at_least_the_following"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Tutorial_description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__A_short_paragraph_summarizing_the_tutorial_outline,_and_the_intended_duration_of_the_symposium_default_is_four_hours.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Tutorial_description>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hoifung_Poon_University_of_Washington,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Tutorial_Forum">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11>
+  <base:_Prerequisite_knowledge rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__What_knowledge_is_assumed_of_the_target_audience.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Prerequisite_knowledge>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Oxford_OX1_3QD,_UK">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  </owl:NamedIndividual>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Partha_Talukdar_Microsoft_Research,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Peter_Clark_Vulcan_Inc.,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Tutorial_descriptions,_autobiographical_statements,_and_speaker_photos_due">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_January_28,_2011">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Umberto_Straccia_ISTICNR_Pisa,_Italy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gabriele_KernIsberner_University_of_Dortmund,_Germany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <ns3:_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Tutorial_Acceptances_mailed">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns3:_2011>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ariel_Fuxman_Microsoft_Research,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jrme_Lang_University_of_Paul_Sabatier,_France">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <base:_AAAI11_Tutorial_Program_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eyke_Hllermeier_University_of_Marburg,_Germany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_AAAI11_Tutorial_Program_Committee>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Each_proposal_should_include_at_least_the_following">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_Forum_of_the_TwentyFifth_AAAI_Conference_on_Artificial_Intelligence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_January_14,_2011">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_Forum_of_the_TwentyFifth_AAAI_Conference_on_Artificial_Intelligence"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_description">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Each_proposal_should_include_at_least_the_following"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Each_proposal_should_include_at_least_the_following"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_July_1,_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_December_3,_2010">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prerequisite_knowledge">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Each_proposal_should_include_at_least_the_following"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_What_Is_the_Tutorial_Forum">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_Forum_of_the_TwentyFifth_AAAI_Conference_on_Artificial_Intelligence"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_Forum_of_the_TwentyFifth_AAAI_Conference_on_Artificial_Intelligence"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Committee"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI11_Tutorial_Program_Cochairs"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Goal_of_the_tutorial">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Each_proposal_should_include_at_least_the_following"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ubmission_Deadline">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_Forum_of_the_TwentyFifth_AAAI_Conference_on_Artificial_Intelligence"/>
+  </rdf:Description>
+</rdf:RDF>

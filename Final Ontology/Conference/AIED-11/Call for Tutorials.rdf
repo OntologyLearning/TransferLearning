@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Desired_duration_of_tutorial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__full_half_day.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Desired_duration_of_tutorial>
+  <base:_Submission_of_tutorial_proposals rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__11_February_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submission_of_tutorial_proposals>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_intended_audience_experience_level_and_prerequisites_include_list_of_names_of_potential_attendees_if_you_have_a_particular_community_in_mind.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,_should_be_between_25_pages_and_specify_the_following">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Tutorials"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Notification_of_acceptance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__28_February_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Notification_of_acceptance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Expected_results.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,_should_be_between_25_pages_and_specify_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__2728_June_2011">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_date">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Title_of_tutorial.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,_should_be_between_25_pages_and_specify_the_following"/>
+  </owl:NamedIndividual>
+  <base:_Organisation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Description_of_the_tutorial_topic_and_learning_objectives_as_well_as_its_significance_for_the_AIED_community._This_may_include_preliminary_andor_followup_activities_planned,_materials_to_be_provided_to_participants,_etc._as_applicable.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Organisation>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submit_proposals_electronically_to_Riichiro_Mizoguchi_mizei.sanken.osakau.ac.jp_and_Bert_Bredeweg_B.Bredeweguva.nl._A_tutorial_proposal_must_be_a_singlefile_email_attachment,_either_in_PDF_or_MS_Word_format.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SUBMISSION_INFORMATION">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Tutorials"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brief_description_of_each_instructors_experience_and_background.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,_should_be_between_25_pages_and_specify_the_following"/>
+  </owl:NamedIndividual>
+  <base:_Tutorials_Chairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Riichiro_Mizoguchi__Bert_Bredeweg">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Tutorials_Chairs>
+  <base:_Instructors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__name.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Instructors>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_of_tutorial_proposals">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Tutorials"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Desired_duration_of_tutorial">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,_should_be_between_25_pages_and_specify_the_following"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Tutorials"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorials_Chairs">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Format_of_tutorial_proposals">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Tutorials"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Organisation">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,_should_be_between_25_pages_and_specify_the_following"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notification_of_acceptance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructors">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_proposals_should_be_submitted_to_the_tutorial_chairs_via_email_by_the_date_specified_below,_should_be_between_25_pages_and_specify_the_following"/>
+  </rdf:Description>
+</rdf:RDF>

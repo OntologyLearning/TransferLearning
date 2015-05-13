@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_cken,_Germany__September_58,"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_ESA_2001 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_9th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2001>
+  <base:_ESA_1996 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_1136">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1996>
+  <base:_ESA_2006 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_rich,_Switzerland__September_1115,_2006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2006>
+  <base:_ESA_2009 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Copenhagen,_Denmark__September_79,_2009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2009>
+  <base:_ESA_2000 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_8th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2000>
+  <base:_ESA_1997 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_1284">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1997>
+  <base:_ESA_1994 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2nd_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1994>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prague,_Czech_Republic__July_1618,_1999">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1999"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_7th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1999"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WAE_Workshops"/>
+  <base:_ESA_1993 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bad_Honnef,_Germany__September_30October_2,_1993">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1993>
+  <base:_ESA_1998 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1998>
+  <base:_ESA_1994 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Utrecht,_The_Netherlands__September_2628,_1994">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1994>
+  <base:_ESA_1996 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1996>
+  <base:_ESA_1993 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_726">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1993>
+  <base:_ESA_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2013>
+  <base:_3rd_Workshop_on_Algorithm_Engineering rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_London,_England__July_1921,_1999">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3rd_Workshop_on_Algorithm_Engineering>
+  <base:_WAE_1997 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1st_Workshop_on_Algorithm_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_WAE_1997>
+  <base:_WAE_2001 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5th_Workshop_on_Algorithm_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_WAE_2001>
+  <base:_ESA_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_12th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2004>
+  <base:_ESA_2008 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Karlsruhe,_Germany__September_1517,_2008">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2008>
+  <base:_ESA_2004 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bergen,_Norway__September_1417,_2004">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2004>
+  <base:_3rd_Workshop_on_Algorithm_Engineering rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_1668">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3rd_Workshop_on_Algorithm_Engineering>
+  <base:_ESA_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Saarbruecken,_Germany__September_59,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2011>
+  <base:_ESA_1997 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1997>
+  <base:_ESA_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Liverpool,_United_Kingdom__September_68,_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2010>
+  <base:_ESA_2002 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_10th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2002>
+  <base:_ESA_2001 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aarhus,_Denmark__August_2831,_2001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2001>
+  <base:_ESA_2005 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_13th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2005>
+  <base:_ESA_2010 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_18th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2010>
+  <base:_LNCS_2141 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WAE_2000">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_LNCS_2141>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_Symposia">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Symposia_locations"/>
+  </rdf:Description>
+  <base:_ESA_1998 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_1461">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1998>
+  <base:_ESA_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sophia_Antipolis,_France__September_0204,_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2013>
+  <base:_ESA_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_20th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2012>
+  <base:_ESA_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wrocaw,_Poland__September_0810,_2014">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2014>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3rd_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1995"/>
+  </owl:NamedIndividual>
+  <base:_ESA_2008 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_16th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2008>
+  <base:_ESA_2007 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eilat,_Israel__October_810,_2007">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2007>
+  <base:_WAE_1998 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_cken,_Germany__August_2022,_1998">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_WAE_1998>
+  <base:_ESA_2014 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_22nd_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2014>
+  <base:_ESA_2003 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_11th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2003>
+  <base:_ESA_2000 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_1879">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2000>
+  <base:_ESA_2003 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Budapest,_Hungary__September_1520_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2003>
+  <base:_ESA_1997 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Graz,_Austria__September_1517,_1997">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1997>
+  <base:_ESA_1996 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Barcelona,_Spain__September_2527,_1996">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1996>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corfu,_Greece__September_2527,_1995">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1995"/>
+  </owl:NamedIndividual>
+  <base:_ESA_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_19th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2011>
+  <base:_ESA_2012 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ljubljana,_Slovenia__September_1012,_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2012>
+  <base:_ESA_1998 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Venice,_Italy,__August_2426,_1998">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1998>
+  <base:_ESA_2007 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_15th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2007>
+  <base:_WAE_1998 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2nd_Workshop_on_Algorithm_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_WAE_1998>
+  <base:_ESA_2002 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rome,_Italy__September_1721,_2002">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2002>
+  <base:_ESA_1993 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1st_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_1993>
+  <base:_ESA_2006 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_14th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2006>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_1982">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_cken,_Germany__September_58,_2000"/>
+  </owl:NamedIndividual>
+  <base:_ESA_2005 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Palma_de_Mallorca,_Spain__October_36,_2005">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2005>
+  <base:_ESA_2009 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_17th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2009>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_1643">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1999"/>
+  </owl:NamedIndividual>
+  <base:_ESA_2013 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_21th_Annual_European_Symposium_on_Algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2013>
+  <base:_WAE_1997 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Venice,_Italy__September_1113,_1997">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_WAE_1997>
+  <base:_WAE_2001 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aarhus,_Denmark__August_28__31,_2001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_WAE_2001>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_979">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1995"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2003"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2006"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Symposia_locations"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WAE_1997"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1996"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1994"/>
+  <base:_ESA_2000 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_cken,_Germany__September_58,_2000">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ESA_2000>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2010"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1998"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2005"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1993"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2001"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WAE_1998"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2014">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Symposia_locations"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2009"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2013"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2008"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3rd_Workshop_on_Algorithm_Engineering"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2002"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WAE_2001"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2007"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1997"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1995"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LNCS_2141"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2012"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2000"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2011"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_1999"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ESA_2004"/>
+</rdf:RDF>

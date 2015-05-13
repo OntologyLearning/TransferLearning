@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Revenue rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CN_377.73_billion_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Revenue>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CN_121.95_billion_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Net_income"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bank_of_Communications">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks_of_China"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Finance_and_insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <base:_Type rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Type>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Postal_Savings_Bank_of_China">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mortgages">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industrial_and_Commercial_Bank_of_China_New_China_Life_Insurance_China_Communications_Construction_China_Coal_Energy_Minsheng_Bank_China_COSCO_GAC_Group_Ping_An_Insurance_PICC_Property_and_Casualty_Company_Aluminium_Corporation_of_China_China_Pacific_Insurance_China_Life_Insurance_RF_Properties_China_Oilfield_Services_Zijin_Mining_China_National_Building_Material_Bank_of_Communications_China_Merchants_Bank_Bank_of_China_CITIC_Securities_Haitong_Securities">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hang_Seng_China_Enterprises_Index_companies_of_Hong_Kong"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ICBC_BOC_CCB_BoCom_CMB_CITIC_Minsheng">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chinabased_financial_stocks_in_Hong_Kong"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_History">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_After_the_establishment_of_the_Peoples_Republic_of_China_in_1949,_ABC_has_been_formed_and_abolished_several_times._In_1951,_two_banks_of_the_Republic_of_China,_Farmers_Bank_of_China_and_Cooperation_Bank,_merged_to_form_Agricultural_Cooperation_Bank,_which_ABC_regards_as_its_ancestor._However,_the_bank_was_merged_into_Peoples_Bank_of_China,_the_central_bank_in_1952._The_first_bank_bearing_the_name_Agricultural_Bank_of_China_was_founded_in_1955,_but_it_was_merged_into_the_central_bank_in_1957._In_1963_the_Chinese_government_formed_another_agricultural_bank,_and_it_was_also_merged_into_the_central_bank_two_years_later._Todays_Agricultural_Bank_of_China_was_founded_in_February_1979._It_was_restructured_to_form_a_holding_company_called_Agricultural_Bank_of_China_Limited._It_was_listed_on_the_Shanghai_and_Hong_Kong_stock_exchanges_in_July_2010">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <base:_Insurers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PICC">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurers>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Global_Wealth_Management">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Evergrowing_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Website rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_abchina.com">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Website>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Guangfa_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Zheshang_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banking,_Financial_services">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2012_ABC_started_a_project_to_migrate_to_the_Avaloq_Banking_System">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_April_2007_ABC_was_the_victim_of_the_largest_bank_robbery_in_Chinese_history._This_occurred_when_two_vault_managers_at_the_Handan_branch_of_the_bank_in_Hebei_province_embezzled_almost_51_million_yuan_US7.5_million">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_During_the_2013_Korean_crisis,_the_Agricultural_Bank_of_China_halted_business_with_a_North_Korean_bank_accused_by_the_United_States_of_financing_Pyongyangs_missile_and_nuclear_programs">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alternative_Chinese_name">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traditional_Chinese">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simplified_Chinese"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shanghai_Pudong_Development_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CICC,_Goldman_Sachs,_and_Morgan_Stanley_led_the_Hong_Kong_offering,_with_JPMorgan,_Macquarie,_Deutsche_Bank_and_ABCs_own_securities_unit_also_involved._CICC,_Citic_Securities,_Galaxy_and_Guotai_Junan_Securities_handled_the_Shanghai_portion._ABC_sold_about_40_of_the_Shanghai_offering_to_27_strategic_investors_including_China_Life_Insurance_and_China_State_Construction._They_were_subject_to_lockup_periods_of_128_months._Eleven_cornerstone_investors_were_selected_for_its_Hong_Kong_share_offering,_including_Qatar_Investment_Authority_and_Kuwait_Investment_Authority,_taking_a_combined_5.45_billion_worth_of_shares">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2010_initial_public_offering"/>
+  </owl:NamedIndividual>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Minsheng_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_See_also">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Bohai_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_2010_initial_public_offering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Investment_Banking">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_Banking">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industrial_Bank_Co">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tsingtao_Brewery_Angang_Steel_Jiangxi_Copper_Sinopec_China_Railway_Engineering_Dongfeng_Motor_Group_China_Telecom_Air_China_ZTE_Petrochina_Huaneng_Power_Anhui_Conch_Cement_Longyuan_Power_China_Construction_Bank_China_CITIC_Bank_China_Shenhua_Sinopharm_China_Shipping_Development_Yanzhou_Coal_China_Railway_Construction_BYD_Company">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hang_Seng_China_Enterprises_Index_companies_of_Hong_Kong"/>
+  </owl:NamedIndividual>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_CITIC_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Credit_Cards">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <base:_Policy_bank rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ExportImport_Bank_of_China">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Policy_bank>
+  <base:_Insurers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurers>
+  <base:_Policy_bank rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Development_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned"/>
+  </base:_Policy_bank>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Government_of_the_Peoples_Republic_of_China">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Owners"/>
+  </owl:NamedIndividual>
+  <base:_Policy_bank rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Agricultural_Development_Bank_of_China">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Policy_bank>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing,_China">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CN_649.78_billion_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Private_Equity">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <base:_City_Bank rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bank_of_Beijing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_City_Bank>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_444,238_2012">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  </owl:NamedIndividual>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Xiamen_International_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SSE_601288">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Merchants_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Transcriptions">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traditional_Chinese"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Agricultural_Bank_of_China"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jiang_Chaoliang">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Investment_Management">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Construction_Bank">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned"/>
+  </owl:NamedIndividual>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SEHK_1288">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Everbright_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_References">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ABC_raised_US19.21_billion_in_an_IPO_in_Hong_Kong_and_Shanghai_on_July_6,_2010,_before_overallotment_options_were_exercised._On_August_13,_2010,_ABC_officially_completed_the_worlds_largest_initial_public_offering,_raising_a_total_of_22.1_billion_after_both_Shanghai_and_Hong_Kongs_overallotments_were_fully_exercised._The_IPO_was_once_thought_to_be_able_to_raise_US30_billion,_but_weaker_market_sentiment_dampened_the_value._Despite_a_15_month_low_for_the_Chinese_benchmark_index,_the_IPO_was_said_to_have_gone_smoothly">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2010_initial_public_offering"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ABC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks"/>
+  </owl:NamedIndividual>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hua_Xia_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ping_An_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Consumer_Banking">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <base:_Commercial rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shenzhen_Development_Bank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Commercial>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1951">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industrial_and_Commercial_Bank_of_China">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned"/>
+  </owl:NamedIndividual>
+  <base:_SSE_50_companies_of_China rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Air_China_Aluminium_Corporation_of_China_Bank_of_Beijing_Bank_of_China_Bank_of_Communications_Baosteel_China_CITIC_Bank_China_Coal_Energy_China_Construction_Bank_China_COSCO_China_Life_Insurance_China_Merchants_Bank_China_Metallurgical_China_Minsheng_Bank_China_Pacific_Insurance_China_Railway_Construction_China_Railway_Engineering_China_Shenhua_China_State_Construction_China_Unicom_China_Yangtze_Power_CITIC_Securities_CSR_Corporation_Daqin_Railway_Everbright_Securities_GD_Power_Development_Gemdale_Group_Haitong_Securities_Hua_Xia_Bank_Industrial_and_Commercial_Bank_of_China_Industrial_Bank_Jiangxi_Copper_Jinduicheng_Molybdenum_Kweichow_Moutai_Liaoning_Chengda_Shanxi_Luan_Environmental_Energy_PetroChina_Ping_An_Insurance_Poly_Real_Estate_SAIC_Motor_Shandong_Gold_Shanghai_Pudong_Development_Bank_Sinopec_Tebian_Electric_Apparatus_Tianwei_Baobian_Electric_Western_Mining_Wuhan_Iron_and_Steel_Zhongjin_Gold_Zijin_Mining">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_SSE_50_companies_of_China>
+  <base:_Central_bank rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Peoples_Bank_of_China">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Central_bank>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zhang_Yun">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  </owl:NamedIndividual>
+  <base:_Insurers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CPIC">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurers>
+  <base:_Total_assets rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CN_11.677_trillion_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_assets>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banking_in_China">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks_of_China"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bank_of_China">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ABC_was_the_last_of_the_big_four_banks_in_China_to_go_public._In_2010,_A_shares_and_H_shares_of_Agricultural_Bank_of_China_were_listed_on_the_Shanghai_Stock_Exchange_and_the_Hong_Kong_Stock_Exchange_respectively._Each_share_was_set_to_cost_between_2.7RMB_and_3.3RMB_per_share._H_shares_were_set_to_cost_between_HK2.88_and_HK3.48_per_share._The_final_share_price_for_the_IPO_launch_was_issued_on_July_7,_2010._On_completion_in_August_2010_it_became_the_worlds_biggest_initial_public_offering_IPO_surpassing_the_one_set_by_Industrial_and_Commercial_Bank_of_China_in_2006_of_US21.9_billion">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2010_initial_public_offering"/>
+  </owl:NamedIndividual>
+  <base:_City_Bank rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bank_of_Shanghai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_City_Bank>
+  <base:_Insurers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Taiping">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurers>
+  <base:_Insurers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ping_An">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurers>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Net_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hang_Seng_China_Enterprises_Index_companies_of_Hong_Kong"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_City_Bank">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks_of_China"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Policy_bank">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks_of_China"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2010_initial_public_offering"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Commercial">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks_of_China"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Owners"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurers">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chinabased_financial_stocks_in_Hong_Kong"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SSE_50_companies_of_China"/>
+  <base:_SSE_50_companies_of_China rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Agricultural_Bank_of_China">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hang_Seng_China_Enterprises_Index_companies_of_Hong_Kong"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned"/>
+  </base:_SSE_50_companies_of_China>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Central_bank">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks_of_China"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chinabased_financial_stocks_in_Hong_Kong"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Banks_of_China"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simplified_Chinese">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Agricultural_Bank_of_China"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traditional_Chinese"/>
+  </rdf:Description>
+</rdf:RDF>

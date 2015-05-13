@@ -1,0 +1,18 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'AAAI-10: Special Track on Artificial Intelligence and Bioinformatics (AIB),'1-1,1,0,1,2,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'AAAI-10 Special Track on Artificial Intelligence and Bioinformatics (AIB),'1-2-2-1-1-1-1,0,0,0,2,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+"'Progress in biology today is largely associated with massive data collection projects and the development of sophisticated computational methods to manage and mine these data. Artificial intelligence approaches, from statistical machine learning to knowledge representation and reasoning, have led to many of the state-of-the-art solutions addressing the existing challenges and opportunities created by the fast-growing body of data, and will continue to do so in the foreseeable future.",'1-2-2-1-1-1-2-1,2,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+"'This special track invited the submission of research papers on novel AI concepts, techniques, and systems to address current problems in bioinformatics and computational and systems biology. Papers describe either bioinformatics related research that takes advantage of AI methods, or clearly explain how a particular AI approach may be capable of addressing a particular computational challenge arising from the life-sciences.",'1-2-2-1-1-1-2-2,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Examples of relevant topics include algorithms for the following:,'1-2-2-1-1-1-2-3,0,0,0,1,0,0,0,2,1,2,1,1,0,1,1,0,0,0,0,1,0,1,1,3,C
+'Protein structure and function prediction,'1-2-2-1-1-1-2-4-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Automated genome annotation,'1-2-2-1-1-1-2-4-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Biological networks inference,'1-2-2-1-1-1-2-4-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Comparative genomic analyses,'1-2-2-1-1-1-2-4-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Scientific literature and textual annotation mining,'1-2-2-1-1-1-2-4-5,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Integrative systems biology approaches,'1-2-2-1-1-1-2-4-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Chemoinformatics and drug discovery applications,'1-2-2-1-1-1-2-4-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Personalized medicine applications,'1-2-2-1-1-1-2-4-8,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Special Track Cochairs,'1-2-2-1-1-2-1,0,0,1,2,0,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,1,1,2,C
+"'Pierre Baldi (University of California, Irvine, USA)",'1-2-2-1-1-2-2-1-1,0,1,0,1,0,2,0,0,1,2,0,0,1,0,0,1,0,1,0,0,1,0,0,1,I
+"'Paolo Frasconi (Università degli Studi di Firenze, Italy)",'1-2-2-1-1-2-2-1-2,0,1,0,1,0,2,0,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+'The Special Track on Artificial Intelligence and Bioinformatics call for papers is available as a printable PDF document and in html.,'1-2-2-1-1-2-2-2,1,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N

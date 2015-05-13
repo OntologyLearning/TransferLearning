@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Participating_teams_will_have_the_opportunity_to_include_a_short_abstract_in_the_AAAI11_Conference_Proceedings._Cameraready_copy_will_be_due_no_later_than_April_26,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brief_description_of_robot_to_be_used_in_the_challenge,_or_approach_that_will_be_demonstrated,_or_exhibit_that_will_be_made.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information>
+  <base:_Organizing_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_S._Touretzky_Carnegie_Mellon_University_dstcs.cmu.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Organizing_Committee>
+  <base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Organization">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information>
+  <base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Which_track_you_will_enter_one_of_the_three_challenges_or_the_edu_track">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_2011_Robotics_Program_Robotics_Challenge_Events_and_Education_Track"/>
+  <base:_April_7 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Team_Notifications_Sent">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_April_7>
+  <base:_SmallScale_Manipulation_Challenge rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Robot_Chess">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_SmallScale_Manipulation_Challenge>
+  <base:_Organizing_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paul_Oh_Drexel_Universitypaulcoe.drexel.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Organizing_Committee>
+  <base:_March_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Letters_of_Intent_Due">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_March_1>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Participation"/>
+  <base:_Robotics_Program_Chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Georgia_Institute_of_Technology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Robotics_Program_Chair>
+  <base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Additional_details_e.g.,_for_the_manipulation_challenge_will_you_be_in_mobile_manipulation_or_unlimited">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information>
+  <ns1:_2011_11 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_59_PM_PDT_at_the_AAAI_Press_paper_submission_site._Full_instructions_will_be_sent_to_approved_teams_by_April_7.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_2011_11>
+  <base:_Robotics_Program_Chair rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrea_L._Thomaz">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Robotics_Program_Chair>
+  <base:_Organizing_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zach_Dodds_Harvey_Mudd_College_doddscs.hmc.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Organizing_Committee>
+  <base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Designated_contact_person_physical_address,_phone,_and_email">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information>
+  <base:_Organizing_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sonia_Chernova_Worcester_Polytechnic_Institute_soniaccs.wpi.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Organizing_Committee>
+  <base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Team_name_and_list_of_members">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information>
+  <base:_April_26 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Cameraready_copy_due">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_April_26>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Learning_from_Demonstration_Challenge">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_2011_Robotic_Program_Events"/>
+  </rdf:Description>
+  <base:_Organizing_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mike_Stilman_Georgia_Institute_of_Technology_mstilmancc.gatech.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Organizing_Committee>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Organizing_Committee">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_2011_Robotic_Program_Events"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robotics_Education_Track"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miniature_Humanoid_Obstacle_Challenge"/>
+  </owl:Class>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_26">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_March_1">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miniature_Humanoid_Obstacle_Challenge"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Participating_teams_will_have_the_opportunity_to_include_a_short_abstract_in_the_AAAI11_Conference_Proceedings._Cameraready_copy_will_be_due_no_later_than_April_26,_2011_11">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Final_Abstract_Submission_and_Publication"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robotics_Program_Chair"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AAAI_2011_Robotic_Program_Events"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robotics_Education_Track"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Participants_should_submit_a_letter_of_intent_that_includes_the_following_information"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_7">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SmallScale_Manipulation_Challenge"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Final_Abstract_Submission_and_Publication"/>
+</rdf:RDF>

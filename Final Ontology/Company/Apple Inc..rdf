@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns8="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jim_Carlton,"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steve_Wozniak,_Gina_Smith_2006,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Frank_Rose_1990,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steven_Levy_1994,"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gil_Amelio,_William_L._Simon_1999,"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeffrey_S._Young,_William_L._Simon_2005,"
+  xmlns:ns6="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Sculley,"
+  xmlns:ns7="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paul_Kunkel,"
+>
+  <base:_Further_reading rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Owen_Linzmayer_2004,_Apple_Confidential_2.0,_No_Starch_Press_ISBN_9781593270100">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Further_reading>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NASDAQ100_component">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_U.S">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Pixar">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_037.037_billion_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Net_income"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Acquisitions_and_expansion">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.7_2013resent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Inc._companies_grouped_at_OpenCorporates">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iReview">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_1,_1976_19760401">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Official_website">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.2_Corporate_culture_4.2.1_Employee_relations">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apples_first_logo,_designed_by_Ron_Wayne,_depicts_Sir_Isaac_Newton_sitting_under_an_apple_tree._It_was_almost_immediately_replaced_by_Rob_Janoffs_rainbow_Apple,_the_nowfamiliar_rainbowcolored_silhouette_of_an_apple_with_a_bite_taken_out_of_it._Janoff_presented_Jobs_with_several_different_monochromatic_themes_for_the_bitten_logo,_and_Jobs_immediately_took_a_liking_to_it._While_Jobs_liked_the_logo,_he_insisted_it_be_in_color_to_humanize_the_company._The_logo_was_designed_with_a_bite_so_that_it_would_not_be_confused_with_a_cherry._The_colored_stripes_were_conceived_to_make_the_logo_more_accessible,_and_to_represent_the_fact_the_Apple_II_could_generate_graphics_in_color._This_logo_is_often_erroneously_referred_to_as_a_tribute_to_Alan_Turing,_with_the_bite_mark_a_reference_to_his_method_of_suicide._Both_Janoff_and_Apple_deny_any_homage_to_Turing_in_the_design_of_the_logo">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Founding_and_incorporation">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_History_1.1_19760">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_19760">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns8:_Apple rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__The_Inside_Story_of_Intrigue,_Egomania_and_Business_Blunders_ISBN_9780887309656">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns8:_Apple>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Media_from_Commons">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_media_events">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.7_Tax_practices">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iPod">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <ns7:_AppleDesign rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__The_Work_of_the_Apple_Industrial_Design_Group_ISBN_9781888001259">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns7:_AppleDesign>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Campus">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <base:_Revenue rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_170.910_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Revenue>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__History_of_Apple_Inc">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_article">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3_Brand_loyalty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_apple.com">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  </owl:NamedIndividual>
+  <base:_Total_equity rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_123.549_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_equity>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Typography_of_Apple_Inc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__List_of_mergers_and_acquisitions_by_Apple,_Braeburn_Capital,_and_FileMaker_Inc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__AAPL">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NASDAQ">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.2_iPad">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Source_texts_from_Wikisource">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <ns4:_On_the_Firing_Line rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__My_500_Days_at_Apple_ISBN_9780887309199">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns4:_On_the_Firing_Line>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_Corporate_identity_3.1_Logo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__From_Computer_Geek_to_Cult_Icon">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steve_Wozniak,_Gina_Smith_2006,_iWoz">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_8_External_links">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steve_Jobs_and_Steve_Wozniak_were_Beatles_fans,_but_Apple_Inc._had_trademark_issues_with_Apple_Corps_Ltd.,_a_multimedia_company_started_by_the_Beatles_in_1967,_involving_their_name_and_logo._This_resulted_in_a_series_of_lawsuits_and_tension_between_the_two_companies._These_issues_ended_with_settling_of_their_most_recent_lawsuit_in_2007">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iOS_App_Store">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <base:_20070 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Success_with_mobile_devices">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.5_20070">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_20070>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iPad_Mini">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5_See_also">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_August_27,_1999_the_following_year_after_the_iMac_G3_was_introduced,_Apple_officially_dropped_the_rainbow_scheme_and_began_to_use_monochromatic_themes,_nearly_identical_in_shape_to_its_previous_rainbow_incarnation,_on_various_products,_packaging_and_advertising._An_Aquathemed_version_of_the_monochrome_logo_was_used_from_1999_to_2003,_and_a_Glassthemed_version_was_used_from_2007_to_2013._With_the_release_of_iOS_7_and_OS_X_Mavericks_in_fall_of_2013,_the_logo_appears_flat_and_white_with_no_glossy_effects">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_During_the_Macs_early_history_Apple_generally_refused_to_adopt_prevailing_industry_standards_for_hardware,_instead_creating_their_own._This_trend_was_largely_reversed_in_the_late_1990s_beginning_with_Apples_adoption_of_the_PCI_bus_in_the_750085009500_Power_Macs._Apple_has_since_adopted_USB,_AGP,_HyperTransport,_WiFi,_and_other_industry_standards_in_its_computers_and_was_in_some_cases_a_leader_in_the_adoption_of_standards_such_as_USB._FireWire_is_an_Appleoriginated_standard_that_has_seen_widespread_industry_adoption_after_it_was_standardized_as_IEEE_1394">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_affairs"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.6_Software">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_OS_X">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steve_Wozniak">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ever_since_the_first_Apple_Store_opened,_Apple_has_sold_thirdparty_accessories._For_instance,_at_one_point_Nikon_and_Canon_digital_cameras_were_sold_inside_the_store._Adobe,_one_of_Apples_oldest_software_partners,_also_sells_its_Maccompatible_software,_as_does_Microsoft,_who_sells_Microsoft_Office_for_the_Mac._Books_from_John_Wiley__Sons,_who_publishes_the_For_Dummies_series_of_instructional_books,_are_a_notable_exception,_however._The_publishers_line_of_books_were_banned_from_Apple_Stores_in_2005_because_Steve_Jobs_disagreed_with_their_decision_to_publish_an_unauthorized_Jobs_biography,_iCon._After_the_launch_of_the_iBookstore,_Apple_stopped_selling_physical_books,_both_online_and_at_the_Apple_Retail_Stores">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_affairs"/>
+  </owl:NamedIndividual>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tim_Cook_CEO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iLife">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FileMaker_Inc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.6_Labor_practices">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Quotations_from_Wikiquote">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Macintosh">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_article"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Campus,_1_Infinite_Loop,_Cupertino,_California">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  </owl:NamedIndividual>
+  <base:_Further_reading rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeffrey_S._Young_1988._Steve_Jobs,_The_Journey_is_the_Reward,_Lynx_Books,_ISBN_9781558023789">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Further_reading>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_Corporate_affairs_4.1_Headquarters">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_MacBook_Air rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Consumer_ultrathin,_ultraportable_notebook,_introduced_in_2008.MacBook_Pro">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_MacBook_Air>
+  <base:_1.4_20006 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Return_to_profitability">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_20006">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_1.4_20006>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iBooks">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.3_iPod">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_Products_2.1_Mac">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Arthur_D._Levinson_Chairman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iTunes_Store">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Travel_guide_from_Wikivoyage">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Store_online">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SP_500_component">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.5.2_Toxics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Coordinates rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__37195_122012_7.33182N_122.03118W_37.33182_122.03118">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Coordinates>
+  <ns6:_John_A._Byrne_1987_Odyssey rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Pepsi_to_Apple,_HarperCollins,_ISBN_9780060157807">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns6:_John_A._Byrne_1987_Odyssey>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Logo">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.3_Litigation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.4_Finance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_According_to_Steve_Jobs,_Apple_was_so_named_because_Jobs_was_coming_back_from_an_apple_farm,_and_he_was_on_a_fruitarian_diet._He_thought_the_name_was_fun,_spirited_and_not_intimidating">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Anobit">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_This_article_is_about_the_technology_company._For_other_companies_named_Apple,_see_Apple_disambiguation">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Inc"/>
+  </owl:NamedIndividual>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ronald_Wayne">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_406_retail_stores_May_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Number_of_locations"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Learning_resources_from_Wikiversity">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__The_Life_and_Times_of_Macintosh,_the_Computer_That_Changed_Everything_ISBN_9780140291773">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steven_Levy_1994,_Insanely_Great">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.4_iPhone">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_hardware">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_sells_a_variety_of_computer_accessories_for_Macs,_including_Thunderbolt_Display,_Magic_Mouse,_Magic_Trackpad,_Wireless_Keyboard,_Battery_Charger,_the_AirPort_wireless_networking_products,_and_Time_Capsule">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.5_Environmental_record_4.5.1_Climate_change_and_clean_energy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Digital_distribution">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <ns2:_West_of_Eden rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__The_End_of_Innocence_at_Apple_Computer,_Penguin_Books_ISBN_9780140093728">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_West_of_Eden>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6_References">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_1.2_19819 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Success_with_Macintosh">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_19819">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_1.2_19819>
+  <base:_Further_reading rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alan_Deutschman_2000,_The_Second_Coming_of_Steve_Jobs,_Broadway,_ISBN_9780767904322">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Further_reading>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Business_data">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.8_Charitable_causes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.2_Advertising">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_software">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <base:_Operating_income rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_048.999_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operating_income>
+  <base:_Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steve_Jobs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founders>
+  <ns5:_iCon_Steve_Jobs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__The_Greatest_Second_Act_in_the_History_of_Business,_John_Wiley__Sons,_ISBN_9780471720836">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns5:_iCon_Steve_Jobs>
+  <base:_Further_reading rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_S._Malone_1999,_Infinite_Loop_ISBN_9780385486842">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Further_reading>
+  <base:_Total_assets rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_207.0_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_assets>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Steve_Jobss_death">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.6_20112">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  </owl:NamedIndividual>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Software">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iPhone">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Store">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_TV">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Find_more_about_Apple_Inc._at_Wikipedias_sister_projects">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_logo_redirects_here._For_the_programming_language,_see_Apple_Logo">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.5_Apple_TV">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Further_reading rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andy_Hertzfeld_2004,_Revolution_in_the_Valley,_OReilly_Books_ISBN_9780596007195">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Further_reading>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Braeburn_Capital">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Consumer_electronics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Textbooks_from_Wikibooks">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Definitions_and_translations_from_Wiktionary">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iWork">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mac">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Total_assets rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_176.064_billion_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_assets>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iPad">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_iCloud">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Inc._litigation">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mac_App_Store">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  </owl:NamedIndividual>
+  <base:_1.3_19909 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Decline_and_restructuring">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_19909">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_1.3_19909>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_7_Further_reading">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Area_served rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Worldwide">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Area_served>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_80,000_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Area_served"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.3_19909">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Services"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Sculley,_John_A._Byrne_1987_Odyssey">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.4_20006">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Net_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_See_also">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_affairs"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Number_of_locations"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_identity"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_20070">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founders"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Inc"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jim_Carlton,_Apple">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_affairs"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gil_Amelio,_William_L._Simon_1999,_On_the_Firing_Line">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MacBook_Air">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Coordinates">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apple_Inc"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Frank_Rose_1990,_West_of_Eden">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paul_Kunkel,_AppleDesign">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.2_19819">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeffrey_S._Young,_William_L._Simon_2005,_iCon_Steve_Jobs">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Further_reading"/>
+  </rdf:Description>
+</rdf:RDF>

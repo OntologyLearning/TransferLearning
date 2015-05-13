@@ -1,0 +1,98 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Rafel Bordas,'1-2-1-1,0,0,1,2,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Dr Rafel Marc Bordas,'1-2-1-2-1-1-1-2-1,0,0,0,1,0,2,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,I
+'Research Assistant,'1-2-1-2-1-1-1-2-2,0,0,0,1,0,2,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+"'College Lecturer, Pembroke College",'1-2-1-2-1-1-1-2-3,0,0,0,1,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Interests,'1-2-1-2-1-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'My expertise is in computational modelling of physiological systems. I have experience in the construction and validation of both continuum and discrete models of physiological systems using the techniques of applied mathematics. A particular research focus is the development of robust numerical solvers for these models using both the tools of numerical analysis and more general scientific computing principles.,'1-2-1-2-1-1-2-1-2-1-1,2,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'More information on the various topics I’m working on is below.,'1-2-1-2-1-1-2-1-2-1-2,1,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Progression of Airways Disease,'1-2-1-2-1-1-2-1-2-2,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'I am currently working on the AirPROM (Airway Disease Predicting Outcomes through Patient Specific Computational Modelling) EU Framework Funded Project. The project aims brings together experts and current research to build a multi-scale computational model of the lung as a new way of characterising asthma and COPD.,'1-2-1-2-1-1-2-2-2-1-1-1-1,2,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'My focus within the project is the development of reduced one-dimensional patient specific airway models from medical images. I am currently applying these models to understand the relationship between airways structure and clinical measures of lung function.,'1-2-1-2-1-1-2-2-2-1-1-1-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Cardiac Electrophysiology,'1-2-1-2-1-1-2-2-2-1-1-2,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'My DPhil thesis concentrated on computational modelling of cardiac specialized conduction system electrophysiology. During the DPhil, I developed new mathematical and computational techniques that enabled the development of specific models that gave insight into the impact of anatomical variability in the specialized conduction system on the heart's function. I further developed image-processing techniques to directly determine the anatomical structure of the specialized conduction system.",'1-2-1-2-1-1-2-2-2-1-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Chaste,'1-2-1-2-1-1-2-2-2-1-2-2,0,0,0,0,1,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'As part of my research I am involved with the Chaste project with other members of the Computational Biology Group. The Chaste project is developing a powerful, efficient, general and reliable tool for solving computationally demanding problems in biological modelling.",'1-2-1-2-1-1-2-2-2-1-3-1,2,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'2020 Science,'1-2-1-2-1-1-2-2-2-1-3-2,0,0,0,0,1,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'I am an associate research fellow on the EPSRC funded 2020 Science programme.,'1-2-1-2-1-1-2-2-2-1-4-1-1,1,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,1,I
+'Students,'1-2-1-2-1-1-2-2-2-1-4-1-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+'Valentina Carapella – is investigating the role of cardiac microstructure in left ventricular contraction using a combined computational modelling and image analysis approach.,'1-2-1-2-1-1-2-2-2-1-4-1-2-2-1,1,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Lorenz Berger – is developing efficient and robust numerical techniques to solve poroelastic problems arising in mathematical models of biological systems.,'1-2-1-2-1-1-2-2-2-1-4-1-2-2-2,1,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'James MBewu– is developing tightly coupled three and one-dimensional models of airflow in the lung.,'1-2-1-2-1-1-2-2-2-1-4-1-2-2-3,1,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Teaching,'1-2-1-2-1-1-2-2-2-1-4-2,0,0,0,0,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+"'In addition to my research I hold a stipendiary lectureship in Mathematics at Pembroke College, University of Oxford. In this post I give tutorials and classes to undergraduate students on the Mathematics course. This year I’m tutoring",'1-2-1-2-1-1-2-2-2-1-5-1,2,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,1,I
+'1st Year Multivariable Calculus,'1-2-1-2-1-1-2-2-2-1-5-2-1,0,1,0,1,0,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'2nd Year Probability,'1-2-1-2-1-1-2-2-2-1-5-2-2-1,0,1,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'2nd Year Numerical Analysis,'1-2-1-2-1-1-2-2-2-1-5-2-2-2,0,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'2nd Year Graph Theory,'1-2-1-2-1-1-2-2-2-1-5-2-3,0,1,0,1,0,2,0,0,1,2,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'I have previously provided intercollegiate classes Undergraduate Students in,'1-2-1-2-1-1-2-2-2-1-5-3,0,0,0,1,0,2,0,0,1,2,1,1,1,0,0,1,0,0,0,0,0,1,1,2,I
+'4th Year Mathematical Physiology,'1-2-1-2-1-1-2-2-2-1-5-4,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'I have previously demonstrated to 1st year D.Phil. students on a number of courses at the Life Sciences Interface and Systems Biology Doctoral Training Centres.,'1-2-1-2-1-1-2-2-2-1-5-5,1,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,1,1,2,I
+'Computational Biology (Senior Demonstrator),'1-2-1-2-1-1-2-2-2-1-5-6-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Introduction to Scientific Computing With Matlab,'1-2-1-2-1-1-2-2-2-1-5-6-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Mathematical Biology,'1-2-1-2-1-1-2-2-2-1-5-6-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Introduction to Matlab for Medical Sciences Students,'1-2-1-2-1-1-2-2-2-1-5-6-4,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+"'In 2012 I was awarded the Innovation in Teaching Award in the Mathematical, Physical and Life Sciences division by Oxford University Student’s Union.",'1-2-1-2-1-1-2-2-2-1-5-7,1,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Biography,'1-2-1-2-1-1-2-2-2-2-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Rafel received a B.Sc. degree (1st) in Mathematics with Computing from the University of Warwick, Coventry, U.K. in 2001. He worked as an enterprise software engineer at Hyfinity Ltd before returning to academia in 2005. He received a M.Sc. (Distinction) in Mathematical Modelling and Scientific Computing from the University of Oxford, Oxford, U.K. in 2006. He joined the Life Sciences Doctoral Training Centre in 2006 and completed his DPhil in 2011 within the Computational Biology Group, Department of Computer Science, University of Oxford, Oxford UK.",'1-2-1-2-1-1-2-2-2-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,I
+'Selected Publications,'1-2-1-2-1-1-2-2-2-3-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'View all,'1-2-1-2-1-1-2-2-2-3-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-1-2-2-2-3-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Chaste: an open source C++ library for computational physiology and biology,'1-2-1-2-1-1-3-1-1,1,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'G.R. Mirams‚ C.J. Arthurs‚ M.O. Bernabeu‚ R. Bordas‚ J. Cooper‚ A. Corrias‚ Y. Davit‚ S−J. Dunn‚ A.G. Fletcher‚ D.G. Harvey‚ M.E. Marsh‚ J. M. Osborne‚ P. Pathmanathan‚ J. Pitt−Francis‚ J. Southern‚ N. Zemzemi and D.J. Gavaghan,'1-2-1-2-1-1-3-1-2,2,0,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In PLoS Computational Biology. Vol. 9. No. 3. Pages e1002970. 2013.,'1-2-1-2-1-1-3-1-3,1,0,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1371/journal.pcbi.1002970) | Link,'1-2-1-2-1-1-3-1-4,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'A bidomain model of the cardiac specialized conduction system of the heart.,'1-2-1-2-1-1-3-2-1,1,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'R. Bordas‚ K. Gillow‚ D. Gavaghan‚ B. Rodriguez and D. Kay,'1-2-1-2-1-1-3-2-2,1,0,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In SIAM Journal on Applied Mathematics. 2012.,'1-2-1-2-1-1-3-2-3,0,0,0,1,0,2,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX,'1-2-1-2-1-1-3-2-4,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'A numerical guide to the solution of the bidomain equations of cardiac electrophysiology,'1-2-1-2-1-1-3-3-1,1,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'P. Pathmanathan‚ M.O. Bernabeu‚ R. Bordas‚ J. Cooper‚ A. Garny‚ J. Pitt−Francis‚ J.P. Whiteley and D.J. Gavaghan,'1-2-1-2-1-1-3-3-2,1,0,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Progress in Biophysics and Molecular Biology. Vol. 102. No. (2−3). Pages 136−155. 2010.,'1-2-1-2-1-1-3-3-3,1,0,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1016/j.pbiomolbio.2010.05.006),'1-2-1-2-1-1-3-3-4,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Info,'1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Computational Biology,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Respiratory Modelling  | Computational Biology group,'1-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Current Students,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Lorenz Berger,'1-2-1-2-1-2-2-3-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Valentina Carapella,'1-2-1-2-1-2-2-3-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-2-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-2-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-2-1-2-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-2-1-2-2-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-2-1-3-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-2-1-3-2-2-1,0,0,0,1,0,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-2-1-3-2-2-2,0,0,0,1,0,1,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-2-1-4,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-2-1-5-1,0,0,0,1,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-2-1-5-2-1,0,0,1,2,1,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-2-1-5-2-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-2-1-5-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-2-1-5-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-2-1-5-2-2-4,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-2-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

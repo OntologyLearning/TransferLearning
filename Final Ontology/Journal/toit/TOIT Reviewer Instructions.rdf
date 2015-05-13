@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_report_should_include,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_this_is_a_policy_paper,_does_the_paper_offer_insight_into_the_policy_issues_and_alternatives,_andor_provide_well_reasoned_critiques_of_proposals">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,_Is_this_paper_good_science_This_assessment_should_provide_at_least_answers_to_the_following_questions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TOIT_Reviewer_Instructions"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Is_the_problem_addressedstudied_in_this_paper_well_defined_and_articulated">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,_Is_this_paper_good_science_This_assessment_should_provide_at_least_answers_to_the_following_questions"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Is_the_problem_addressedstudied_interesting_enough_to_warrant_publication">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,_Is_this_paper_good_science_This_assessment_should_provide_at_least_answers_to_the_following_questions"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_this_is_a_survey_paper,_is_the_coverage_exhaustive,_the_presentation_clear_and_accessible,_and_is_the_topic_timely">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,_Is_this_paper_good_science_This_assessment_should_provide_at_least_answers_to_the_following_questions"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_this_is_an_empirical_paper,_are_the_measurements_or_analysis_properly_applied_and_the_correct_conclusions_drawn_Are_there_hidden_factors_that_may_invalidate_the_drawn_conclusions">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,_Is_this_paper_good_science_This_assessment_should_provide_at_least_answers_to_the_following_questions"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Review_Criteria">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TOIT_Reviewer_Instructions"/>
+  </rdf:Description>
+  <ns2:_at_a_minimum rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Detailed_comments_for_the_reviewer_on_the_paper._These_comments_should_be_directed_toward_making_the_paper_publishable,_if_possible._The_reviewer_should_clearly_identify_any_conceptual,_technical,_or_editorial_issues_that_make_the_paper_unpublishable._Any_related_work_that_should_be_cited_or_referenced_should_be_identified._This_is_the_main_body_of_the_review.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_at_a_minimum>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_this_is_a_theoretical_paper,_does_the_level_of_rigor_to_support_the_result_Are_the_theoretical_devices_e.g.,_proofs_correct">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,_Is_this_paper_good_science_This_assessment_should_provide_at_least_answers_to_the_following_questions"/>
+  </owl:NamedIndividual>
+  <ns2:_at_a_minimum rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_34_sentence_overview_of_the_work_including_its_area,_contribution,_methodology,_and_results.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_at_a_minimum>
+  <ns2:_at_a_minimum rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_An_overall_recommendation_for_the_paper._These_include">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_at_a_minimum>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Is_the_methodology_used_appropriate_for_the_problem_addressedstudied">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_second_part_of_the_assessment_asks,_Is_this_paper_good_science_This_assessment_should_provide_at_least_answers_to_the_following_questions"/>
+  </owl:NamedIndividual>
+  <ns2:_at_a_minimum rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Classification_of_the_reviewer_and_paper">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_at_a_minimum>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TOIT_Reviewer_Instructions"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_report_should_include,_at_a_minimum">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Report_format"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Report_format"/>
+</rdf:RDF>

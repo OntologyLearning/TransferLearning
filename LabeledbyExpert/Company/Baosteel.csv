@@ -1,0 +1,152 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Baosteel,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'For the steel company headquartered in Baotou, see Baotou Steel.",'1-1-2-1-1,1,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,N
+'Shanghai Baosteel Group Corporation,'1-1-2-1-2-1-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'上海宝钢集团公司,'1-1-2-1-2-1-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Type,'1-1-2-1-2-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Government Owned,'1-1-2-1-2-3-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-2-4-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'SSE: 600019,'1-1-2-1-2-4-2,0,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Industry,'1-1-2-1-2-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Steel,'1-1-2-1-2-5-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Founded,'1-1-2-1-2-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'1978,'1-1-2-1-2-6-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-2-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Shanghai, China",'1-1-2-1-2-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Key people,'1-1-2-1-2-8-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Xu Lejiang,'1-1-2-1-2-8-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'(Chairman),'1-1-2-1-2-8-2-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,1,0,0,1,0,0,2,C
+'Products,'1-1-2-1-2-9-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
+"'Steel, flat steel products, long steel products, wire products, plates",'1-1-2-1-2-9-2,1,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,I
+'Revenue,'1-1-2-1-2-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 21.7 billion (2009),'1-1-2-1-2-10-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-2-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'108,914",'1-1-2-1-2-11-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Subsidiaries,'1-1-2-1-2-12-1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Baosteel Group Finance Co.,'1-1-2-1-2-12-2-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Fortune Trust & Investment Co.,'1-1-2-1-2-12-2-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shanghai Baosteel Engineering & Equipment Co.,'1-1-2-1-2-12-2-3,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shanghai Baosight Software Co.,'1-1-2-1-2-12-2-4,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Shanghai Baosteel Chemical Co.,'1-1-2-1-2-12-2-5,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shanghai Baosteel Business Development Co.,'1-1-2-1-2-12-2-6,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Baosteel Group Enterprise Development Co.,'1-1-2-1-2-12-2-7,0,0,0,1,0,2,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Website,'1-1-2-1-2-13-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.baosteel.com,'1-1-2-1-2-13-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'References:,'1-1-2-1-2-14,0,0,0,1,1,1,0,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Baosteel,'1-1-2-2-1,0,0,0,2,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Simplified Chinese,'1-1-2-2-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'上海宝钢集团公司,'1-1-2-2-2-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Traditional Chinese,'1-1-2-2-3-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'上海寶鋼集團公司,'1-1-2-2-3-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Transcriptions,'1-1-2-2-4-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Mandarin,'1-1-2-2-4-2-1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Hanyu Pinyin,'1-1-2-2-4-2-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'Shànghǎi Bǎogāng Jítuán Gōngsī,'1-1-2-2-4-2-2-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Baosteel,'1-1-2-3-1,0,0,0,2,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Simplified Chinese,'1-1-2-3-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'宝钢,'1-1-2-3-2-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Traditional Chinese,'1-1-2-3-3-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'寶鋼,'1-1-2-3-3-2,0,0,0,2,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Transcriptions,'1-1-2-3-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Mandarin,'1-1-2-3-4-2-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Hanyu Pinyin,'1-1-2-3-4-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'Bǎogāng,'1-1-2-3-4-2-2-2,0,0,0,1,0,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+"'Shanghai Baosteel Group Corporation, commonly referred to as Baosteel is a state-owned iron and steel company headquartered in the Bao Steel Tower in Pudong, Shanghai, China.",'1-1-2-4-1-1-1,1,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
+"'Baosteel is the second-largest steel producer in the world measured by crude steel output (after ArcelorMittal), with an annual output of around 30 million tons (China's total steel production in 2012 was 716 million tons).It employs 130,401 employees as of the end of 2012, has annual revenues of around $21.5 billion, and produces a mix of high-quality products.",'1-1-2-4-1-1-2,2,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+"'Baosteel's IPO on the Shanghai Stock Exchange in 2000 was the largest in China up to that time, raising CNY 7.7 billion despite being limited to domestic investors only.",'1-1-2-4-1-1-3,1,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Contents,'1-1-2-4-1-2-1-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'1 History,'1-1-2-4-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,1,0,0,1,0,0,1,I
+'2 Intellectual property and R&D,'1-1-2-4-1-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'3 Operations,'1-1-2-4-1-2-1-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+'4 References,'1-1-2-4-1-2-1-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'5 Resources,'1-1-2-4-1-2-1-2-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'6 External links,'1-1-2-4-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-4-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'Beginning in 1978, the Chinese government began to institute economic reforms. Plans called for a large integrated steel production facility to be located near the port of Shanghai. The Baoshan District, a suburb of Shanghai, was chosen as the site and Japanese assistance was enlisted in constructing one of the most modern steel plants of the time. As the government's flagship steel company, Baoshan Iron and Steel as it was originally called, benefitted from acquiring the best engineers and managers, access to cutting edge technology, and receiving hefty government contracts.",'1-1-2-4-1-2-2-1-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Baoshan Iron and Steel also benefitted from the breakneck pace of Chinese economic expansion which ravenously consumed all the steel available. However, with the continuing liberalization of the Chinese economy, Baoshan found itself in competition with new rivals, both foreign and domestic. The company decided to add an export trade marketing component to remain competitive; it scored notable success in South Korea. Although hurt by the Asian financial crisis, Baoshan pushed through with a merger of other money losing state owned enterprises, though it had managed to remain profitable itself. On November 17, 1998, the former Baoshan Iron and Steel (Group) Corporation absorbed the Shanghai Metallurgical Holding Group Corporation (上海冶金控股集团公司) and the Shanghai Meishan Group Co. (上海梅山集团公司) to form Shanghai Baosteel Group Corporation. The new conglomerate was the largest steel producer in the country with annual steel production of nearly 20 million tons.",'1-1-2-4-1-2-2-1-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Baosteel also found partnerships with former domestic rivals in the Shougang Group and Wuhan Iron and Steel Group Corporation, entering into an alliance in 2001. In the same year Baosteel signed an agreement with ThyssenKrupp of Germany.",'1-1-2-4-1-2-2-1-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The company has ambitious plans for expansion, currently constructing a state-of-the-art facility in Zhanjiang, Guangdong, at the cost of $10 billion; it is expected to come into production by the end of the decade. Baosteel also intends on launching an IPO, likely in Hong Kong, on top of its current listing on the Shanghai Stock Exchange.",'1-1-2-4-1-2-2-1-2-4,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Intellectual property and R&D,'1-1-2-4-1-2-2-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In the last years, Baosteel has accelerated its R&D efforts. The company increased its investments for technology innovation and established a national laboratory. Furthermore, it set up the Boasteel-Australia joint venture and has taken part in several national projects. The increasing R&D efforts can also been seen at the development of Baosteel's patent and utility model applications. In 2010, the company filed more than 600 applications.",'1-1-2-4-1-2-2-2-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operations,'1-1-2-4-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,1,1,2,C
+'23.8 Mton Shanghai Baosteel Group Corporation (China),'1-1-2-4-1-2-2-3-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+'16.1 Mton Tangshan (China),'1-1-2-4-1-2-2-3-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'14.6 Mton Shagang Group (China),'1-1-2-4-1-2-2-3-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'12.0 Mton Wuhan Iron and Steel (China),'1-1-2-4-1-2-2-3-2-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'11.9 Mton Anshan (China),'1-1-2-4-1-2-2-3-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'10.5 Mton Shougang (China),'1-1-2-4-1-2-2-3-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'10.4 Mton Jinan (China),'1-1-2-4-1-2-2-3-2-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'10.3 Mton Laiwu (China),'1-1-2-4-1-2-2-3-2-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'9.6 Mton Maanshan (China),'1-1-2-4-1-2-2-3-2-9,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Resources,'1-1-2-4-1-2-2-4-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'World Steel Production Figures,'1-1-2-4-1-2-2-4-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Detailed History of Baosteel,'1-1-2-4-1-2-2-4-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'External links,'1-1-2-4-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Baosteel official website,'1-1-2-4-1-2-2-5-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,1,0,0,0,0,0,0,0,1,I
+'Baosteel International official website,'1-1-2-4-1-2-2-5-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,2,I
+"'Beijing Baosteel Tower in Chaoyang District, Beijing",'1-1-2-4-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,N
+'Shanghai portal,'1-1-2-4-3-1-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Companies portal,'1-1-2-4-3-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Steel companies of China,'1-1-2-5-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,3,C
+'Companies of China,'1-1-2-5-1-2-1-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,1,N
+'Economy of China,'1-1-2-5-1-2-1-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,3,N
+'Angang New Steel Angang Steel Company Limited Anshan Iron & Steel Group Corporation,'1-1-2-5-1-2-1-2-1-1,1,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Baosteel,'1-1-2-5-1-2-1-2-1-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Baotou Steel Chongqing Iron and Steel Company,'1-1-2-5-1-2-1-2-1-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Fengbao Iron and Steel,'1-1-2-5-1-2-1-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Hansteel,'1-1-2-5-1-2-1-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Hebei Iron and Steel,'1-1-2-5-1-2-1-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Hunan Valin Steel,'1-1-2-5-1-2-1-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Linzhou Steel,'1-1-2-5-1-2-1-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Maanshan Iron and Steel Company,'1-1-2-5-1-2-1-2-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Magang (Group) Holding Company,'1-1-2-5-1-2-1-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Jianlong Steel,'1-1-2-5-1-2-1-2-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Nanjing Iron and Steel,'1-1-2-5-1-2-1-2-2-9,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Panzhihua Iron and Steel,'1-1-2-5-1-2-1-2-2-10,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Panzhihua New Steel and Vanadium,'1-1-2-5-1-2-1-2-2-11,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shagang Group,'1-1-2-5-1-2-1-2-2-12,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shandong Iron and Steel Group,'1-1-2-5-1-2-1-2-2-13,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shanghai Yingji,'1-1-2-5-1-2-1-2-2-14,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shougang,'1-1-2-5-1-2-1-2-2-15,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shougang Concord International,'1-1-2-5-1-2-1-2-2-16,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Tangsteel,'1-1-2-5-1-2-1-2-2-17,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Tiangong International,'1-1-2-5-1-2-1-2-2-18,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Tonghua Iron and Steel Group,'1-1-2-5-1-2-1-2-2-19,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Wuhan Iron and Steel,'1-1-2-5-1-2-1-2-2-20,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Category,'1-1-2-5-1-2-2,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'SSE 50 companies of China,'1-1-2-5-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,C
+'Agricultural Bank of China Air China Aluminium Corporation of China Bank of Beijing Bank of China Bank of Communications,'1-1-2-5-2-2-1,1,0,0,1,0,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,I
+'Baosteel,'1-1-2-5-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'China CITIC Bank China Coal Energy China Construction Bank China COSCO China Life Insurance China Merchants Bank China Metallurgical China Minsheng Bank China Pacific Insurance China Railway Construction China Railway Engineering China Shenhua China State Construction China Unicom China Yangtze Power CITIC Securities CSR Corporation Daqin Railway Everbright Securities GD Power Development Gemdale Group Haitong Securities Hua Xia Bank Industrial and Commercial Bank of China Industrial Bank Jiangxi Copper Jinduicheng Molybdenum Kweichow Moutai Liaoning Chengda Shanxi Lu'an Environmental Energy PetroChina Ping An Insurance Poly Real Estate SAIC Motor Shandong Gold Shanghai Pudong Development Bank Sinopec Tebian Electric Apparatus Tianwei Baobian Electric Western Mining Wuhan Iron and Steel Zhongjin Gold Zijin Mining,'1-1-2-5-2-2-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,2,I
+'Hang Seng China 50 Index Constitutent Stocks,'1-1-2-5-3-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,2,C
+'A shares/H shares,'1-1-2-5-3-2-1-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Finance,'1-1-2-5-3-2-1-2-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Bank of Beijing,'1-1-2-5-3-2-1-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,1,0,0,1,I
+'Bank of China,'1-1-2-5-3-2-1-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'Bank of Communications,'1-1-2-5-3-2-1-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'China Construction Bank,'1-1-2-5-3-2-1-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'China CITIC Bank,'1-1-2-5-3-2-1-2-1-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'China Life Insurance,'1-1-2-5-3-2-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'China Merchants Bank,'1-1-2-5-3-2-1-2-1-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'China Merchants Securities,'1-1-2-5-3-2-1-2-1-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'China Minsheng Bank,'1-1-2-5-3-2-1-2-1-2-9,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'China Pacific Insurance,'1-1-2-5-3-2-1-2-1-2-10,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'CITIC Securities,'1-1-2-5-3-2-1-2-1-2-11,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Everbright Securities,'1-1-2-5-3-2-1-2-1-2-12,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Haitong Securities,'1-1-2-5-3-2-1-2-1-2-13,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Industrial and Commercial Bank of China,'1-1-2-5-3-2-1-2-1-2-14,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'Industrial Bank,'1-1-2-5-3-2-1-2-1-2-15,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Ping An Insurance,'1-1-2-5-3-2-1-2-1-2-16,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Shanghai Pudong Development Bank,'1-1-2-5-3-2-1-2-1-2-17,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Other,'1-1-2-5-3-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Air China Angang Steel Anhui Conch Cement,'1-1-2-5-3-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,1,I
+'Baosteel,'1-1-2-5-3-2-1-2-2-2-2-1,0,0,0,1,1,1,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BYD Aluminium Corporation of China China Coal Energy China Communications Construction China COSCO China Railway Construction China Railway Engineering China Shenhua China State Construction China Telecom China Vanke Daqin Railway Company Datang Power Huaneng Power Kweichow Moutai MCC Petrochina SAIC Motor Shanghai Electric Shanghai Port Sinopec Yangtze Power Zijin Mining,'1-1-2-5-3-2-1-2-2-2-2-2,2,0,0,1,0,2,1,0,2,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Red chip,'1-1-2-5-3-2-2-1-1,0,0,0,1,1,2,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'China Mobile,'1-1-2-5-3-2-2-1-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,1,0,0,0,1,0,0,1,I
+'China Resources Power,'1-1-2-5-3-2-2-1-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'China Overseas,'1-1-2-5-3-2-2-1-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'China Unicom,'1-1-2-5-3-2-2-1-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'CNOOC,'1-1-2-5-3-2-2-1-2-5,0,0,0,1,0,1,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Others,'1-1-2-5-3-2-2-2-1,0,0,0,1,1,1,0,0,2,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'Tencent,'1-1-2-5-3-2-2-2-2,0,1,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I

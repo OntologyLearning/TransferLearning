@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_1998,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_1999,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2009,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_1995,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2017,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2014,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2003,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2002,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2006,_Santa_Barbara_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2018,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2012,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_1997,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2010,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2004,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2000,_Santa_Barbara,_CA,_USA._Mirror_of_website_Mirror_created_01Jan01.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_1996,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2007,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2008,_Santa_Barbara,_California,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2001,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2015,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2011,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2013,_Santa_Barbara,_CA,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2016,_Santa_Barbara,_USA.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <base:_Crypto_Conference rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_2005,_Santa_Barbara_California,_United_States.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Crypto_Conference>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crypto_Conference"/>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'CCS 2011,'1-1-1-1-1,0,0,0,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'18th ACM Conference on Computer and Communications Security,'1-1-1-1-2-1,0,0,0,2,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,C
+"'OCT 17-21 2011. SWISSÔTEL Chicago, Chicago, IL, USA",'1-1-1-1-2-2,0,0,0,1,1,2,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,I
+'CALL FOR WORKSHOPS,'1-1-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Workshops,'1-1-2-2-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+'Proposals are solicited for workshops to be held in conjunction with ACM CCS 2011. Each workshop provides a forum to address a specific topic at the forefront of security research.,'1-1-2-2-2-2-1-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,1,0,0,0,1,N
+"'A workshop must be one full day in length. Proceedings of all workshops will be available (on a CD) to the workshop attendees. Each workshop will also have on-line proceedings through ACM Digital Library, with a separate ISBN.",'1-1-2-2-2-2-1-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Workshop Proposal Submission,'1-1-2-2-2-2-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,1,0,0,3,C
+"'For new workshops, proposals should include:",'1-1-2-2-2-2-2-2-1,0,0,0,1,0,0,0,2,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,1,C
+'Workshop title,'1-1-2-2-2-2-2-2-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'A draft ""Call for Papers"" articulating the scope and topics covered by the workshop",'1-1-2-2-2-2-2-2-2-2,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'A brief summary and justification for the workshop, including anticipated benefits to the ACM CCS community.",'1-1-2-2-2-2-2-2-2-3,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Proposed format and agenda,'1-1-2-2-2-2-2-2-2-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Expected number of submissions and acceptance rate,'1-1-2-2-2-2-2-2-2-5,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Expected number of attendees,'1-1-2-2-2-2-2-2-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Program chair(s), and, if available, tentative program committee",'1-1-2-2-2-2-2-2-2-7,0,1,0,1,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,0,1,0,0,2,I
+"'A one-paragraph biographical sketch for each organizer, describing relevant qualifications, including research and conference/workshop organizing experience",'1-1-2-2-2-2-2-2-2-8,1,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'For previously-held workshops, in addition to the above, proposals must provide the following information, for the most recent incarnation of the workshop:",'1-1-2-2-2-2-2-2-3,1,0,0,1,0,0,0,2,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Number of submissions,'1-1-2-2-2-2-2-2-4-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Number of accepted papers,'1-1-2-2-2-2-2-2-4-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Number of registered attendees,'1-1-2-2-2-2-2-2-4-3,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Please submit workshop proposals by email to the ACM CCS Workshop Chairs, Ninghui Li (ninghui@cs.purdue.edu) and Venkat Venkatakrishnan (venkat@uic.edu). All workshop proposals will be reviewed by the CCS Steering Committee.",'1-1-2-2-2-2-2-2-5,2,0,0,1,0,2,0,0,1,2,1,1,0,0,1,0,0,0,0,0,0,0,0,2,N
+'Proposal Evaluation Criteria,'1-1-2-2-2-2-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,0,1,1,3,C
+'The workshop is within the scope of computer and communications security and concerns a coherent and important technical topic of high interest in the community.,'1-1-2-2-2-2-3-2-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Its novelty with respect to other forums, especially with respect to other CCS workshops.",'1-1-2-2-2-2-3-2-2,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Its likely impact on the target community, including likely high participation.",'1-1-2-2-2-2-3-2-3,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'One of the best ways to show likely interest is to have a strong set of researchers who have agreed to serve on the PC.,'1-1-2-2-2-2-3-2-4,1,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Important Dates,'1-1-2-2-2-2-4-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,1,1,2,C
+"'Submissions deadline: February 25, 2011 (Deadline Extended, early submissions are welcome)",'1-1-2-2-2-2-4-2-1,1,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,1,0,1,0,0,0,0,1,I
+"'Decisions communicated: March 6, 2011",'1-1-2-2-2-2-4-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+'CFP and Website for each workshop by March 15-25,'1-1-2-2-2-2-4-2-3,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+'Suggested workshop papers submission deadline: around July 2,'1-1-2-2-2-2-4-2-4,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,1,1,0,0,2,I
+'Suggested workshop papers notification: before August 10,'1-1-2-2-2-2-4-2-5,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,1,1,0,0,2,I
+'Workshop papers camera ready: August 25 (hard deadline),'1-1-2-2-2-2-4-2-6,0,1,0,1,0,2,0,1,1,2,1,0,0,1,1,0,1,0,1,1,1,0,0,2,I
+'CCS Support for Workshops,'1-1-2-2-2-2-5-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'If a workshop proposal is accepted, the ACM CCS workshop chairs will work closely with workshop organizers. The ACM CCS workshop chairs will try to obtain funding to support student travel awards and invited speakers.",'1-1-2-2-2-2-5-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,1,0,0,0,0,0,0,0,0,1,N
+"'Last modified: Monday, 14-Feb-2011 19:53:42 EST",'1-1-2-2-2-2-5-2-2,0,0,0,1,0,2,0,1,2,2,0,0,0,1,0,0,0,0,1,0,0,0,0,3,N
+'© Copyright 2011 ACM/SIGSAC - All rights reserved.,'1-2,0,0,0,0,0,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,N

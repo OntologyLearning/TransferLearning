@@ -1,0 +1,24 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Christos Kozyrakis,'1-1-1-1-1,0,0,1,2,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'Associate Professor, EE & CS, Stanford University",'1-1-1-1-2,0,0,1,2,1,2,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,I
+"'Christos Kozyrakis is an Associate Professor of Electrical Engineering and Computer Science at Stanford University. He leads the multi-scale architecture & systems team (MAST), a research group that investigates hardware architectures, runtime management environments, system software, and programming models for systems ranging from cellphones to warehouse-scale datacenters. His current research focuses on resource efficient cloud computing, energy efficient multicore systems, and architectural support for security. Christos joined Stanford in 2002 after receiving a PhD in Computer Science from UC Berkeley. His alma mater is the University of Crete in Greece. Christos' first name in full is ""Christoforos""...",'1-1-1-2-2-1,2,0,0,1,0,2,1,0,0,2,0,1,0,0,1,0,0,0,0,0,0,0,0,2,N
+'Updates,'1-1-1-2-2-2-1,0,0,1,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,3,C
+'I am chairing the program committee of the MICRO'46 conference.,'1-1-1-2-2-2-2-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,I
+'I am co-chairing the 2012 Hot Chips conference.,'1-1-1-2-2-2-2-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'The summary of the ISAT workshop on Advancing Computer Systems without Technology Progress.,'1-1-1-2-2-2-2-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Our white paper on ""21st Century Computer Architecture"" and the blog for your comments.",'1-1-1-2-2-2-2-4,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'My slides on Memory Management Beyond Free() from the 2011 ISMM conference.,'1-1-1-2-2-2-2-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'What cloud computing means for architects from the 2009 WIOSCA workshop panel.,'1-1-1-2-2-2-2-6,1,1,0,1,0,0,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'The slides for The Case for Hardware Support for Transactional Memory.,'1-1-1-2-2-2-2-7,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'My notes on future directions for transactional memory research from panels at the Transact 2007 workshop, the 2007 MSR Faculty Summit, and the PPoPP'07 conference.",'1-1-1-2-2-2-2-8,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'A good introduction to transactional memory and the TM tutorial slides from the ACACES'08 summer school and the PACT'07 conference.,'1-1-1-2-2-2-2-9,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'The Phoenix system for MapReduce programming in multi-core systems.,'1-1-1-2-2-2-2-10,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'How to Have Bad Career as a Grad Student (check out the original too).,'1-1-1-2-2-2-2-11,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'If you are a student interested in working with me, read this first.",'1-1-1-2-2-2-2-12,1,1,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Useful Links,'1-1-2-2-1,0,0,1,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Mult-scale Architecture & Systems Team,'1-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Experimental Datacenter Lab,'1-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+'Pervasive Parallelism Lab,'1-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+'Electrical Engineering,'1-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Computer Science,'1-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,1,0,1,1,2,I
+'Stanford University Wiki --!> Christos' Wiki --!>,'1-1-2-2-2-6,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,2,I

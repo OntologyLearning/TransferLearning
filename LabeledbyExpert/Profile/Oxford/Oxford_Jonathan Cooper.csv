@@ -1,0 +1,93 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Jonathan Cooper,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Dr Jonathan Cooper,'1-2-1-2-1-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Teaching Assistant,'1-2-1-2-1-1-1-2-1-2-1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'Research Fellow,'1-2-1-2-1-1-1-2-1-2-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'jonathan.cooper@cs.ox.ac.uk,'1-2-1-2-1-1-1-2-1-3,0,0,0,1,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'01865 610671,'1-2-1-2-1-1-1-2-1-4,0,0,0,1,0,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Room 361, Wolfson Building, Parks Road, Oxford OX1 3QD",'1-2-1-2-1-1-1-2-2,1,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,I
+'Interests,'1-2-1-2-1-1-2-1-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'I am interested in the application of software engineering to computational biology - using technology well to enable better science. In particular, I look at the use of domain-specific languages to describe mathematical models of biology, and the tools required to make these usable for researchers. My doctorate, and some subsequent work, looked at automating both the validation and optimisation of biological (in particular, cardiac) models described using the CellML language (of which I am an elected editor). I have worked in several EU projects within the Virtual Physiological Human (VPH) initiative, focusing on standards-based interoperability and the development of modelling tools.",'1-2-1-2-1-1-2-1-1-2-1,2,0,0,1,0,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'My current research interests lie in developing the concept of ""functional curation"", which supports the specification of experiments through a protocol language, allowing an in silico version of a wet lab experiment to be run on a range of alternative models and the results compared. This has the potential to transform our approach to modelling, putting the integration of models and data on a rigorous footing, and facilitating the model development process.",'1-2-1-2-1-1-2-1-1-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In the Computational Biology Group I am heavily involved in the Chaste project, both for cardiac and cell-based applications. I develop support for the use of CellML, and contribute C++ , Python, and software design expertise, as well as having been largely responsible for developing the project infrastructure.",'1-2-1-2-1-1-2-1-1-2-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Biography,'1-2-1-2-1-1-2-1-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'Between 2001-2004 I studied for a BA in Mathematics & Computer Science at the University of Oxford. On graduating with first class honours I joined the Life Sciences Interface Doctoral Training Centre to undertake a DPhil with the Integrative Biology project, which I completed in 2008.",'1-2-1-2-1-1-2-1-2-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'In June 2008 I started a post-doctoral research position with the Virtual Physiological Human Network of Excellence (VPH NoE) project, based in the Department of Computer Science.  My role was helping to lead the ""VPH ToolKit"" development team, coordinating the integration of tools developed worldwide for modelling different aspects of human physiology, with a focus on standards-based interoperability. Over the next 3 years I also worked on two other projects within the Virtual Physiological Human initiative: preDiCT, which looked at predicting the cardiac toxicity of drugs, and TUMOR, working on transatlantic integration of cancer models. In all these projects my personal research contributions have mainly been concerned with the use of markup languages to represent models.",'1-2-1-2-1-1-2-1-2-2-2,2,0,0,1,0,0,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'My current post as a Research Fellow in Computational Science, part of the 2020 Science project, began in July 2011. Within this context I am primarily developing the concept of Functional Curation, described above.",'1-2-1-2-1-1-2-1-2-2-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Links,'1-2-1-2-1-1-2-1-3-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'My 2020 Science pages,'1-2-1-2-1-1-2-1-3-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'ResearcherID profile,'1-2-1-2-1-1-2-1-3-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Google Scholar profile,'1-2-1-2-1-1-2-1-3-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Selected Publications,'1-2-1-2-1-1-2-1-4-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'View all,'1-2-1-2-1-1-2-1-4-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-1-2-1-4-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Ten simple rules for effective computational research,'1-2-1-2-1-1-2-2-1,0,0,0,1,0,0,0,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,0,3,I
+'Osborne J.M. Bernabeu M.O. Bruna M. Calderhead B. Cooper J. Dalchau N. Dunn S−J. Fletcher A.G. Freeman R. Groen D. Knapp B. McInerny G.J. Mirams G.R. Pitt−Francis J. Sengupta B. Wright D.W. Yates C.A. Gavaghan D.J. Emmott S. and C. Deane,'1-2-1-2-1-1-2-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In PLoS Computational Biology. Vol. 10. No. 3. Pages e1003506. 2014.,'1-2-1-2-1-1-2-2-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1371/journal.pcbi.1003506),'1-2-1-2-1-1-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Connecting models to data in multiscale multicellular tissue simulations,'1-2-1-2-1-1-2-3-1,0,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'J.M. Cooper J Osborne,'1-2-1-2-1-1-2-3-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Procedia Computer Science. Vol. 18. Pages 712−721. 2013.,'1-2-1-2-1-1-2-3-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1016/j.procs.2013.05.235),'1-2-1-2-1-1-2-3-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Chaste: an open source C++ library for computational physiology and biology,'1-2-1-2-1-1-2-4-1,1,0,0,1,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'G.R. Mirams‚ C.J. Arthurs‚ M.O. Bernabeu‚ R. Bordas‚ J. Cooper‚ A. Corrias‚ Y. Davit‚ S−J. Dunn‚ A.G. Fletcher‚ D.G. Harvey‚ M.E. Marsh‚ J. M. Osborne‚ P. Pathmanathan‚ J. Pitt−Francis‚ J. Southern‚ N. Zemzemi and D.J. Gavaghan,'1-2-1-2-1-1-2-4-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In PLoS Computational Biology. Vol. 9. No. 3. Pages e1002970. 2013.,'1-2-1-2-1-1-2-4-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1371/journal.pcbi.1002970) | Link,'1-2-1-2-1-1-2-4-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Info,'1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Computational Biology  | Software Engineering,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Computational Heart Modelling  | Information Modelling  | Computational Biology group,'1-2-1-2-1-2-2-2-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Projects,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'2020 Science  | Chaste,'1-2-1-2-1-2-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Completed Projects,'1-2-1-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'Integrative Biology | Chaste | VPH NoE | preDiCT | TUMOR |,'1-2-1-2-1-2-2-4-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Supervisors,'1-2-1-2-1-2-2-5-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'David Gavaghan,'1-2-1-2-1-2-2-5-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Steve McKeever,'1-2-1-2-1-2-2-5-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Jonathan Whiteley,'1-2-1-2-1-2-2-5-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Current Students,'1-2-1-2-1-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Anthony Connor,'1-2-1-2-1-2-2-6-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Aidan Daly,'1-2-1-2-1-2-2-6-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'In This Section,'1-2-2-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'My 2020 Science pages,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'ResearcherID profile,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Google Scholar profile,'1-2-2-2-2-3,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-3-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-3-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-3-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-3-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-3-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-3-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-3-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-3-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-3-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-3-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,C
+'Vacancies & studentships,'1-2-2-3-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Vacancies & studentships,'1-2-2-3-1-3-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-3-1-3-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-3-1-3-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-3-1-4,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Seminars & timetables,'1-2-2-3-1-5-1,0,0,0,1,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Seminars & timetables,'1-2-2-3-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-3-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-3-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-3-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-3-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-3-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-3-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-3-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-3-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

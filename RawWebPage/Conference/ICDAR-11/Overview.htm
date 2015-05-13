@@ -1,0 +1,330 @@
+<HTML>
+<HEAD>
+	<TITLE>The 11th International Conference on Document Analysis and Recognition (ICDAR)</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+	<link href="../../images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+	<SCRIPT language=javascript src="../../images/OPENWIN.JS"></SCRIPT>
+	<SCRIPT language=javascript>
+		function clearall()
+		{
+			var the_box = window.document.all('pid');
+			for(var i=0;i< the_box.length;i++)
+			{
+				the_box[i].checked = false;
+			}
+		}
+		
+		function isready1(form)
+		{
+			var blnAlert = 0;
+			var str_article = "";
+			if (typeof(AbstractList.pid.length)=="undefined") 
+			{  
+				if(AbstractList.pid.checked==true)
+				{
+					blnAlert = blnAlert+1;
+					str_article = str_article + AbstractList.pid.value+"|";
+				}
+			} 
+			else 
+			{
+				for (i=0;i<AbstractList.pid.length;i++) 
+				{
+			  	if(AbstractList.item("pid",i).checked==true)
+			  	{  
+						blnAlert = blnAlert+1;
+						str_article = str_article + AbstractList.item("pid",i).value+"|";
+					}
+			  } 
+			}
+			if (blnAlert==0)
+			{
+				alert("请您先选中文章！");
+				return  false;
+			}
+			form.action="../article/uniteZhaiYao.do?uniteId="+str_article;
+			form.submit;
+		}
+		
+		function set_abs()
+		{
+			abst.style.display = "block";
+		}
+		
+		function showArticleFile(attachType,articleId)
+		{
+			var viewAttach = "";
+			viewAttach = "../article/showArticleFile.do?attachType="+attachType+"&id="+articleId;
+			window.open(viewAttach,"下载文件","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizeable=no,copyhistory=no,width=520,height=200,left=88,top=88");
+		}
+	</SCRIPT>
+</HEAD>
+
+<BODY LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0">
+	<TABLE WIDTH=860 BORDER=0 CELLPADDING=0 CELLSPACING=0 align=left>
+		<!--头部-->
+		<TR>
+			<TD valign=top colspan=2>
+			<HTML>
+<HEAD>
+	<TITLE>ICDAR2011</TITLE>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="../../images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+</HEAD>
+<BODY LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="../../images/banner.gif" height="170"></td>
+  </tr>
+  
+</table>
+</body>
+</html>
+             </TD>
+		</TR>
+		<TR>
+			<td width="172" valign="top" bgcolor="#19408B">
+            <!--左边-->
+			 <HTML>
+<HEAD>
+<TITLE></TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<link href="../../images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+<style type="text/css">
+<!--
+.ding {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+}
+-->
+</style>
+</HEAD>
+<BODY>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" background="../../images/bg_left.gif">
+     <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../volumn/home.shtml"><font color="#ffffff">HOME</font></a></strong></span></td>
+      </tr>
+
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column1.shtml"><font color="#ffffff">VENUE</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column3.shtml"><font color="#ffffff">COMMITTEES</font></a></strong></span></td>
+      </tr>
+
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column2.shtml"><font color="#ffffff">CALL FOR PAPERS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column31.shtml"><font color="#ffffff">IMPORTANT DATES</font></a></strong></span></td>
+      </tr>
+
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column32.shtml"><font color="#ffffff">TECHNICAL PROGRAM</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column33.shtml"><font color="#ffffff">INVITED SPEAKERS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column34.shtml"><font color="#ffffff">AWARDS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column22.shtml"><font color="#ffffff">WORKSHOPS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column25.shtml"><font color="#ffffff">TUTORIALS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column26.shtml"><font color="#ffffff">COMPETITIONS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column39.shtml"><font color="#ffffff">DOCTORAL CONSORTIUM</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column14.shtml"><font color="#ffffff">SPONSORS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column35.shtml"><font color="#ffffff">REGISTRATION</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column36.shtml"><font color="#ffffff">ACCOMMODATION</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column37.shtml"><font color="#ffffff">SOCIAL PROGRAM</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column38.shtml"><font color="#ffffff">TRAVEL INFORMATION</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column15.shtml"><font color="#ffffff">LINKS</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="25" width=4%>&nbsp;</td>
+        <td width="96%" height="25" class="ding"><span class="J_cdcr"><strong><a href="../column/column16.shtml"><font color="#ffffff">CONTACT</font></a></strong></span></td>
+      </tr>
+      <tr>
+        <td height="20"></td>
+        <td height="20"></td>
+      </tr>	 
+    </table>
+</BODY>
+</HTML>
+            </TD>
+			<TD valign=top bgcolor="#ffffff">
+            <!--中间-->
+           <table width="688" border="0" cellspacing="0" cellpadding="0">
+               <tr>
+               <td height="35" width=10></td>
+               <td height="35" colspan="2"><div align="right"><strong><span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;[<a href="http://www.iapr.org" target="blank">IAPR</a>]&nbsp;&nbsp;&nbsp;&nbsp;[<a href="http://www.iapr-tc10.org" target="blank">TC10</a>]&nbsp;&nbsp;&nbsp;&nbsp;[<a href="http://www.iapr-tc11.org" target="blank">TC11</a>]&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
+               </tr>
+  
+               <tr>
+               <td height="1" valign="top"></td>
+               <td colspan="2"  bgcolor="#FF9900"></td>
+               </tr>
+
+               <tr>
+               <td height="39" rowspan="4" valign="top">&nbsp;</td>
+               <td height="135" colspan="2" valign="top" background="../../images/beijing.jpg">&nbsp;</td>
+               </tr>
+               <tr>
+                 <td width="423" height="15" valign="top"><br>&nbsp;&nbsp;&nbsp;&nbsp;<SPAN class=style8>We are pleased to announce that the Eleventh International Conference on Document Analysis and Recognition (ICDAR 2011), sponsored by the International Association for Pattern Recognition (IAPR) TC-10 (Graphics Recognition) and TC-11 (Reading Systems), will be held at BEIJING FRIENDSHIP HOTEL, Beijing, China during September 18-21, 2011.<br>
+                     <br>
+&nbsp;&nbsp;&nbsp;&nbsp;ICDAR 2011 is organized by the Center for Intelligent Image and Document Information Processing (CIDIP) of Tsinghua University, the Institute of Automation of Chinese Academy of Sciences (CASIA) and the Chinese Association of Automation(CAA). The CIDIP group has long devoted to research and development in the fields of document analysis, face recognition and biometric technology. CASIA is one of the earliest institutions in China involving pattern recognition and document analysis research.<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ICDAR is an outstanding international forum for researchers and practitioners at all levels of experience for identifying, encouraging and exchanging ideas on the state-of-the-art in document analysis, understanding, retrieval, and performance evaluation, including various forms of multimedia documents. ICDAR 2011 will be the 11th Conference in the series. The previous ones of this series were ICDAR’91 in Saint Malo (France), ICDAR’93 in Tsukuba (Japan), ICDAR’95 in Montreal (Canada), ICDAR’97 in Ulm (Germany), ICDAR’99 in Bangalore (India), ICDAR’01 in Seattle (USA), ICDAR’03 in Edinburgh (Scotland), ICDAR’05 in Seoul (Korea), ICDAR’07 in Curitiba (Brazil), and ICDAR’09 in Barcelona (Spain). </SPAN></td>
+               <td width="253" valign="top">
+			   <table width="100%" border="1" border="blue" cellspacing="0" cellpadding="0">
+                       <tr>
+                          <td height=30>
+                          </td> 
+                        </tr>
+                       <tr>
+                          <td height=30 align=middle><font color="red">NEWS</font> <a href="../column/column24.shtml" target="blank"><font color="red">[ + ]</font></a>
+                          </td> 
+                        </tr>
+                        <tr>
+                          <td height="100%">
+                                                                                                                        <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2011-04-25</b>&nbsp;<A class=J_VM href="../column/item137.shtml"><FONT color=#000000>Call for Nominations of Awards</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2011-03-11</b>&nbsp;<A class=J_VM href="../column/item135.shtml"><FONT color=#000000>Update Permission after Paper Submission Deadline Until Mar. 22</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2011-02-17</b>&nbsp;<A class=J_VM href="../column/item134.shtml"><FONT color=#000000>Paper Submission Extended to March 14</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2011-01-12</b>&nbsp;<A class=J_VM href="../column/item133.shtml"><FONT color=#000000>Tutorials Proposal Extended</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2011-01-01</b>&nbsp;<A class=J_VM href="../column/item132.shtml"><FONT color=#000000>Workshops Scheduled</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2010-12-14</b>&nbsp;<A class=J_VM href="../column/item120.shtml"><FONT color=#000000>Call for Tutorials</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2010-12-14</b>&nbsp;<A class=J_VM href="../column/item121.shtml"><FONT color=#000000>Call for Competitions</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2010-12-14</b>&nbsp;<A class=J_VM href="../column/item122.shtml"><FONT color=#000000>Call for Sponsors</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                                                                                      <TABLE>
+                                <TR>
+	                                <TD align="center" borderColor=#ffffff width=5></TD>
+	                                <TD align="center" borderColor=#ffffff><IMG src="../../images/j1.gif" width=6 height=10></TD>
+	                                <TD class=J_VM><b>2010-12-13</b>&nbsp;<A class=J_VM href="../column/item123.shtml"><FONT color=#000000>Paper Submission</FONT></A><BR></TD>
+	                              </TR>
+	                            </TABLE>
+	                          	                          						   </td>
+                        </tr>
+                      </table>
+			   </td>
+               </tr>
+               <tr>
+               <td colspan="2" valign="top"></td>
+               </tr>
+              <tr>
+               <td height="28">&nbsp;</td>
+               <td colspan="2"></td>
+               </tr>            
+                
+               <tr>
+               <td height="1" valign="top" bgcolor="#FF9900"></td>
+               <td colspan="2"  bgcolor="#FF9900"></td>
+               </tr>  
+               <tr>
+               <td height="28">&nbsp;</td>
+               <td colspan="2"><strong>Contact</strong></td>
+               </tr>
+            
+               <tr>
+               <td height="28">&nbsp;</td>
+               <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;icdar2011@gmail.com<br>
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://www.icdar2011.org</td>
+               </tr>  
+              <tr>
+               <td height="10" valign="top" ></td>
+               <td colspan="2" ></td>
+               </tr>               
+           </table>
+            <!--中间结束-->
+            </TD>	
+	 </TABLE>	
+</BODY>
+
+</HTML>

@@ -1,0 +1,551 @@
+
+
+
+<!DOCTYPE html PUBLIC 
+	  "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us"
+      lang="en-us">
+
+  
+    
+    
+    
+    
+    
+
+  
+
+  <head>
+
+    <meta http-equiv="Content-Type"
+          content="text/html;charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+      <base href="http://sosp2011.gsd.inesc-id.pt/submission-guidelines" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    <link rel="kss-base-url" href="http://sosp2011.gsd.inesc-id.pt/submission-guidelines" />
+
+  
+  
+    
+    
+    
+      <style type="text/css">@import url(http://sosp2011.gsd.inesc-id.pt/portal_css/qPloneSkinTechlight/base-cachekey6449.css);</style>
+    
+    
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="all">@import url(http://sosp2011.gsd.inesc-id.pt/portal_css/qPloneSkinTechlight/ploneCustom-cachekey3377.css);</style>
+    
+    
+    
+  
+
+
+  
+  
+    
+    
+      <script type="text/javascript"
+              src="http://sosp2011.gsd.inesc-id.pt/portal_javascripts/qPloneSkinTechlight/jquery-cachekey6460.js">
+      </script>
+    
+    
+    
+  
+
+  
+    
+    
+      <script type="text/javascript"
+              src="http://sosp2011.gsd.inesc-id.pt/portal_javascripts/qPloneSkinTechlight/sarissa-cachekey9490.js">
+      </script>
+    
+    
+    
+  
+
+  
+    
+    
+      <script type="text/javascript"
+              src="http://sosp2011.gsd.inesc-id.pt/portal_javascripts/qPloneSkinTechlight/plone_minwidth-cachekey2475.js">
+      </script>
+    
+    
+    
+  
+
+
+  
+  <link rel="kinetic-stylesheet" type="text/css"
+        href="http://sosp2011.gsd.inesc-id.pt/portal_kss/qPloneSkinTechlight/at-cachekey8394.kss" />
+
+
+
+<title>Submission Guidelines &mdash; SOSP 2011</title>
+
+    <!-- Internet Explorer CSS Fixes -->
+    <!--[if lte IE 7]>
+        <style type="text/css" media="all">@import url(http://sosp2011.gsd.inesc-id.pt/IEFixes.css);</style>
+
+        <script type="text/javascript"
+                src="http://sosp2011.gsd.inesc-id.pt/iefixes.js">
+        </script>
+    <![endif]-->
+
+
+    
+
+    <link rel="shortcut icon" type="image/x-icon"
+          href="http://sosp2011.gsd.inesc-id.pt/favicon.ico" />
+
+
+
+    <link rel="home" href="http://sosp2011.gsd.inesc-id.pt"
+          title="Front page" />
+
+    <link rel="contents"
+          href="http://sosp2011.gsd.inesc-id.pt/sitemap"
+          title="Site Map" />
+
+
+
+
+
+
+    <link rel="search"
+          href="http://sosp2011.gsd.inesc-id.pt/search_form"
+          title="Search this site" />
+
+
+
+    <!-- Disable IE6 image toolbar -->
+    <meta http-equiv="imagetoolbar" content="no" />
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+  </head>
+
+  <body class="section-submission-guidelines template-document_view"
+        dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<ul id="portal-personaltools" class="visualInline">
+   
+
+    
+        <li>
+            <a href="http://sosp2011.gsd.inesc-id.pt/login_form">Log in</a>
+        </li>
+    
+
+</ul>
+</div>
+
+<div id="portal-header">
+<p class="hiddenStructure">
+  <a accesskey="2"
+     href="http://sosp2011.gsd.inesc-id.pt/submission-guidelines#documentContent">Skip to content.</a> |
+
+  <a accesskey="6"
+     href="http://sosp2011.gsd.inesc-id.pt/submission-guidelines#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+<a id="portal-logo" accesskey="1"
+   href="http://sosp2011.gsd.inesc-id.pt">
+    <img src="http://sosp2011.gsd.inesc-id.pt/logoTechlight.gif" alt="" title="" height="132" width="328" /></a>
+
+
+<!--
+<table align="right" border="0" metal:define-macro="portal_logo"
+   id="portal-logo"
+   accesskey="1"
+   i18n:domain="plone">
+<tr>
+<td align="center">
+   <a href="http://www.sigops.org/"><img src="sigops" /></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+   <a href="http://www.inesc-id.pt"><img src="inesc" /></a>
+</td>
+</tr>
+</table>
+-->
+
+
+
+<div id="portal-searchbox">
+    <form name="searchform"
+          action="http://sosp2011.gsd.inesc-id.pt/search">
+
+        <label for="searchGadget" class="hiddenStructure">Search Site</label>
+
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only"
+                   class="noborder" type="checkbox"
+                   name="path" value="/sosp2011" />
+            <label for="searchbox_currentfolder_only"
+                   style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSBox">
+        <input name="SearchableText" type="text" size="18"
+               title="Search Site" accesskey="4"
+               class="inputLabel" id="searchGadget" />
+
+        <input class="searchButton" type="submit"
+               value="Search" />
+    
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://sosp2011.gsd.inesc-id.pt/search_form"
+           accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<!--
+<br>
+<h1>23rd ACM Symposium on Operating Systems Principles (SOSP)</h1><br>
+<b>October 23-26, 2011, Cascais, Portugal</b>
+-->
+</div>
+
+
+    
+
+
+<div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <a href="http://sosp2011.gsd.inesc-id.pt">Home</a>
+    <span class="breadcrumbSeparator">
+        &rarr;
+        
+    </span>
+    <span dir="ltr">
+        
+            
+            
+            <span>Submission Guidelines</span>
+         
+    </span>
+
+</div>
+
+      </div>
+
+      <div id="portal-columns" class="visualColumnHideTwo">
+        <div id="visual-column-wrapper">
+            
+            <div id="portal-column-content">
+            <div id="content-wrapper">
+              
+                <div class="">
+
+                  
+
+
+                  <div id="region-content" class="documentContent">
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+                    
+                    <a name="documentContent"></a>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+                    
+                    <div id="viewlet-above-content"></div>
+
+                    
+                    <div id="content">
+                      
+                      
+    
+
+        
+
+        <h1 class="documentFirstHeading"> 
+            
+        <span class="" id="parent-fieldname-title">
+            Submission Guidelines
+        </span>
+    
+        </h1>
+
+        
+
+
+
+
+        <p class="documentDescription">
+            
+        <span class="" id="parent-fieldname-description">
+            
+        </span>
+    
+        </p>
+
+        
+
+
+
+        
+
+        
+        <div class="" id="parent-fieldname-text">
+            
+<p>Submissions violating the formatting and anonymization rules will not be considered for publication. There will be no extensions for reformatting.<br />Good luck with your submission!</p>
+<h2>Formatting rules</h2>
+<p>Submitted papers must be no longer than fourteen (14) 8.5"x11" pages, using a 10 point font on 12 point (single spaced) leading, with a maximum text block of 6.5 inches wide by 9 inches deep. The page limit includes everything: references, title page, figures, appendices, etc. Please take note of the following:</p>
+<ul><li>Submissions should be anonymous. On the front page, in place of the authors' names, the paper should indicate: the paper ID number assigned during the paper registration process and the total number of pages in the submission.</li><li>Pages should be numbered. (For the submission, you may be better off not using the SIG template; just use the standard latex "article" format in 10, or larger, point double column, so that pages are numbered.)</li><li>The use of color is acceptable, but the paper should be easily readable if viewed or printed in gray scale. This is especially true for plots and graphs in the paper.</li><li>The output should be formatted for printing on LETTER (8.5" x 11") size paper, with 10-point font and 12-point spacing. All material (except page numbers) should be in a 6.5" by 9" block on each page. The block should be formatted with two columns, with 0.25" separation between the two columns.</li><li>Symbols and labels used in the graphs should be readable as printed, and not only with a 20x on-screen magnification.</li><li>Try to limit the file size to less than 15 MB.</li></ul>
+<h2>Anonymizing rules</h2>
+<p>Please make a good faith effort to anonymize your paper. As an author, you should not identify yourself in the paper either explicitly or by implication (e.g., through the references or acknowledgments). However, only non-destructive anonymization is required. For example, system names may be left un-anonymized, if the system name is important for a reviewer to be able to evaluate the work. For example, a paper on experiences with the design of .NET should not be re-written to be about "an anonymous but widely used commercial distributed systems platform".</p>
+<p>Additionally, please take the following steps when preparing your submission:</p>
+<ul><li>Remove authors' names and affiliations from the title page.</li><li>Remove acknowledgement of identifying names and funding sources.</li><li>Use care in naming your files. Source file names, e.g., Joe.Smith.dvi, are often embedded in the final output as readily accessible comments.</li><li>Use care in refering to related work, particularly your own. Do not omit references to provide anonymity, as this leaves the reviewer unable to grasp the context. Instead, a good solution is to reference your past work in the third person, just as you would any other piece of related work.</li><li>If you have a concurrent submission, reference it as follows: "Closely related work describes a microkernel implementation [Anonymous 2007]." with the corresponding citation: "[Anonymous 2007] Under submission. Details omitted for double-blind reviewing."</li><li>If you cite anonymous work, you must also send the deanonymized reference(s) to the PC chair in separate email. </li></ul>
+<p>We recognize that, even following these guidelines, closely building on your own prior work may indirectly reveal your identity.</p>
+<h2>Writing advice</h2>
+<p>Lots of papers and books have been written about how to write a good paper. We strongly suggest that you read the following:</p>
+<ul><li>An Evaluation of the Ninth SOSP Submissions; or, How (and How Not) to Write a Good Systems Paper. This was written by Roy Levin and David D. Redell, the program committee co-chairs for SOSP-9, and first appeared in ACM SIGOPS Operating Systems Review, Vol. 17, No. 3 (July, 1983), pages 35-40.</li><li>The Science of Scientific Writing, George D. Gopen and Judith A. Swan, In American Scientist, Vol. 78, No. 6 (Nov-Dec, 1990), pp. 550-558. This article describes not how to write an entire paper, but how to write sentences and paragraphs that readers can understand.</li></ul>
+<p>For matters of English usage, style, and taste we strongly recommend that you purchase and consult this little gem of a book:</p>
+<ul><li>The Elements of Style. William Strunk Jr. and E.B. White. Macmillan Publishing Co., New York, 1979.</li></ul>
+<h2>Paper submission link</h2>
+<p><a class="external-link" href="https://sosp2011.mpi-sws.org">https://sosp2011.mpi-sws.org</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+            
+        </div>
+    
+
+        <div class="relatedItems">
+    
+        
+            
+        
+    
+</div>
+    
+        
+
+<div class="visualClear"><!-- --></div>
+<div class="documentActions">
+    
+
+    <h5 class="hiddenStructure">Document Actions</h5>
+
+    <ul>
+    
+        <li id="document-action-print">
+            <a href="javascript:this.print();" title="">Print this</a>
+        </li>
+    
+
+    </ul>
+    
+
+    
+
+</div>
+
+
+    
+
+                    </div>
+                    
+
+                    
+                    
+                      
+    
+
+
+
+
+                    
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                  </div>
+
+                </div>
+
+              
+            </div>
+            </div>
+            
+            
+            
+            <div id="portal-column-one">
+              <div class="visualPadding">
+                
+                  
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f7370323031310a706f72746c65745f74616273"
+     class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f7370323031310a706f72746c65745f74616273">
+
+  
+  
+    <div>
+  <dl class="portlet" id="portlet-tabs">
+<!--    <dt class="portletHeader">
+      <span class="portletTopLeft"></span>
+      <span class="tile"
+            tal:attributes="href string:${utool}/news"
+            i18n:translate="">Tabs</span>
+      <span class="portletTopRight"></span>
+    </dt> -->
+		<dd id="portaltab-index_html" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt" title="">Home</a></dd>
+		
+		<dd id="portaltab-call-for-papers" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/call-for-papers"
+         title="">Call for Papers</a></dd>
+		
+		<dd id="portaltab-submission-guidelines" class="selected">
+      <a href="http://sosp2011.gsd.inesc-id.pt/submission-guidelines"
+         title="">Submission Guidelines</a></dd>
+		
+		<dd id="portaltab-call-for-workshops" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/call-for-workshops"
+         title="">Call for Workshop Proposals</a></dd>
+		
+		<dd id="portaltab-call-for-posters-and-wips" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/call-for-posters-and-wips"
+         title="Call for Poster &amp; Work-in-Progress Presentations">Call for Posters and WiPs</a></dd>
+		
+		<dd id="portaltab-important-dates" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/important-dates"
+         title="Important Dates">Important Dates</a></dd>
+		
+		<dd id="portaltab-student-scholarships" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/student-scholarships"
+         title="">Student Scholarships</a></dd>
+		
+		<dd id="portaltab-organizers" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/organizers"
+         title="">Conference Organizers</a></dd>
+		
+		<dd id="portaltab-co-located-workshops" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/co-located-workshops"
+         title="Affiliated Conferences and Workshops">Conferences and Workshops</a></dd>
+		
+		<dd id="portaltab-local-info" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/local-info"
+         title="Conference Hotel">Venue</a></dd>
+		
+		<dd id="portaltab-prior-sosps" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/prior-sosps"
+         title="">Prior SOSPs</a></dd>
+		
+		<dd id="portaltab-prior-osdis" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/prior-osdis"
+         title="">Prior OSDIs</a></dd>
+		
+		<dd id="portaltab-socc-2011" class="plain">
+      <a href="http://sosp2011.gsd.inesc-id.pt/socc-2011"
+         title="">SOCC 2011</a></dd>
+		
+	</dl>
+</div>
+  
+
+  
+  
+</div>
+
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f7370323031310a6c6f676f73"
+     class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f7370323031310a6c6f676f73"><div class="portletStaticText portlet-static-logos">
+<p><a class="external-link" href="http://www.sigops.org/"><img class="image-inline" src="private/files/logos/sigops.jpg/image_preview" alt="sigops" height="70" width="211" /></a></p>
+<p><a class="external-link" href="http://www.inesc-id.pt/"><img class="image-inline" src="private/files/logos/inesc.gif/image_preview" alt="inesc" height="90" width="181" /></a></p>
+</div>
+
+</div>
+
+
+
+
+                
+                &nbsp;
+              </div>
+            </div>
+            
+          </div>
+            
+            
+            
+      </div>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+      
+
+        <div id="portal-footer">
+  <p>Powered by 
+    <a href="http://skins.quintagroup.com">Quintagroup</a>, 
+    <a href="http://www.inesc-id.pt">INESC-ID</a> and
+    <a href="http://plone.org">Plone</a>.
+    &copy; 2010-<span>2011</span>.  
+  </p>
+</div>
+
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt=""
+                           src="http://sosp2011.gsd.inesc-id.pt/spinner.gif" /></div>
+</body>
+</html>
+
+

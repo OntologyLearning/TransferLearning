@@ -1,0 +1,48 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies,'1-2-1-1,1,0,1,2,1,2,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'To be held at the Portland Marriott Downtown Waterfront in 
+Portland, Oregon, USA, June 19-24, 2011",'1-2-1-2,1,0,0,1,1,2,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,I
+'New Information,'1-2-2-1-1-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Conference program has been posted,'1-2-2-1-1-2-1,0,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Conference registration is now available,'1-2-2-1-1-2-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Student Dormitory Housing information is avaliable,'1-2-2-1-1-2-3,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Accepted short papers have been posted,'1-2-2-1-1-2-4,0,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Student volunteer and travel award information,'1-2-2-1-1-2-5,0,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Tutorial descriptions have been posted,'1-2-2-1-1-2-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Accepted long papers have been posted,'1-2-2-1-1-2-7,0,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Visa information to enter the United States,'1-2-2-1-1-2-8,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+'ACL/HLT Workshops have been posted,'1-2-2-1-1-2-9,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Important Dates,'1-2-2-1-2,0,0,0,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,0,0,2,C
+"'Noverber 4, 2010",'1-2-2-2-1-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Paper Mentoring/Coaching Deadline,'1-2-2-2-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'December 17, 2010",'1-2-2-2-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Long Paper Submission Deadline,'1-2-2-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'December 17, 2010",'1-2-2-2-3-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Tutorial Proposal Submission Deadline,'1-2-2-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'January 28, 2011",'1-2-2-2-4-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Student Session Submission Deadline,'1-2-2-2-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'February 11, 2011",'1-2-2-2-5-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Long Paper Notification,'1-2-2-2-5-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'February 18, 2011",'1-2-2-2-6-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'System Demonstrations Submission Deadline,'1-2-2-2-6-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'February 25, 2011",'1-2-2-2-7-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Short Paper Submission Deadline,'1-2-2-2-7-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'March 11, 2011",'1-2-2-2-8-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Student Session notification of acceptance,'1-2-2-2-8-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'April 1, 2011",'1-2-2-2-9-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'System Demonstrations Notification,'1-2-2-2-9-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'April 8, 2011",'1-2-2-2-10-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Short Paper Notification,'1-2-2-2-10-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'April 15, 2011",'1-2-2-2-11-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Long Paper Camera Ready Deadline,'1-2-2-2-11-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,C
+"'April 22, 2011",'1-2-2-2-12-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Short Paper Camera Ready Deadline,'1-2-2-2-12-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,C
+"'April 22, 2011",'1-2-2-2-13-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'System Demonstrations Camera Ready Deadline,'1-2-2-2-13-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,C
+"'June 19, 2011",'1-2-2-2-14-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Pre-conference tutorials,'1-2-2-2-14-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'June 20-22, 2011",'1-2-2-2-15-1,0,0,0,1,1,2,0,0,2,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Main conference,'1-2-2-2-15-2,0,0,0,1,0,2,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'June 23-24, 2011",'1-2-2-2-16-1,0,0,0,1,1,2,0,0,2,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Post-conference workshops and co-located events,'1-2-2-2-16-2,0,0,0,1,0,2,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'acl2011.conference@gmail.com   ♦   Oregon Health & Science University,'1-2-3,1,0,0,1,0,2,1,0,2,1,1,1,0,0,0,1,0,1,0,0,1,0,0,1,N

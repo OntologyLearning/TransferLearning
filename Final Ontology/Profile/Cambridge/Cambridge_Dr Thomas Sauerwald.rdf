@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_since_072013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Randomized_algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Game_Theory">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Distributed_computing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <base:_Contact_Details rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_Lecturer_at_the_Computer_Laboratory_since_July_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Details>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_082012__062013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Postdoc_at_the_School_of_Computing_Science_at_Simon_Fraser_University,_Burnaby,_Canada_supported_by_the_Pacific_Institute_for_the_Mathematical_Sciences_PIMS">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Contact_Details rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Laboratory">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Details>
+  <base:_Contact_Details rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cambridge_CB3_0FD">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Details>
+  <base:_Contact_Details rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Cambridge">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Details>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Random_Walks__The_cover_time_of_random_walks_is_an_ubiquitous_parameter_of_graphs,_which_has_many_interesting_relations_to_electrical_networks,_spectral_graph_theory,_probability_theory,_complexity_theory_etc._We_study_different_ways_to_speed_up_random_walks_with_the_aim_of_decreasing_their_cover_time._For_instance,_we_examine_random_walks_that_are_able_to_explore_their_neighborhood_in_each_step_or_analyze_the_cover_time_of_parallel_random_walks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Markov_chains_and_random_walks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_102010__062013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Rumor_Spreading__Randomized_rumor_spreading_are_simple_epidemic_protocols_that_spread_one_message_rumor_from_one_node_to_all_other_nodes._This_is_done_by_allowing_nodes_to_exchange_the_rumor_with_a_randomly_chosen_neighbor_in_each_round._The_main_question_is_to_determine_the_number_of_required_rounds_to_spread_the_rumor_to_all_nodes_on_different_networks._Our_research_includes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__1_analyzing_the_rumor_spreading_time_on_different_network_models,_e.g.,_social_networks_2_studying_the_relation_to_graph_parameters_such_as_vertex_or_edge_expansion_3_understanding_the_randomness_requirement_of_rumor_spreading">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Rumor_Spreading__Randomized_rumor_spreading_are_simple_epidemic_protocols_that_spread_one_message_rumor_from_one_node_to_all_other_nodes._This_is_done_by_allowing_nodes_to_exchange_the_rumor_with_a_randomly_chosen_neighbor_in_each_round._The_main_question_is_to_determine_the_number_of_required_rounds_to_spread_the_rumor_to_all_nodes_on_different_networks._Our_research_includes>
+  <base:_Research_Interests rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Graph_Theory">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Interests>
+  <base:_Phone rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_44_1223_763538">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Phone>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Independent_Research_Group_Leader_W2_of_the_group_Efficient_Algorithms_for_Massive_Graphs_at_the_Cluster_of_Excellence_on_Multimodal_Computing_and_Interaction,_Saarbrcken,_Germany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Contact_Details rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_15_JJ_Thomson_Avenue">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Details>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_092008__082009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Contact_Details rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_Kingdom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Details>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_102005__072008">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Email rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_firstname.lastname_at_cl.cam.ac.uk">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Email>
+  <base:_Selected_Publications rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Load_Balancing__The_problem_of_load_balancing_on_large_networks_is_to_find_distributed_algorithms_that_balance_the_load_across_the_units_of_the_network_efficiently._Most_of_our_work_focuses_on_two_popular_communication_models,_the_diffusion_and_the_matching_model._For_both_models,_we_analyze_several_iterative_protocols_that_employ_the_idea_of_randomized_rounding._We_show_that_these_protocols_almost_achieve_the_same_discrepancy_within_the_same_number_of_rounds_as_their_counterparts_for_the_case_of_divisible_load">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Selected_Publications>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_taught_the_second_part_of_Algorithms_in_the_Lent_term_Link">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Fax rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_44_1223_334678">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fax>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Postdoc_at_the_International_Computer_Science_Institute_ICSI,_Berkeley,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lecturer_at_the_University_of_Cambridge,_United_Kingdom">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Contact_Details rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr_Thomas_Sauerwald">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Details>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Associate_and_later_Senior_Researcher_at_Max_Planck_Institute_for_Informatics,_Saarbrcken,_Germany">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ph._D._in_Computer_Science_within_the_PaSCo_graduate_school_at_the_University_of_Paderborn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <base:_Short_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_102009__092010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Short_Bio>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thomas_Sauerwald"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fax"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Interests"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phone"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Email"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Details">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thomas_Sauerwald"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Short_Bio"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rumor_Spreading__Randomized_rumor_spreading_are_simple_epidemic_protocols_that_spread_one_message_rumor_from_one_node_to_all_other_nodes._This_is_done_by_allowing_nodes_to_exchange_the_rumor_with_a_randomly_chosen_neighbor_in_each_round._The_main_question_is_to_determine_the_number_of_required_rounds_to_spread_the_rumor_to_all_nodes_on_different_networks._Our_research_includes">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selected_Publications"/>
+  </rdf:Description>
+</rdf:RDF>

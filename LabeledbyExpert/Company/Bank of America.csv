@@ -1,0 +1,713 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Bank of America,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,C
+"'Not to be confused with First Bank of the United States, Second Bank of the United States, or Bank of United States.",'1-1-2-1-1-1-1,1,0,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,1,N
+'Bank of America Corporation,'1-1-2-1-1-1-2-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,3,N
+'Type,'1-1-2-1-1-1-2-2-2-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Public,'1-1-2-1-1-1-2-2-2-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-1-2-2-3-1,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'NYSE BAC,'1-1-2-1-1-1-2-2-3-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'S&P 500 Component,'1-1-2-1-1-1-2-2-3-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Industry,'1-1-2-1-1-1-2-2-4-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Banking, Financial services",'1-1-2-1-1-1-2-2-4-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Predecessor(s),'1-1-2-1-1-1-2-2-5-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Bank America,'1-1-2-1-1-1-2-2-5-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,I
+'NationsBank,'1-1-2-1-1-1-2-2-5-2-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Founded,'1-1-2-1-1-1-2-2-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'1998 (1904 as Bank of Italy) (1998 (1904 as Bank of Italy)),'1-1-2-1-1-1-2-2-6-2,1,0,0,1,0,2,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,1,I
+'Founder(s),'1-1-2-1-1-1-2-2-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Amadeo Giannini,'1-1-2-1-1-1-2-2-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-1-2-2-8-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Bank of America Corporate Center
+ 100 North Tryon Street
+Charlotte, North Carolina, U.S.",'1-1-2-1-1-1-2-2-8-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Area served,'1-1-2-1-1-1-2-2-9-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Worldwide,'1-1-2-1-1-1-2-2-9-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Key people,'1-1-2-1-1-1-2-2-10-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Charles O. Holliday,'1-1-2-1-1-1-2-2-10-2-1,0,0,0,1,0,2,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'(Chairman),'1-1-2-1-1-1-2-2-10-2-2,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+'Brian T. Moynihan,'1-1-2-1-1-1-2-2-10-2-3,0,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'(President & CEO),'1-1-2-1-1-1-2-2-10-2-4,0,0,0,1,0,2,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Products,'1-1-2-1-1-1-2-2-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Consumer banking, corporate banking, finance and insurance, investment banking, mortgage loans, private banking, private equity, wealth management, credit cards,",'1-1-2-1-1-1-2-2-11-2,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Revenue,'1-1-2-1-1-1-2-2-12-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 88.94 billion (2013),'1-1-2-1-1-1-2-2-12-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operating income,'1-1-2-1-1-1-2-2-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 16.17 billion (2013),'1-1-2-1-1-1-2-2-13-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Net income,'1-1-2-1-1-1-2-2-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 11.43 billion (2013),'1-1-2-1-1-1-2-2-14-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-1-2-2-15-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'US$ 2.102 trillion (2013),'1-1-2-1-1-1-2-2-15-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-1-1-2-2-16-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 232.6 billion (2013),'1-1-2-1-1-1-2-2-16-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-1-2-2-17-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'242,000 (2013)",'1-1-2-1-1-1-2-2-17-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Divisions,'1-1-2-1-1-1-2-2-18-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Bank of America Home Loans, Bank of America Merrill Lynch",'1-1-2-1-1-1-2-2-18-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Subsidiaries,'1-1-2-1-1-1-2-2-19-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Merrill Lynch, U.S. Trust Corporation",'1-1-2-1-1-1-2-2-19-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Website,'1-1-2-1-1-1-2-2-20-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'BankofAmerica.com,'1-1-2-1-1-1-2-2-20-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'References:,'1-1-2-1-1-1-2-2-21,0,0,0,1,1,1,0,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Pyramid-shaped Bank of America building towers over Interstate 410 in San Antonio, Texas.",'1-1-2-1-1-2-1-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,N
+"'The Bank of America Corporation is an American multinational banking and financial services corporation headquartered in Charlotte, North Carolina. It is the second largest bank holding company in the United States by assets. As of 2010, Bank of America is the fifth-largest company in the United States by total revenue, and the third-largest non-oil company in the U.S. (after Walmart and General Electric). In 2010, Forbes listed Bank of America as the third biggest company in the world.",'1-1-2-1-1-2-2-1-1-1,2,0,0,1,0,2,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,3,N
+'The bank's 2008 acquisition of Merrill Lynch made Bank of America the world's largest wealth management corporation and a major player in the investment banking market.,'1-1-2-1-1-2-2-1-1-2,1,0,0,1,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,3,N
+"'The company held 12.2% of all bank deposits in the United States in August 2009, and is one of the Big Four banks in the United States, along with Citigroup, JPMorgan Chase and Wells Fargo—its main competitors. Bank of America operates in all 50 states of the U.S., the District of Columbia and more than 40 other countries. It has a retail banking footprint that covers approximately 80 percent of the U.S. population and serves approximately 57 million consumer and small business relationships at 5,600 banking centers and 16,200 automated teller machines (ATMs).",'1-1-2-1-1-2-2-1-1-3,2,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'Bank of America has been the subject of several lawsuits and investigations regarding both mortgages and financial disclosures.,'1-1-2-1-1-2-2-1-1-4,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,3,N
+'Contents,'1-1-2-1-1-2-2-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+"'1 History 1.1 Bank of Italy
+1.2 Growth in California
+1.3 Expansion outside California
+1.4 Merger of NationsBank and BankAmerica
+1.5 2001 to present 1.5.1 Acquisition of Countrywide Financial
+1.5.2 Acquisition of Merrill Lynch
+1.5.3 Federal Troubled Asset Relief Program
+1.5.4 Bonus settlement
+1.5.5 Fraud
+1.5.6 Downsizing (2011 to 2014)
+1.5.7 Sale of stake in China Construction Bank",'1-1-2-1-1-2-2-1-2-1-2-1,2,0,0,1,0,2,1,0,0,2,1,1,1,0,0,1,0,0,0,0,0,0,1,I
+"'2 Operations 2.1 Consumer
+2.2 Corporate
+2.3 Investment management
+2.4 International operations
+2.5 Management practices",'1-1-2-1-1-2-2-1-2-1-2-2,1,0,0,1,0,2,1,0,0,2,1,1,0,1,0,0,1,0,0,0,0,0,2,I
+"'3 Corporate affairs 3.1 Board of directors
+3.2 Financial data
+3.3 Major shareholders 3.3.1 Other individuals",'1-1-2-1-1-2-2-1-2-1-2-3-1,1,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'4 Corporate social responsibility,'1-1-2-1-1-2-2-1-2-1-2-3-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'5 Lawsuits,'1-1-2-1-1-2-2-1-2-1-2-4,0,0,0,1,0,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'6 Controversies 6.1 Parmalat controversy
+6.2 Consumer credit controversies
+6.3 WikiLeaks
+6.4 Anonymous
+6.5 Mortgage business
+6.6 Gun stores",'1-1-2-1-1-2-2-1-2-1-2-5,1,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'7 Notable buildings,'1-1-2-1-1-2-2-1-2-1-2-6,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'8 See also,'1-1-2-1-1-2-2-1-2-1-2-7,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'9 References,'1-1-2-1-1-2-2-1-2-1-2-8,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'10 Further reading,'1-1-2-1-1-2-2-1-2-1-2-9,0,0,0,1,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-1-1-2-2-1-2-2-1-1-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
+'Bank of Italy,'1-1-2-1-1-2-2-1-2-2-1-1-2,0,0,0,1,1,2,0,0,0,2,0,0,0,1,0,1,0,0,1,1,0,0,1,C
+'Main article: Bank of Italy (United States),'1-1-2-1-1-2-2-1-2-2-1-2-1,0,0,0,1,0,2,1,1,0,2,1,0,1,0,0,1,0,0,1,1,0,0,1,I
+"'The history of Bank of America dates back to 1904, when Amadeo Giannini founded the Bank of Italy in San Francisco. The Bank of Italy served the needs of many immigrants settling in the United States at that time, a service denied them by the existing American banks who were typically discriminatory and often denied service to all but the wealthiest. Giannini was raised by his mother and stepfather Lorenzo Scatena, as his father was fatally shot over a pay dispute with an employee. When the 1906 San Francisco earthquake struck, Giannini was able to save all deposits out of the bank building and away from the fires. Because San Francisco's banks were in smoldering ruins and unable to open their vaults, Giannini was able to use the rescued funds to commence lending within a few days of the disaster. From a makeshift desk consisting of a few planks over two barrels, he lent money to those who wished to rebuild. Later in life, he took great pride in the fact that all of these loans were repaid.",'1-1-2-1-1-2-2-1-2-2-1-2-2,2,0,0,1,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 1922, Giannini established Bank of America and Italy in Italy by buying Banca dell'Italia Meridionale, the latter established in 1918.",'1-1-2-1-1-2-2-1-2-2-1-2-3,1,0,0,1,0,2,1,0,0,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'On March 7, 1927, Giannini consolidated his Bank of Italy (101 branches) with the newly formed Liberty Bank of America (175 branches). The result was the Bank of Italy National Trust & Savings Association with capital of $30  million, In 1928, A.P. Giannini merged with Bank of America, Los Angeles and consolidated it with his other bank holdings to create what would become the largest banking institution in the country. He renamed the Bank of Italy on November 3, 1930, calling it Bank of America. The resulting company was headed by Giannini with Orra E. Monnette serving as co-Chair.",'1-1-2-1-1-2-2-1-2-2-1-2-4,2,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Growth in California,'1-1-2-1-1-2-2-1-2-2-2-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+"'Giannini sought to build a national bank, expanding into most of the western states as well as into the insurance industry, under the aegis of his holding company, Transamerica Corporation. In 1953, regulators succeeded in forcing the separation of Transamerica Corporation and Bank of America under the Clayton Antitrust Act. The passage of the Bank Holding Company Act of 1956 prohibited banks from owning non-banking subsidiaries such as insurance companies. Bank of America and Transamerica were separated, with the latter company continuing in the insurance business. However, federal banking regulators prohibited Bank of America's interstate banking activity, and Bank of America's domestic banks outside California were forced into a separate company that eventually became First Interstate Bancorp, later acquired by Wells Fargo and Company in 1996. It was not until the 1980s with a change in federal banking legislation and regulation that Bank of America was again able to expand its domestic consumer banking activity outside California.",'1-1-2-1-1-2-2-1-2-2-2-2-1,2,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'New technologies also allowed credit cards to be linked directly to individual bank accounts. In 1958, the bank introduced the BankAmericard, which changed its name to Visa in 1975. A consortium of other California banks introduced Master Charge (now MasterCard) to compete with BankAmericard.",'1-1-2-1-1-2-2-1-2-2-2-2-2,2,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Expansion outside California,'1-1-2-1-1-2-2-1-2-2-3-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,0,1,1,0,0,1,0,0,2,C
+"'Following the passage of the Bank Holding Company Act of 1956, BankAmerica Corporation was established for the purpose of owning and operation of Bank of America and its subsidiaries.",'1-1-2-1-1-2-2-1-2-2-3-2-1,1,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'Bank of America expanded outside California in 1983 with its acquisition of Seafirst Corporation of Seattle, Washington, and its wholly owned banking subsidiary, Seattle-First National Bank. Seafirst was at risk of seizure by the federal government after becoming insolvent due to a series of bad loans to the oil industry. BankAmerica continued to operate its new subsidiary as Seafirst rather than Bank of America until the 1998 merger with NationsBank.",'1-1-2-1-1-2-2-1-2-2-3-2-2,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'BankAmerica experienced huge losses in 1986 and 1987 by the placement of a series of bad loans in the Third World, particularly in Latin America. The company fired its CEO, Sam Armacost. Though Armacost blamed the problems on his predecessor, A.W. (Tom) Clausen, Clausen was appointed to replace Armacost. The losses resulted in a huge decline of BankAmerica stock, making it vulnerable to a hostile takeover. First Interstate Bancorp of Los Angeles (which had originated from banks once owned by BankAmerica), launched such a bid in the fall of 1986, although BankAmerica rebuffed it, mostly by selling operations. It sold its FinanceAmerica subsidiary to Chrysler and the brokerage firm Charles Schwab and Co. back to Mr. Schwab. It also sold Bank of America and Italy to Deutsche Bank. By the time of the 1987 stock market crash, BankAmerica's share price had fallen to $8, but by 1992 it had rebounded mightily to become one of the biggest gainers of that half-decade.",'1-1-2-1-1-2-2-1-2-2-3-2-3,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'BankAmerica's next big acquisition came in 1992. The company acquired its California rival, Security Pacific Corporation and its subsidiary Security Pacific National Bank in California and other banks in Arizona, Idaho, Oregon, and Washington (which Security Pacific had acquired in a series of acquisitions in the late 1980s). This was, at the time, the largest bank acquisition in history. Federal regulators, however, forced the sale of roughly half of Security Pacific's Washington subsidiary, the former Rainier Bank, as the combination of Seafirst and Security Pacific Washington would have given BankAmerica too large a share of the market in that state. The Washington branches were divided and sold to West One Bancorp (now U.S. Bancorp) and KeyBank. Later that year, BankAmerica expanded into Nevada by acquiring Valley Bank of Nevada.",'1-1-2-1-1-2-2-1-2-2-3-2-4,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 1994, BankAmerica acquired the Continental Illinois National Bank and Trust Co. of Chicago, which had become federally owned as part of the same oil industry debacle emanating from Oklahoma City's Penn Square Bank, that had brought down numerous financial institutions including Seafirst. At the time, no bank possessed the resources to bail out Continental, so the federal government operated the bank for nearly a decade. Illinois at that time regulated branch banking extremely heavily, so Bank of America Illinois was a single-unit bank until the 21st century. BankAmerica moved its national lending department to Chicago in an effort to establish a financial beachhead in the region.",'1-1-2-1-1-2-2-1-2-2-3-2-5,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'These mergers helped BankAmerica Corporation to once again become the largest U.S. bank holding company in terms of deposits, but the company fell to second place in 1997 behind fast-growing NationsBank Corporation, and to third in 1998 behind North Carolina's First Union Corp.",'1-1-2-1-1-2-2-1-2-2-3-2-6,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'On the capital markets side, the acquisition of Continental Illinois helped BankAmerica to build a leveraged finance origination and distribution business (Continental Illinois had extensive leveraged lending relationships) which allowed the firm’s existing broker-dealer, BancAmerica Securities (originally named BA Securities), to become a full-service franchise. In addition, in 1997, BankAmerica acquired Robertson Stephens, a San Francisco-based investment bank specializing in high technology for $540 million. Robertson Stephens was integrated into BancAmerica Securities and the combined subsidiary was renamed BancAmerica Robertson Stephens.",'1-1-2-1-1-2-2-1-2-2-3-2-7,2,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Merger of NationsBank and BankAmerica,'1-1-2-1-1-2-2-1-2-2-4-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In 1997, BankAmerica lent D. E. Shaw & Co., a large hedge fund, $1.4 billion in order to run various businesses for the bank. However, D.E. Shaw suffered significant loss after the 1998 Russia bond default. BankAmerica was acquired by NationsBank of Charlotte in October 1998 in what was the largest bank acquisition in history at that time.",'1-1-2-1-1-2-2-1-2-2-4-2-1,2,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'While NationsBank was the nominal survivor and the combined company was based in Charlotte, the merged bank took the better-known name of Bank of America. Hence, the holding company was renamed Bank of America Corporation, while NationsBank, N.A. merged with Bank of America NT&SA to form Bank of America, N.A. as the remaining legal bank entity. The combined bank still operates under Federal Charter 13044, which was granted to Giannini's Bank of Italy on March 1, 1927. However, it retains NationsBank's pre-1998 stock price history, and U.S. Securities and Exchange Commission (SEC) filings before 1998 are listed under NationsBank, not BankAmerica.",'1-1-2-1-1-2-2-1-2-2-4-2-2,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America possessed combined assets of $570 billion, as well as 4,800 branches in 22 states. Despite the mammoth size of the two companies, federal regulators insisted only upon the divestiture of 13 branches in New Mexico, in towns that would be left with only a single bank following the combination.(Branch divestitures are only required if the combined company will have a larger than 25% Federal Deposit Insurance Corporation (FDIC) deposit market share in a particular state or 10% deposit market share overall.) In addition, the combined broker-dealer, created from the integration of BancAmerica Robertson Stephens and NationsBanc Montgomery Securities, was renamed Banc of America Securities in 1998.",'1-1-2-1-1-2-2-1-2-2-4-2-3,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'2001 to present,'1-1-2-1-1-2-2-1-2-2-5-1,0,0,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In 2001, Bank of America CEO and chairman Hugh McColl stepped down and named Ken Lewis as his successor.",'1-1-2-1-1-2-2-1-2-2-5-2-1,1,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'In 2004, Bank of America announced it would purchase Boston-based bank FleetBoston Financial for $47 billion in cash and stock. By merging with Bank of America, all of its banks and branches were given the Bank of America logo. At the time of merger, FleetBoston was the seventh largest bank in United States with $197 billion in assets, over 20 million customers and revenue of $12 billion. Hundreds of FleetBoston workers lost their jobs or were demoted, according to the Boston Globe.",'1-1-2-1-1-2-2-1-2-2-5-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'On June 30, 2005, Bank of America announced it would purchase credit card giant MBNA for $35 billion in cash and stock. The Federal Reserve Board gave final approval to the merger on December 15, 2005, and the merger closed on January 1, 2006. The acquisition of MBNA provided Bank of America a leading domestic and foreign credit card issuer. The combined Bank of America Card Services organization, including the former MBNA, had more than 40 million U.S. accounts and nearly $140 billion in outstanding balances. Under Bank of America the operation was renamed FIA Card Services.",'1-1-2-1-1-2-2-1-2-2-5-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'In May 2006, Bank of America and Banco Itaú (Investimentos Itaú S.A.) entered into an acquisition agreement through which Itaú agreed to acquire BankBoston's operations in Brazil and was granted an exclusive right to purchase Bank of America's operations in Chile and Uruguay. The deal was signed in August 2006 under which Itaú agreed to purchase Bank of America's operations in Chile and Uruguay. Prior to the transaction, BankBoston's Brazilian operations included asset management, private banking, a credit card portfolio, and small, middle-market, and large corporate segments. It had 66 branches and 203,000 clients in Brazil. BankBoston in Chile had 44 branches and 58,000 clients and in Uruguay it had 15 branches. In addition, there was a credit card company, OCA, in Uruguay, which had 23 branches. BankBoston N.A. in Uruguay, together with OCA, jointly served 372,000 clients. While the BankBoston name and trademarks were not part of the transaction, as part of the sale agreement, they cannot be used by Bank of America in Brazil, Chile or Uruguay following the transactions. Hence, the BankBoston name has disappeared from Brazil, Chile and Uruguay. The Itaú stock received by Bank of America in the transactions has allowed Bank of America's stake in Itaú to reach 11.51%. Banco de Boston de Brazil had been founded in 1947.",'1-1-2-1-1-2-2-1-2-2-5-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On November 20, 2006, Bank of America announced the purchase of The United States Trust Company for $3.3 billion, from the Charles Schwab Corporation. US Trust had about $100 billion of assets under management and over 150 years of experience. The deal closed July 1, 2007.",'1-1-2-1-1-2-2-1-2-2-5-2-5,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On September 14, 2007, Bank of America won approval from the Federal Reserve to acquire LaSalle Bank Corporation from Netherlands's ABN AMRO for $21 billion. With this purchase, Bank of America possessed $1.7 trillion in assets. A Dutch court blocked the sale until it was later approved in July. The acquisition was completed on October 1, 2007. Many of LaSalle's branches and offices had already taken over smaller regional banks within the previous decade, such as Lansing and Detroit based Michigan National Bank.",'1-1-2-1-1-2-2-1-2-2-5-2-6,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'The deal increased Bank of America's presence in Illinois, Michigan, and Indiana by 411 branches, 17,000 commercial bank clients, 1.4 million retail customers, and 1,500 ATMs. Bank of America became the largest bank in the Chicago market with 197 offices and 14% of the deposit share, surpassing JPMorgan Chase.",'1-1-2-1-1-2-2-1-2-2-5-2-7,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'LaSalle Bank and LaSalle Bank Midwest branches adopted the Bank of America name on May 5, 2008.",'1-1-2-1-1-2-2-1-2-2-5-2-8,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Ken Lewis, who had lost the title of Chairman of the Board, announced that he would retire as CEO effective December 31, 2009, in part due to controversy and legal investigations concerning the purchase of Merrill Lynch. Brian Moynihan became President and CEO effective January 1, 2010, and afterward credit card charge offs and delinquencies declined in January. Bank of America also repaid the $45 billion it had received from the Troubled Assets Relief Program.",'1-1-2-1-1-2-2-1-2-2-5-2-9,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Acquisition of Countrywide Financial,'1-1-2-1-1-2-2-1-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'On August 23, 2007, the company announced a $2 billion repurchase agreement for Countrywide Financial. This purchase of preferred stock was arranged to provide a return on investment of 7.25% per annum and provided the option to purchase common stock at a price of $18 per share.",'1-1-2-1-1-2-2-1-2-2-6-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'On January 11, 2008, Bank of America announced that it would buy Countrywide Financial for $4.1 billion. In March 2008, it was reported that the Federal Bureau of Investigation (FBI) was investigating Countrywide for possible fraud relating to home loans and mortgages. This news did not hinder the acquisition, which was completed in July 2008, giving the bank a substantial market share of the mortgage business, and access to Countrywide's resources for servicing mortgages. The acquisition was seen as preventing a potential bankruptcy for Countrywide. Countrywide, however, denied that it was close to bankruptcy. Countrywide provided mortgage servicing for nine million mortgages valued at $1.4 trillion as of December 31, 2007.",'1-1-2-1-1-2-2-1-2-2-6-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'This purchase made Bank of America Corporation the leading mortgage originator and servicer in the U.S., controlling 20–25% of the home loan market. The deal was structured to merge Countrywide with the Red Oak Merger Corporation, which Bank of America created as an independent subsidiary. It has been suggested that the deal was structured this way to prevent a potential bankruptcy stemming from large losses in Countrywide hurting the parent organization by keeping Countrywide bankruptcy remote. Countrywide Financial has changed its name to Bank of America Home Loans.",'1-1-2-1-1-2-2-1-2-2-6-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In December 2011, the Justice Department announced a $335 million settlement with Bank of America over discriminatory lending practice at Countrywide Financial. Attorney General Eric Holder said a federal probe found discrimination against qualified African-American and Latino borrowers from 2004 to 2008. He said that minority borrowers who qualified for prime loans were steered into higher-interest-rate subprime loans.",'1-1-2-1-1-2-2-1-2-2-6-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Acquisition of Merrill Lynch,'1-1-2-1-1-2-2-1-2-2-7-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'On September 14, 2008, Bank of America announced its intention to purchase Merrill Lynch & Co., Inc. in an all-stock deal worth approximately $50 billion. Merrill Lynch was at the time within days of collapse, and the acquisition effectively saved Merrill from bankruptcy. Around the same time Bank of America was reportedly also in talks to purchase Lehman Brothers, however a lack of government guarantees caused the bank to abandon talks with Lehman. Lehman Brothers filed for bankruptcy the same day Bank of America announced its plans to acquire Merrill Lynch. This acquisition made Bank of America the largest financial services company in the world. Temasek Holdings, the largest shareholder of Merrill Lynch & Co., Inc., briefly became one of the largest shareholders of Bank of America, with a 3% stake. However, taking a loss Reuters estimated at $3 billion, the Singapore sovereign wealth fund sold its whole stake in Bank of America in the first quarter of 2009.",'1-1-2-1-1-2-2-1-2-2-7-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'Shareholders of both companies approved the acquisition on December 5, 2008, and the deal closed January 1, 2009. Bank of America had planned to retain various members of the then Merrill Lynch's CEO, John Thain's management team after the merger. However, after Thain was removed from his position, most of his allies left. The departure of Nelson Chai, who had been named Asia-Pacific president, left just one of Thain's hires in place: Tom Montag, head of sales and trading.",'1-1-2-1-1-2-2-1-2-2-7-2-2,2,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The bank, in its January 16, 2009 earnings release, revealed massive losses at Merrill Lynch in the fourth quarter, which necessitated an infusion of money that had previously been negotiated with the government as part of the government-persuaded deal for the bank to acquire Merrill. Merrill recorded an operating loss of $21.5 billion in the quarter, mainly in its sales and trading operations, led by Tom Montag. The bank also disclosed it tried to abandon the deal in December after the extent of Merrill's trading losses surfaced, but was compelled to complete the merger by the U.S. government. The bank's stock price sank to $7.18, its lowest level in 17 years, after announcing earnings and the Merrill mishap. The market capitalization of Bank of America, including Merrill Lynch, was then $45 billion, less than the $50 billion it offered for Merrill just four months earlier, and down $108 billion from the merger announcement.",'1-1-2-1-1-2-2-1-2-2-7-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Bank of America CEO Kenneth Lewis testified before Congress that he had some misgivings about the acquisition of Merrill Lynch, and that federal officials pressured him to proceed with the deal or face losing his job and endangering the bank's relationship with federal regulators.",'1-1-2-1-1-2-2-1-2-2-7-2-4,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Lewis' statement is backed up by internal emails subpoenaed by Republican lawmakers on the House Oversight Committee. In one of the emails, Richmond Federal Reserve President Jeffrey Lacker threatened that if the acquisition did not go through, and later Bank of America were forced to request federal assistance, the management of Bank of America would be ""gone"". Other emails, read by Congressman Dennis Kucinich during the course of Lewis' testimony, state that Mr. Lewis had foreseen the outrage from his shareholders that the purchase of Merrill would cause, and asked government regulators to issue a letter stating that the government had ordered him to complete the deal to acquire Merrill. Lewis, for his part, states he didn't recall requesting such a letter.",'1-1-2-1-1-2-2-1-2-2-7-2-5,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The acquisition made Bank of America the number one underwriter of global high-yield debt, the third largest underwriter of global equity and the ninth largest adviser on global mergers and acquisitions. As the credit crisis eased, losses at Merrill Lynch subsided, and the subsidiary generated $3.7 billion of Bank of America's $4.2 billion in profit by the end of quarter one in 2009, and over 25% in quarter 3 2009.",'1-1-2-1-1-2-2-1-2-2-7-2-6,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On September 28, 2012, Bank of America settled the class action lawsuit over the Merrill Lynch acquisition and will pay $2.43 billion. This was one of the first major securities class action lawsuits stemming from the financial crisis of 2007-2008 to settle. Many major financial institutions had a stake in this lawsuit, including Chicago Clearing Corporation, hedge funds, and bank trusts, due to the belief that Bank of America stock was a sure investment.",'1-1-2-1-1-2-2-1-2-2-7-2-7,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Federal Troubled Asset Relief Program,'1-1-2-1-1-2-2-1-2-2-8-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Bank of America received $20 billion in the federal bailout from the U.S. government through the Troubled Asset Relief Program (TARP) on January 16, 2009, and a guarantee of $118 billion in potential losses at the company. This was in addition to the $25 billion given to them in the Fall 2008 through TARP. The additional payment was part of a deal with the U.S. government to preserve Bank of America's merger with the troubled investment firm Merrill Lynch. Since then, members of the U.S. Congress have expressed considerable concern about how this money has been spent, especially since some of the recipients have been accused of misusing the bailout money. Then CEO Ken Lewis was quoted as claiming ""We are still lending, and we are lending far more because of the TARP program."" Members of the U.S. House of Representatives, however, were skeptical and quoted many anecdotes about loan applicants (particularly small business owners) being denied loans and credit card holders facing stiffer terms on the debt in their card accounts.",'1-1-2-1-1-2-2-1-2-2-8-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'According to a March 15, 2009, article in The New York Times, Bank of America received an additional $5.2 billion in government bailout money, channeled through American International Group.",'1-1-2-1-1-2-2-1-2-2-8-2-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'As a result of its federal bailout and management problems, The Wall Street Journal reported that the Bank of America was operating under a secret ""memorandum of understanding"" (MOU) from the U.S. government that requires it to ""overhaul its board and address perceived problems with risk and liquidity management"". With the federal action, the institution has taken several steps, including arranging for six of its directors to resign and forming a Regulatory Impact Office. Bank of America faces several deadlines in July and August and if not met, could face harsher penalties by federal regulators. Bank of America did not respond to The Wall Street Journal story.",'1-1-2-1-1-2-2-1-2-2-8-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On December 2, 2009, Bank of America announced it would repay the entire $45 billion it received in TARP and exit the program, using $26.2 billion of excess liquidity along with $18.6 billion to be gained in ""common equivalent securities"" (Tier 1 capital). The bank announced it had completed the repayment on December 9. Bank of America's Ken Lewis said during the announcement, ""We appreciate the critical role that the U.S. government played last fall in helping to stabilize financial markets, and we are pleased to be able to fully repay the investment, with interest.... As America's largest bank, we have a responsibility to make good on the taxpayers' investment, and our record shows that we have been able to fulfill that commitment while continuing to lend.""",'1-1-2-1-1-2-2-1-2-2-8-2-4,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bonus settlement,'1-1-2-1-1-2-2-1-2-2-9-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'On August 3, 2009, Bank of America agreed to pay a $33 million fine, without admission or denial of charges, to the U.S. Securities and Exchange Commission (SEC) over the non-disclosure of an agreement to pay up to $5.8 billion of bonuses at Merrill. The bank approved the bonuses before the merger but did not disclose them to its shareholders when the shareholders were considering approving the Merrill acquisition, in December 2008. The issue was originally investigated by New York State Attorney General Andrew Cuomo, who commented after the suit and announced settlement that ""the timing of the bonuses, as well as the disclosures relating to them, constituted a 'surprising fit of corporate irresponsibility'"" and ""our investigation of these and other matters pursuant to New York's Martin Act will continue."" Congressman Kucinich commented at the same time that ""This may not be the last fine that Bank of America pays for how it handled its merger of Merrill Lynch."" A federal judge, Jed Rakoff, in an unusual action, refused to approve the settlement on August 5. A first hearing before the judge on August 10 was at times heated, and he was ""sharply critic[al]"" of the bonuses. David Rosenfeld represented the SEC, and Lewis J. Liman, son of Arthur L. Liman, represented the bank. The actual amount of bonuses paid was $3.6 billion, of which $850 million was ""guaranteed"" and the rest was shared amongst 39,000 workers who received average payments of $91,000; 696 people received more than $1 million in bonuses; at least one person received a more than $33 million bonus.",'1-1-2-1-1-2-2-1-2-2-9-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'On September 14, the judge rejected the settlement and told the parties to prepare for trial to begin no later than February 1, 2010. The judge focused much of his criticism on the fact that the fine in the case would be paid by the bank's shareholders, who were the ones that were supposed to have been injured by the lack of disclosure. He wrote, ""It is quite something else for the very management that is accused of having lied to its shareholders to determine how much of those victims’ money should be used to make the case against the management go away,"" ... ""The proposed settlement,"" the judge continued, ""suggests a rather cynical relationship between the parties: the S.E.C. gets to claim that it is exposing wrongdoing on the part of the Bank of America in a high-profile merger; the bank's management gets to claim that they have been coerced into an onerous settlement by overzealous regulators. And all this is done at the expense, not only of the shareholders, but also of the truth.""",'1-1-2-1-1-2-2-1-2-2-9-2-2,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'While ultimately deferring to the SEC, in February, 2010, Judge Rakoff approved a revised settlement with a $150 million fine ""reluctantly"", calling the accord ""half-baked justice at best"" and ""inadequate and misguided"". Addressing one of the concerns he raised in September, the fine will be ""distributed only to Bank of America shareholders harmed by the non-disclosures, or 'legacy shareholders', an improvement on the prior $33 million while still ""paltry"", according to the judge. Case: SEC v. Bank of America Corp., 09-cv-06829, United States District Court for the Southern District of New York.",'1-1-2-1-1-2-2-1-2-2-9-2-3,2,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Investigations also were held on this issue in the United States House Committee on Oversight and Government Reform, under chairman Edolphus Towns (D-NY) and in its investigative Domestic Policy Subcommittee under Kucinich.",'1-1-2-1-1-2-2-1-2-2-9-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Fraud,'1-1-2-1-1-2-2-1-2-2-10-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In 2010, the bank was accused by the U.S. government of defrauding schools, hospitals, and dozens of state and local government organizations via misconduct and illegal activities involving the investment of proceeds from municipal bond sales. As a result, the bank agreed to pay $137.7 million, including $25 million to the Internal Revenue service and $4.5 million to state attorney general, to the affected organizations to settle the allegations.",'1-1-2-1-1-2-2-1-2-2-10-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Former bank official Douglas Campbell pleaded guilty to antitrust, conspiracy and wire fraud charges. As of January 2011, other bankers and brokers are under indictment or investigation.",'1-1-2-1-1-2-2-1-2-2-10-2-2,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On October 24, 2012, the top federal prosecutor in Manhattan filed a lawsuit alleging that Bank of America fraudulently cost American taxpayers more than $1 billion when it sold toxic mortgages to Fannie Mae and Freddie Mac. The scheme was called 'Hustle', or High Speed Swim Lane.",'1-1-2-1-1-2-2-1-2-2-10-2-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Downsizing (2011 to 2014),'1-1-2-1-1-2-2-1-2-2-11-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'During 2011, Bank of America began conducting personnel reductions of an estimated 36,000 people, contributing to intended savings of $5 billion per year by 2014.",'1-1-2-1-1-2-2-1-2-2-11-2-1,1,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In December 2011, Forbes ranked Bank of America's financial health 91st out of the nation's largest 100 banks and thrift institutions.",'1-1-2-1-1-2-2-1-2-2-11-2-2,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America cut around 16,000 jobs in a quicker fashion by the end of 2012 as revenue continued to decline because of new regulations and a slow economy. This put a plan one year ahead of time to eliminate 30,000 jobs under a cost-cutting program, called Project New BAC.",'1-1-2-1-1-2-2-1-2-2-11-2-3,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sale of stake in China Construction Bank,'1-1-2-1-1-2-2-1-2-2-12-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,1,0,0,0,2,C
+"'In September 2013, Bank of America sold its remaining stake in the China Construction Bank for as much as $1.5 billion, marking the firm's full exit from the country.",'1-1-2-1-1-2-2-1-2-2-12-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Operations,'1-1-2-1-1-2-2-1-2-2-13-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
+'Bank of America generates 90% of its revenues in its domestic market and continues to buy businesses in the U.S. The core of Bank of America's strategy is to be the number one bank in its domestic market. It has achieved this through key acquisitions.,'1-1-2-1-1-2-2-1-2-2-13-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Consumer,'1-1-2-1-1-2-2-1-2-2-14-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Consumer Banking is the largest division in the company, and provides financial services to consumers and small businesses. The acquisition of FleetBoston and MBNA significantly expanded its size and range of services, resulting in about 51% of the company's total revenue in 2005. It competes primarily with the retail banking arms of America's three other megabanks: Citigroup, JPMorgan Chase, and Wells Fargo. The Consumer Banking organization includes over 5,800 retail branches and over 18,000 ATMs across the United States.",'1-1-2-1-1-2-2-1-2-2-14-2-1,2,0,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Bank of America is a member of the Global ATM Alliance, a joint venture of several major international banks that until the end of 2013 allowed customers of the banks to use their ATM card or check card at another bank within the Global ATM Alliance without access fees when traveling internationally. A change of policy means that customers are now charged 3% of funds withdrawn from ATMs overseas. Other participating banks are Barclays (United Kingdom), BNP Paribas (France), Ukrsibbank (Ukraine), China Construction Bank (China), Deutsche Bank (Germany), Santander Serfin (Mexico), Scotiabank (Canada) and Westpac (Australia and New Zealand). This feature is restricted to withdrawals using a debit card and is subject to foreign currency conversion fees, credit card withdrawals are still subject to cash advance fees and foreign currency conversion fees. Additionally, some foreign ATMs use Smart Card technology and may not accept non-Smart Cards.",'1-1-2-1-1-2-2-1-2-2-14-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Bank of America offers banking and brokerage products as a result of the acquisition of Merrill Lynch. Savings programs such as ""Add it Up"" and ""Keep the Change"" have been well received and are a reflection of the product development banks have taken during the 2008 recession.",'1-1-2-1-1-2-2-1-2-2-14-2-3,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Bank of America, N.A is a nationally chartered bank, regulated by the Office of the Comptroller of the Currency, Department of the Treasury.",'1-1-2-1-1-2-2-1-2-2-14-2-4,1,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Corporate,'1-1-2-1-1-2-2-1-2-2-15-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Before Bank of America's acquisition of Merrill Lynch, the Global Corporate and Investment Banking (GCIB) business operated as Banc of America Securities LLC. The bank's investment banking activities operate under the Merrill Lynch subsidiary and provided mergers and acquisitions advisory, underwriting, capital markets, as well as sales & trading in fixed income and equities markets. Its strongest groups include Leveraged Finance, Syndicated Loans, and mortgage-backed securities. It also has one of the largest research teams on Wall Street. Bank of America Merrill Lynch is headquartered in New York City.",'1-1-2-1-1-2-2-1-2-2-15-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Investment management,'1-1-2-1-1-2-2-1-2-2-16-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Global Wealth and Investment Management (GWIM) manages assets of institutions and individuals. It is among the 10 largest U.S. wealth managers (ranked by private banking assets under management in accounts of $1 million or more as of June 30, 2005). In July 2006, Chairman Ken Lewis announced that GWIM's total assets under management exceeded $500 billion. GWIM has five primary lines of business: Premier Banking & Investments (including Bank of America Investment Services, Inc.), The Private Bank, Family Wealth Advisors, and Bank of America Specialist.",'1-1-2-1-1-2-2-1-2-2-16-2-1,2,0,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Bank of America has spent $675 million building its U.S. investment banking business and is looking to become one of the top five investment banks worldwide. ""Bank of America already has excellent relationships with the corporate and financial institutions world. Its clients include 98% of the Fortune 500 companies in the U.S. and 79% of the Global Fortune 500. These relationships, as well as a balance sheet that most banks would kill for, are the foundations for a lofty ambition.""",'1-1-2-1-1-2-2-1-2-2-16-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America has a new headquarters for its operations at the Bank of America Tower, New York City. The skyscraper is located on 42nd Street and Avenue of the Americas, at Bryant Park, and features state-of-the-art, environmentally friendly technology throughout its 2.1 million square feet (195,096 m²) of office space. The building is the headquarters for the company's investment banking division, and also hosts most of Bank of America's New York-based staff.",'1-1-2-1-1-2-2-1-2-2-16-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'An April 21, 2012 article by The New York Times named the Bank of America as a corporate member of the American Legislative Exchange Council.",'1-1-2-1-1-2-2-1-2-2-16-2-4,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'International operations,'1-1-2-1-1-2-2-1-2-2-17-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'In 2005, Bank of America acquired a 9% stake in China Construction Bank, one of the Big Four banks in China, for $3 billion. It represented the company's largest foray into China's growing banking sector. Bank of America has offices in Hong Kong, Shanghai, and Guangzhou and was looking to greatly expand its Chinese business as a result of this deal. In 2008, Bank of America was awarded Project Finance Deal of the Year at the 2008 ALB Hong Kong Law Awards. In November 2011, Bank of America announced plans to divest most of its stake in the China Construction Bank.",'1-1-2-1-1-2-2-1-2-2-17-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'Bank of America operated under the name BankBoston in many other Latin American countries, including Brazil. In 2006, Bank of America sold BankBoston's operations to Brazilian bank Banco Itaú, in exchange for Itaú shares. The BankBoston name and trademarks were not part of the transaction and, as part of the sale agreement, cannot be used by Bank of America. ( exhausting the BankBoston brand.)",'1-1-2-1-1-2-2-1-2-2-17-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America's Global Corporate and Investment Banking spans the Globe with divisions in United States, Europe, and Asia. The U.S. headquarters are located in New York, European headquarters are based in London, and Asian headquarters are based in Hong Kong.",'1-1-2-1-1-2-2-1-2-2-17-2-3,2,0,0,1,0,2,0,0,1,2,1,0,0,1,1,1,0,0,0,0,0,0,2,I
+'Management practices,'1-1-2-1-1-2-2-1-2-2-18,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Bank of America branch in Washington, D.C.",'1-1-2-1-1-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'This section,'1-1-2-1-2-1-2-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'reads like a news release,'1-1-2-1-2-1-2-2-1,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"', or is otherwise written in an overly promotional tone.",'1-1-2-1-2-1-2-2-2-1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Please help by either rewriting this article from a neutral point of view or by moving this article to Wikinews. When appropriate, blatant advertising may be marked for speedy deletion with {{db-spam}}.",'1-1-2-1-2-1-2-2-2-2-1,2,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'(August 2013),'1-1-2-1-2-1-2-2-2-2-2,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,2,I
+"'Bank of America underwent many structural changes over five years, which resulted in the development of new management practices. The CEO is directly responsible for the day to day operations of the company and he in turn reports to the board of directors who monitor his and the company's performance. The CEO works with a group of officers looking over various areas of the company. Each office also has its own senior management followed by a range of both mid-level and entry-level positions.",'1-1-2-1-2-2-1-1-1,2,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Bank of America portrays itself as a team consisting of the CEO and officers underneath him who have a united goal of providing opportunities for customers and clients. This division of offices suggests that the large company is engaging in division of labor but is keeping offices tied together through senior management.,'1-1-2-1-2-2-1-1-2,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'As a whole, Bank of America strongly demonstrates the importance of teamwork and suggests that their main goals are to trust the team, embrace the power of the people, act responsibly and promote opportunity. This idea of teamwork ties in closely with job autonomy and the feeling of social control and belonging. Bank of America is also a strong supporter of an open dialogue between employees and senior leadership. There is direct response from senior management to employee emails and a Speak Up! internal information sharing platform where ideas can be presented. The Hawthorne Study found that people increased their production levels when they felt cohesion by working as a team. Roethlisberger and William also found that as workers worked in teams and became a cohesive unity, they increased their perception of their colleagues and often became friends.",'1-1-2-1-2-2-1-1-3,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On a similar note Bank of America has its employees volunteer for a variety of community service programs, which also helps provide a sense of community within the work force and brings employees closer together. Through volunteering in local areas, Bank of America employees demonstrate a strong force within the community in which they live. This form of volunteering makes the company act like a community within itself, which can increase employee morale and the feeling of being a part of a team and demonstrates that the company is engaging in High Commitment work practices. The group activities provide a feeling of belonging, which is associated with Human Relations where the social organizational structure of the company plays a large role in determining employees feeling of a collective unit.",'1-1-2-1-2-2-1-1-4,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On the main webpage, Bank of America states its vision, which includes employee well-being and benefits, embracing diversity, training development and recognition and employee commitment. However most importantly it recognizes its employees by praising efforts such that individuals or teams receive personalized e-cards to show that they are acknowledged for embracing the company’s core values. The company also rewards its employees by providing employees with “recognition awards” which can be exchanged for merchandise or gift cards or employees can receive “appreciation points” which can accumulate for future redemption. These incentives are only for entry-level to mid-level employees. These career incentives provide evidence for bureaucratic control within the company.",'1-1-2-1-2-2-1-1-5,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'All employees receive life management benefits such as tuition reimbursement, child care benefits and an employee assistance program which provides confidential services for families and health care including medical, dental and vision benefits. Bank of America bases itself on a “pay-for-performance” culture and therefore they have a Rewards Program in place to reward employees for contributing to the success of the company. At the senior level compensation is heavily oriented towards long term incentive plans which vest over a multi year period encouraging managers to both stay at the company as well as focus on long term as opposed to short term profitability. At the lower level the long-term incentives are a smaller percentage of overall compensation but the company still provides long-term incentives for all employees for example the 401(k) plans are heavily geared toward increasing payment based on the number of years of service.",'1-1-2-1-2-2-1-1-6,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Bank of America provides resources for current employees such as the ability to search for other jobs available within Bank of America, coaching and global learning programs. Bank of America has an employee-learning curriculum where employees can take thousands of different courses with tuition reimbursement. This allows employees to further their skills in current positions and also provides the opportunity to advance into other jobs. This further provides evidence of bureaucratic control within the company as employees have the ability to move up in the job hierarchy.",'1-1-2-1-2-2-1-1-7,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Another form of motivation and authority seen at the Bank of America is in the charismatic leadership of the CEO. The face of the CEO is present throughout Bank of America including the website, offices and the annual report to shareholders. Not only is his physical presence seen throughout the company but he also writes letters to clients, shareholders, and on manuals such as the code of ethics, which can motivate people to trust him to manage the company well and to work hard for him. He is also seen throughout the world of finance as a “nice” boss and one that is trying to prove to the world that he is capable of fixing the problems that arose in the past five years.",'1-1-2-1-2-2-1-1-8,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America also expresses its commitment to ensuring that its suppliers use responsible practices and goes as far as surveying suppliers to assess their performance and practices. Bank of America also commits itself to using local economies in order to be environmental and help boost local businesses.,'1-1-2-1-2-2-1-1-9,2,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Due to the team focus, diversity, and job autonomy there seems to be a lot of High Commitment work practices within the Bank of America workforce. Although there is a hierarchy, there does appear to be the ability to move up in the workforce and the CEO works as a team with officers below him. Incentives are also used to ensure people are contributing to the success of the company and want to stay with Bank of America for many years. These practices encourage creativity and commitment from the employees to the company and are a product of bureaucratic control.",'1-1-2-1-2-2-1-1-10,2,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Corporate affairs,'1-1-2-1-2-2-1-2-1-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Board of directors,'1-1-2-1-2-2-1-2-1-2,0,0,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,C
+"'Susan Bies, former Governor of the Federal Reserve Board",'1-1-2-1-2-2-1-2-2-1,0,1,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+"'William Boardman, former Chairman of Visa International Inc.",'1-1-2-1-2-2-1-2-2-2,0,1,0,1,0,2,1,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,2,I
+"'Frank P. Bramble Sr, former Executive Officer, MBNA Corporation",'1-1-2-1-2-2-1-2-2-3-1,0,1,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Virgis W. Colbert, (69), senior advisor, MillerCoors Company",'1-1-2-1-2-2-1-2-2-3-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+"'Charles K. Gifford, former Chairman, Bank of America Corporation",'1-1-2-1-2-2-1-2-2-4,0,1,0,1,0,2,1,0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,2,I
+"'Charles O. Holliday, Chairman, Bank of America Corporation, former Chairman and CEO of DuPont",'1-1-2-1-2-2-1-2-2-5,1,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,1,0,1,0,0,0,2,I
+"'D. Paul Jones, lawyer and former CEO of Compass Bancshares, a Birmingham, Alabama bank now part of Banco Bilbao Vizcaya Argentaria SA",'1-1-2-1-2-2-1-2-2-6,1,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Brian T. Moynihan, President and Chief Executive Officer, Bank of America Corporation",'1-1-2-1-2-2-1-2-2-7,1,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Monica C. Lozano, Publisher and Chief Executive Officer of La Opinión",'1-1-2-1-2-2-1-2-2-8,1,1,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Walter E. Massey, former Chairman, Bank of America Corporation, President Emeritus, Morehouse College",'1-1-2-1-2-2-1-2-2-9-1,1,1,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Mukesh Ambani,Director and Chairman, Reliance Industries",'1-1-2-1-2-2-1-2-2-9-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+"'Thomas J. May, Chairman, President and Chief Executive Officer, NSTAR",'1-1-2-1-2-2-1-2-2-10,1,1,0,1,0,2,1,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,2,I
+"'Donald E. Powell, former Chairman of the Federal Deposit Insurance Corp.",'1-1-2-1-2-2-1-2-2-11,1,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,1,0,1,0,0,0,2,I
+"'Charles O. Rossotti, (68) senior advisor, The Carlyle Group",'1-1-2-1-2-2-1-2-2-12,0,1,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Thomas M. Ryan, President and Chief Executive Officer, CVS Caremark Corporation",'1-1-2-1-2-2-1-2-2-13-1,1,1,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Robert W. Scully, former member, Office of the Chairman of Morgan Stanley",'1-1-2-1-2-2-1-2-2-13-2,1,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,2,I
+'Financial data,'1-1-2-1-2-2-1-3,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Asset & Liability,'1-1-2-1-2-2-2-1-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Asset/Liability Ratio,'1-1-2-1-2-2-2-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Net Income,'1-1-2-1-2-2-2-3-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,2,I
+'Major shareholders,'1-1-2-1-3-1-1,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Individual,'1-1-2-1-3-1-2-1-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'Shares held,'1-1-2-1-3-1-2-1-2,0,0,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+'Thomas K. Montag (Co-Chief Operating Officer),'1-1-2-1-3-1-2-2-1,0,0,0,1,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'752,627",'1-1-2-1-3-1-2-2-2,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bruce R. Thompson (Chief Financial Officer),'1-1-2-1-3-1-2-3-1,0,0,0,1,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'688,315",'1-1-2-1-3-1-2-3-2,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Brian T. Moynihan (President and Chief Executive Officer),'1-1-2-1-3-1-2-4-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'595,740",'1-1-2-1-3-1-2-4-2,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Terrence (Terry) P. Laughlin (Chief Risk Officer),'1-1-2-1-3-1-2-5-1,0,0,0,1,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'325,091",'1-1-2-1-3-1-2-5-2,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Gary G. Lynch (Global General Counsel and Head of Compliance & Regulatory Relations),'1-1-2-1-3-1-2-6-1,1,0,0,1,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'228,926",'1-1-2-1-3-1-2-6-2,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Institutions,'1-1-2-1-3-1-3-1-1,0,0,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Shares held,'1-1-2-1-3-1-3-1-2,0,0,0,1,1,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1,C
+'% held,'1-1-2-1-3-1-3-1-3,0,0,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,C
+'State Street Corp,'1-1-2-1-3-1-3-2-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'460,496,575",'1-1-2-1-3-1-3-2-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'4.54,'1-1-2-1-3-1-3-2-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Vanguard Group,'1-1-2-1-3-1-3-3-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'375,365,877",'1-1-2-1-3-1-3-3-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'3.70,'1-1-2-1-3-1-3-3-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'BlackRock Institutional Trust Company,N.A.",'1-1-2-1-3-1-3-4-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'256,552,573",'1-1-2-1-3-1-3-4-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2.53,'1-1-2-1-3-1-3-4-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'JP Morgan Chase & Co,'1-1-2-1-3-1-3-5-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,2,I
+"'204,909,812",'1-1-2-1-3-1-3-5-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2.02,'1-1-2-1-3-1-3-5-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Wellington Management Co,'1-1-2-1-3-1-3-6-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'161,691,214",'1-1-2-1-3-1-3-6-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1.60,'1-1-2-1-3-1-3-6-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Capital Research Global Investors,'1-1-2-1-3-1-3-7-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'131,327,985",'1-1-2-1-3-1-3-7-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1.30,'1-1-2-1-3-1-3-7-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bank of New York Mellon Corp,'1-1-2-1-3-1-3-8-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,2,I
+"'116,396,174",'1-1-2-1-3-1-3-8-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1.15,'1-1-2-1-3-1-3-8-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Capital World Investors,'1-1-2-1-3-1-3-9-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'112,200,000",'1-1-2-1-3-1-3-9-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1.11,'1-1-2-1-3-1-3-9-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Northern Trust Corp.,'1-1-2-1-3-1-3-10-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'111,873,089",'1-1-2-1-3-1-3-10-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1.10,'1-1-2-1-3-1-3-10-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Franklin Resources Inc.,'1-1-2-1-3-1-3-11-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'111,852,815",'1-1-2-1-3-1-3-11-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1.10,'1-1-2-1-3-1-3-11-3,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,2,I
+'Capital Research Global Investors and Capital World Investors are both owned by parent company Capital Group Companies,'1-1-2-1-3-2-1-1-1-1,1,1,0,1,0,2,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,N
+"'Data from Yahoo! Finance as of March 10, 2014",'1-1-2-1-3-2-1-1-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,3,N
+'Other individuals,'1-1-2-1-3-2-1-1-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+"'Jonathan Finger, whose Houston-based family owns more than 1 million shares of stock and has pressed for boardroom changes.",'1-1-2-1-3-2-1-1-2-2-1,1,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'IPIC Group Ltd., a private Delaware-based investment firm, is seeking to become Bank of America's largest institutional shareholder.",'1-1-2-1-3-2-1-1-2-2-2,1,0,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Warren Buffett, in August 2011, agreed to invest $5 billion through Berkshire Hathaway for 50,000 preferred shares along with warrants to purchase up to 700,000,000 shares at US$7.14 though August 2021. The bank has the option to buy back the shares for a 5 percent premium.",'1-1-2-1-3-2-1-1-2-2-3,2,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Corporate social responsibility,'1-1-2-1-3-2-1-1-3-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In addition to its new eco-friendly office tower in Manhattan, Bank of America has pledged to spend billions on commercial lending and investment banking for projects that it considers ""green"". The corporation supplied all of its employees with cash incentives to buy hybrid vehicles, and began providing mortgage loan breaks for customers whose homes qualified as energy efficient. In 2007, Bank of America partnered with Brighter Planet to offer an eco-friendly credit card, and later a debit card, which help build renewable energy projects with each purchase. The corporation recently completed the new 1 Bank of America Center in Uptown Charlotte. The tower, and accompanying hotel, will be a LEED-certified building.",'1-1-2-1-3-2-1-1-3-2-1,2,0,0,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Bank of America has also donated money to help health centers in Massachusetts and made donations to help homeless shelters in Miami.,'1-1-2-1-3-2-1-1-3-2-2,1,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2004, the bank pledged $750 billion over a ten-year period for community development lending and investment. The company had delivered more than $230 billion against a ten-year commitment of $350 billion made in 1998 to provide affordable mortgage, build affordable housing, support small business and create jobs in disadvantaged neighborhoods.",'1-1-2-1-3-2-1-1-3-2-3,2,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Lawsuits,'1-1-2-1-3-2-1-1-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In August 2011, Bank of America was sued for $10 billion by American International Group Inc. Another lawsuit filed in September 2011 pertained to $57.5 billion in mortgage-backed securities Bank of America sold to Fannie Mae and Freddie Mac.",'1-1-2-1-3-2-1-1-4-2-1,2,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In December 2011, Bank of America agreed to pay $335 million to settle a federal government claim that Countrywide Financial had discriminated against Hispanic and African-American homebuyers from 2004 to 2008, prior to being acquired by BofA.",'1-1-2-1-3-2-1-1-4-2-2,2,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In September 2012, BofA settled out of court for $2.4 billion in a class action lawsuit filed by BofA shareholders who felt they were misled about the purchase of Merrill Lynch.",'1-1-2-1-3-2-1-1-4-2-3,2,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On October 24, 2012, American federal prosecutors filed a $1 billion civil lawsuit against BofA for mortgage fraud under the False Claims Act, which provides for possible penalties of triple the damages suffered. The government asserted that Countrywide, which was acquired by BofA, rubber-stamped mortgage loans to risky borrowers and forced taxpayers to guarantee billions of bad loans through Fannie Mae and Freddie Mac. The suit was filed by Preet Bharara, the United States attorney in Manhattan, the inspector general of FHFA and the special inspector for the Troubled Asset Relief Program. In March 2014, Bank of America settled the suit by agreeing to pay $6.3 billion to Fannie Mae and Freddie Mac and to buy back around $3.2 billion worth of mortgage bonds.",'1-1-2-1-3-2-1-1-4-2-4,2,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Controversies,'1-1-2-1-3-2-1-1-5-1-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Parmalat controversy,'1-1-2-1-3-2-1-1-5-1-2,0,0,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+"'Parmalat SpA is a multinational Italian dairy and food corporation. Following Parmalat's 2003 bankruptcy, the company sued Bank of America for $10 billion, alleging the bank profited from its knowledge of Parmalat's financial difficulties. The parties announced a settlement in July 2009, resulting in Bank of America paying Parmalat $98.5 million in October 2009. In a related case, on April 18, 2011, an Italian court acquitted Bank of America and three other large banks, along with their employees, of charges they assisted Parmalat in concealing its fraud, and of lacking sufficient internal controls to prevent such frauds. Prosecutors did not immediately say whether they would appeal the rulings. In Parma, the banks were still charged with covering up the fraud.",'1-1-2-1-3-2-1-1-5-2,2,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,I
+'Consumer credit controversies,'1-1-2-1-3-2-1-1-6-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In January 2008, Bank of America began notifying some customers without payment problems that their interest rates were more than doubled, up to 28%. The bank was criticized for raising rates on customers in good standing, and for declining to explain why it had done so. In September 2009, a Bank of America credit card customer, Ann Minch, posted a video on YouTube criticizing the bank for raising her interest rate. After the video went viral, she was contacted by a Bank of America representative who lowered her rate. The story attracted national attention from television and internet commentators. More recently, the bank has been criticized for allegedly seizing three properties that were not under their ownership, apparently due to incorrect addresses on their legal documents.",'1-1-2-1-3-2-1-1-6-2,2,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'WikiLeaks,'1-1-2-1-3-2-1-1-7-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In October 2009, WikiLeaks representative Julian Assange reported that his organization possessed a 5 gigabyte hard drive formerly used by a Bank of America executive and that Wikileaks intended to publish its contents.",'1-1-2-1-3-2-1-1-7-2-1,2,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In November 2010, Forbes magazine published an interview with Assange in which he stated his intent to publish information which would turn a major U.S. bank ""inside out"". In response to this announcement, Bank of America stock dropped 3.2%.",'1-1-2-1-3-2-1-1-7-2-2,2,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'In December 2010, Bank of America announced that it would no longer service requests to transfer funds to WikiLeaks, stating that ""Bank of America joins in the actions previously announced by MasterCard, PayPal, Visa Europe and others and will not process transactions of any type that we have reason to believe are intended for WikiLeaks… This decision is based upon our reasonable belief that WikiLeaks may be engaged in activities that are, among other things, inconsistent with our internal policies for processing payments.""",'1-1-2-1-3-2-1-1-7-2-3,2,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In late December it was announced that Bank of America had bought up more than 300 Internet domain names in an attempt to preempt bad publicity that might be forthcoming in the anticipated WikiLeaks release. The domain names included as BrianMoynihanBlows.com, BrianMoynihanSucks.com and similar names for other top executives of the bank. Nick Baumann of Mother Jones ridiculed this effort, stating: ""If I owned stock in Bank of America, this would not give me confidence that the bank is prepared for whatever Julian Assange is planning to throw at it.""",'1-1-2-1-3-2-1-1-7-2-4,2,0,0,1,0,2,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Sometime before August 2011, it is claimed by WikiLeaks that 5 GB of Bank of America leaks was part of the deletion of over 3500 communications by Daniel Domscheit-Berg, a now ex-WikiLeaks volunteer.",'1-1-2-1-3-2-1-1-7-2-5,2,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Anonymous,'1-1-2-1-3-2-1-1-8-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'On March 14, 2011, one or more members of the decentralized collective Anonymous began releasing emails it said were obtained from Bank of America. According to the group, the emails document ""corruption and fraud"", and relate to the issue of improper foreclosures. The source, identified publicly as Brian Penny, was a former LPI Specialist from Balboa Insurance, a firm which used to be owned by the bank, but was sold to Australian Reinsurance Company QBE.",'1-1-2-1-3-2-1-1-8-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Mortgage business,'1-1-2-1-3-2-1-1-9-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'The state of Arizona has investigated Bank of America for misleading homeowners who sought to modify their mortgage loans. According to the attorney general of Arizona, the bank ""repeatedly has deceived"" such mortgagors. In response to the investigation, the bank has given some modifications on the condition that the homeowners refrain from criticizing the bank.",'1-1-2-1-3-2-1-1-9-2,2,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Gun stores,'1-1-2-1-3-2-1-1-10-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'According to Kelly McMillan, operations director of McMillan Firearms, in April 2012, Bank of America began terminating its business relationships with the company. McMillan said the company's accounts were in good standing and that a bank representative, Ray Fox, said the bank felt McMillan had moved from simple accessories to more involvement with manufacturing firearms. According to McMillan, when asked if this was a political decision, Fox replied that it was. Bank of America again closed service to a legally qualified gun store in January 2013. American Spirit Arms owner Joe Sirochman says Bank of America froze his account and later told him they did not believe he should be selling gun parts on the internet.",'1-1-2-1-3-2-1-1-10-2,2,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Notable buildings,'1-1-2-1-3-2-1-1-11-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Notable buildings which Bank of America currently occupies include:,'1-1-2-1-3-2-1-1-11-2-1,0,0,0,1,0,2,0,2,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,C
+"'Bank of America Tower in Phoenix, Arizona",'1-1-2-1-3-2-1-1-11-2-2-1,0,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,1,I
+'Bank of America Center in Los Angeles,'1-1-2-1-3-2-1-1-11-2-2-2,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'555 California Street, formerly the Bank of America Center and world headquarters, in San Francisco",'1-1-2-1-3-2-1-1-11-2-2-3,1,1,0,1,0,2,1,0,1,2,1,1,1,1,1,1,0,0,1,0,0,0,2,I
+"'Bank of America Plaza in Fort Lauderdale, Florida",'1-1-2-1-3-2-1-1-11-2-2-4,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Tower in Jacksonville, Florida",'1-1-2-1-3-2-1-1-11-2-2-5,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Tower in Miami, Florida",'1-1-2-1-3-2-1-1-11-2-2-6,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Center in Orlando, Florida",'1-1-2-1-3-2-1-1-11-2-2-7,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Tower in St. Petersburg, Florida",'1-1-2-1-3-2-1-1-11-2-2-8,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Plaza in Tampa, Florida",'1-1-2-1-3-2-1-1-11-2-2-9,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Plaza in Atlanta, Georgia (the tallest U.S. building outside of NYC and Chicago)",'1-1-2-1-3-2-1-1-11-2-2-10,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Building, formerly the LaSalle Bank Building in Chicago, Illinois",'1-1-2-1-3-2-1-1-11-2-2-11,1,1,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+"'One City Center, often called the Bank of America building due to signage rights, in Portland, Maine",'1-1-2-1-3-2-1-1-11-2-2-12-1,1,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Bank of America Building in Baltimore, Maryland",'1-1-2-1-3-2-1-1-11-2-2-12-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Plaza in St Louis, Missouri",'1-1-2-1-3-2-1-1-11-2-2-13,0,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Tower in Albuquerque, New Mexico",'1-1-2-1-3-2-1-1-11-2-2-14,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Tower in New York City,'1-1-2-1-3-2-1-1-11-2-2-15,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Corporate Center in Charlotte, North Carolina (The corporate headquarters)",'1-1-2-1-3-2-1-1-11-2-2-16,1,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,1,0,0,0,2,I
+"'Bank of America Plaza in Charlotte, North Carolina",'1-1-2-1-3-2-1-1-11-2-2-17,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Building in Providence, Rhode Island",'1-1-2-1-3-2-1-1-11-2-2-18,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Plaza in Dallas, Texas",'1-1-2-1-3-2-1-1-11-2-2-19,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Center in Houston, Texas",'1-1-2-1-3-2-1-1-11-2-2-20,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Tower in Midland, Texas",'1-1-2-1-3-2-1-1-11-2-2-21,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Plaza in San Antonio, Texas",'1-1-2-1-3-2-1-1-11-2-2-22,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Bank of America Fifth Avenue Plaza in Seattle, Washington",'1-1-2-1-3-2-1-1-11-2-2-23,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Columbia Center in Seattle, Washington",'1-1-2-1-3-2-1-1-11-2-2-24,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Bank of America Tower in Hong Kong,'1-1-2-1-3-2-1-1-11-2-2-25,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,0,0,0,2,I
+"'City Place I, also known as United Healthcare Center, in Hartford, Connecticut (The tallest building in Connecticut)",'1-1-2-1-3-2-1-1-11-2-2-26,1,1,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Bank of America Building in Newark, Delaware, formerly MBNA Executive Headquarters in Newark, Delaware",'1-1-2-1-3-2-1-1-11-2-2-27-1,1,1,0,1,0,2,1,0,1,2,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+"'Bank of America Stadium in Charlotte, North Carolina",'1-1-2-1-3-2-1-1-11-2-2-27-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'See also,'1-1-2-1-3-2-1-1-12,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Bank of America Plaza (Atlanta),'1-1-2-1-3-2-1-2,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,N
+'Wikimedia Commons has media related to Bank of America.,'1-1-2-1-3-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,3,N
+'North Carolina portal,'1-1-2-1-3-3-1-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'San Francisco Bay Area portal,'1-1-2-1-3-3-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Companies portal,'1-1-2-1-3-3-3-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'BAML Capital Partners,'1-1-2-1-4-1-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Bank of America (Asia),'1-1-2-1-4-1-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,1,1,0,0,3,I
+'Bank of America Canada,'1-1-2-1-4-1-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+"'Calibuso, et al. v. Bank of America Corp., et al.",'1-1-2-1-4-1-4,1,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Death of Kevin Flanagan,'1-1-2-1-4-1-5,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'List of bank mergers in United States,'1-1-2-1-4-1-6,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,1,0,0,1,0,0,0,2,N
+'Further reading,'1-1-2-1-4-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,3,C
+"'Bonadio, Felice A. (1994). A.P. Giannini: Banker of America. Berkeley, CA: University of California Press. ISBN 0-520-08249-4.",'1-1-2-1-4-2-2-1,1,1,0,1,0,2,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,I
+"'Hector, Gary (1988). Breaking the Bank: The Decline of BankAmerica. Boston: Little, Brown. ISBN 0-316-35392-2.",'1-1-2-1-4-2-2-2,1,1,0,1,0,2,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'James, Marquie; James, Bessie (1954). Biography of a Bank: The Story of Bank of America N.T.&S.A. New York: Harper and Brothers.  Cite uses deprecated parameters (help)",'1-1-2-1-4-2-2-3,1,1,0,1,0,2,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Johnston, Moira (1990). Roller Coaster: The Bank of America and the Future of American Banking. New York: Ticknor & Fields.",'1-1-2-1-4-2-2-4,1,1,0,1,0,2,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Josephson, Matthew (1972). The Money Lords: The Great Finance Capitalists, 1925–1950. New York: Weybright and Talley.",'1-1-2-1-4-2-2-5,1,1,0,1,0,2,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Lampert, Hope (1986). Behind Closed Doors: Wheeling and Dealing in the Banking World. New York: Atheneum.",'1-1-2-1-4-2-2-6-1,1,1,0,1,0,2,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Light, Larry (October 1, 2007). ""Money for the Masses"". Forbes.",'1-1-2-1-4-2-2-6-2,1,1,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,2,I
+"'Monnette, Orra Eugene. Personal Papers Collection. Los Angeles, CA: Los Angeles Public Library.",'1-1-2-1-4-2-2-7,1,1,0,1,0,2,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Nash, Gerald G. (1992). A.P. Giannini and the Bank of America. Norman, OK: University of Oklahoma Press.",'1-1-2-1-4-2-2-8,1,1,0,1,0,2,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Yockey, Ross (1999). McColl: The Man with America's Money. Atlanta: Longstreet Press.",'1-1-2-1-4-2-2-9,1,1,0,1,0,2,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Ahmed, Azam; Demirjian, Karoun (February 15, 2007). ""Credit offered to illegal residents"". Chicago Tribune.  Cite uses deprecated parameters (help)",'1-1-2-1-4-2-2-10-1,1,1,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Taibbi, Matt (March 14, 2012). ""Bank of America: Too Crooked to Fail"". Rolling Stone.",'1-1-2-1-4-2-2-10-2,1,1,0,1,0,2,1,1,1,1,0,0,0,1,0,0,0,1,1,0,0,0,2,I
+'Bank of America,'1-1-2-2-1-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'Divisions,'1-1-2-2-1-2-1-1,0,0,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Bank of America Home Loans,'1-1-2-2-1-2-1-2-1,0,0,0,1,0,2,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,I
+'Bank of America Merrill Lynch,'1-1-2-2-1-2-1-2-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Merrill Lynch,'1-1-2-2-1-2-1-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'U.S. Trust,'1-1-2-2-1-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Buildings,'1-1-2-2-1-2-1-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'555 California Street (San Francisco),'1-1-2-2-1-2-1-4-2-1,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,I
+'701 Brickell Avenue,'1-1-2-2-1-2-1-4-2-2,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Albuquerque Plaza,'1-1-2-2-1-2-1-4-2-3,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'American Security and Trust Company Building (Washington, D.C.)",'1-1-2-2-1-2-1-4-2-4,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Building (Baltimore),'1-1-2-2-1-2-1-4-2-5,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Building (Midland),'1-1-2-2-1-2-1-4-2-6,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Building (Oakland),'1-1-2-2-1-2-1-4-2-7,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Building (Providence),'1-1-2-2-1-2-1-4-2-8,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Center (Baltimore),'1-1-2-2-1-2-1-4-2-9,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Center (Houston),'1-1-2-2-1-2-1-4-2-10,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Center (Los Angeles),'1-1-2-2-1-2-1-4-2-11,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Center (Norfolk),'1-1-2-2-1-2-1-4-2-12,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Center (Tulsa),'1-1-2-2-1-2-1-4-2-13-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Bank of America Corporate Center (Charlotte),'1-1-2-2-1-2-1-4-2-13-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Plaza (Atlanta),'1-1-2-2-1-2-1-4-2-14-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Bank of America Plaza (Charlotte),'1-1-2-2-1-2-1-4-2-14-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Plaza (Chicago),'1-1-2-2-1-2-1-4-2-15,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Bank of America Plaza (Dallas),'1-1-2-2-1-2-1-4-2-16,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Plaza (Fort Lauderdale),'1-1-2-2-1-2-1-4-2-17,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Plaza (St. Louis),'1-1-2-2-1-2-1-4-2-18,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Plaza (Tampa),'1-1-2-2-1-2-1-4-2-19,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Tower (Jacksonville),'1-1-2-2-1-2-1-4-2-20,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Tower (New York City),'1-1-2-2-1-2-1-4-2-21,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Tower (Phoenix),'1-1-2-2-1-2-1-4-2-22,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Bank of America Tower (St. Petersburg),'1-1-2-2-1-2-1-4-2-23,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Boulder Towers,'1-1-2-2-1-2-1-4-2-24,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Hearst Tower (Charlotte),'1-1-2-2-1-2-1-4-2-25,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Miami Tower,'1-1-2-2-1-2-1-4-2-26,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Museum Tower,'1-1-2-2-1-2-1-4-2-27,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Category,'1-1-2-2-1-2-2-1,0,0,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Commons,'1-1-2-2-1-2-2-2,0,0,0,1,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'50 largest banks and bank holding companies in the United States,'1-1-2-2-2-1-1,1,0,0,2,1,0,1,0,1,1,0,1,0,0,0,1,0,0,1,1,1,1,3,C
+'Ally American Express American International Group BancWest*,'1-1-2-2-2-1-2-1-1,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Bank of America,'1-1-2-2-2-1-2-1-2-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,2,I
+'Bank of New York Mellon BB&T BBVA Compass* BMO Harris* BOK Financial Capital One Charles Schwab CIT Citigroup Citizens Financial Group* City National (California) Comerica Deutsche Bank* Discover E-Trade Fifth Third First Niagara GE Capital Goldman Sachs HSBC Bank USA* Hudson City Huntington John Deere Capital JPMorgan Chase Key M&T Morgan Stanley New York Community Northern Trust People's United PNC Popular Principal Regions Santander* State Street SunTrust Synovus TD Bank* UnionBanCal* U.S. Bank USAA Utrecht-America* Wells Fargo Zions,'1-1-2-2-2-1-2-1-2-2,2,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'* indicates the U.S. subsidiary of a non-U.S. bank. Inclusion on this list is based on U.S. assets only, and is current as of September 30, 2013.",'1-1-2-2-2-1-2-2,1,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,2,N
+'Articles and topics related to Bank of America,'1-1-2-2-2-2-1,1,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,3,N
+'Great Recession,'1-1-2-2-2-2-2-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,3,N
+"'By region
+
+Africa
+Americas United States
+
+Asia
+Europe
+Oceania
+South America",'1-1-2-2-2-2-2-1-2-1-1-1,0,1,0,2,1,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,3,C
+"'United States-specific
+
+Automotive industry crisis
+California budget crisis
+Housing bubble
+Housing market correction
+Subprime mortgage crisis",'1-1-2-2-2-2-2-1-2-1-1-2,1,1,0,2,1,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,1,C
+"'Banking losses and fraud
+
+Anglo Irish Bank hidden loans controversy
+Libor scandal
+Société Générale trading loss
+Forex scandal
+Seán FitzPatrick
+Bernard Madoff
+Allen Stanford",'1-1-2-2-2-2-2-1-2-1-1-3,1,1,0,2,1,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'Government entities,'1-1-2-2-2-2-2-1-2-1-1-4-1,0,0,0,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Consumer Financial Protection Bureau,'1-1-2-2-2-2-2-1-2-1-1-4-2-1,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Federal Deposit Insurance Corporation,'1-1-2-2-2-2-2-1-2-1-1-4-2-2-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'Federal Home Loan Banks,'1-1-2-2-2-2-2-1-2-1-1-4-2-2-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Federal Housing Administration,'1-1-2-2-2-2-2-1-2-1-1-4-2-3,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Federal Housing Finance Agency,'1-1-2-2-2-2-2-1-2-1-1-4-2-4,0,0,0,2,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Federal Housing Finance Board,'1-1-2-2-2-2-2-1-2-1-1-4-2-5,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Federal Reserve System,'1-1-2-2-2-2-2-1-2-1-1-4-2-6-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Government National Mortgage Association,'1-1-2-2-2-2-2-1-2-1-1-4-2-6-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Irish Bank Resolution Corporation,'1-1-2-2-2-2-2-1-2-1-1-4-2-7,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,0,0,0,1,0,0,0,2,I
+'National Asset Management Agency,'1-1-2-2-2-2-2-1-2-1-1-4-2-8-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Office of Federal Housing Enterprise Oversight,'1-1-2-2-2-2-2-1-2-1-1-4-2-8-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Office of Financial Stability,'1-1-2-2-2-2-2-1-2-1-1-4-2-9-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'UK Financial Investments,'1-1-2-2-2-2-2-1-2-1-1-4-2-9-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Government policy and spending responses,'1-1-2-2-2-2-2-1-2-1-2-1,0,0,0,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Banking and finance,'1-1-2-2-2-2-2-1-2-1-2-2-1-1-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'stability and reform,'1-1-2-2-2-2-2-1-2-1-2-2-1-1-2,0,0,0,2,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Anglo Irish Bank Corporation Act 2009,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-1,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,0,0,0,1,0,0,0,2,I
+'Banking (Special Provisions) Act 2008,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-2-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'China–Japan–South Korea trilateral summit,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-2-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Commercial Paper Funding Facility,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-3-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Dodd–Frank Wall Street Reform and Consumer Protection Act,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-3-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Emergency Economic Stabilization Act of 2008,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-4-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Irish emergency budget, 2009",'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-4-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Irish budget, 2010",'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-5,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Irish budget, 2011",'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-6,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Irish budget, 2012",'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-7-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Irish budget, 2013",'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-7-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Temporary Liquidity Guarantee Program,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-8,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Term Asset-Backed Securities Loan Facility,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-9-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Troubled Asset Relief Program,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-9-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'2008 United Kingdom bank rescue package,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-1-10,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,1,0,0,1,1,0,0,2,I
+'Bank stress tests,'1-1-2-2-2-2-2-1-2-1-2-2-1-2-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,1,2,C
+"'EU
+U.S.",'1-1-2-2-2-2-2-1-2-1-2-2-1-2-2-2,0,1,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Stimulus and recovery,'1-1-2-2-2-2-2-1-2-1-2-2-2-1,0,0,0,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'2008 European Union stimulus plan,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-1,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,0,0,0,1,I
+'2008–09 Keynesian resurgence,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-2,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'American Recovery and Reinvestment Act of 2009,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-3-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Chinese economic stimulus program,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-3-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Economic Stimulus Act of 2008,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-4-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Fraud Enforcement and Recovery Act of 2009,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-4-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Green New Deal,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-5,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Housing and Economic Recovery Act of 2008,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-6-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'National fiscal policy response to the Great Recession,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-6-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Zero interest-rate policy,'1-1-2-2-2-2-2-1-2-1-2-2-2-2-7,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Government interventions,",'1-1-2-2-2-2-2-1-2-1-2-2-3-1-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'rescues, and acquisitions",'1-1-2-2-2-2-2-1-2-1-2-2-3-1-2,0,0,0,2,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'List of banks acquired or bankrupted during the Great Recession,'1-1-2-2-2-2-2-1-2-1-2-2-3-2-1,1,0,0,2,0,2,1,0,1,2,0,1,0,0,0,0,0,0,1,0,0,0,2,I
+'Non-banking,'1-1-2-2-2-2-2-1-2-1-2-2-3-2-2-1,0,0,0,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Chrysler,'1-1-2-2-2-2-2-1-2-1-2-2-3-2-2-2-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'General Motors,'1-1-2-2-2-2-2-1-2-1-2-2-3-2-2-2-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,2,I
+"'Securities involved
+ and financial markets
+
+Auction rate securities
+Collateralized debt obligations
+Collateralized mortgage obligations
+Credit default swaps
+Mortgage-backed securities
+Secondary mortgage market",'1-1-2-2-2-2-2-1-2-1-3-1,1,1,0,2,1,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,C
+"'Social responses
+
+Tea Party protests (North America; c. 2009)
+California college tuition hike protests (North America; c. 2009)
+May Day protests (Europe, Asia; 2009)
+Occupy movement (worldwide)",'1-1-2-2-2-2-2-1-2-1-3-2,1,1,0,2,1,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,1,C
+'Related topics,'1-1-2-2-2-2-2-1-2-1-3-3-1,0,0,0,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'2000s energy crisis,'1-1-2-2-2-2-2-1-2-1-3-3-2-1-1-1,0,0,0,2,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Central Asia: 2008,'1-1-2-2-2-2-2-1-2-1-3-3-2-1-1-2,0,0,0,2,0,2,1,1,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Effects on museums,'1-1-2-2-2-2-2-1-2-1-3-3-2-1-2,0,0,0,2,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Future of newspapers,'1-1-2-2-2-2-2-1-2-1-3-3-2-2,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'World food price crisis,'1-1-2-2-2-2-2-1-2-1-3-3-2-3,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Eurozone crisis,'1-1-2-2-2-2-2-1-2-2-1,0,0,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Financial crisis of 2007–08,'1-1-2-2-2-2-2-1-2-2-2-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'List of countries by public debt,'1-1-2-2-2-2-2-1-2-2-2-2,0,0,0,2,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'50 largest banks and bank holding companies in the United States,'1-1-2-2-2-2-2-2-1,1,0,0,2,1,0,1,0,1,1,0,1,0,0,0,1,0,0,1,1,1,1,3,C
+'Ally American Express American International Group BancWest*,'1-1-2-2-2-2-2-2-2-1-1,0,1,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Bank of America,'1-1-2-2-2-2-2-2-2-1-2-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,1,1,1,2,I
+'Bank of New York Mellon BB&T BBVA Compass* BMO Harris* BOK Financial Capital One Charles Schwab CIT Citigroup Citizens Financial Group* City National (California) Comerica Deutsche Bank* Discover E-Trade Fifth Third First Niagara GE Capital Goldman Sachs HSBC Bank USA* Hudson City Huntington John Deere Capital JPMorgan Chase Key M&T Morgan Stanley New York Community Northern Trust People's United PNC Popular Principal Regions Santander* State Street SunTrust Synovus TD Bank* UnionBanCal* U.S. Bank USAA Utrecht-America* Wells Fargo Zions,'1-1-2-2-2-2-2-2-2-1-2-2,2,1,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'* indicates the U.S. subsidiary of a non-U.S. bank. Inclusion on this list is based on U.S. assets only, and is current as of September 30, 2013.",'1-1-2-2-2-2-2-2-2-2,1,1,0,2,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,2,N
+'Members of Euro Banking Association,'1-1-2-2-2-2-2-3-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,3,C
+"'Austria
+
+Allgemeine Sparkasse Oberösterreich
+Bank für Tirol und Vorarlberg AG
+BKS Bank AG
+Erste Group Bank AG
+Oberbank AG
+Oesterreichische Nationalbank
+Raiffeisen Zentralbank Österreich AG
+Raiffeisenlandesbank Oberösterreich AG
+Raiffeisen-Landesbank Tirol Aktiengesellschaft
+Steiermärkische Bank und Sparkassen AG",'1-1-2-2-2-2-2-3-2-1,1,1,0,2,1,2,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,C
+"'Belgium
+
+Dexia Bank NV
+KBC Bank NV
+Bank van De Post",'1-1-2-2-2-2-2-3-2-2,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Cyprus
+
+Bank of Cyprus
+Hellenic Bank",'1-1-2-2-2-2-2-3-2-3,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Denmark
+
+Amagerbanken A/S
+Arbejdernes Landsbank A/S
+Danske Andelskassers Bank A/S
+Danske Bank A/S
+DiBa Bank A/S
+Djurslands Bank A/S
+Jyske Bank A/S
+Nordjyske Bank A/S
+Nørresundby Bank
+Østjydsk Bank A/S
+Ringkjøbing Landbobank
+Roskilde Bank A/S
+Skjern Bank
+Spar Nord Bank
+Sparekassen Sjælland
+Sydbank A/S
+Vestfyns Bank A/S
+Vestjysk Bank",'1-1-2-2-2-2-2-3-2-4,2,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Finland
+
+Aktia Bank PLC
+Bank of Åland PLC
+Pohjola Bank PLC
+S-Bank LTD.
+Tapiola Bank LTD",'1-1-2-2-2-2-2-3-2-5,1,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'France
+
+Banque Michel Inchauspé - BAMI
+Banque Palatine
+BNP Paribas SA
+BPCE
+BRED Banque Populaire
+Crédit Agricole SA
+Crédit Coopératif
+Crédit du Nord
+Crédit Mutuel Arkéa
+Credit Mutuel CIC Banque
+HSBC France
+La Banque postale
+Natixis
+Société Générale",'1-1-2-2-2-2-2-3-2-6,1,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Germany
+
+Berenberg Bank
+BHF Bank
+Bremer Landesbank
+Commerzbank AG
+Deutsche Bank AG
+Deutsche Bundesbank
+Deutsche Postbank
+DZ Bank AG
+Europe Arab Bank Frankfurt
+Hamburger Sparkasse AG
+J.P. Morgan Chase Bank AG
+Landesbank Baden-Württemberg
+Landesbank Berlin Holding
+Landesbank Hessen-Thüringen
+Oldenburgische Landesbank
+SECB Swiss EURO CLEARING Bank GmbH
+The Bank of New York Mellon, Frankfurt Branch
+VTB Bank (Deutschland) AG",'1-1-2-2-2-2-2-3-2-7,2,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Greece
+
+Alpha Bank AE
+Eurobank Ergasias SA
+National Bank of Greece SA
+Piraeus Bank SA",'1-1-2-2-2-2-2-3-2-8,1,1,0,2,1,2,1,0,2,1,1,1,1,1,0,1,0,0,1,0,0,0,1,C
+"'Hungary
+
+Magyar Nemzeti Bank
+OTP Bank
+FHB Mortgage Bank
+Merkantil Bank
+Kereskedelmi és Hitelbank
+Magyar Takarékszövetkezeti Bank
+MKB Bank
+Porsche Bank Hungaria
+Kinizsi Bank
+Magnet Bank
+Hanwha Bank
+Budapest Hitel- és Fejlesztési Bank",'1-1-2-2-2-2-2-3-2-9,1,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Ireland
+
+Allied Irish Banks
+Bank of Ireland",'1-1-2-2-2-2-2-3-2-10,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Italy
+
+Banca Agricola Popolare di Ragusa
+Banca del Fucino
+Banca del Piemonte
+Banca delle Marche S.p.A.
+Banca di Imola S.p.A.
+Banca di Romagna S.p.A.
+Banca d'Italia
+Monte dei Paschi di Siena
+Banca Monte Parma
+Banca Nazionale del Lavoro
+Banca Popolare del Lazio
+Banca Popolare dell'Emilia Romagna
+Banca Popolare di Milano
+Banca Popolare di Sondrio
+Banca Popolare di Spoleto
+Banca Popolare di Vicenza
+Banca Sella
+Bancaperta S.p.A.
+Banco Popolare Società Cooperativa
+Cassa di Risparmio della Provincia di Chieti S.p.A.
+Cassa di Risparmio della Provincia di Teramo S.p.A.
+Cassa di Risparmio di Cesena S.p.A.
+Cassa di Risparmio di Fermo S.p.A.
+Cassa di Risparmio di Ferrara S.p.A.
+Cassa di Risparmio di Loreto S.p.A.
+Cassa di Risparmio di Ravenna S.p.A.
+Credito Emiliano S.p.A.
+ICCREA Banca
+Intesa Sanpaolo
+Istituto Centrale delle Banche Popolari Italiane
+Raiffeisen Landesbank Südtirol – Cassa Centrale Raiffeisen dell'Alto Adige
+Südtiroler Volksbank – Banca Popolare dell'Alto Adige
+UBI Banca
+Unipol Banca
+UniCredit
+Veneto Banca",'1-1-2-2-2-2-2-3-2-11,2,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Luxembourg
+
+Banque et Caisse d'Épargne de l'État
+Banque Raiffeisen
+Dexia Banque Internationale à Luxembourg SA
+KBL European Private Bankers
+Société Générale Bank & Trust",'1-1-2-2-2-2-2-3-2-12,1,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Netherlands
+
+ABN Amro Bank NV
+De Nederlandsche Bank
+ING Bank NV
+Rabobank Nederland",'1-1-2-2-2-2-2-3-2-13,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Poland
+
+Bank BPH SA
+Narodowy Bank Polski",'1-1-2-2-2-2-2-3-2-14,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Portugal
+
+Banco BPI SA
+Banco Comercial Português
+Banco Espírito Santo
+Caixa Central de Crédito Agrícola Mútuo
+Caixa Geral de Depósitos",'1-1-2-2-2-2-2-3-2-15,1,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Slovenia
+
+Banka Slovenije",'1-1-2-2-2-2-2-3-2-16,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Spain
+
+Banco Bilbao Vizcaya Argentaria, SA
+Banco Español de Crédito, S.A. (Banesto)
+Banco Pastor, S.A.
+Banco Popular Español, S.A.
+Banco Sabadell, S.A.
+Bankia, S.A.
+Bankinter, S.A.
+Banco Santander, S.A.
+Caixa d'Estalvis i Pensions de Barcelona (La Caixa)
+Caixa d'Estalvis de Catalunya, Tarragona i Manresa (CatalunyaCaixa)
+Gipuzkoa eta Donostiako Aurrezki Kutxa (Kutxa)
+Bilbao Bizkaia Kutxa
+NCG Banco, S.A. (Novagalicia Banco/Evo Banco)
+Caja Laboral Popular Cooperativa de Crédito (Caja Laboral)
+Grupo Caja Rural / Banco Cooperativo Español, SA (Caja Rural)
+Spanish Confederation of Savings Banks",'1-1-2-2-2-2-2-3-2-17,2,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Sweden
+
+Skandinaviska Enskilda Banken
+Svenska Handelsbanken
+Swedbank AB
+Nordea Bank AB",'1-1-2-2-2-2-2-3-2-18,0,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'United Kingdom
+
+Bank of America NA
+Bank of Tokyo-Mitsubishi UFJ Ltd.
+Barclays Bank PLC
+Citibank NA
+HSBC Bank PLC
+Kookmin Bank International Ltd.
+Lloyds TSB Bank PLC
+National Australia Bank Limited
+National Westminster Bank PLC
+Royal Bank of Scotland PLC
+Standard Chartered Bank
+UBS AG
+Wells Fargo Bank NA",'1-1-2-2-2-2-2-3-2-19,2,1,0,2,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Non-EU
+
+Bank of China (CHN)
+DnB NOR Bank (NOR)
+MashreqBank psc (UAE)",'1-1-2-2-2-2-2-3-2-20,0,1,0,2,1,2,1,0,2,1,1,1,0,1,0,1,0,0,1,0,0,0,1,C
+'Associate Members,'1-1-2-2-2-2-2-3-2-21-1,0,0,0,2,1,2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,1,1,1,C
+'[ XMLdation Oy (FIN) http://www.xmldation.com],'1-1-2-2-2-2-2-3-2-21-2,0,1,0,2,0,2,1,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N

@@ -1,0 +1,16 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ACM Transactions on Computational Logic (TOCL),'1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,C
+'Referee Instructions,'1-2-1,0,0,0,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1,C
+'Editorial Board scope,'1-2-2-1,0,0,0,1,0,2,1,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,1,N
+"'Theoretical papers should contain new and significant results. Applied papers should demonstrate superiority compared to alternative approaches. All papers should be adequately motivated, and related work should be properly described.",'1-2-2-2,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'Please start your referee report by copying into it one of the following four options:,'1-2-2-3,1,0,0,1,0,0,0,2,1,2,1,1,0,1,0,0,0,0,1,0,1,1,3,C
+'Recommendation: This is an excellent paper and can be accepted for TOCL as it is.,'1-2-2-4-1,1,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Recommendation: The paper can be accepted for TOCL after minor revisions. No further refereeing round is needed.,'1-2-2-4-2,1,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Recommendation: The paper can eventually be accepted for TOCL. Another refereeing round is needed.,'1-2-2-4-3,1,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Recommendation: The paper does not meet the high standards set by TOCL, and unfortunately I recommend rejection.",'1-2-2-4-4,1,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Your report, especially in the last case, should provide a clear explanation of your opinions.",'1-2-2-5,1,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,N
+"'Please remember that rejection of a paper is never a pleasant experience, especially to young researchers who could easily get discouraged by inconsiderate and offensive remarks. Even if the paper is not acceptable for publication, it still shows that the authors spent considerable effort in carrying out their research and writing their results down. Doing research is a noble activity. Therefore please avoid any possibly offensive remarks, and instead explain in plain terms why the paper does not meet the standards of TOCL.",'1-2-2-6,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'Timely referee reports are crucial for the publication of TOCL. Therefore you are kindly requested to complete your report within two months.,'1-2-2-7,1,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+"'The preferred format for an anonymous referee's report is a plain ASCII email message to the appropriate area editor. The ACM has professional copy editors, so please do not worry about correct spelling, grammar, and punctuation. A paper should not be rejected merely because of bad English.",'1-2-2-8,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'The Editorial Board is fully aware that refereeing papers is a time-consuming activity that one does for free. Therefore we appreciate very much referees' work and are grateful for their help in ensuring the high quality of TOCL.,'1-2-2-9,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'Back to home page,'1-2-2-10,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,3,N

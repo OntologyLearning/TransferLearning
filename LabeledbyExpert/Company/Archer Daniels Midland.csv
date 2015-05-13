@@ -1,0 +1,232 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Archer Daniels Midland,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'This article,'1-1-2-1-1-2,0,0,0,1,0,2,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,N
+'needs additional citations for verification,'1-1-2-1-1-3-1,0,0,0,1,1,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-1-1-3-3,1,0,0,1,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+'(July 2013),'1-1-2-1-1-3-4,0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,3,N
+'Archer Daniels Midland Company,'1-1-2-1-2-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,3,N
+'Type,'1-1-2-1-2-3-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Public,'1-1-2-1-2-3-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-2-4-1,0,0,0,1,1,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'NYSE ADM,'1-1-2-1-2-4-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'S&P 500 Component,'1-1-2-1-2-4-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Industry,'1-1-2-1-2-5-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Food processing,'1-1-2-1-2-5-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Commodities,'1-1-2-1-2-5-2-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Founded,'1-1-2-1-2-6-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Minneapolis Minnesota ; 112 years ago,'1-1-2-1-2-6-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-2-7-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Decatur, Illinois, United States",'1-1-2-1-2-7-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Key people,'1-1-2-1-2-8-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Patricia Woertz,'1-1-2-1-2-8-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'(Chairman, President and CEO)",'1-1-2-1-2-8-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,1,0,1,1,0,0,2,I
+'Products,'1-1-2-1-2-9-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Foods,'1-1-2-1-2-9-2-1,0,0,0,1,0,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Beverages,'1-1-2-1-2-9-2-2,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Feed,'1-1-2-1-2-9-2-3,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Ethanol,'1-1-2-1-2-9-2-4,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Bioenergy,'1-1-2-1-2-9-2-5,0,0,0,1,0,1,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Revenue,'1-1-2-1-2-10-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 89.038 billion (FY 2012),'1-1-2-1-2-10-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operating income,'1-1-2-1-2-11-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 4.021 billion (FY 2012),'1-1-2-1-2-11-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Net income,'1-1-2-1-2-12-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 1.223 billion (FY 2012),'1-1-2-1-2-12-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-2-13-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'US$ 41.553 billion (FY 2012),'1-1-2-1-2-13-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-2-14-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 18.169 billion (FY 2012),'1-1-2-1-2-14-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-2-15-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'30,000 (June 2012)",'1-1-2-1-2-15-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,1,0,0,1,I
+'Website,'1-1-2-1-2-16-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'adm.com,'1-1-2-1-2-16-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'The Archer Daniels Midland Company (ADM) is an American global food-processing and commodities-trading corporation, headquartered in Decatur, Illinois. The company operates more than 270 plants and 420 crop procurement facilities worldwide, where cereal grains and oilseeds are processed into products used in food, beverage, nutraceutical, industrial, and animal feed markets worldwide. On Sept. 24, 2013 ADM announced a planned mid 2014 move of its headquarters out of Decatur, and Chicago was announced the new site for the world headquarters of the agricultural processing conglomerate.",'1-1-2-2-1-1-1,2,0,0,1,0,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,2,N
+"'It was named the world's-most-admired food-production company by Fortune magazine for three consecutive years: 2009, 2010 and 2011.",'1-1-2-2-1-1-2,1,0,0,1,0,0,1,1,0,2,1,0,1,1,0,0,0,0,1,0,0,0,3,N
+"'The company also provides agricultural storage and transportation services. The American River Transportation Company along with ADM Trucking, Inc., are subsidiaries of ADM. ADM's revenues for fiscal year 2012 were US$89 billion.",'1-1-2-2-1-1-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,3,N
+'Contents,'1-1-2-2-1-2-1-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'1 Products,'1-1-2-2-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,1,0,0,0,0,1,0,0,1,I
+'2 History,'1-1-2-2-1-2-1-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+"'3 Criticism 3.1 Price fixing
+3.2 Violation of the Foreign Corrupt Practices Act
+3.3 Environmental record
+3.4 Agricultural subsidies",'1-1-2-2-1-2-1-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'4 See also,'1-1-2-2-1-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'5 References,'1-1-2-2-1-2-1-2-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'6 External links,'1-1-2-2-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Products,'1-1-2-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+"'Products include oils and meal from soybeans, cottonseed, sunflower seeds, canola, peanuts, flaxseed, and Diacylglycerol (DAG) oil, as well as corn germ, corn gluten feed pellets, syrup, starch, glucose, dextrose, crystalline dextrose, high fructose corn syrup sweeteners, cocoa liquor, cocoa powder, cocoa butter, chocolate, ethanol, and wheat flour. End uses are consumption by people and livestock and additives for fuel.",'1-1-2-2-1-2-2-1-2-1,2,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Long known as a food and ingredients company, it recently invested in fuel production. ADM nearly doubled capital spending in its 2007 budget to an estimated $1.12 billion. The increase is planned for bioenergy projects, focusing on bioethanol and biodiesel.",'1-1-2-2-1-2-2-1-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'In 1902, George A. Archer and John W. Daniels began a linseed crushing business in Minneapolis, Minnesota. In 1923, Archer-Daniels Linseed Company acquired Midland Linseed Products Company, and the Archer Daniels Midland Company was formed. Every decade since its corporate inception, ADM has added at least one major profit source to its agribusiness, including milling, processing, specialty food ingredients, cocoa, and nutrition.",'1-1-2-2-1-2-2-2-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In 1970, Dwayne Andreas became the chief executive officer of ADM, and is credited with transforming the firm into an industrial powerhouse. Andreas remained CEO until 1997 before his nephew G. Allen Andreas was named to this position. He was one of the most prominent political campaign donors in the United States, having contributed millions of dollars to Democratic and Republican candidates alike.",'1-1-2-2-1-2-2-2-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In September 1999, executive Marty Andreas announced, under pressure from the European agricultural industry, they were going to separate crops into genetically modified and non-genetically modified groups to give its customers a choice. Previously the company had not disclosed its crop sources.",'1-1-2-2-1-2-2-2-2-3,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2001, Paul B. Mulhollem became the company's president. The company was the first U.S. company to sign a contract with Cuba since the embargo against Cuba was imposed October 1960.",'1-1-2-2-1-2-2-2-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'In May 2006, Patricia A. Woertz became the company's chief executive officer. Formerly of Chevron, she was expected to focus on developing ethanol and biofuels. In February 2007, Ms. Woertz was elected Chairman of the Board at ADM.",'1-1-2-2-1-2-2-2-2-5,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'On August 22, 2011, the company announced that the soybean processing facility in Galesburg, Illinois, was closing immediately, and its operations would be transferred to other ADM oilseeds facilities. The facility has been idle since April 2011. Some of the 31 employees were to be offered the opportunity to transfer to other ADM facilities.",'1-1-2-2-1-2-2-2-2-6,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'A boiler explosion occurred on January 9, 2013, at the company's South Peoria, Illinois, ethanol distillery which caused no injuries, but resulted in an estimated $1 million in damages.",'1-1-2-2-1-2-2-2-2-7,1,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Starting in October 2012, the company sought to acquire strategic holdings to support serving Asian markets through acquisition of GrainCorp, an Australian grain firm with a network of storage and port facilities in Australia. On 29 Nov 2013, this acquisition was blocked by the Australian Treasurer.",'1-1-2-2-1-2-2-2-2-8,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Criticism,'1-1-2-2-1-2-2-3-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Price fixing,'1-1-2-2-1-2-2-3-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+"'In 1993, the company was the subject of a lysine price-fixing investigation by the U.S. Justice Department. Senior ADM executives were indicted on criminal charges for engaging in price-fixing within the international lysine market. Three of ADM's top officials, including vice chairman Michael Andreas were eventually sentenced to federal prison in 1999. Moreover, in 1997, the company was fined $100 million, the largest antitrust fine in U.S. history at the time. Mark Whitacre, FBI informant and whistleblower of the lysine price-fixing conspiracy, would also find himself in legal trouble for embezzling money from ADM during his time as an informant for the FBI. In addition, according to ADM's 2005 annual report, a settlement was reached under which ADM paid $400 million in 2005 to settle a class action antitrust suit.",'1-1-2-2-1-2-2-3-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Using the investigation as an example, Ronald W. Cotterill, of the Food Marketing Policy Center at the University of Connecticut, showed that 100 percent or more of overcharges resulting from price fixing are passed through to consumers.",'1-1-2-2-1-2-2-3-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The Informant is a nonfiction thriller book written by journalist Kurt Eichenwald and published in 2000 by Random House that documents the mid-1990s lysine price-fixing conspiracy case and the involvement of ADM executive Mark Whitacre. The book was adapted into the 2009 film The Informant!, starring Matt Damon as Whitacre.",'1-1-2-2-1-2-2-3-2-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Violation of the Foreign Corrupt Practices Act,'1-1-2-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'On December 20, 2013 the SEC announced that it had charged ADM for failing to prevent illicit payments (bribes) made by its foreign subsidiaries to Ukrainian government officials in violation of the FCPA. ADM agreed to pay more than $36 million to settle the SEC's charges.",'1-1-2-2-1-2-2-4-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Environmental record,'1-1-2-2-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'The company has been the subject of several major federal lawsuits related to air pollution. In 2001, it agreed to pay a $1.46 million fine for violating federal and Illinois clean-air regulations at its Decatur feed plant and to spend $1.6 million to reduce air pollution there. In 2003, the company settled federal air pollution complaints related to the its efforts to avoid New Source Review provisions of the Clean Air Act that require pollution control upgrades when a plant is modernized. The company paid $4.5 million in penalties and more than $6 million to support environmental projects. In addition, ADM agreed to eliminate more than 60,000 tons of emissions of carbon monoxide, particulate matter, organic volatile chemicals and other pollutants from 42 plants in 17 states at a cost of hundreds of millions of dollars.",'1-1-2-2-1-2-2-5-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'ADM is involved in a joint project with Daimler AG and Bayer CropScience to develop jatropha as a biofuel.,'1-1-2-2-1-2-2-5-2-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In an attempt to reduce its carbon footprint, the company has partnered with the Midwest Geological Sequestration Association and other organizations to test the disposal of carbon dioxide emissions underground. If testing is successful, beginning in late 2010 the company expected to dispose of 1,000 metric tons per day of carbon dioxide emissions currently being released to the atmosphere.",'1-1-2-2-1-2-2-5-2-3,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Agricultural subsidies,'1-1-2-2-1-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'The company lobbies for agricultural subsidies and price supports including sugar and ethanol. According to a 1995 report by the libertarian think tank Cato Institute, ""ADM has cost the American economy billions of dollars since 1980 and has indirectly cost Americans tens of billions of dollars in higher prices and higher taxes over that same period. At least 43 percent of ADM's annual profits are from products heavily subsidized or protected by the American government. Moreover, every $1 of profits earned by ADM's corn sweetener operation costs consumers $10, and every $1 of profits earned by its bioethanol operation costs taxpayers $30.""",'1-1-2-2-1-2-2-6-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'See also,'1-1-2-2-1-2-2-7-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'List of Illinois companies,'1-1-2-2-1-2-2-7-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,1,N
+'List of S&P 500 companies,'1-1-2-2-1-2-2-7-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,3,N
+'External links,'1-1-2-2-1-2-2-8-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,3,C
+"'adm.com, the company's official website",'1-1-2-2-1-2-2-8-2-1,0,1,0,1,0,0,1,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,1,N
+'Archer Daniels Midland SEC Filings,'1-1-2-2-1-2-2-8-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,3,N
+"'""Patents owned by Archer Daniels Midland"". U.S. Patent and Trademark Office. Retrieved December 6, 2005.",'1-1-2-2-1-2-2-8-2-3,1,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,1,0,0,0,0,3,N
+'Chief Executive Officers,'1-1-2-2-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,3,N
+'Started,'1-1-2-2-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Name,'1-1-2-2-2-2-1-2,0,0,0,1,1,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'1970Dwayne Andreas,'1-1-2-2-2-2-2-1,0,0,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+'1997G. Allen Andreas,'1-1-2-2-2-2-2-2,0,0,0,1,0,2,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,3,N
+'2006,'1-1-2-2-2-2-2-3-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Patricia A. Woertz,'1-1-2-2-2-2-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Companies portal,'1-1-2-2-3-1-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Food portal,'1-1-2-2-3-2-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Illinois portal,'1-1-2-2-3-3-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Archer Daniels Midland,'1-1-2-3-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'People,'1-1-2-3-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Dwayne Andreas,'1-1-2-3-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'George A. Archer,'1-1-2-3-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'John W. Daniels,'1-1-2-3-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Mark Whitacre,'1-1-2-3-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Patricia A. Woertz,'1-1-2-3-2-1-2-5,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Related articles,'1-1-2-3-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'American River Transportation Company,'1-1-2-3-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+'lysine price-fixing conspiracy,'1-1-2-3-2-2-2-2,0,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+'The Informant (book),'1-1-2-3-2-2-2-3,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The Informant! (film),'1-1-2-3-2-2-2-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'United States v. ADM,'1-1-2-3-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Illinois-based corporations,'1-1-2-4-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Fortune 500
+ corporations
+ (by size–2013)
+
+Archer Daniels Midland
+Boeing
+Walgreens
+Caterpillar Inc.
+State Farm Insurance Cos.
+Abbott Laboratories
+Sears Holdings
+United Continental Holdings
+Deere & Company
+Mondelēz International
+Allstate
+McDonald's
+Exelon
+Kraft Foods
+Illinois Tool Works
+Baxter International
+Navistar International
+RR Donnelley
+CDW
+Hillshire Brands
+Discover Financial
+W. W. Grainger
+Motorola Solutions
+Dover Corporation
+Tenneco
+OfficeMax
+Ingredion
+Anixter
+CF Industries Holdings
+Telephone and Data Systems
+United Stationers
+Old Republic International",'1-1-2-4-2-1,2,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
+"'Other major
+public companies
+ (alphabetically)
+
+AbbVie
+ACCO Brands
+Accretive Health
+Allscripts
+Amcol International Corporation
+Arthur J. Gallagher & Co.
+Beam Inc.
+Brookdale Senior Living
+Brunswick Corporation
+Calamos
+Career Education Corporation
+Catamaran Corporation
+CBOE Holdings
+CME Group
+CNA Financial
+Continental Materials Corporation
+Equity Residential
+Fortune Brands Home & Security
+General Growth Properties
+Hospira
+Hyatt Hotels Corp.
+Integrys Energy Group
+Jones Lang LaSalle
+Kemper Corporation
+Nalco Holding Company
+Nicor
+RLI Corp.
+Rubicon Technology
+Stericycle
+Titan International
+Tootsie Roll Industries
+ULTA Beauty
+USG Corporation
+Westell
+Zebra Technologies",'1-1-2-4-2-2,2,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Other major
+private companies
+ (alphabetically)
+
+Ace Hardware
+Baker & McKenzie
+Blue Cross Blue Shield Association
+Claire's
+Country Financial
+Danfoss Power Solutions
+Dot Foods
+Eby-Brown
+Electro-Motive Diesel
+Flex-N-Gate
+Follett Corporation
+Gardner Denver
+Grant Thornton LLP
+Health Care Service Corporation
+Heico Cos.
+Hendrickson International
+Jenner & Block
+Kirkland & Ellis
+Marmon Group
+Mayer Brown
+Medline Industries
+Molex
+OSI Group
+Pactiv
+Reyes Holdings
+Ryerson, Inc.
+Sidley Austin
+Skidmore, Owings & Merrill
+Solo Cup Company
+Tellabs
+TransUnion
+Tribune Company
+True Value
+US Foods
+Wirtz Corp.",'1-1-2-4-2-3,2,1,0,1,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'Related topics,'1-1-2-4-2-4-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Breweries in Illinois,'1-1-2-4-2-4-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Companies in the Chicago metropolitan area,'1-1-2-4-2-4-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Food manufacturers of Chicago,'1-1-2-4-2-4-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Newspapers in Illinois,'1-1-2-4-2-4-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Retailers on the Magnificent Mile,'1-1-2-4-2-4-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Wineries in Illinois,'1-1-2-4-2-4-2-6,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I

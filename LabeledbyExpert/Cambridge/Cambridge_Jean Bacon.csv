@@ -1,0 +1,32 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Jean Bacon,'1-1-1,0,0,1,2,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+"'FIEEE, FBCS 
+     	University of Cambridge Computer Laboratory
+     	William Gates Building,
+     	JJ Thomson Avenue
+     	Cambridge CB3 0FD, UK
+     	work: (+44) 1223 334604
+     	fax: (+44) 1223 334678
+     	email: jmb25 at cl.cam.ac.uk",'1-1-2-2,2,0,0,0,0,2,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,I
+"'I'm Professor of Distributed Systems at the University of Cambridge Computer Laboratory and, post-retirement, Director of Research. I lectured systems courses such as ""Concurrent Systems"", ""Operating Systems"", ""Distributed Systems"" and ""Computer Architecture"". Author of ""Concurrent Systems"" Addison Wesley, 1st edition 1993, 2nd edition 1998, which in 2002/3 evolved into edition 3 for the Open University's ""Software systems and their development (M301)"" and ""Operating Systems: Concurrent and distributed software design"" with Tim Harris.",'1-2-1-1,2,0,0,1,0,2,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'I was awarded an Honorary Doctorate of the Open University in 2013 - conferred in Ely cathedral on June 1st: Eulogy and Acceptance.,'1-2-1-2,1,0,0,1,0,2,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'I'm a Fellow of Jesus College and Director of Studies in Computer Science. Supervision arrangements are summarised at http://www.cl.cam.ac.uk/~jmb25/supervisions.,'1-2-1-3,1,0,0,1,0,2,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'I'm a Fellow of the IEEE and a Fellow of the British Computer Society. I was elected to the IEEE Computer Society's Board of Governors for 2002-2004 and 2005-2007. I was founding Editor in Chief of IEEE Distributed Systems Online (DS Online), which was extended from 2008 to become Computing Now, see: http://www.computer.org/portal/web/computingnow.",'1-2-1-4,2,0,0,1,0,2,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,2,I
+'Research Projects:,'1-2-2-1,0,0,0,1,1,2,0,2,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+'Opera,'1-2-2-2-1,0,0,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'CloudSafetyNet,'1-2-2-2-2-1-1,0,0,0,1,0,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'TIME-EACM,'1-2-2-2-2-1-2-1-1-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'CareGridPubs.pdf,'1-2-2-2-2-1-2-1-1-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'* Multi-Service Storage Architecture (MSSA),'1-2-2-2-2-1-2-1-2,0,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'www.palproject.org.uk,'1-2-2-2-2-1-2-2,0,0,0,1,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'www.smartflow.org,'1-2-2-2-2-2,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'EDSACpubs.pdf,'1-2-2-2-2-3,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Opera projects,'1-2-2-2-2-4,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Graduate students,'1-2-3-1-1,0,0,0,1,1,2,1,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,2,N
+'Recent publications,'1-2-3-1-2,0,0,0,1,1,2,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,3,C
+'Opera publications  here,'1-2-3-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,I
+'Other interests,'1-2-3-2-2-1-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Current projects are winter trees in low sunlight and the explosion of may blossom and cow parsley in spring.,'1-2-3-2-2-1-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'reedbed paintings. Exhibition 2008. February 2005,",'1-2-3-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,2,I
+'six-piece acrylic,'1-2-3-2-2-2-2,0,0,0,1,0,0,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'January 1997 February 1998,'1-2-3-2-2-3,0,0,0,1,0,2,1,0,2,1,1,1,0,0,0,0,0,0,1,1,0,0,0,2,I

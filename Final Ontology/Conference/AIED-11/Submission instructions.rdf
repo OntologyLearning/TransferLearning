@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__james.r.segedyvanderbilt.edu">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_address_all_inquiries_related_to_Full_Paper_submissions_and_Poster_submissions_to">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_Instructions_for_Full_Papers_and_Posters"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Indicate_whether_the_event_will_require_an_Internet_connection.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__To_submit_through_EasyChair,_go_to_the_AIED_2011_EasyChair_page._Login_using_your_existing_EasyChair_account,_or_create_a_new_account_following_the_instructions_on_the_site._If_you_are_not_logged_in_as_author,_you_may_need_to_change_your_role_to_author._You_may_do_so_by_selecting_the_menu_item">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_Full_Papers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_instructions_for_Authors"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Step_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Download_the_LNCS_template_and_formatting_instructions_from_the_Springer_website">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Step_1>
+  <base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Attach_a_onepage_abstract_as_a_.pdf_file_in_the_AIED_2011_paper_format_see_formatting_instructions_above,_with_Interactive_Event_in_the_title,_author_information,_email,_and_a_brief_explanation_of_the_systems_purpose,_significance_and_novelty._Final_abstracts_will_be_published_in_the_AIED_proceedings_with_a_pointer_to_your_webaccessible_scenarios.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions>
+  <base:_For_Posters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Login_as_author_as_specified_above._Select_New_Submission,_and_select_Full_Papers_and_Posters._Follow_the_instructions_on_the_submission_screen_to_upload_your_3page_document_in_Springer_LNCS_format._Poster_submission_must_include_an_abstract._Please_be_sure_to_fill_out_the_keywords_and_topics.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_For_Posters>
+  <base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Include_AIED2011_Interactive_Event_proposal_in_the_Subject_line_of_the_message.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions>
+  <base:_Step_2 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Put_together_your_paper_or_poster_submission.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Step_2>
+  <base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Include_the_scenario_as_either_a_the_URL_to_view_it_as_web_pages_in_a_standard_browser,_OR_b_a_zipped_folder_of_web_pages_and_other_required_material,_OR_c_a_.pdf_file">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_ensure_that_your_papers_are_formatted_correctly_and_are_within_the_specified_page_limits.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_instructions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_instructions_for_Authors"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__james.r.segedyvanderbilt.edu.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_address_all_inquiries_related_to_the_Young_Researchers_Track_to">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Young_Researchers_Track__DC"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Step_1">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_instructions_for_Authors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Step_2">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_instructions_for_Authors"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interactive_Events"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Email_your_IE_proposal_to_brent.martincanterbury.ac.nz_and_laneict.usc.edu_according_to_the_following_instructions">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interactive_Events"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_instructions_for_Authors"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_Instructions_for_Full_Papers_and_Posters">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_instructions_for_Authors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_Posters">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_instructions_for_Authors"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Young_Researchers_Track__DC"/>
+</rdf:RDF>

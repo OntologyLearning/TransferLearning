@@ -1,0 +1,18 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ASAP 2011 — 22nd IEEE International Conference on,'1-1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,C
+"'Application-specific Systems, Architectures and Processors",'1-1-2-1-2,0,0,1,2,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Santa Monica, California, USA, September 11-14, 2011",'1-1-2-2-1,0,0,1,2,1,2,0,0,1,1,0,0,1,0,0,1,0,0,1,0,1,0,0,2,I
+'Call for Papers,'1-2-1-1-2-1-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,1,1,0,0,2,C
+"'The conference will cover the theory and practice of application-specific systems, architectures and processors. The 2011 conference will build upon traditional strengths in areas such as arithmetic, cryptography, compression, signal and image processing, application-specific instruction processors, etc. We especially encourage submissions in the following three areas:",'1-2-1-1-2-1-2-1,2,0,0,1,0,0,0,2,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,1,C
+'Bioinformatics and computational biology — life sciences present a host of interesting problems that can benefit from application-specific solutions.,'1-2-1-1-2-1-2-2-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Architecturally diverse systems — systems that use varied computing resources such as FPGAs, GPUs, Cell processors, etc.",'1-2-1-1-2-1-2-2-2,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Reconfigurable computing — tools and compilation methods for reconfigurable architectures.,'1-2-1-1-2-1-2-2-3,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Low-power and low-energy architectures — logic design and architectural level techniques to reduce power and/or energy consumption on application specific systems.,'1-2-1-1-2-1-2-2-4,1,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Important Dates,'1-2-1-1-2-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,1,1,2,C
+"'Paper submission: April 4, 2011",'1-2-1-1-2-2-2-1,0,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,1,0,1,0,1,0,0,1,I
+'Notification of acceptance: May 23,'1-2-1-1-2-2-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,1,0,0,2,I
+"'Camera-ready Papers Due: June 13, 2011",'1-2-1-1-2-2-2-3,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,1,1,0,0,2,I
+'Conference: September 11-14,'1-2-1-1-2-2-2-4,0,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,1,0,1,0,0,2,I
+'ASAP 2011 is organized by,'1-2-1-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'and sponsored by IEEE Technical Committee on VLSI,'1-2-1-2-2-2,0,0,1,2,1,2,0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,0,0,3,N
+'Site last modified 2011-4-12 12:25:00 PST,'1-2-2,0,0,0,1,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,N

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Fax rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__390522522309">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fax>
+  <base:_Franco_Zambonelli rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_42122_Reggio_Emilia,_ITALY">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Franco_Zambonelli>
+  <base:_EMail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__franco.zambonelli_at_unimore_dot_it">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_EMail>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <base:_EMail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__parashar_at_rutgers_dot_edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_EMail>
+  <base:_Manish_Parashar rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Piscataway,_NJ_088548058,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manish_Parashar>
+  <base:_Franco_Zambonelli rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Universita_di_Modena_e_Reggio_Emilia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Franco_Zambonelli>
+  <base:_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.dismi.unimo.itZambonelli">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_http>
+  <base:_Manish_Parashar rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Center_for_Autonomic_Computing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manish_Parashar>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Information">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <base:_Fax rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__1_732_4450593">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fax>
+  <base:_Franco_Zambonelli rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dipartimento_di_Scienze_e_Metodi_dellIngegneria">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Franco_Zambonelli>
+  <base:_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_nsfcac.rutgers.edupeopleparashar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_http>
+  <base:_Phone rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__390522522215">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Phone>
+  <base:_Manish_Parashar rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_94_Brett_Road">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manish_Parashar>
+  <base:_Manish_Parashar rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rutgers_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manish_Parashar>
+  <base:_Manish_Parashar rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Department_of_Electrical_and_Computer_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Manish_Parashar>
+  <base:_Franco_Zambonelli rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Via_G._Amendola_2">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Franco_Zambonelli>
+  <base:_Phone rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__1_732_4455388">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Phone>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manish_Parashar">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franco_Zambonelli">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fax">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manish_Parashar"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franco_Zambonelli"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EMail">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manish_Parashar"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franco_Zambonelli"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manish_Parashar"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franco_Zambonelli"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phone">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manish_Parashar"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franco_Zambonelli"/>
+  </rdf:Description>
+</rdf:RDF>

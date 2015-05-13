@@ -1,0 +1,40 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ACM Transactions on,'1-1-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,C
+'Autonomous and Adaptive Systems,'1-1-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+'Editorial Board,'1-2-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,1,C
+'Editors-in-Chief,'1-2-2-2-1-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,1,C
+"'Manish Parashar, Rutgers University, USA (http://nsfcac.rutgers.edu/people/parashar/)",'1-2-2-2-1-2-1,0,1,0,1,0,2,1,1,1,2,0,0,1,0,0,1,1,0,0,0,0,0,1,I
+"'Franco Zambonelli, University of Modena e Reggio Emilia, Italy (http://www.dismi.unimo.it/Zambonelli)",'1-2-2-2-1-2-2,1,1,0,1,0,2,1,1,1,2,0,0,0,1,0,1,1,0,0,0,0,0,2,I
+'Associated Editors,'1-2-2-2-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,1,1,1,2,C
+"'Tarek Abdelzaher, University of Illinois at Urbana Champaign, USA (http://www.cs.uiuc.edu/homes/zaher/)",'1-2-2-2-2-2-1,1,1,0,1,0,2,1,1,1,2,1,0,1,0,0,1,1,0,0,0,0,0,1,I
+"'Ozalp Babaoglu, University of Bologna, Italy (http://www.cs.unibo.it/babaoglu/)",'1-2-2-2-2-2-2,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Luciano Baresi, Politecnico di Milano, Italy (http://home.dei.polimi.it/baresi/)",'1-2-2-2-2-2-3,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Jake Beal, BBN Technologies and MIT, USA (http://web.mit.edu/jakebeal/www/)",'1-2-2-2-2-2-4,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Simon Dobson, St Andrews University, UK (http://www.simondobson.org/)",'1-2-2-2-2-2-5,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Marco Dorigo, Universite Libre de Bruxelles, Belgium (http://iridia.ulb.ac.be/~mdorigo/)",'1-2-2-2-2-2-6,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Indranil Gupta, University of Illinois, Urbana-Champaign, USA (http://www.cs.uiuc.edu/~indy/)",'1-2-2-2-2-2-7,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Salima Hassas, University of Lyon, France (http://www710.univ-lyon1.fr/~hassas/)",'1-2-2-2-2-2-8,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Anthony Karageorgos, University of Thessaly, Greece (http://users.teilar.gr/~karageorgos/)",'1-2-2-2-2-2-9,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Michael Luck, University of Southampton, UK (http://www.dcs.kcl.ac.uk/staff/mml/)",'1-2-2-2-2-2-10,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Julie Mc Cann, Imperial College London, UK (http://www.doc.ic.ac.uk/~jamm/)",'1-2-2-2-2-2-11,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Andrea Omicini, University of Bologna, Italy (http://andreaomicini.apice.unibo.it)",'1-2-2-2-2-2-12,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Jeremy Pitt, Imperial College London, UK (http://www.iis.ee.ic.ac.uk/~j.pitt/)",'1-2-2-2-2-2-13,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Omer F. Rana, University of Cardiff, UK (http://users.cs.cf.ac.uk/O.F.Rana/)",'1-2-2-2-2-2-14,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Onn Shehory, IBM Haifa Research Lab and Bar Ilan University, Israel (http://www.cs.biu.ac.il/~shechory/)",'1-2-2-2-2-2-15,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Roy Sterritt, University of Ulster, UK(http://www.ulster.ac.uk/staff/r.sterritt.html)",'1-2-2-2-2-2-16,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'H. Van Dyke Parunak, Jacobs Technology Inc., USA",'1-2-2-2-2-2-17,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Dongyan Xu, Purdue University, USA (http://www.cs.purdue.edu/people/faculty/dxu/)",'1-2-2-2-2-2-18,0,1,0,1,0,2,1,1,1,2,1,0,0,1,0,1,1,0,0,0,0,0,2,I
+'Alumni Associated Editors,'1-2-2-2-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,1,2,C
+"'Karl Aberer, Ecole Polytechnique Federale de Lausanne, Switzerland (http://lsirpeople.epfl.ch/aberer/)",'1-2-2-2-3-2-1,1,1,0,1,0,2,1,1,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+"'Yaneer Bar Yam,New England Complex Systems Institute, USA",'1-2-2-2-3-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Eric Bonabeau, Icosystem Corporation, USA",'1-2-2-2-3-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Vinny Cahill, Trinity College Dublin, Ireland (http://www.dsg.cs.tcd.ie/~vjcahill/)",'1-2-2-2-3-2-4,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Ajoy Datta, University of Nevada, USA (http://www.egr.unlv.edu/~datta/",'1-2-2-2-3-2-5,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Jeff Kephart, IBM T.J. Watson Research Center, USA",'1-2-2-2-3-2-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Radhika Nagpal, Harvard University, USA (http://www.eecs.harvard.edu/~rad/)",'1-2-2-2-3-2-7,0,1,0,1,0,2,1,1,1,2,1,0,0,1,0,1,1,0,0,1,0,0,2,I
+'Assistant,'1-2-2-2-4-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+"'Nicola Bicocchi, University of Modena e Reggio Emilia, Italy (http://pervasive2.morselli.unimo.it/~nicola/)",'1-2-2-2-4-2,1,1,0,1,0,2,1,1,1,2,0,0,0,1,0,1,1,0,0,0,0,0,1,I
+'Information Manager,'1-2-2-2-5-1,0,0,1,2,1,2,0,0,2,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+"'Ivan Rodero, Rutgers University, USA (http://nsfcac.rutgers.edu/people/irodero)",'1-2-2-2-5-2,0,1,0,1,0,2,1,1,2,2,0,0,0,1,0,1,1,0,0,0,0,0,1,I
+'Editor in Chief Emeritus,'1-2-2-2-6-1,0,0,1,2,1,2,0,0,2,2,0,0,1,0,1,0,0,0,0,0,1,1,2,C
+"'Giovanna di Marzo, University of Geneva, Switzerland(http://cui.unige.ch/~dimarzo/)",'1-2-2-2-6-2,0,1,0,1,0,2,1,1,2,2,0,0,0,1,0,0,1,0,0,0,0,0,1,I

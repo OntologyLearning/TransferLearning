@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY owl2xml "http://www.w3.org/2006/12/owl2-xml#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY base "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#" >
+    <!ENTITY ns1 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Currently," >
+    <!ENTITY _Lars_Arge_2006__2010 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lars_Arge_2006__2010," >
+    <!ENTITY _Mark_de_Berg_2009__2013 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mark_de_Berg_2009__2013," >
+    <!ENTITY _Susanne_Albers_2003__2007 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Susanne_Albers_2003__2007," >
+    <!ENTITY _Dorothea_Wagner_1999__2004 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dorothea_Wagner_1999__2004," >
+    <!ENTITY _Gerhard_Woeginger_1999__2003 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gerhard_Woeginger_1999__2003," >
+    <!ENTITY _2007__2010 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kurt_Mehlhorn_1997__2001,_2007__2010," >
+]>
+
+
+<rdf:RDF xmlns="file:/C:/Users/Administrator/Desktop/Ontology/periodical/esoa/Steering%20Committee.rdf#"
+     xml:base="file:/C:/Users/Administrator/Desktop/Ontology/periodical/esoa/Steering%20Committee.rdf"
+     xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:_Susanne_Albers_2003__2007="&base;_Susanne_Albers_2003__2007,"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:_Mark_de_Berg_2009__2013="&base;_Mark_de_Berg_2009__2013,"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+     xmlns:_Lars_Arge_2006__2010="&base;_Lars_Arge_2006__2010,"
+     xmlns:_Gerhard_Woeginger_1999__2003="&base;_Gerhard_Woeginger_1999__2003,"
+     xmlns:ns1="&base;_Currently,"
+     xmlns:_2007__2010="&base;_Kurt_Mehlhorn_1997__2001,_2007__2010,"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:_Dorothea_Wagner_1999__2004="&base;_Dorothea_Wagner_1999__2004,">
+    <owl:Ontology rdf:about=""/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_Members -->
+
+    <owl:Class rdf:about="&base;_Current_Members">
+        <rdfs:subClassOf rdf:resource="&base;_Steering_Committee"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Currently,_the_ESA_steering_committee_has_the_following_members -->
+
+    <owl:Class rdf:about="&base;_Currently,_the_ESA_steering_committee_has_the_following_members">
+        <rdfs:subClassOf rdf:resource="&base;_Current_Members"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Former_Members -->
+
+    <owl:Class rdf:about="&base;_Former_Members">
+        <rdfs:subClassOf rdf:resource="&base;_Steering_Committee"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Former_members_of_the_ESA_steering_committee -->
+
+    <owl:Class rdf:about="&base;_Former_members_of_the_ESA_steering_committee">
+        <rdfs:subClassOf rdf:resource="&base;_Former_Members"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steering_Committee -->
+
+    <owl:Class rdf:about="&base;_Steering_Committee"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alan_Borodin -->
+
+    <owl:Thing rdf:about="&base;_Alan_Borodin">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alberto_MarchettiSpaccamela_2000__2004 -->
+
+    <owl:Thing rdf:about="&base;_Alberto_MarchettiSpaccamela_2000__2004">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Alexander_Wolff -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Alexander_Wolff">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Amos_Fiat_2008__2011 -->
+
+    <owl:Thing rdf:about="&base;_Amos_Fiat_2008__2011">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andreas_S._Schulz -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Andreas_S._Schulz">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrew_Goldberg_2003__2007 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Andrew_Goldberg_2003__2007">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bernard_Moret_1999__2002 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Bernard_Moret_1999__2002">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Camil_Demetrescu_2010__2013 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Camil_Demetrescu_2010__2013">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Christos_Zaroliagis_1998__2002 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Christos_Zaroliagis_1998__2002">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dan_Halperin_2007__2010 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Dan_Halperin_2007__2010">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Eppstein_2008__2012 -->
+
+    <owl:Thing rdf:about="&base;_David_Eppstein_2008__2012">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dorothea_Wagner -->
+
+    <owl:Thing rdf:about="&base;_Dorothea_Wagner">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dorothea_Wagner_1999__2004,_chair_2001__2004 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Dorothea_Wagner_1999__2004,_chair_2001__2004">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Emo_Welzl_2006__2009 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Emo_Welzl_2006__2009">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Friedhelm_Meyer_auf_der_Heide_2000__2003 -->
+
+    <owl:Thing rdf:about="&base;_Friedhelm_Meyer_auf_der_Heide_2000__2003">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gerhard_Woeginger_1999__2003,_2004__2008 -->
+
+    <owl:Thing rdf:about="&base;_Gerhard_Woeginger_1999__2003,_2004__2008">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gerth_Brodal_2004__2007 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Gerth_Brodal_2004__2007">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Giorgio_Ausiello_2005__2009 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Giorgio_Ausiello_2005__2009">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Giuseppe_Di_Battista_2002__2005 -->
+
+    <owl:Thing rdf:about="&base;_Giuseppe_Di_Battista_2002__2005">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Giuseppe_Italiano -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Giuseppe_Italiano">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hans_Bodlaender -->
+
+    <owl:Thing rdf:about="&base;_Hans_Bodlaender">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_INRIA_Sophia_Antipolis -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_INRIA_Sophia_Antipolis">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jarik_Nesetril_1998__2001 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Jarik_Nesetril_1998__2001">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jeff_Vitter_1998__2002 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Jeff_Vitter_1998__2002">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Karlsruhe_Institute_of_Technology_KIT -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Karlsruhe_Institute_of_Technology_KIT">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kazuo_Iwama_2003__2007 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Kazuo_Iwama_2003__2007">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kurt_Mehlhorn_1997__2001,_2007__2010,_chair_1997__2001 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Kurt_Mehlhorn_1997__2001,_2007__2010,_chair_1997__2001">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lars_Arge_2006__2010,_chair_2007__2010 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Lars_Arge_2006__2010,_chair_2007__2010">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Leah_Epstein -->
+
+    <owl:Thing rdf:about="&base;_Leah_Epstein">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Magnus_Halldorsson_2010__2013 -->
+
+    <owl:Thing rdf:about="&base;_Magnus_Halldorsson_2010__2013">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mark_Overmars_2000__2004 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Mark_Overmars_2000__2004">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mark_de_Berg_2009__2013,_chair_2010__2013 -->
+
+    <owl:Thing rdf:about="&base;_Mark_de_Berg_2009__2013,_chair_2010__2013">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Massachusetts_Institute_of_Technology_MIT -->
+
+    <owl:Thing rdf:about="&base;_Massachusetts_Institute_of_Technology_MIT">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mike_Paterson_1999__2002 -->
+
+    <owl:Thing rdf:about="&base;_Mike_Paterson_1999__2002">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mikkel_Thorup_2007__2011 -->
+
+    <owl:Thing rdf:about="&base;_Mikkel_Thorup_2007__2011">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Monique_Teillaud -->
+
+    <owl:Thing rdf:about="&base;_Monique_Teillaud">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paolo_Ferragina -->
+
+    <owl:Thing rdf:about="&base;_Paolo_Ferragina">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Peter_Sanders_2008__2011 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Peter_Sanders_2008__2011">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Peter_Widmayer_1999__2003 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Peter_Widmayer_1999__2003">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rajeev_Raman_2001__2004 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Rajeev_Raman_2001__2004">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rasmus_Pagh_2009__2013 -->
+
+    <owl:Thing rdf:about="&base;_Rasmus_Pagh_2009__2013">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rolf_Mhring_1997__2004 -->
+
+    <owl:Thing rdf:about="&base;_Rolf_Mhring_1997__2004">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samir_Khuller -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Samir_Khuller">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stefan_Nher_1999__2003 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Stefan_Nher_1999__2003">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stefano_Leonardi_2004__2007 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Stefano_Leonardi_2004__2007">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Susanne_Albers_2003__2007,_chair_2004__2007 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Susanne_Albers_2003__2007,_chair_2004__2007">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thomas_Erlebach_2005__2008 -->
+
+    <owl:Thing rdf:about="&base;_Thomas_Erlebach_2005__2008">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tomasz_Radzik_2003__2006 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Tomasz_Radzik_2003__2006">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ulrich_Meyer_2009__2012 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Ulrich_Meyer_2009__2012">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Universit_di_Roma_Tor_Vergata -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Universit_di_Roma_Tor_Vergata">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Universitt_Wrzburg -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Universitt_Wrzburg">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Haifa -->
+
+    <owl:Thing rdf:about="&base;_University_of_Haifa">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Maryland -->
+
+    <owl:Thing rdf:about="&base;_University_of_Maryland">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Pisa -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_University_of_Pisa">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Toronto -->
+
+    <owl:Thing rdf:about="&base;_University_of_Toronto">
+        <rdf:type rdf:resource="&base;_Currently,_the_ESA_steering_committee_has_the_following_members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Uri_Zwick_2002__2005 -->
+
+    <base:_Former_members_of_the_ESA_steering_committee rdf:about="&base;_Uri_Zwick_2002__2005">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:_Former_members_of_the_ESA_steering_committee>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Utrecht_University -->
+
+    <ns1:_the_ESA_steering_committee_has_the_following_members rdf:about="&base;_Utrecht_University">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:_the_ESA_steering_committee_has_the_following_members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Yossi_Azar_2005__2008 -->
+
+    <owl:Thing rdf:about="&base;_Yossi_Azar_2005__2008">
+        <rdf:type rdf:resource="&base;_Former_members_of_the_ESA_steering_committee"/>
+    </owl:Thing>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 2.2.1.1138) http://owlapi.sourceforge.net -->
+

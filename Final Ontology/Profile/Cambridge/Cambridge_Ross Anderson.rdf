@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:ns11="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Another_novel_application_of_information_hiding_is_the_Steganographic_File_System._It_will_give_you_any_file_whose_name_and_password_you_know,_but_if_you_do_not_know_the_correct_password,_you_cannot_even_tell_that_a_file_of_that_name_exists_in_the_system_This_is_much_stronger_than_conventional_multilevel_security,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns8="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_From_time_to_time,"
+  xmlns:ns9="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Measuring_the_Cost_of_Cybercrime_sets_out_to_debunk_the_scaremongering_around_online_crime_that_governments_and_defence_contractors_are_using_to_justify_everything_from_increased_surveillance_to_preparations_for_cyberwar._It_was_written_in_response_to_a_request_from_the_UK_Ministry_of_Defence,"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns10="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Millennium_Bug_Reasons_Not_to_Panic_describes_our_experience_in_coping_with_the_bug_at_Cambridge_University_and_elsewhere._This_paper_correctly_predicted_that_the_bug_wouldnt_bite_very_hard._Journalists_were_not_interested,"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Privacy_has_become_a_big_theme_recently_thanks_to_the_Communications_Data_Bill,_against_which_we_have_been_organising_resistance._In_the_last_parliament,_our_Database_State_report_on_the_failings_of_publicsector_IT_in_Britain,_and_how_to_fix_them,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_RIP_Act,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Why_Cryptosystems_Fail_was_my_first_widelycited_paper_and_the_first_on_what_goes_wrong_with_payment_systems._This_version_appeared_at_ACMCCS_93_and_explains_how_ATM_fraud_was_done_in_the_early_1990s._Liability_and_Computer_Security_Nine_Principles_took_this_work_further,_and_examines_the_problems_with_relying_on_cryptographic_evidence._The_recent_introduction_of_EMV_chip_and_PIN_was_supposed_to_fix_the_problem,"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_engineering_is_not_just_concerned_with_infrastructure_matters_such_as_firewalls_and_PKI._Its_also_about_specific_applications,_such_as_banking_and_medical_recordkeeping,"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_book_was_an_attempt_to_help_the_working_engineer_to_do_better._As_well_as_the_basic_science,"
+  xmlns:ns6="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_was_a_designer_of_the_security_of_Homeplug_AV,"
+  xmlns:ns7="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_was_one_of_the_authors_of_a_2006_report_on_the_safety_and_privacy_of_childrens_databases,"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_have_two_futher_papers_on_security_economics_in_banking._The_first_is_on_Verified_by_VISA_the_mechanism_that_asks_for_your_card_password_when_you_shop_online._This_is_an_example_of_how_a_poor_design_can_win_out_if_it_has_strong_deployment_incentives_see_also_blog_post_and_slides._The_second,_On_the_Security_of_Internet_Banking_in_South_Korea,_analyses_the_effects_of_Koreas_decision_to_use_national_cryptography_standards_for_Internet_banking_rather_than_just_using_the_same_protocols_as_the_rest_of_the_world">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NHS_Wide_Networking_and_Patient_Confidentiality_appeared_in_the_British_Medical_Journal_in_July_1995_and_set_out_some_early_objections_to_the_governments_health_network_proposals">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_of_Clinical_Information_Systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Programming_Satans_Computer_is_a_phrase_Roger_Needham_and_I_coined_to_express_the_difficulty_of_designing_cryptographic_protocols_it_has_recently_been_popularised_by_Bruce_Schneier_see,_for_example,_his_foreword_to_my_book._The_problem_of_designing_programs_which_run_robustly_on_a_network_containing_a_malicious_adversary_is_rather_like_trying_to_program_a_computer_which_gives_subtly_wrong_answers_at_the_worst_possible_moment">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__a_paper_describing_the_details_is_here,_while_the_code_is_available_here._This_functionality_has_since_appeared_in_a_number_of_crypto_products">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Another_novel_application_of_information_hiding_is_the_Steganographic_File_System._It_will_give_you_any_file_whose_name_and_password_you_know,_but_if_you_do_not_know_the_correct_password,_you_cannot_even_tell_that_a_file_of_that_name_exists_in_the_system_This_is_much_stronger_than_conventional_multilevel_security,_and_its_main_function_is_to_protect_users_against_coercion._Two_of_our_students_implemented_SFS_for_Linux">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_hiding_including_Soft_Tempest"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Lessons_from_the_Ware_Report_analyses_failures_in_the_Common_Criteria,_FIPS_140_and_other_certification_mechanisms_by_studying_lessons_from_the_banking_industry">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_Certification_Systems_Fail">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_the_Reliability_of_Electronic_Payment_Systems_describes_work_I_did_to_help_develop_prepayment_utility_metering,_which_made_possible_the_electrification_of_millions_of_homes_in_Africa._It_appeared_in_the_May_1996_issue_of_the_IEEE_Transactions_on_Software_Engineering._An_ealier_version,_entitled_Cryptographic_Credit_Control_in_PrePayment_Metering_Systems,_appeared_at_Oakland_95._A_later_paper_on_this_subject_discussed_how_we_could_apply_what_wed_learned_to_support_utility_meter_interworking_in_the_UK_after_deregulation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_An_Attack_on_Server_Assisted_Authentication_Protocols_appeared_in_Electronics_Letters_in_1992._It_breaks_a_digital_signature_protocol">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Closing_the_Phishing_Hole_Fraud,_Risk_and_Nonbanks_reports_research_on_payment_regulation_commissioned_by_the_US_Federal_Reserve._This_paper_identified_speedy_asset_recovery_as_the_best_way_to_deter_online_fraud_and_rapid,_irrevocable_payment_instruments_such_as_Western_Union_as_a_systemic_threat">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Social_Authentication_harder_than_it_looks_shows_how_Facebooks_soocial_captcha_system_is_vulnerable_to_guessing_by_friends_and_to_face_recognition_software_blog">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PeertoPeer_and_social_network_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Symmetric_Keys,_Public_Keys_or_No_Keys_debunks_the_proposal_to_mandate_publickey_crypto_in_electricity_substations._In_this_particular_application,_the_right_solution_is_usually_to_have_no_crypto_at_all">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_Management_for_Substations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__where_many_payment_systems_fail_blog">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_protocols_and_evidence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Economics_of_Censorship_Resistance_examines_when_it_is_better_for_defenders_to_aggregate_or_disperse._Should_filesharers_build_one_huge_system_like_gnutella_and_hope_for_safety_in_numbers,_or_would_a_loose_federation_of_fan_clubs_for_different_bands_work_better">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_Fibonacci_Keystream_Generators_appeared_at_FSE3,_and_shows_how_to_break_FISH,_a_stream_cipher_proposed_by_Siemens._It_also_proposes_an_improved_cipher,_PIKE,_based_on_the_same_general_mechanisms">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Analysis_and_design_of_cryptographic_algorithms"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2008_highlights_included_a_major_study_of_Security_Economics_and_European_Policy_for_the_European_Commission_the_second_edition_of_my_book_Security_Engineering_the_discovery_of_serious_vulnerabilities_in_Chip_and_PIN_payment_systems_an_analysis_of_the_failings_of_the_Financial_Ombudsman_Service_see_also_a_video_from_the_World_Economic_Forum_in_November_2008_the_FIPR_submission_to_the_ThomasWalport_Review_a_piece_on_confidentiality_in_the_British_Journal_of_General_Practice_three_videos_on_privacy_made_by_ARCH_and_a_video_on_surveillance._I_started_a_Workshop_on_Security_and_Human_Behaviour_to_bring_together_psychologists_with_economists_and_security_engineers_to_work_on_deception_and_risk">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2009_highlights_included_Database_State,_an_influential_report_we_wrote_about_the_failings_of_publicsector_IT_in_Britain_a_number_of_its_recommendations_have_been_adopted_by_the_new_government_The_snooping_dragon_which_explains_how_the_Chinese_spooks_hacked_the_Dalai_Lama_in_the_runup_to_the_Peking_Olympics_Eight_Friends_are_Enough,_which_shows_how_little_privacy_you_have_on_Facebook_and_The_Economics_of_Online_Crime._There_are_also_videos_of_talks_I_gave_on_dependability_at_the_IET,_Krakow_and_De_Montfort,_as_well_as_a_survey_paper,_the_slides,_and_a_podcast._Finally,_I_wrote_an_Unauthorised_History_of_Cambridge_University">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_Fortifying_Key_Negotiation_Schemes_with_Poorly_Chosen_Passwords_presents_a_simple_way_of_achieving_the_same_result_as_protocols_such_as_EKE,_namely_preventing_middleperson_attacks_on_DiffieHellman_key_exchange_between_two_people_whose_shared_secret_could_be_guessed_by_the_enemy">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <base:_Optimised_to_Fail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Card_Readers_for_Online_Banking_documents_the_shortcomings_of_the_CAP_card_readers_used_for_online_banking_see_also_our_blog,_press_coverage_and_the_later_journal_version">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Optimised_to_Fail>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_papers_on_The_Initial_Costs_and_Maintenance_Costs_of_Protocols,_which_I_gave_at_Security_Protocols_2005,_and_How_Much_is_Location_Privacy_Worth_which_I_gave_at_WEIS_05">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Centrality_Prediction_in_Dynamic_Human_Contact_Networks_examines_empirical_methods_for_predicting_centrality_of_individuals_in_different_contact_networks_that_evolve_over_time">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_More_recently_we_have_been_alarmed_at_the_erosion_of_consumer_rights_as_a_result_of_the_introduction_of_chip_and_PIN_cards._The_technical_sections_above_describe_how_frauds_happen_the_flip_side_of_the_story_is_how_the_banks_escape_liability._Our_analysis_of_the_failings_of_the_Financial_Ombudsman_Service_remains_unanswered_see_also_FIPRs_submission_on_Personal_Internet_Security_with_which_the_House_of_Lords_basically_agreed_and_the_National_Payments_Plan._FIPR_now_takes_the_view_that_the_only_way_to_fix_consumer_protection_is_to_replace_public_action_with_private_action,_by_changing_the_rules_on_costs_so_that_consumers_can_enforce_their_rights_in_court_without_risking_horrendous_costs_orders_if_they_lose">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Faster_Attack_on_Certain_Stream_Ciphers_shows_how_to_break_the_multiplex_shift_register_generator,_which_is_used_in_satellite_TV_systems._I_found_a_simple_divideandconquer_attack_on_this_system_in_the_mid_1980s,_a_discovery_that_got_me_hooked_on_cryptology._This_paper_is_a_refinement_of_that_work">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <base:_Information_technology_in_medical_practice rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__safety_and_privacy_lessons_from_the_United_Kingdom_provided_an_overview_of_the_safety_and_privacy_problems_we_encountered_in_UK_healthcare_computing_in_the_mid90s_for_readers_of_the_Australian_Medical_Journal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_technology_in_medical_practice>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__I_later_discussed_what_we_could_learn_from_the_incident_in_a_radio_interview_with_Stephen_Fry">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Millennium_Bug_Reasons_Not_to_Panic_describes_our_experience_in_coping_with_the_bug_at_Cambridge_University_and_elsewhere._This_paper_correctly_predicted_that_the_bug_wouldnt_bite_very_hard._Journalists_were_not_interested,_despite_a_major_press_release_by_the_University">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns7:_done_for_the_UK_Information_Commissioner._It_concluded_that_government_plans_to_link_up_most_of_the_publicsector_databases_that_hold_information_on_children_were_misguided rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__the_proposed_systems_would_be_both_unsafe_and_illegal._This_report_got_a_lot_of_publicity._I_spoke_on_these_issues_on_these_videos_made_by_Action_on_Rights_for_Children">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns7:_done_for_the_UK_Information_Commissioner._It_concluded_that_government_plans_to_link_up_most_of_the_publicsector_databases_that_hold_information_on_children_were_misguided>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Trusted_Computing_FAQ_undermined_the_Trusted_Computing_Groups_initiative_to_install_DRM_hardware_in_every_computer,_PDA_and_mobile_phone._TC_was_sold_to_Hollywood_as_a_DRM_platform_but_its_real_beneficiary_would_have_been_the_software_industry_whose_customers_would_have_been_locked_in_more_tightly._Cryptography_and_Competition_Policy_Issues_with_Trusted_Computing_is_an_economic_analysis_I_gave_at_WEIS2003_and_as_an_invited_talk_at_PODC_2003._A_short_version_of_the_paper_appeared_in_Upgrade_theres_also_a_French_translation._I_spoke_about_TC_at_the_Trusted_Computing_Group_Symposium,_which_helped_drive_German_and_EU_policy._The_row_was_ignited_by_a_paper_on_the_security_of_free_and_open_source_software_I_gave_at_Softint_2002_see_coverage_in_the_New_York_Times_and_The_Register">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_did_a_major_study_of_Security_Economics_in_the_Single_Market_for_the_European_Network_and_Information_Security_Agency._We_looked_at_the_market_failures_underlying_spam,_phishing_and_other_online_problems,_and_made_concrete_policy_proposals,_some_of_which_have_been_adopted._A_shorter_version_62_pages_appeared_at_WEIS_2008_slides_and_an_even_shorter_version_25_pages,_at_ISSE">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Our_top_priority_in_200304_was_the_EU_IPR_enforcement_directive,_which_has_been_succinctly_described_as_DMCA_on_steroids_and_criticised_by_distinguished_lawyers._Our_lobbying_got_it_amended_to_remove_criminal_sanctions_for_patent_infringement_and_legal_protection_for_devices_such_as_RFID_tags._This_law_was_supported_by_the_music_industry,_the_luxury_brands,_and_initially_Microsoft,_while_the_coalition_that_we_put_together_to_oppose_it_included_the_phone_companies,_the_supermarkets,_the_generic_drugmakers,_the_car_parts_industry,_smaller_software_firms_and_the_free_software_community._The_press_was_sceptical_in_Britain,_France_and_even_America._The_issue_was_even_linked_to_a_boycott_of_Gillette._There_is_more_on_my_blog">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IP_Enforcement">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Clinical_System_Security_Interim_Guidelines_appeared_in_the_British_Medical_Journal_on_13th_January_1996._It_advises_healthcare_professionals_on_prudent_security_measures_for_clinical_data._The_most_common_threat_is_that_private_investigators_use_falsepretext_telephone_calls_to_elicit_personal_health_information_from_assistant_staff">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_Infection__Smart_trust_for_Smart_Dust_appeared_at_ICNP_2004_and_presents_a_radically_new_approach_to_key_management_in_sensor_and_peertopeer_networks._Peers_establish_keys_opportunistically_and_use_resilience_mechanisms_against_later_node_compromise._This_work_challenged_the_assumption_that_authentication_is_largely_about_bootstrapping">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__44_1223_33_47_33">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_details"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_Professor_of_Security_Engineering_at_the_Computer_Laboratory._My_research_students_are_Laurent_Simon,_Rubin_Xu_and_Dongting_Yu._Richard_Clayton,_Steven_Murdoch,_Sergei_Skorobogatov,_David_Modic,_Sophie_van_der_Zee_and_Alice_Hutchings_are_postdocs._Im_also_collaborating_with_Robert_Brady._Alumni_include_former_postdocs_Mike_Bond,_Vashek_Matyas_and_Andrei_Serjantov,_while_JongHyeon_Lee,_Frank_Stajano,_Fabien_Petitcolas,_Harry_Manifavas,_Markus_Kuhn,_Ulrich_Lang,_Jeff_Yan,_Susan_Pancho,_Mike_Bond,_George_Danezis,_Sergei_Skorobogatov,_HyunJin_Choi,_Richard_Clayton,_Jolyon_Clulow,_Hao_Feng,_Andy_Ozment,_Tyler_Moore,_Shishir_Nagaraja,_Robert_Watson,_Hyoungshick_Kim,_Shailendra_Fuloria,_Joe_Bonneau_and_WeiMing_Khoo_have_earned_PhDs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Ross.Andersoncl.cam.ac.uk">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Email">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_details"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__An_Alternative_Means_of_Establishing_Trust_on_the_World_Wide_Web_investigated_how_to_protect_naming_and_indexing_information_and_showed_how_to_embed_trust_mechanisms_in_html_documents._It_was_motivated_by_a_medical_school_project_to_protect_the_electronic_version_of_the_British_National_Formulary">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Eternal_Resource_Locator">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2013_highlights_included_Rendezvous,_a_prototype_search_engine_for_code_a_demonstration_that_we_could_steal_your_PIN_via_your_phone_camera_and_microphone_an_analysis_of_SDN_Authentication_and_papers_on_quantum_computing_and_Bells_inequality">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Cocaine_Auction_Protocol_explores_how_transactions_can_be_conducted_between_mutually_mistrustful_principals_with_no_trusted_arbitrator,_even_in_environments_where_anonymous_communications_make_most_of_the_principals_untraceable">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_These_issues_have_come_round_once_more_with_GCHQs_Interception_Modernisation_Programme,_a_plan_to_centralise_all_traffic_data_first_in_a_central_database_and_more_recently_in_a_system_of_federated_databases_maintained_by_communications_service_providers._FIPR_wrote_a_response_to_a_Home_Office_consultation_on_this,_and_another_response_to_one_on_the_orders_and_codes_of_practice_for_interception._We_also_commented_on_the_Cabinet_Offices_actually_GCHQs_inappropriate_proposals_to_secure_government_systems">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Security_Policy_Model_for_Clinical_Information_Systems_appeared_at_the_1996_IEEE_Symposium_on_Security_and_Privacy._It_presents_the_BMA_policy_model_to_the_computer_security_community_in_a_format_comparable_to_policies_such_as_BellLaPadula_and_ClarkWilson._It_had_some_influence_on_later_US_health_privacy_legislation_the_KennedyKassebaum_Bill,_now_HIPAA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__it_often_takes_several_attempts_to_get_a_design_right._It_is_also_hard_to_learn">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_engineering_is_not_just_concerned_with_infrastructure_matters_such_as_firewalls_and_PKI._Its_also_about_specific_applications,_such_as_banking_and_medical_recordkeeping,_and_about_embedded_systems_such_as_automatic_teller_machines_and_burglar_alarms._Its_usually_done_badly">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Book_on_Security_Engineering"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_System_security_for_cyborgs_discusses_technical,_ethical_and_securityeconomics_issues_to_do_with_implantable_medical_devices">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PeertoPeer_and_social_network_systems_including_the_Eternity_Service,_cocaine_auctions_and_suicide_bombing">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_topics_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Why_Information_Security_is_Hard_An_Economic_Perspective_was_the_paper_that_got_information_security_people_thinking_about_economics._It_applies_microeconomic_analysis_to_explain_many_phenomena_that_security_folks_had_found_to_be_pervasive_but_perplexing">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <base:_Information_hiding_including_Soft_Tempest rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hollywood_once_hoped_that_copyrightmarking_systems_would_help_control_the_copying_of_videos,_music_and_computer_games._This_became_high_drama_when_a_paper_that_showed_how_to_break_the_DVDSDMI_copyright_marking_scheme_was_pulled_by_its_authors_from_the_Information_Hiding_2001_workshop,_following_legal_threats_from_Hollywood._In_fact,_the_basic_scheme_echo_hiding_was_among_a_number_that_we_broke_in_1997._The_attack_was_reported_in_our_paper_Attacks_on_Copyright_Marking_Systems,_which_we_published_at_Info_Hiding_1998._We_also_wrote_Information_Hiding_A_Survey,_which_appeared_in_Proc_IEEE_and_is_a_good_place_to_start_if_youre_new_to_the_field._For_the_policy_aspects,_you_might_read_Pam_Samuelson._There_is_much_more_about_the_technology_on_the_web_page_of_my_former_student_Fabien_Petitcolas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_hiding_including_Soft_Tempest>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_engineering_is_about_building_systems_to_remain_dependable_in_the_face_of_malice,_error_or_mischance._As_a_discipline,_it_focuses_on_the_tools,_processes_and_methods_needed_to_design,_implement_and_test_complete_systems,_and_to_adapt_existing_systems_as_their_environment_evolves._My_book_has_become_the_standard_textbook_and_reference_since_it_was_published_in_2001._You_can_download_the_first_edition_without_charge_here">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Book_on_Security_Engineering"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Dancing_Bear_A_New_Way_of_Composing_Ciphers_presents_a_new_way_to_combine_crypto_primitives._Previously,_to_decrypt_using_say_any_three_out_of_five_keys,_the_keys_all_had_to_be_of_the_same_type_such_as_RSA_keys._With_my_new_construction,_you_can_mix_and_match__RSA,_AES,_even_onetime_pad._The_paper_appeared_at_the_2004_Protocols_Workshop_an_earlier_version_came_out_at_the_FSE_2004_rump_session">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Can_We_Fix_the_Security_Economics_of_Federated_Authentication_explores_how_protocols_work,_or_fail,_at_global_scale._How_can_we_deal_with_a_world_in_which_your_mobile_phone_contains_your_credit_cards,_your_driving_license_and_even_your_car_key_and_in_particular_what_happens_when_it_gets_stolen_or_infected_blog">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Its_the_Anthropology,_Stupid_discusses_how_we_might_put_context_and_emotion_back_into_security_decisions">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Cambridge_Computer_Laboratory">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_details"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems_including_bank_fraud_and_hardware_hacking">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_topics_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_hiding_including_Soft_Tempest_and_stego_file_systems">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_topics_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Remarks_on_the_Caldicott_Report_raises_a_number_of_issues_about_the_report_of_the_Caldicott_Committee,_which_was_set_up_by_the_Major_government_to_kick_the_medical_privacy_issue_into_touch_until_after_the_1997_election._Its_members_failed_to_understand_that_medical_records_from_which_the_names_have_been_removed,_but_where_NHS_numbers_remain,_are_not_anonymous_as_large_numbers_of_NHS_staff_need_to_map_names_to_numbers_in_order_to_do_their_jobs">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Internet_Censorship_is_a_growing_problem,_and_not_just_in_developing_countries_Ive_been_on_the_receiving_end_more_than_once._In_1995,_I_invented_the_first_censorshipresistant_system,_the_Eternity_Service_this_was_a_precursor_of_later_filesharing_systems_see_above,_and_weve_also_written_on_the_economics_of_censorship_resistance._But_despite_the_technical_difficulties_and_collateral_costs_of_content_filtering,_governments_arent_giving_up._From_2006_to_2008,_I_was_a_principal_investgator_for_the_OpenNet_Initiative_which_monitors_Internet_filtering_worldwide._Shifting_Borders_reviewed_the_state_of_play_in_late_2007,_and_appeared_in_Index_on_Censorship_Tools_and_Technology_of_Internet_Filtering_goes_into_more_technical_detail_and_appeared_in_Access_Denied._The_political_action_now_is_about_Internet_blocking">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sybilresistant_DHT_routing_appeared_at_ESORICS_2005_and_showed_how_we_can_make_peertopeer_systems_more_robust_against_disrutpive_attacks_if_we_know_which_nodes_introduced_which_other_nodes">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_birthday_present_every_eleven_wallets_is_the_first_proper_study_of_the_security_of_customerselected_bank_PINs,_and_documents_all_sorts_of_bad_stuff_blog,_press,_blog">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Classification_of_Hash_Functions_showed_that_correlation_freedom_is_strictly_stronger_than_collision_freedom,_and_shows_that_there_are_many_pseudorandomness_properties_other_than_collision_freedom_which_hash_functions_may_need._It_appeared_at_Cryptography_and_Coding_93">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2007_I_acted_as_a_Special_Adviser_to_the_House_of_Commons_Health_Select_Committees_Report_on_the_Electronic_Patient_Record._This_concluded_that_the_NHS_computerisation_project_is_failing_to_meet_its_core_objectives,_and_that_patient_privacy_is_at_risk_as_well_as_operational_effectiveness._I_was_a_Special_Adviser_to_the_Committee._See_the_parliamentary_debate_on_the_report,_press_comment,_and_an_article_on_the_implications_for_HIV_treatment">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__I_got_engaged_in_technology_policy_thanks_to_attempts_in_the_1990s_by_governments_led_by_the_USA_to_control_the_use_of_cryptography._In_1995,_I_wrote_Crypto_in_Europe_Markets,_Law_and_Policy._This_surveyed_the_uses_of_cryptography_in_Europe_and_discussed_the_shortcomings_of_crypto_policy_I_pointed_out_that_law_enforcement_communications_intelligence_was_mostly_about_traffic_analysis_and_criminal_communications_security_was_mostly_traffic_security._This_view_was_heretical_at_the_time_but_is_now_orthodoxy._The_Risks_of_Key_Recovery,_Key_Escrow,_and_Trusted_ThirdParty_Encryption_became_the_most_widelycited_publication_on_key_escrow._It_examines_the_technical_risks,_costs,_and_implications_of_deploying_systems_that_would_satisfy_government_wishes._It_was_originally_presented_as_testimony_to_the_US_Senate,_and_then_also_to_the_Trade_and_Industry_Committee_of_the_UK_House_of_Commons,_together_with_a_further_piece_I_wrote,_The_Risks_and_Costs_of_UK_Escrow_Policy">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_RIP_Act,_the_Crypto_Wars_and_Key_Escrow">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__44_1223_33_46_78">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fax">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_details"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_New_Family_of_Authentication_Protocols_presented_our_Guy_Fawkes_Protocol,_which_lets_users_sign_messages_using_only_two_computations_of_a_hash_function_and_one_reference_to_a_timestamping_service._It_led_to_the_Tesla_research_on_protocols_for_signing_digital_streams">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2005_highlights_included_research_papers_on_The_topology_of_covert_conflict,_on_combining_cryptography_with_biometrics,_on_Sybilresistant_DHT_routing,_and_on_Robbing_the_bank_with_a_theorem_prover_and_a_big_survey_paper_on_cryptographic_processors">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Patient_confidentiality_and_central_databases_appeared_in_the_February_2008_British_Journal_of_General_Practice,_calling_on_GPs_to_encourage_patients_to_opt_out_of_the_NHS_care_records_service">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_psychology_of_information_security_including_security_and_human_behaviour">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_topics_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tiger_A_Fast_New_Hash_Function_defines_a_new_hash_function,_which_we_designed_following_Hans_Dobbertins_attack_on_MD4._This_was_designed_to_run_extremely_fast_on_the_new_64bit_processors_such_as_DEC_Alpha_and_IA64,_while_still_running_reasonably_quickly_on_existing_hardware_such_as_Intel_80486_and_Pentium_the_above_link_is_to_the_Tiger_home_page,_maintained_in_Haifa_by_Eli_Biham_if_the_network_is_slow,_see_my_UK_mirrors_of_the_Tiger_paper,_new_and_old_reference_implementations_the_change_fixes_a_padding_bug_and_Sbox_generation_documents._There_are_also_thirdparty_crypto_toolkits_supporting_Tiger,_such_as_that_from_Bouncy_Castle">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_Dealing_with_Adversaries_Fairly_applies_election_theory_also_known_as_social_choice_theory_to_the_problem_of_shared_control_in_distributed_systems">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Two_Remarks_on_Public_Key_Cryptology_is_a_note_on_two_ideas_I_floated_at_talks_I_gave_in_199798,_concerning_forwardsecure_signatures_and_compatible_weak_keys._The_first_of_these_has_inspired_later_research_by_others_the_second_gives_a_new_attack_on_public_key_encryption">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Our_classic_paper_on_hardware_security,_Tamper_Resistance_A_Cautionary_Note,_describes_how_to_penetrate_the_smartcards_and_secure_microcontrollers_of_the_mid1990s._It_kicked_off_the_modern_academic_study_of_hardware_security_and_won_a_Best_Paper_award._Our_second_paper_on_the_subject_was_Low_Cost_Attacks_on_Tamper_Resistant_Devices,_which_describes_a_number_of_further_tricks._See_also_the_home_page_of_our_hardware_security_laboratory,_and_Markus_Kuhns_page_of_links_to_hardware_attack_resources">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Grenade_Timer_describes_a_novel_way_to_protect_lowcost_processors_against_denialofservice_attacks,_by_limiting_the_number_of_cycles_an_application_can_consume">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Risk_and_privacy_implications_of_consumer_payment_innovation_discusses_what_threats_to_competition,_privacy_and_payment_security_might_arise_as_a_result_of_mobile_innovation_I_gave_it_at_the_Feds_biennial_Payment_Systems_Conference_slides_blog">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_An_Update_on_the_BMA_Security_Policy_appeared_in_June_1996_and_tells_the_story_of_the_struggle_between_the_BMA_and_the_government,_including_the_origins_and_development_of_the_BMA_security_policy_and_guidelines">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Patient_Confidentiality_ndash_At_Risk_from_NHS_Wide_Networking_went_into_somewhat_more_detail,_particularly_on_the_security_policy_aspects._It_was_presented_at_Health_Care_96">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Phish_and_Chips_documents_protocol_weaknesses_in_EMV,_and_A_Note_on_EMV_Secure_Messaging_in_the_IBM_4758_CCA_documents_even_more._The_ManintheMiddle_Defence_shows_how_to_turn_protocol_weaknesses_to_advantage._See_my_paper_RFID_and_the_Middleman_for_the_likely_next_wave_of_frauds">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Why_Cryptosystems_Fail_was_my_first_widelycited_paper_and_the_first_on_what_goes_wrong_with_payment_systems._This_version_appeared_at_ACMCCS_93_and_explains_how_ATM_fraud_was_done_in_the_early_1990s._Liability_and_Computer_Security_Nine_Principles_took_this_work_further,_and_examines_the_problems_with_relying_on_cryptographic_evidence._The_recent_introduction_of_EMV_chip_and_PIN_was_supposed_to_fix_the_problem,_but_hasnt">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__I_realised_that_the_narrative_had_to_do_with_incentives_and_organisation_at_least_as_often_as_with_the_technology._The_second_edition_incoporates_the_economic_perspectives_weve_developed_since_then,_and_new_perspectives_from_the_psychology_of_security,_as_well_as_updating_the_technological_side_of_things">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_book_was_an_attempt_to_help_the_working_engineer_to_do_better._As_well_as_the_basic_science,_it_contains_details_of_many_applications_and_lot_of_case_histories_of_how_their_protection_failed._It_describes_a_number_of_technologies_which_arent_well_covered_elsewhere._The_first_edition_was_pivotal_in_founding_the_nowflourishing_field_of_information_security_economics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Book_on_Security_Engineering"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__BBC_WSJ_PC_World_Computerworld">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Measuring_the_Cost_of_Cybercrime_sets_out_to_debunk_the_scaremongering_around_online_crime_that_governments_and_defence_contractors_are_using_to_justify_everything_from_increased_surveillance_to_preparations_for_cyberwar._It_was_written_in_response_to_a_request_from_the_UK_Ministry_of_Defence,_and_appeared_at_WEIS_2012_press">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Combining_cryptography_with_biometrics_shows_that_in_those_applications_where_you_can_benefit_from_biometrics,_you_often_dont_need_a_large_central_database_as_proposed_for_Britains_ID_card._There_are_smarter_and_less_privacyinvasive_ways_to_arrange_things">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_in_Clinical_Information_Systems_was_published_by_the_BMA_in_January_1996._It_sets_out_rules_that_uphold_the_principle_of_patient_consent_independently_of_the_details_of_specific_systems._It_was_the_medical_professions_initial_response_to_the_safety_and_privacy_problems_posed_by_centralised_NHS_computer_systems">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Why_bouncing_droplets_are_a_pretty_good_model_of_quantum_mechanics,_we_solve_an_outstanding_mystery_in_physics_see_blog_posts,_three_previous_papers_and_older_blog_posts">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rendezvous_is_a_prototype_search_engine_for_code,_which_we_hope_will_bring_reverse_engineering_into_the_21st_century_blog">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ross_Anderson"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2011_highlights_included_a_major_report_on_the_Resilience_of_the_Internet_Interconnection_Ecosystem_which_studies_how_an_attacker_might_bring_down_the_Internet_an_updated_survey_paper_on_Economics_and_Internet_Security_which_covers_recent_analytical,_empirical_and_behavioral_research_and_Can_We_Fix_the_Security_Economics_of_Federated_Authentication_which_explores_how_we_can_deal_with_a_world_in_which_your_mobile_phone_contains_your_credit_cards,_your_driving_license_and_even_your_car_key._What_happens_when_it_gets_stolen_or_infected_blog">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2010_highlights_included_a_paper_on_why_Chip_and_PIN_is_broken_for_which_we_got_coverage_on_Newsnight_and_a_best_paper_award_later,_the_banks_tried_to_suppress_this_research._Other_bank_security_work_included_a_paper_on_Verified_by_VISA_and_another_on_the_unwisdom_of_banks_adopting_proprietary_standards._On_the_control_systems_front,_we_published_papers_on_the_technical_security_and_security_economics_of_smart_meters,_on_their_privacy,_on_their_deployment_and_on_key_management_for_substations._I_created_a_psychology_and_security_web_page_and_wrote_a_paper_on_putting_context_and_emotion_back_in_security_decisions">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__where_many_payment_systems_fail_analyses_why_dispute_resolution_is_hard._In_a_nutshell,_the_systems_needed_to_support_it_properly_just_dont_get_built_blog">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_protocols_and_evidence"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Searching_for_the_Optimum_Correlation_Attack_shows_that_nonlinear_combining_functions_used_in_nonlinear_filter_generators_can_react_with_shifted_copies_of_themselves_in_a_way_that_opens_up_a_new_and_powerful_attack_on_many_cipher_systems._It_appeared_at_the_second_workshop_on_fast_software_encryption">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <base:_The_snooping_dragon rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__socialmalware_surveillance_of_the_Tibetan_movement_explains_how_the_Chinese_intelligence_services_compromised_many_of_the_computers_at_the_Dalai_Lamas_private_office,_and_what_this_means_for_information_security_also_slides">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_snooping_dragon>
+  <base:_Information_hiding_including_Soft_Tempest rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_followup_paper_on_the_costs_and_benefits_of_Soft_Tempest_in_military_environments_appeared_at_NATOs_1999_RTO_meeting_on_infosec,_while_an_earlier_version_of_our_main_paper,_which_received_considerable_publicity,_is_available_here._Finally,_theres_some_software_you_can_use_to_play_your_MP3s_over_the_radio_here,_a_press_article_here_and_information_on_more_recent_optical_tempest_attacks_here">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_hiding_including_Soft_Tempest>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_the_Security_of_Digital_Tachographs_successfully_predicted_how_the_introduction_of_smartcardbased_digital_tachographs_throughout_Europe_from_2005_would_affect_fraud_and_tampering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_What_Next_after_Anonymity_argues_that_it_isnt_enough_to_worry_about_the_confidentiality_of_metadata_anonymity_we_sometimes_need_to_protect_their_integrity_as_well">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__A_page_with_Comments_on_Terrorism_explains_why_many_of_the_measures_that_various_people_have_been_trying_to_sell_since_the_11th_September_attacks_are_unlikely_to_work_as_promised._Much_subsequent_policy_work_has_been_made_harder_by_assorted_salesmen,_centralisers,_rentseekers_and_chancers_talking_about_terror_I_testified_against_police_attempts_to_increase_precharge_detention_to_ninety_days_with_the_implausible_claim_that_they_needed_more_time_to_decrypt_seized_data._We_must_constantly_push_back_on_the_scaremongers_here_for_example_is_a_video_I_did_on_the_effects_of_911">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Terrorism">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NetCard__A_Practical_Electronic_Cash_Scheme_presents_research_on_micropayment_protocols_for_use_in_electronic_commerce._We_invented_tick_payments_simultaneously_with_Torben_Pedersen_and_with_Ron_Rivest_and_Adi_Shamir_we_all_presented_our_work_at_Protocols_96">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Security_Issues_for_Adhoc_Wireless_Networks_was_very_influential._It_describes_how_to_do_key_management_between_lowcost_devices_without_either_the_costs_or_privacy_problems_of_central_servers._Theres_also_a_journal_version_here">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Resurrecting_Duckling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_wrote_a_report_for_the_National_Audit_Office_on_the_health_IT_expenditure,_strategies_and_goals_of_the_UK_and_a_number_of_other_developed_countries._This_showed_that_the_NHS_National_Program_for_IT_is_in_many_ways_an_outlier,_and_highrisk">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Murphys_law,_the_fitness_of_evolving_species,_and_the_limits_of_software_reliability_applies_the_techniques_of_statistical_thermodynamics_to_the_failure_modes_of_any_complex_system_that_evolves_under_testing._It_provides_a_common_mathematical_model_for_the_reliability_growth_of_complex_computer_systems_and_for_biological_evolution._Its_findings_are_in_close_agreement_with_empirical_data,_and_it_inspired_later_work_in_security_economics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__the_Case_of_SDN_discusses_the_authentication_problems_we_need_to_solve_if_were_to_move_software_defined_networks_out_of_the_data_centre_into_more_heterogeneous_environments._It_appeared_at_Security_Protocols_2013">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authentication_for_Resilience">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__FIPR_also_brought_together_legal_and_computing_experts_to_deconstruct_the_fashionable_late1990s_notion_that_digital_certificateswould_solve_all_the_problems_of_ecommerce_and_egovernment._Anyone_inclined_to_believe_such_nonsence_should_read_Electronic_Commerce_Who_Carries_the_Risk_of_Fraud._Other_work_in_this_thread_include_FIPRs_responses_to_consultations_on_smartcards,_the_electronic_signature_directive_and_the_ecommerce_bill">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Consumer_Protection">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Waste_of_Public_Money_is_another_objection_to_the_bad_government_systems_that_undermine_our_privacy._Other_wasteful_systems_include_smart_meters_which_look_set_to_cost_billions_without_achieving_anything_useful_blog">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__how_can_you_be_sure_youre_recruitng_the_right_device,_rather_than_a_similar_one_nearby">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_was_a_designer_of_the_security_of_Homeplug_AV,_an_industry_standard_for_broadband_communication_over_the_power_mains._Heres_a_paper_on_what_we_did_and_why_its_is_a_good_worked_example_of_how_to_do_key_establishment_in_a_real_adhoc_system._The_core_problem_is">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Memorability_and_Security_of_Passwords__Some_Empirical_Results_tackles_an_old_problem__how_do_you_train_users_to_choose_passwords_that_are_easy_to_remember_but_hard_to_guess_We_did_a_randomized_controlled_trial_with_a_few_hundred_first_year_science_students_which_confirmed_some_folk_beliefs,_but_debunked_some_others._This_became_one_of_the_classic_papers_on_security_usability">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2007_highlights_included_technical_papers_on_RFID_and_on_New_Strategies_for_Revocation_in_AdHoc_Networks_which_explores_when_suicide_attacks_are_effective_a_Google_tech_talk_on_searching_for_covert_communities_online_a_paper_on_fraud,_risk_and_nonbank_payment_systems_I_wrote_for_the_Fed_and_a_survey_paper_on_Information_Security_Economics_of_which_a_shortened_version_appeared_in_Science._I_was_a_special_adviser_to_House_of_Commons_Health_Committee_for_their_Report_on_the_Electronic_Patient_Record._Finally,_following_the_HMRC_data_loss,_I_appeared_in_the_debate_on_Newsnight">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Who_controls_the_off_switch_describes_the_strategic_vulnerability_created_by_the_UK_plan_to_replace_47m_gas_and_electricity_meters_with_smart_metersthat_can_be_switched_off_remotely._There_are_further_papers_on_SCADA_security_engineering_here,_here,_here,_here_and_here">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <base:_Eight_Friends_are_Enough rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Social_Graph_Approximation_via_Public_Listings_shows_how_easy_it_is_for_an_outsider_to_work_out_the_structure_of_friendships_on_Facebook._For_more,_see_our_blog_on_Facebooks_technical_privacy_and_its_democracy_theatre">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Eight_Friends_are_Enough>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Laurent_Simon_Rubin_Xu_Dongting_Yu_Richard_Clayton_Steven_Murdoch_Sergei_Skorobogatov_David_Modic_Sophie_van_der_Zee_Alice_Hutchings_Robert_Brady_Mike_Bond_Vashek_Matyas_Andrei_Serjantov_JongHyeon_Lee_Frank_Stajano_Fabien_Petitcolas_Harry_Manifavas_Markus_Kuhn_Ulrich_Lang_Jeff_Yan_Susan_Pancho_Mike_Bond_George_Danezis_Sergei_Skorobogatov_HyunJin_Choi_Richard_Clayton_Jolyon_Clulow_Hao_Feng_Andy_Ozment_Tyler_Moore_Shishir_Nagaraja_Robert_Watson_Hyoungshick_Kim_Shailendra_Fuloria_Joe_Bonneau_WeiMing_Khoo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Impact_of_Incentives_on_Notice_and_Takedown_examines_how_takedown_speed_varies_with_the_incentive_of_the_party_requesting_removal._Banks_are_quick_to_remove_phishing_websites_that_mention_them_by_name,_but_they_ignore_mule_recruitment_websites_because_its_harder_to_tell_which_bank_will_be_affected">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_An_Experimental_Evaluation_of_Robustness_of_Networks_studies_the_best_attack_and_defence_strategies_in_different_kinds_of_networks._It_builds_on_an_earlier_paper,_The_topology_of_covert_conflict_which_asked_how_the_police_can_best_target_an_underground_organisation_given_some_knowledge_of_its_patterns_of_communication,_and_how_might_they_in_turn_might_react_to_various_lawenforcement_strategies._Our_framework_combines_ideas_from_network_analysis_and_evolutionary_game_theory_to_explore_the_interaction_of_attack_and_defence_strategies_in_networks">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_I_2006_organised_23_computer_science_professors_to_write_to_the_Health_Committee_requesting_an_independent_review_of_the_NHS_National_Programme_for_IT,_the_last_big_centralisation_drive,_as_it_was_visible_failing._Ministers_refused,_and_NPfIT_went_on_to_become_the_largest_civilgovernment_IT_project_failure_ever">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Problems_with_the_NHS_Cryptography_Strategy_points_out_a_number_of_errors_in,_and_ethically_unacceptable_consequences_of,_a_report_on_cryptography_produced_for_the_Department_of_Health._These_comments_formed_the_BMAs_response_to_that_report">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Minding_your_ps_and_qs_points_out_a_number_of_things_that_can_go_wrong_with_the_choice_of_modulus_and_generator_in_public_key_systems_based_on_discrete_log._It_elucidated_some_of_the_previously_classified_reasoning_behind_the_design_of_the_US_Digital_Signature_Algorithm,_and_appeared_at_Asiacrypt_96">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_my_paper_on_the_security_of_free_and_open_source_software,_I_show_that_the_old_argument_whether_source_code_access_makes_it_easier_for_the_defenders_to_find_and_fix_bugs,_or_easier_for_the_attackers_to_find_and_exploit_them_is_misdirected._Under_standard_assumptions_used_in_reliability_growth_modelling,_the_two_will_exactly_cancel_each_other_out._That_means_that_whether_open_or_closed_systems_are_more_secure_in_a_given_situation_will_depend_on_whether,_and_how,_the_application_deviates_from_the_standard_assumptions._These_ideas_are_developed_further_in_Open_and_Closed_Systems_are_Equivalent_that_is,_in_an_ideal_world_which_appeared_as_a_chapter_in_Perspectives_on_Free_and_Open_Source_Software._See_press_coverage_in_slashdot,_news.com_and_The_Register">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Trusted_Computing_was_a_focus_in_200203._I_wrote_a_Trusted_Computing_FAQ_that_was_very_widely_read,_followed_by_a_study_of_the_competition_policy_aspects_of_this_technology._This_led_inter_alia_to_a_symposium_organised_by_the_German_government_which_in_turn_pushed_the_Trusted_Computing_Group_into_incorporating,_admitting_small_companies,_and_issuing_implementation_guidelines._Trusted_Computing_appears_to_have_fizzled_out_because_Microsoft_couldnt_get_remote_attestation_to_work_the_only_thing_the_TPM_is_used_for_in_Windows_Vista_is_hard_disk_encryption">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Database_State_is_a_report_we_wrote_for_the_Joseph_Rowntree_Reform_Trust_on_the_failings_of_publicsector_IT_in_Britain,_and_how_to_fix_them._It_pointed_out_that_a_number_of_health_systems_almost_certainly_break_European_law._Theres_coverage_on_the_BBC,_in_the_Guardian_also_here,_the_Mail_also_here,_the_Independent,_the_Telegraph,_EHealth_Insider_and_Liberty_Central._This_report_had_a_lot_of_impact_the_coalition_government_promised_to_abolish_or_at_least_change_a_number_of_the_systems_we_fingered_as_unlawful._Both_the_Conservatives_and_the_Lib_Dems_promised_to_axe_the_NHS_centralisation_project_too_if_they_won_the_2010_election_after_they_did_so,_the_name_was_changed_but_the_stupidity_continued">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_is_an_article_I_wrote_for_Drugs_and_Alcohol_Today_analysing_the_likely_effects_of_the_NHS_computing_project_on_patient_privacy,_particularly_in_the_rehabilitation_field">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.cl.cam.ac.ukrja14Papersaurasiumusenixsec12.pdfAurasium">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_a_hrefhttp">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Initial_Costs_and_Maintenance_Costs_of_Protocols_appeared_at_the_2005_Protocols_Workshop_and_shows_how_economics_can_enter_into_protocol_design">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__a_research_platform_deconflating_hardware_virtualization_and_protection_is_the_first_paper_on_a_large_project_we_have_with_SRI_to_build_a_CPU_supporting_capabilities,_port_FreeBSD_to_it,_and_build_some_demonstrator_apps_exploring_the_costs_and_benefits_of_CPUs_with_hardware_support_for_more_finegrained_access_control_Schneier">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CHERI">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_recurrring_theme_is_the_vulnerabilities_in_the_EMV_payment_system,_known_in_the_UK_as_Chip_and_PIN._We_won_an_award_for_a_paper_describing_a_maninthemiddle_attack_that_allows_a_stolen_card_to_be_used_with_any_pin._There_was_a_TV_piece_on_Newsnight_see_also_ZDnet,_the_Telegraph,_the_Mail,_the_Mirror,_the_Register,_Bruce_Schneier,_the_press_release_and_our_FAQ._Rather_than_fixing_the_problem,_the_UK_banks_sought_to_suppress_our_research_see_comment_in_the_Guardian,_the_Indy,_the_Mail,_the_Cambridge_News,_Slashdot,_Ars_Technica,_Radio_4_and_Radio_5">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_Policies_play_a_central_role_in_secure_systems_engineering._They_provide_a_concise_statement_of_the_kind_of_protection_a_system_is_supposed_to_achieve._This_article_is_a_security_policy_tutorial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Formal_Verification_of_a_Payment_System_describes_the_first_use_of_formal_methods_to_verify_an_actual_payment_protocol,_which_was_and_still_is_used_in_an_electronic_purse_product_VISAs_COPAC_card._This_is_a_teaching_example_I_use_to_get_the_ideas_of_the_BAN_logic_across_to_undergraduates._There_is_further_detailed_information_in_a_technical_report,_which_combines_papers_given_at_ESORICS_92_and_Cardis_94">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JJ_Thomson_Avenue">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_details"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Economics_of_Online_Crime_appeared_in_the_Journal_of_Economic_Perspectives_it_looks_at_the_econometrics_of_fraud_and_phishing,_and_makes_a_number_of_suggestions_for_improving_the_responses_of_banks_and_lawenforcement_agencies">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_of_clinical_information_systems_including_NHS_databases">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_topics_include"/>
+  </owl:NamedIndividual>
+  <base:_Information_hiding_including_Soft_Tempest rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Newton_Channel_settles_a_conjecture_of_Simmons_by_exhibiting_a_high_bandwidth_subliminal_channel_in_the_ElGamal_signature_scheme">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_hiding_including_Soft_Tempest>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_wrote_a_major_report_for_ENISA_on_the_Resilience_of_the_Internet_interconnection_ecosystem_which_has_been_adopted_as_ENISA_policy._We_believe_this_is_the_first_time_anyone_has_documented_how_the_Internet_actually_works_in_practice,_as_opposed_to_in_theory._The_serious_student_will_want_the_full_report_238_pages_while_here,_for_the_busy,_is_the_31page_executive_summary">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_the_security_economics_of_electricity_metering_appeared_at_WEIS_2010_and_warns_that_the_governments_smart_meter_programme_probably_wont_work._Other_papers_on_security_economics_and_control_systems_include_Security_Economics_and_Critical_National_Infrastructure_at_WEIS_2009_Certification_and_Evaluation_at_IEEE_ETFA_2009_The_Protection_of_Substation_Communications_SCADA_Security_Scientific_Symposium,_2010_and_Towards_a_security_architecture_for_substations_IEEE_PES_ISGT_Europe,_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tree_Functions_and_Cipher_Systems_appeared_in_1991_it_points_out_a_weakness_in_a_proprietary_cipher_that_was_later_developed_into_this">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Temporal_Node_Centrality_in_Complex_Networks_proposes_new_metrics_for_analysing_highly_dynamic_systems._If_theres_an_epidemic_of_flu,_should_you_close_down_the_schools_or_the_subway_video_blog_news">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_Economics_A_Personal_Perspective_is_an_invited_paper_I_gave_at_ACSAC_2012_telling_the_story_of_how_security_economics_got_going_as_a_subject._This_is_often_credited_to_a_paper_I_gave_at_ACSAC_2001_but_the_real_story_is_more_complex">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_principles_for_public_key_protocols_gives_a_number_of_attacks_on_protocols_based_on_public_key_primitives._It_also_puts_forward_some_principles_which_can_help_us_to_design_robust_protocols,_and_to_find_attacks_on_other_peoples_designs._It_appeared_at_Crypto_95">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_How_to_Cheat_at_the_Lottery_reports_a_novel_and,_I_hope,_entertaining_experiment_in_software_requirements_engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chameleon_A_New_Kind_of_Stream_Cipher_shows_how_to_do_traitor_tracing_using_symmetric_rather_than_publickey_cryptology._The_idea_is_to_turn_a_stream_cipher_into_one_with_reduced_key_diffusion,_but_without_compromising_security._A_single_broadcast_ciphertext_is_decrypted_to_slightly_different_plaintexts_by_users_with_slightly_different_keys._This_paper_appeared_at_Fast_Software_Encryption_in_Haifa_in_January_1997">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Hidden_Data_Transmission_Using_Electromagnetic_Emanations_must_be_one_of_the_more_unexpected_things_we_discovered._It_is_well_known_that_eavesdroppers_can_reconstruct_digital_information_such_as_video_screen_content_from_stray_radio_frequency_emanations_such_Tempest_attacks_were_traditionally_prevented_by_shielding,_jammers_or_physical_distance._We_discovered_that_the_software_on_a_computer_can_control_its_stray_electromagnetic_emanations._To_attack_a_system,_malware_can_hide_stolen_information_in_signals_that_leak_and_optimise_them_for_some_combination_of_reception_range,_receiver_type_or_even_covertness._To_defend_a_system,_a_screen_driver_can_display_sensitive_information_using_fonts_which_minimise_emitted_RF_energy._This_technology_was_fielded_in_PGP_and_elsewhere._You_can_download_Tempest_fonts_from_here">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Soft_Tempest">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_hiding_including_Soft_Tempest"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2004_highlights_included_papers_on_cipher_composition,_key_establishment_in_adhoc_networks_and_the_economics_of_censorship_resistance._I_also_lobbied_for_amendments_to_the_EU_IP_Enforcement_Directive_and_organised_a_workshop_on_copyright_which_led_to_a_common_position_adopted_by_many_European_NGOs">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_GCHQ_Protocol_and_its_Problems_pointed_out_a_number_of_serious_defects_in_the_protocol_that_the_British_government_used_to_secure_its_electronic_mail,_and_which_it_wanted_everyone_else_to_use_too._This_paper_appeared_at_Eurocrypt_97_and_it_replies_to_GCHQs_response_to_an_earlier_version_of_our_paper._Our_analysis_stopped_the_protocol_being_widely_adopted._The_Global_Trust_Register_is_a_book_of_the_fingerprints_of_the_worlds_most_important_public_keys._It_thus_implements_a_toplevel_certification_authority,_but_using_paper_and_ink_rather_than_electronics._DTI_proposals_for_mandatory_licensing_of_cryptographic_services_would_have_banned_this_book_that_fact_enabled_me_to_visit_Culture_Secretary_Chris_Smith_at_a_critical_point_in_the_crypto_wars_and_get_crypto_policy_referred_to_Cabinet_when_otherwise_it_would_have_remained_the_province_of_the_civil_servants">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Economics_and_Internet_Security">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_From_time_to_time,_Tyler_Moore_and_I_write_a_survey_paper_on_security_economics._Here_is_the_latest_2011">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_There_are_comments_made_at_NISSC_98_on_the_healthcare_protection_profiles_being_developed_by_NIST_for_the_DHHS_to_use_in_regulating_health_information_systems_privacy,_which_made_a_number_of_mistaken_assumptions_about_threats_and_protection_mechanisms">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__systemlevel_failures_of_tamper_proofing_documented_serious_vulnerabilities_in_Chip_and_PIN_payment_terminals_and_won_the_Best_Practical_Paper_award_at_the_2008_Oakland_conference._It_was_also_featured_on_Newsnight_see_the_video_and_the_viewers_comments._Here_are_some_frequently_asked_questions,_our_press_release,_and_coverage_in_the_Register,_the_Newsnight_blog_and_the_Telegraph._My_paper_Failures_on_Fraud_appeared_in_a_central_bankers_magazine_and_argued_that_all_this_is_yet_another_symptom_of_the_failure_of_bank_regulation">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thinking_inside_the_box">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__BEAR_and_LION_shows_how_to_construct_a_block_cipher_from_a_stream_cipher_and_a_hash_function._We_had_already_known_how_to_construct_stream_ciphers_and_hash_functions_from_block_ciphers,_and_hash_functions_from_stream_ciphers_so_this_paper_completed_the_set_of_elementary_reductions._It_also_led_to_the_Dancing_Bear_above">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Two_Practical_and_Provably_Secure_Block_Ciphers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_papers_on_cryptography_and_cryptanalysis_include_the_following"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns1:_got_massive_press_coverage rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__the_BBC,_the_Guardian_also_here,_the_Mail_also_here,_the_Independent,_the_Telegraph,_EHealth_Insider_and_Liberty_Central._This_followed_an_earlier_report_on_childrens_databases,_and_the_many_other_activities_described_above._Both_main_opposition_parties_promised_to_kill_or_change_at_least_some_of_these_systems,_and_after_they_won_power_in_the_2010_election_their_coalition_agreement_spelled_the_end_of_the_ContactPoint_childrens_database,_and_of_ID_cards._The_subsequent_review_by_my_FIPR_colleague_Eileen_Munro_also_sealed_the_fate_of_eCAF,_another_central_childrens_database_system">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_got_massive_press_coverage>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__cloning_EMV_cards_with_the_preplay_attack_discloses_a_family_of_vulnerabilities_in_EMV,_the_protocol_underlying_Chip_and_PIN_payments._This_may_explain_many_disputed_transactions_that_look_like_card_cloning_and_which_the_banks_often_wont_refund_to_fraud_victims_blog_BBC_FT_PCW_Schneier">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chip_and_Skim">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_keynote_talk_about_nextgeneration_peertopeer_systems_at_Wizards_of_OS_in_2004_discussed_how_usenet_might_be_reimplemented_on_a_chord_ring">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <base:_Information_hiding_including_Soft_Tempest rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_threat_in_the_1990s_by_some_governments_to_ban_cryptography_led_to_a_surge_of_interest_in_steganography_the_art_of_hiding_messages_in_other_messages_and_then_the_surge_of_paranoia_post911_stoked_interest_in_looking_for_them,_with_nonsense_like_this_boosting_many_a_bureaucrats_budget._Our_paper_On_The_Limits_of_Steganography_explored_what_can_and_cant_be_done_heres_an_earlier_version">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_hiding_including_Soft_Tempest>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Icelands_Supreme_Court_allowed_a_woman_to_block_access_to_her_fathers_records_because_of_the_information_they_may_reveal_about_her_see_analysis._This_effectively_killed_the_vision_of_having_the_whole_population_on_a_database._I_also_wrote_an_analysis_of_security_targets_prepared_under_the_Common_Criteria_for_the_evaluation_of_this_database._See_also_BMJ_correspondence_and_an_article_by_Einar_Arnason">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_DeCODE_Proposal_for_an_Icelandic_Health_Database_analyses_a_proposal_to_collect_all_Icelanders_medical_records_into_a_single_database._I_evaluated_this_for_the_Icelandic_Medical_Association_and_concluded_that_the_proposed_security_wouldnt_work._The_company_running_it_soon_hit_financial_problems_and_later_filed_for_bankruptcy._The_ethical_issues_were_a_factor">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Economics_of_Censorship_Resistance_examines_when_it_is_better_for_defenders_to_aggregate_or_disperse._Should_filesharers_build_one_huge_system_like_gnutella_and_hope_for_safety_in_numbers,_or_should_everyone_just_share_the_stuff_they_care_about_More_generally,_what_are_the_tradeoffs_between_diversity_and_solidarity_when_conflict_threatens_This_is_a_live_topic_in_social_policy_see_David_Goodharts_essay,_a_response_in_the_Economist,_and_a_post_by_Clay_Shirkey._This_paper_appeared_at_WEIS_2004">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_API_Level_Attacks_on_Embedded_Systems_are_a_powerful_way_to_attack_cryptographic_processors,_and_indeed_any_systems_where_more_trusted_processes_talk_to_less_trusted_ones._We_found_that_a_secure_device_can_often_be_defeated_by_sending_it_some_sequence_of_transactions_which_its_designer_did_not_expect._Weve_defeated_pretty_well_every_security_processor_weve_looked_at,_at_least_once._This_line_of_research_started_at_Protocols_2000_with_The_Correctness_of_Crypto_Transaction_Sets_more_followed_in_the_first_edition_of_my_book._Robbing_the_bank_with_a_theorem_prover_shows_how_to_apply_advanced_tools_to_the_problem,_and_ideas_for_future_research_can_be_found_in_Protocol_Analysis,_Composability_and_Computation._For_a_snapshot_of_how_this_interacts_with_physical_security,_see_our_survey_of_cryptographic_processors,_a_shortened_version_of_which_appeared_in_the_February_2006_Proceedings_of_the_IEEE._An_uptodate_survey_of_API_attacks_can_be_found_in_the_second_edition_of_my_my_book">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_XenoService_A_Distributed_Defeat_for_Distributed_Denial_of_Service_described_defeating_DDoS_attacks_using_a_network_of_web_hosts_that_can_respond_to_an_attack_on_a_site_by_replicating_it_rapidly_and_widely._It_used_Xen,_a_hypervisor_developed_at_Cambridge_for_distributed_hosting,_which_led_to_another_startup">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__the_IP_lobby_was_never_going_to_be_stopped_by_fine_words,_only_by_another_lobby_pushing_in_the_other_direction,_and_the_Enforcement_Directive_was_when_that_first_came_together._It_also_led_to_the_birth_of_EDRI,_European_Digital_Rights,_a_confederation_of_European_digitalrights_NGOs,_whose_establishment_was_one_of_FIPRs_significant_achievements._EDRIs_first_campaign_was_against_the_IP_Enforcement_Directive_afterwards_FIPR_and_EDRI_established_a_common_position_on_intellectual_property._Since_then_I_have_given_evidence_to_the_Gowers_Review_of_IP_and_a_parliamentary_committee_on_DRM_however_the_lead_UK_NGO_on_IP_nowadays_is_the_Open_Rights_Group">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_This_was_a_watershed_in_copyright_history">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_recent_work_on_problems_with_bank_systems_includes_Can_We_Fix_the_Security_Economics_of_Federated_Authentication_which_explores_how_we_can_deal_with_a_world_in_which_your_mobile_phone_contains_your_credit_cards,_your_driving_license_and_even_your_car_key_blog_a_paper_on_whether_EMV_is_bad_for_innovation_a_paper_on_Verified_by_VISA,_the_mechanism_that_asks_for_your_card_password_when_you_shop_online_and_a_tech_report_On_the_Security_of_Internet_Banking_in_South_Korea">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reading_this_may_harm_your_computer_The_psychology_of_malware_warnings_analyses_what_sort_of_text_we_should_put_in_a_warning_if_we_actually_want_the_user_to_pay_attention_to_it_blog">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Inferring_PINs_Through_The_Camera_and_Microphone_we_show_that_software_on_your_smartphone_can_work_out_what_PIN_you_enter_on_your_phone_by_watching_your_face_through_the_camera_and_listening_for_the_clicks_as_you_type_blog_BBC_CNN">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_PIN_Skimmer">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_Strategies_for_Revocation_in_AdHoc_Networks_won_the_best_paper_award_at_ESAS07._In_it_we_show_how_to_use_suicide_bombing_for_revocation_in_networks._Suicide_attacks_are_found_widely_in_nature,_from_bees_to_helper_Tcells_this_model_may_help_explain_why_press_coverage_here_and_here._The_idea_was_developed_further_in_Fast_exclusion_of_errant_devices_from_vehicular_networks_at_SECON_08">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <base:_2012_highlights_included_a_big_report_on_Measuring_the_Cost_of_Cybercrime_and_a_history_of_security_economics_an_attempt_to_kill_the_governments_smart_metering_project_three_papers_on_dynamic_networks_and_four_papers_on_payment_protocols rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Chip_and_Skim">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2012_highlights_included_a_big_report_on_Measuring_the_Cost_of_Cybercrime_and_a_history_of_security_economics_an_attempt_to_kill_the_governments_smart_metering_project_three_papers_on_dynamic_networks_and_four_papers_on_payment_protocols>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_After_we_discovered_the_above_attacks,_we_developed_a_CPU_technology_that_uses_redundant_failureevident_logic_to_thwart_attacks_based_on_fault_induction_or_power_analysis._Our_first_paper_on_this_technology_won_an_award_at_Async_2002._Our_journal_paper,_Balanced_SelfChecking_Asynchronous_Logic_for_Smart_Card_Applications,_has_more">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Trust_Economy_of_Brief_Encounters_argues_that_as_transactions_become_more_transient,_we_will_have_to_authenticate_more_it_appeared_at_the_protocols_workshop_in_2009">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  </owl:NamedIndividual>
+  <base:_Reliability_of_security_systems rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_a_New_Way_to_Read_Data_from_Memory_describes_techniques_we_developed_that_use_lasers_to_read_out_memory_contents_directly_from_a_chip,_without_using_the_readout_circuits_provided_by_the_vendor._The_work_builds_on_methods_described_in_Optical_Fault_Induction_Attacks,_which_showed_how_laser_pulses_could_be_used_to_induce_faults_in_smartcards_that_would_leak_secret_information._That_paper_appeared_at_CHES_2002_it_made_the_front_page_of_the_New_York_Times_and_also_got_covered_by_slashdot._It_led_to_the_field_of_semiinvasive_attacks_on_semiconductors,_pioneered_by_my_then_research_student_Sergei_Skorobogatov">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reliability_of_security_systems>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Identity_Cards_were_a_clever_political_move_by_Blair_they_divided_the_Conservatives_in_20045._I_testified_to_the_Home_Affairs_committee_in_2004_that_they_would_not_work_as_advertised,_and_contributed_to_the_LSE_Report_that_spelled_this_out_in_detail._Id_produced_numerous_previous_pieces_in_response_to_government_identity_consultations,_on_aspects_such_as_smartcards_and_PKI._Theres_more_in_my_book_ch._6">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cambridge">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_details"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_This_was_all_part_of_a_campaign_that_FIPR_ran_to_limit_the_scope_of_the_Regulation_of_Investigatory_Powers_Act._Originally_this_would_have_allowed_the_police_to_obtain,_without_warrant,_a_complete_history_of_everyones_web_browsing_activity_as_this_would_have_been_communications_data_FIPR_got_the_House_of_Lords_to_limit_this_to_the_identity_of_the_machines_involved_in_a_communication,_rather_than_the_URLs_of_the_web_pages._But_the_RIP_Act_still_made_it_into_law_and_has_had_a_number_of_the_bad_effects_we_predicted_at_the_time._See_for_example_an_oped_I_wrote_on_the_history_of_the_Act_following_the_unfortunate_imprisonment_of_a_mentallyill_man_under_the_Act_for_refusing_to_hand_over_his_PGP_passphrase_when_the_Mets_terror_squad_told_him_to">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Privacy_and_freedom_issues_including_FIPR">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_topics_include"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_GCHQ_Protocol_and_its_Problems_pointed_out_a_number_of_flaws_in_a_key_management_protocol_promoted_by_GCHQ_as_a_European_alternative_to_Clipper,_until_we_shot_it_down_with_this_paper_at_Eurocrypt_97._Many_of_the_criticisms_we_developed_here_also_apply_to_the_more_recent,_pairingbased_cryptosystems">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2006_highlights_included_technical_papers_on_topics_from_protecting_powerline_communications_to_the_ManintheMiddle_Defence,_as_well_as_a_major_report_on_the_safety_and_privacy_of_childrens_databases_for_the_UK_Information_Commissioner,_which_got_a_lot_of_publicity._I_ended_the_year_by_debating_health_privacy_on_the_Today_programme_with_health_minister_Lord_Warner,_who_resigned_shortly_aftewards">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Cocaine_Auction_Protocol_explored_how_transactions_can_be_conducted_between_mutually_mistrustful_principals_with_no_trusted_arbitrator,_while_giving_a_high_degree_of_privacy_against_traffic_analysis">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_details"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_technology_in_medical_practice">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PeertoPeer_and_social_network_systems"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Economics_and_Psychology_of_information_security"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Privacy_has_become_a_big_theme_recently_thanks_to_the_Communications_Data_Bill,_against_which_we_have_been_organising_resistance._In_the_last_parliament,_our_Database_State_report_on_the_failings_of_publicsector_IT_in_Britain,_and_how_to_fix_them,_got_massive_press_coverage">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robustness_of_cryptographic_protocols"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_was_one_of_the_authors_of_a_2006_report_on_the_safety_and_privacy_of_childrens_databases,_done_for_the_UK_Information_Commissioner._It_concluded_that_government_plans_to_link_up_most_of_the_publicsector_databases_that_hold_information_on_children_were_misguided">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Here_are_my_most_recent_papers_on_the_subject"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_Book_on_Security_Engineering"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_snooping_dragon">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_of_Clinical_Information_Systems"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eight_Friends_are_Enough">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_contributions_since_the_Eternity_paper_include_the_following"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Analysis_and_design_of_cryptographic_algorithms"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2012_highlights_included_a_big_report_on_Measuring_the_Cost_of_Cybercrime_and_a_history_of_security_economics_an_attempt_to_kill_the_governments_smart_metering_project_three_papers_on_dynamic_networks_and_four_papers_on_payment_protocols">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Whats_New"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_hiding_including_Soft_Tempest"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_topics_include"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Optimised_to_Fail">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reliability_of_security_systems"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public_policy_issues"/>
+</rdf:RDF>

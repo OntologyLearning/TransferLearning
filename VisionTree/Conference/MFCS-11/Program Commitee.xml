@@ -1,0 +1,126 @@
+<VIPSPage Url="http://mfcs.mimuw.edu.pl/index.php/org-pc" PageTitle="Program Commitee" WindowWidth="413" WindowHeight="768" PageRectLeft="10" PageRectTop="15" PageRectWidth="1024" PageRectHeight="768" neworder="0" order="0"><LayoutNode FrameSourceIndex="0" SourceIndex="17" DoC="1" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="1451" LinkTextLen="0" DOMCldNum="1" FontSize="9" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="768" ID="1" order="1"><LayoutNode FrameSourceIndex="0" SourceIndex="22" DoC="11" ContainImg="1" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="1" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="366" ObjectRectHeight="723" Content=" " SRC="
+&lt;DIV id=drzewo&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/drzewo.png&quot;&gt;&lt;/DIV&gt; " ID="1-1" order="2"/><LayoutNode FrameSourceIndex="0" SourceIndex="26" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="1451" LinkTextLen="0" DOMCldNum="2" FontSize="18" FontWeight="600" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="1834" ID="1-2" order="3"><LayoutNode FrameSourceIndex="0" SourceIndex="27" DoC="10" ContainImg="3" IsImg="false" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="3" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="196" Content="    " SRC="
+&lt;DIV id=logo&gt;&lt;DIV id=naglowek&gt;&lt;A title=&quot;MFCS 2011&quot; href=&quot;http://mfcs.mimuw.edu.pl&quot;&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/naglowek.png&quot;&gt;&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV id=eatcslogo&gt;&lt;A title=EATCS href=&quot;http://www.eatcs.org/&quot;&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/eatcslogo-small.png&quot;&gt;&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV id=znaki&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/znaki.png&quot;&gt; &lt;/DIV&gt;&lt;/DIV&gt; " ID="1-2-1" order="4"/><LayoutNode FrameSourceIndex="0" SourceIndex="39;82" DoC="4" ContainImg="0" IsImg="false" ContainTable="true" ContainP="0" TextLen="1451" LinkTextLen="0" DOMCldNum="2" FontSize="18" FontWeight="600" BgColor="transparent" ObjectRectLeft="234" ObjectRectTop="211" ObjectRectWidth="800" ObjectRectHeight="1638" ID="1-2-2" order="5"><LayoutNode FrameSourceIndex="0" SourceIndex="39" DoC="7" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="168" LinkTextLen="0" DOMCldNum="13" FontSize="9" FontWeight="400" BgColor="transparent" ObjectRectLeft="234" ObjectRectTop="217" ObjectRectWidth="176" ObjectRectHeight="336" Content="HomeProgrammeAccepted PapersVenueInvited SpeakersCall For PapersSubmission DetailsLocal InfoRegistrationAccomodationMapProgram CommiteeOrganizersYoung Researchers Forum " SRC="
+&lt;UL class=menu&gt;&lt;LI class=item1&gt;&lt;A href=&quot;http://mfcs.mimuw.edu.pl/&quot;&gt;&lt;SPAN&gt;Home&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item53&gt;&lt;A href=&quot;/index.php/programme&quot;&gt;&lt;SPAN&gt;Programme&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item52&gt;&lt;A href=&quot;/index.php/papers-accepted&quot;&gt;&lt;SPAN&gt;Accepted Papers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item27&gt;&lt;A href=&quot;/index.php/info-venue&quot;&gt;&lt;SPAN&gt;Venue&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item58&gt;&lt;A href=&quot;/index.php/invited-speakers&quot;&gt;&lt;SPAN&gt;Invited Speakers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item20&gt;&lt;A href=&quot;/index.php/papers-cfp&quot;&gt;&lt;SPAN&gt;Call For Papers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item51&gt;&lt;A href=&quot;/index.php/papers-details&quot;&gt;&lt;SPAN&gt;Submission Details&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item56&gt;&lt;A href=&quot;/index.php/general-local-menu&quot;&gt;&lt;SPAN&gt;Local Info&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item54&gt;&lt;A href=&quot;/index.php/registration-menu&quot;&gt;&lt;SPAN&gt;Registration&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item55&gt;&lt;A href=&quot;/index.php/accomodation-menu&quot;&gt;&lt;SPAN&gt;Accomodation&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item57&gt;&lt;A href=&quot;/index.php/localinfo-map-menu&quot;&gt;&lt;SPAN&gt;Map&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI id=current class=&quot;active item11&quot;&gt;&lt;A href=&quot;/index.php/org-pc&quot;&gt;&lt;SPAN&gt;Program Commitee&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item12&gt;&lt;A href=&quot;/index.php/org-organizers&quot;&gt;&lt;SPAN&gt;Organizers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item62&gt;&lt;A href=&quot;/index.php/yrf-menu&quot;&gt;&lt;SPAN&gt;Young Researchers Forum&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt; " ID="1-2-2-1" order="6"/><LayoutNode FrameSourceIndex="0" SourceIndex="82" DoC="6" ContainImg="0" IsImg="false" ContainTable="true" ContainP="0" TextLen="1283" LinkTextLen="0" DOMCldNum="2" FontSize="18" FontWeight="600" BgColor="transparent" ObjectRectLeft="410" ObjectRectTop="211" ObjectRectWidth="624" ObjectRectHeight="1638" Content="Important Dates
+Full papers: April 15, 2011
+Notification: May 30, 2011
+Final version: June 13, 2011
+Conference: August 22-26, 2011contact
+MFCS 2011 PC chairs:
+Filip Murlak &amp; Piotr Sankowski
+
+
+Program Commitee
+Andreas Abel, Ludwig-Maximilians-University Munich
+Aris Anagnostopoulos, Sapienza University of Rome
+Andris Ambainis, University of Latvia
+Vince Barany, University of Warsaw
+Henrik Björklund, Umeå University
+Tomas Brazdil, Masaryk University
+Alessandra Carbone, Université Pierre et Marie Curie
+Anuj Dawar, University of Cambridge
+Stephane Demri, CNRS
+Xiaotie Deng, University of Liverpool
+Naveen Garg, IIT Dehli
+Fabrizio Grandoni, Tor Vergata University of Rome
+Bartek Klin, University of Warsaw / University of Cambridge
+Łukasz Kowalik, University of Warsaw
+Leonid Libkin, University of Edinburgh
+Christof Löding, RWTH Aachen
+Daniel Lokshtanov, UCSD
+Jerzy Marcinkowski, University of Wrocław
+Jiri Matousek, Charles University
+Vahab S. Mirrokni, Google Research, New York
+Filip Murlak, University of Warsaw (co-chair)
+Paulo Oliva, Queen Mary University of London 
+Krzysztof Onak, CMU
+Seth Pettie, University of Michigan
+Krzysztof Pietrzak, CWI
+Harald Raecke, University of Warwick
+Liam Roditty, Bar-Ilan University
+Jacques Sakarovitch, CNRS / Telecom ParisTech
+Piotr Sankowski, University of Warsaw (co-chair)
+Rahul Savani, University of Liverpool
+Christian Scheideler, University of Paderborn
+Mohit Singh, McGill University
+Thomas Wilke, Kiel University
+Ryan Williams, IBM Almaden
+Ronald de Wolf, CWI
+ 
+   " SRC="
+&lt;DIV id=meat&gt;&lt;DIV id=boxwrapper&gt;
+&lt;DIV id=leftbox class=redbox&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=module&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;H3&gt;Important Dates&lt;/H3&gt;
+&lt;DIV&gt;Full papers: April 15, 2011&lt;BR&gt;Notification: May 30, 2011&lt;BR&gt;Final version: June 13, 2011&lt;BR&gt;Conference: August 22-26, 2011&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;
+&lt;DIV id=rightbox class=redbox&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=module&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;H3&gt;contact&lt;/H3&gt;
+&lt;DIV&gt;MFCS 2011 PC chairs:&lt;BR&gt;&lt;A href=&quot;http://www.mimuw.edu.pl/~fmurlak/&quot;&gt;Filip Murlak&lt;/A&gt; &amp;amp; &lt;A href=&quot;http://www.mimuw.edu.pl/~sank/&quot;&gt;Piotr Sankowski&lt;/A&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;
+&lt;DIV id=content&gt;
+&lt;TABLE class=contentpaneopen&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD vAlign=top&gt;
+&lt;H2&gt;Program Commitee&lt;/H2&gt;
+&lt;P&gt;Andreas Abel, Ludwig-Maximilians-University Munich&lt;/P&gt;
+&lt;P&gt;Aris Anagnostopoulos, Sapienza University of Rome&lt;/P&gt;
+&lt;P&gt;Andris Ambainis, University of Latvia&lt;/P&gt;
+&lt;P&gt;Vince Barany, University of Warsaw&lt;/P&gt;
+&lt;P&gt;Henrik Björklund, Umeå University&lt;/P&gt;
+&lt;P&gt;Tomas Brazdil, Masaryk University&lt;/P&gt;
+&lt;P&gt;Alessandra Carbone, Université Pierre et Marie Curie&lt;/P&gt;
+&lt;P&gt;Anuj Dawar, University of Cambridge&lt;/P&gt;
+&lt;P&gt;Stephane Demri, CNRS&lt;/P&gt;
+&lt;P&gt;Xiaotie Deng, University of Liverpool&lt;/P&gt;
+&lt;P&gt;Naveen Garg, IIT Dehli&lt;/P&gt;
+&lt;P&gt;Fabrizio Grandoni, Tor Vergata University of Rome&lt;/P&gt;
+&lt;P&gt;Bartek Klin, University of Warsaw / University of Cambridge&lt;/P&gt;
+&lt;P&gt;Łukasz Kowalik, University of Warsaw&lt;/P&gt;
+&lt;P&gt;Leonid Libkin, University of Edinburgh&lt;/P&gt;
+&lt;P&gt;Christof Löding, RWTH Aachen&lt;/P&gt;
+&lt;P&gt;Daniel Lokshtanov, UCSD&lt;/P&gt;
+&lt;P&gt;Jerzy Marcinkowski, University of Wrocław&lt;/P&gt;
+&lt;P&gt;Jiri Matousek, Charles University&lt;/P&gt;
+&lt;P&gt;Vahab S. Mirrokni, Google Research, New York&lt;/P&gt;
+&lt;P&gt;Filip Murlak, University of Warsaw (co-chair)&lt;/P&gt;
+&lt;P&gt;Paulo Oliva, Queen Mary University of London&lt;SPAN style=&quot;FONT-FAMILY: Geneva,Arial,Helvetica,san-serif; FONT-SIZE: x-small&quot;&gt;&lt;SPAN style=&quot;FONT-FAMILY: Geneva,Arial,Helvetica,san-serif; FONT-SIZE: x-small&quot;&gt; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;Krzysztof Onak, CMU&lt;/P&gt;
+&lt;P&gt;Seth Pettie, University of Michigan&lt;/P&gt;
+&lt;P&gt;Krzysztof Pietrzak, CWI&lt;/P&gt;
+&lt;P&gt;Harald Raecke, University of Warwick&lt;/P&gt;
+&lt;P&gt;Liam Roditty, &lt;SPAN lang=EN&gt;Bar-&lt;SPAN class=SpellE&gt;Ilan&lt;/SPAN&gt; University&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;Jacques Sakarovitch, CNRS / Telecom ParisTech&lt;/P&gt;
+&lt;P&gt;Piotr Sankowski, University of Warsaw (co-chair)&lt;/P&gt;
+&lt;P&gt;Rahul Savani, University of Liverpool&lt;/P&gt;
+&lt;P&gt;Christian Scheideler, University of Paderborn&lt;/P&gt;
+&lt;P&gt;Mohit Singh, McGill University&lt;/P&gt;
+&lt;P&gt;Thomas Wilke, Kiel University&lt;/P&gt;
+&lt;P&gt;Ryan Williams, IBM Almaden&lt;/P&gt;
+&lt;P&gt;Ronald de Wolf, CWI&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;SPAN class=article_separator&gt;&amp;nbsp;&lt;/SPAN&gt; &lt;/DIV&gt;&lt;/DIV&gt; " ID="1-2-2-2" order="7"/></LayoutNode></LayoutNode></LayoutNode></VIPSPage>

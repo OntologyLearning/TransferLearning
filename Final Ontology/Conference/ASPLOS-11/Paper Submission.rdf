@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_paper_must_be_submitted_in_PDF_format_and_printable_on_US_Letter_and_A4_sized_paper._We_cannot_accept_any_other_format,_and_we_must_be_able_to_print_the_document_just_as_we_receive_it._If_this_presents_a_hardship,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_submission_is_limited_to_twelve_12_8.5x11pages_in_9pt_font,_in_the_ACM_publication_format._The_12_pages_must_include_all_content,_including_figures,_references,_and_appendices_if_any._The_program_chair_may_summarily_reject_papers_that_violate_the_submission_format_or_length_requirements._Templates_for_the_ACM_format_are_available_for_LaTeX,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstracts_will_be_accepted_until_July_19,_2010,_EDT._Full_papers_will_be_accepted_until_July_26,"
+>
+  <base:_We_define_a_conflict_of_interest_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_Ph.D._advisors,_postdoctoral_advisors,_Ph.D._students,_and_postdoctoral_advisees_forever.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_We_define_a_conflict_of_interest_as>
+  <base:_We_define_a_conflict_of_interest_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Family_relations_by_blood_or_marriage,_or_equivalent_e.g.,_a_partner,_forever.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_We_define_a_conflict_of_interest_as>
+  <base:_Submission_Website rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_submission_web_site_is_here">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submission_Website>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Note_that_the_submission_Web_site_will_only_accept_PDF_format_submissions_and_enforces_the_deadline_and_page_length_requirements,_as_explained_below.">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paper_Submission_Instructions"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submissions_must_be_anonymous_as_explained_below._Reviewing_will_be_doubleblind.">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paper_Submission_Instructions"/>
+  </rdf:Description>
+  <base:_General_Submission_Requirements rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paper_submissions_must_be_anonymous._Author_names,_affiliations,_personal_acknowledgements,_and_any_other_hints_of_identity_must_not_be_included_in_the_submitted_paper._At_the_same_time,_you_should_not_anonymize_any_references_instead,_cite_any_of_your_work_in_the_third_person_so_that_the_paper_is_selfcontained._Make_an_attempt_to_conceal_any_authorship_connection_between_the_prior_work_and_yours.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Submission_Requirements>
+  <ns1:_please_contact_the_Program_Chair_by_email_at_least_one_week_before_the_submission_deadline._We_strongly_suggest_that_you_use_only_the_four_widelyused_printer_fonts rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Times,_Helvetica,_Courier_and_Symbol.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_contact_the_Program_Chair_by_email_at_least_one_week_before_the_submission_deadline._We_strongly_suggest_that_you_use_only_the_four_widelyused_printer_fonts>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Newport_Beach,_California,__March_5__11,__2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011"/>
+  </owl:NamedIndividual>
+  <base:_We_define_a_conflict_of_interest_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_People_who_were_employed_by,_or_a_student_at,_your_primary_institutions_in_the_past_five_years.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_We_define_a_conflict_of_interest_as>
+  <base:_General_Submission_Requirements rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_paper_must_be_original_material_that_has_not_been_previously_published_in_another_workshop,_conference_or_journal,_nor_is_currently_under_review_by_another_workshop,_conference_or_journal._Note_that_you_may_submit_material_presented_previously_at_a_workshop_without_copyrighted_proceedings.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Submission_Requirements>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sixteenth_International_Conference_on"/>
+  <base:_We_define_a_conflict_of_interest_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_People_with_whom_you_collaborated_in_the_past_five_years._Collaborators_include_coauthors_on_an_acceptedrejectedpending_research_paper,_coPIs_on_an_acceptedrejectedpending_grant,_those_who_fund_your_research,_and_researchers_whom_you_fund._Servicecollaborations,_such_as_writing_a_CSTB_report_or_serving_on_a_program_committee,_are_not_a_conflictofinterest_by_themselves.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_We_define_a_conflict_of_interest_as>
+  <base:_General_Submission_Requirements rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_will_not_be_allowed_to_submit_a_full_paper_without_submitting_an_abstract_first.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Submission_Requirements>
+  <base:_General_Submission_Requirements rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_paper_must_have_an_abstract_of_a_maximum_of_250_words,_which_must_be_submitted_by_July_19,_2010.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Submission_Requirements>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_59pm_EDT._A_36_hour_extension_is_granted_automatically_until_noon_EDT_on_Wednesday,_July_28,_2010._You_can_click_the_time_to_find_the_deadline_in_your_time_zone.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstracts_will_be_accepted_until_July_19,_2010,_EDT._Full_papers_will_be_accepted_until_July_26,_2010_11">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paper_Submission_Instructions"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_General_Submission_Requirements rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Please_number_the_pages.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Submission_Requirements>
+  <base:_Formatting_Requirements rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_paper_including_plots_and_diagrams_must_be_formatted_in_such_a_way_that_it_is_clear_to_read_when_printed_on_a_black_and_white_printer.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Formatting_Requirements>
+  <base:_We_define_a_conflict_of_interest_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Close_personal_friends_or_others_with_whom_you_believe_a_conflict_of_interest_exists._Send_email_to_the_program_chair_if_you_have_a_question.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_We_define_a_conflict_of_interest_as>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_www.acm.orgsigspublicationsproceedingstemplates.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Your_submission_is_limited_to_twelve_12_8.5x11pages_in_9pt_font,_in_the_ACM_publication_format._The_12_pages_must_include_all_content,_including_figures,_references,_and_appendices_if_any._The_program_chair_may_summarily_reject_papers_that_violate_the_submission_format_or_length_requirements._Templates_for_the_ACM_format_are_available_for_LaTeX,_Word_and_WordPerfect_at_http">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_Requirements"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_Requirements"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_on_conflict_of_interest"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_Website">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paper_Submission_Instructions"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_paper_must_be_submitted_in_PDF_format_and_printable_on_US_Letter_and_A4_sized_paper._We_cannot_accept_any_other_format,_and_we_must_be_able_to_print_the_document_just_as_we_receive_it._If_this_presents_a_hardship,_please_contact_the_Program_Chair_by_email_at_least_one_week_before_the_submission_deadline._We_strongly_suggest_that_you_use_only_the_four_widelyused_printer_fonts">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_Requirements"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Architectural_Support_for_Programming_Languages_and_Operating_Systems_ASPLOS_2011"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_Submission_Requirements">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paper_Submission_Instructions"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paper_Submission_Instructions"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_define_a_conflict_of_interest_as">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_on_conflict_of_interest"/>
+  </rdf:Description>
+</rdf:RDF>

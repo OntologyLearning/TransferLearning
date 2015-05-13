@@ -1,0 +1,30 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ACM Transactions on,'1-1-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,C
+'Autonomous and Adaptive Systems,'1-1-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+'General Domains,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,C
+'Autonomic Computing and Communication,'1-2-2-1-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Multi-Agent Systems,'1-2-2-1-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Self-organizing Computing Systems and Swarm Intelligence,'1-2-2-1-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Pervasive and Mobile Computing,'1-2-2-1-2-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sensor Networks,'1-2-2-1-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Cooperative Robotics,'1-2-2-1-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'P2P Computing,'1-2-2-1-2-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Distributed Services and Systems,'1-2-2-1-2-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Social and Urban Computing Systems,'1-2-2-1-2-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Web and Participatory Systems,'1-2-2-1-2-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Applications for Autonomous and Adaptive Systems,'1-2-2-1-2-11,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Non-Exhaustive List of Topics,'1-2-2-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Foundational models of autonomous and adaptive behaviors,'1-2-2-2-2-1-1,0,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Complex systems and networks,'1-2-2-2-2-1-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Networking models and techniques for autonomous and adaptive systems,'1-2-2-2-2-1-3,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Nature-inspired techniques,'1-2-2-2-2-1-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Self-* properties,'1-2-2-2-2-1-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Adaptive algorithms,'1-2-2-2-2-1-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Data and Information Management,'1-2-2-2-2-1-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Operating systems and middleware for autonomous and adaptive systems,'1-2-2-2-2-1-8,1,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Software Engineering Approaches and Methodologies,'1-2-2-2-2-2-1,0,1,0,1,0,2,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Programming approaches and techniques,'1-2-2-2-2-2-2,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Context-awareness and Semantics,'1-2-2-2-2-2-3,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Social sensing and social analysis,'1-2-2-2-2-2-4,0,1,0,1,0,2,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Learning & Prediction,'1-2-2-2-2-3,0,1,0,1,0,2,0,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Analytic Models of Emergent Behavior,'1-2-2-2-2-4,0,1,0,1,0,2,0,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I

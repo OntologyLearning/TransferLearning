@@ -1,0 +1,38 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Sixteenth International Conference on,'1-1-2-1-1-1,0,0,0,2,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'Architectural Support for Programming Languages and Operating Systems (ASPLOS 2011),'1-1-2-1-1-2,1,0,0,2,1,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+"'Newport Beach, California,  March 5 ~ 11,  2011",'1-1-2-1-2-2,1,0,0,2,1,2,0,0,0,2,0,0,0,1,0,1,0,0,1,0,1,0,0,1,I
+'Ideas and Perspectives,'1-1-2-2-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'This special Session wants to restore the original vision of the ASPLOS Wild and Crazy Sessions, which was to present innovative ideas that may lead to influential projects.  Ideas and Perspectives will follow the tradition of Wild and Crazy sessions but will look for submissions in a more serious tone.  Prospective authors can examine examples of successful vision sessions at other conferences, for example PLDI FIT and DAC Wild And Crazy Ideas.",'1-1-2-2-2-1,2,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Topics,'1-1-2-2-2-2,0,0,0,1,1,1,0,0,1,2,1,1,0,1,0,0,0,0,0,1,1,1,1,3,C
+"'Innovative ideas relevant (or partly relevant) to ASPLOS, especially those that promise to be previews of future influential projects.",'1-1-2-2-2-3-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'New challenges and application areas for ASPLOS technologies.,'1-1-2-2-2-3-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'Reflections, predictions, and trend identification.",'1-1-2-2-2-3-3,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Format of the Session,'1-1-2-2-2-4,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+"'6-8 short talks (around 10 minutes), with enough time for follow-up questions to start a discussion.",'1-1-2-2-2-5-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Some of the talks will be given by invited speakers.,'1-1-2-2-2-5-2,1,1,0,1,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Proceedings? Accepted submissions will be posted, together with slides, on a blog site.",'1-1-2-2-2-5-3,1,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'What is solicited,'1-1-2-2-2-6,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+"'2-page papers in 10pt single-spaced, in either one- or single-column, PDF format.",'1-1-2-2-2-7-1,1,1,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,1,0,0,0,1,I
+'Questions about suitability of a topic? Email bodik@cs.berkeley.edu.,'1-1-2-2-2-7-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Dates,'1-1-2-2-2-8,0,0,0,1,1,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+"'Submissions due: Jan 5, 2011, 8pm PST",'1-1-2-2-2-9-1,0,1,0,1,1,2,0,1,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,1,I
+"'Notification of acceptance:  Jan 15, 2011",'1-1-2-2-2-9-2,0,1,0,1,0,2,0,1,1,2,0,0,0,1,0,0,1,0,1,0,1,0,0,2,I
+'Submission Guidelines,'1-1-2-2-2-10,0,0,0,1,1,2,0,0,1,2,1,1,1,0,0,0,1,0,0,0,1,1,1,2,C
+"'Please send submissions by the deadline to asplos2011.ideas@gmail.com. Include a complete list of authors, their affiliations and email address, and identify the corresponding author for your submission.",'1-1-2-2-2-11,1,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,1,0,0,0,0,0,0,1,I
+'Program Committee:,'1-1-2-2-2-12,0,0,0,1,1,2,0,2,1,2,1,1,0,1,1,0,0,0,0,0,1,1,1,2,C
+"'Ras Bodik (chair), UC Berkeley",'1-1-2-2-2-13-1,0,1,0,1,0,2,1,0,1,2,1,0,1,0,1,0,0,1,0,0,0,0,0,1,I
+"'Bill Thies, Microsoft Research India",'1-1-2-2-2-13-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Nickolai Zeldovich, MIT",'1-1-2-2-2-13-3,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+'Submissions of selected presentations:,'1-1-2-2-2-14,0,0,0,1,1,2,0,2,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Instruction Subset Architectures (ISA): Guaranteeing Functionality in High Defect Rate Technologies,'1-1-2-2-2-15-1-1,1,0,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Hiren D. Patel and Siddharth Garg,'1-1-2-2-2-15-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Shared Memory via Execution Migration,'1-1-2-2-2-15-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Mieszko Lis, Keun Sup Shim, Omer Khan, and Srinivas Devadas",'1-1-2-2-2-15-2-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Dense Approximate Storage in Phase-Change Memory,'1-1-2-2-2-15-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Jacob Nelson, Adrian Sampson, and Luis Ceze",'1-1-2-2-2-15-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Invited presentation:,'1-1-2-2-2-16,0,0,0,1,1,2,0,2,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'The Human Processing Units,'1-1-2-2-2-17-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'James Davis,'1-1-2-2-2-17-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Abstract:  Computer-mediated human micro-labor markets allow human effort to be treated as a programmatic function call. Rather than thinking of ""employees"" when we design tasks, we can characterize these platforms as Human Processing Units (HPU). This is a first class computational platform, which is different from CPU based computation, and deserves careful characterization and study. We demonstrate that simple HPU computation can be more accurate than complex CPU based algorithms on some important computer vision tasks. We also argue that HPU computation can be cheaper than state-of-the-art CPU based computation. Finally we give some simplistic examples of characterizing the HPU.",'1-1-2-2-2-17-2-2,2,0,0,1,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Please contact Min Feng for any questions/issues with this website.,'1-2,1,0,0,1,0,2,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N

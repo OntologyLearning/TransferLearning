@@ -1,0 +1,259 @@
+<HEAD>
+<TITLE>Jeffrey D. Ullman</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="E0F7F0">
+
+<H1 ALIGN=CENTER>Jeffrey D. Ullman</H1>
+
+<CENTER><IMG SRC = "gifs/ULLMAN.jpg"></CENTER>
+<P>
+Jeff Ullman is the <A HREF = "stanasch.html">Stanford W. Ascherman</A>
+Professor of
+Computer Science (Emeritus).
+His interests include database theory, database integration, data
+mining, and
+education using the information infrastructure.<P>
+
+<P>
+<CENTER>
+<A HREF = "#What's New">What's New</A> |
+<A HREF = "#polemics">Polemics</A> |
+<A HREF = "ullman-books.html">Books</A> |
+<A HREF = "#bio">Biographical Information</A>
+</CENTER>
+
+<!--P>
+If you are reading this page in connection with the <A href="niac.html">NIAC Vendetta</a>,
+you should <A href="niac2.html">Read This First</a>.
+<P-->
+
+<A NAME = "What's New"></A>
+<H2 ALIGN = CENTER>What's New</H2>
+
+<H3>Workshop on Algorithms for MapReduce and Beyond</h3>
+
+I have gotten involved in a Workshop "Algorithms for MapReduce and Beyond" that will be held March 28, 2014 in Athens, in
+conjunction with EDBT/ICDT.  Here is the link for information.  The submission deadline is Dec. 7, 2013.
+<A href = "http://www.deluge.ntua.gr/beyondmr14/">The Workshop Home Page</a>.
+If you are working on algorithms for MapReduce, graph-oriented systems like Pregel, or any of the
+various extensions of
+MapReduce, we'd like to hear from you.
+
+<H3>New Polemic</h3>
+
+<A href = "pub/experiments.pdf"><I>Experiments as Research Validation -- Have We Gone too Far?</i></a>.
+
+<H3>Follow Me on Google+</h3>
+
+I refuse to get involved with Facebook, or Twitter, or LinkedIn, or any of the old social-network
+sites, but I have started to post observations and reports of my trips and such on Google+.
+I'm ullmanAtGmailDotCom (you can figure it out!).
+
+<H3>Map-Reduce Algorithms</h3>
+Along with a number of colleagues, I have been looking at the question of algorithm design
+for Hadoop (MapReduce).  Foto Afrati and I started with a technique for optimal implementation of multiway
+joins using a single MR job: <A href = "http://ilpubs.stanford.edu:8090/957/">Optimizing Joins in a Map-Reduce
+Environment</a>.  This idea was applied to the problem of finding triangles and more complex structures in
+graphs using MR: <A href = "http://ilpubs.stanford.edu:8090/1020/">Enumerating Subgraph Instances Using Map-Reduce</a>.
+We then started looking at the problem of similarity joins using MR: <A href =
+"http://ilpubs.stanford.edu:8090/1006/"</a>Fuzzy Joins Using MapReduce</a>.
+<P>
+The outgrowth of these studies was something that I believe is really important: a model of MapReduce
+computation that gets at the heart of what makes it different from plain old parallel computing.
+In <A href =
+"http://arxiv.org/abs/1206.4377">Upper and Lower Bounds on the Cost of a Map-Reduce Computation</a>.
+The theory explained here lets you get lower bounds on the amount of communication needed, as a function
+of how much work each reducer is assigned.  That, in turn, lets you know when your algorithm can be
+improved and when it cannot.  We already have a number of surprises in this regard, and we invite interested researchers
+to help explore the many problems and algorithms that can be analyzed this way.
+There is a <A href = "http://www.socc2012.org/home/tutorials">Tutorial</a>
+at the SoCC on Oct. 17, 2012.  The tutorial covers these developments and a number of others related to MapReduce
+and its extensions.
+
+<H3>Gradiance News</h3>
+
+Gradiance is a system for creating and administering class exercises.
+These homeworks and progamming labs are designed to teach students, rather than merely
+to test.  Through the concept of a "root question," students can repeat the same
+work several times, and are given advice when they make an error.
+<P>
+The Gradiance contract with Pearson (Addison-Wesley + Prentice-Hall) has terminated, and
+we have decided to turn Gradiance into a FREE service.
+If you are an instructor who wants to use the system, start
+by creating an account for yourself at <A href =
+"http://www.gradiance.com/services"><TT>www.gradiance.com/services</tt></a>
+NOT at the Pearson site.
+Note: passwords are >= 10 letters+digits,
+with at least one of each.  Also, we cannot make an account be an
+instructor account for a book if the same account has registered
+as a student for a course using the same materials.
+<P>
+Then, email your chosen login,
+with the book whose materials you want, to support@gradiance.com
+We'll enable you to create a class using those materials.
+There are manuals at <A href =
+"http://www.gradiance.com/info.html"><TT>www.gradiance.com/info.html</tt></a>
+that should enable
+you to use the system without problems, but feel free to email
+support@gradiance.com if you encounter difficulties.
+<P>
+In addition, we have created eleven free "omnibus classes" covering Databases,
+Automata, Compilers, Operating Systems, Introductory Java, Data Structures,
+and Data Mining.  Students wishing to join either one of these classes
+will find the <A href = "pub/stud-guide.html">Student Directions</a> useful.
+
+<H3>Free Book: Mining of Massive Datasets</h3>
+
+The book <EM>Mining of Massive Dataasets</em> by Anand Rajaraman and me,
+based on the CS345A course we have been teaching (now CS246 in the Winter and CS341 in the Spring),
+Has just been
+published in hardcopy by Cambridge University Press.  It can be purchased in hardcopy
+<A href = "http://www.cambridge.org/ca/knowledge/isbn/item6628195/?site_locale=en_CA">Here</a>.
+By agreement with Cambridge Press, it may still be downloaded gratis <A href = "mmds.html">Here</a>.
+
+<H3>Another Free Book: Foundations of Computer Science</H3>
+
+In 1992, Al Aho and I published a book called <EM>Foundations of
+Computer Science</em>, whose goal was to present CS theory as something
+integrally connected to CS practice.  For example, we viewed recursive
+programs, recursive definitions, and inductive proofs as the same thing.
+We believe the book deserved a better fate, but the publisher took it
+out of print years ago.  Having received back the rights to the book, we
+are happy to make it freely available <A href="focs.html">Here</a>.
+
+<H3>I Would Like to Hear From You, But...</H3>
+
+I generally enjoy getting emails, even if it is to tell me of a mistake
+in a book.
+In fact, those notes are particularly important; they help not only me
+and my coauthors, but more importantly, later readers of the book.
+I try to respond helpfully and in a timely manner to email that isn't spam.
+However, there are two classes of emails that I think should not be
+written and that get a form response.
+<A HREF = "pub/formresponse.html">Read More</A>.
+
+<HR>
+
+<A NAME = "polemics"></A>
+<H2>Polemics</H2>
+
+As part of my role as old curmudgeon (replacing my previous role as
+young curmudgeon), I have been writing a few articles about things I
+think especially stupid.  I hope to write more.
+<P>
+<UL>
+<LI>
+<A href = "pub/experiments.pdf"><I>Experiments as Research Validation -- Have We Gone too Far?</i></a>.
+For a long time, I've had the feeling that we -- the database community and maybe the CS community at large -- put too much
+stock in experiments to justify research, and not enough stock in traditional analysis of algorithms.  So I wrote a little
+essay on the topic.
+<P>
+<LI>
+<A HREF = "pub/iranian.html"><I>Answers to All Questions Iranian</I></A>.
+Am I the only one who gets peppered with questions from Iranians?  They're
+technical questions or political questions, but there seems to be a system
+behind them.  So I decided to save time and answer them all here.
+<P>
+<LI>
+<A HREF = "pub/fundamentalism.html"><I>Fundamentalism</I></A>.
+Shortly after 9/11/01, I wrote this article on
+fundamentalism --- the nonnegotiable belief in some unproven hypothesis.
+It's been added to periodically, and rambles a bit, over the foolishness
+of the Palestinian leadership, the drug warriors, the politically correct, the
+anti-abortion crowd, and a few others.
+This article also advocated research on a system like "Total
+Information Awareness," (now known as PRISM) although I doubt that it had any
+influence on that development.
+<P>
+<LI>
+<A HREF = "pub/traffic.html"><I>4-Way Stop Signs</I></A>.
+Dumb traffic policies have always been way up on my list of things I'd
+like to fix but can't.  The global problem is that those with the power
+to decide, focus on specific risks, which they can see.
+But in solving one problem, they
+often introduce far more harmful effects --- e.g., pollution.
+The problem is that the harm is distributed sufficiently widely so that
+no one can point to a particular death and attribute it to a particular
+instance of some dumb
+traffic policy.  This polemic, originally written for Club Nexus (the
+prototype for Orkut),
+focuses on the 4-way stop signs on Stanford Campus, but the principles
+apply broadly.
+<P>
+<LI>
+<A HREF = "pub/nimby.html">Attack of the Fifty Foot NIMBY's</A>.
+Throughout my life, I've been infuriated by the tendency of our social
+structure to allow theft, as long as the loss is distributed in tiny
+parcels among a large number of people.  "Affirmative action" is probably
+the best known of
+these subtle thefts, but this essay is not about affirmative action.
+Rather, it's about a theft that occurs on our streets every day, yet no
+one notices.
+<P>
+<LI>
+<A HREF = "pub/focs00.html"><I>Software Patents</I></A>.
+This article was written for the Knuth Prize.  Don, who is of course
+ineligible for the Knuth Prize, would probably say we should get rid of
+all patents.  I don't agree, but I do feel that in the software area,
+things have gotten out of hand.  Here, I tried to argue that courts
+should apply the same standards that are used when choosing papers
+worthy of presentation at a conference, to the matter of whether a
+certain software idea deserves a patent.
+<P>
+<LI>
+<A HREF = "pub/ucpledge.html"><I>University of California
+(Non)Confidentiality Policy</I></A>.
+The UC system, unlike every other
+university in this country,
+refuses to offer the maximum
+confidentiality that the law allows for letters of recommendation that
+they solicit.  Members of the various
+computer-science departments in the UC system
+understand that this policy makes letter-writing irrelevant and deprives
+them of an important source of advice.  However, the policy comes from
+so high up that it is impossible for them to do anything about it.  I
+have therefore endeavored to put in place a solution similar to that
+used in response to the equally foolish "Buckley amendment," which gave
+student applicants the right to see their recommendations.  The document
+referred to is a pledge that the person about whom you are writing a
+letter can sign, to assure you that you can write an honest and frank
+letter without fear of later reprisal or embarrassment.  I wish the UC
+departments would themselves solicit this pledge, in order to preserve
+your anonymity as well as your privacy, but apparently they are
+forbidden to do so.
+
+</UL>
+<P>
+
+<HR>
+
+<A NAME = "books"></A>
+<H2>Books --- Past and Future</H2>
+For some sets of notes and materials for supplementing current books,
+click here:
+<A HREF = "ullman-books.html">
+<IMG SRC = "gifs/eng.arms.mini.GIF">
+</A>
+
+<HR>
+
+<A NAME = "bio"></A>
+<H2>Biographical Information</H2>
+<UL>
+<LI> <A HREF = "pub/opb.txt">A brief biography</A>
+<P>
+<LI> <A HREF = "pub/biblio.pdf">A listing of all publications</A>
+</UL>
+
+<HR>
+
+<!-- -->
+<script src="http://tags.stanford.edu/tags.js" type="text/javascript"></script>
+<!-- -->
+
+<ADDRESS>Jeffrey D. Ullman<BR>
+<TT>ullman @ cs.stanford.edu</TT><BR>
+650-494-8016 (home)<BR>
+650-725-2588 (FAX)<BR>
+</ADDRESS>

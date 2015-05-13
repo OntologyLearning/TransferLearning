@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publicity_Chair">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops_Chair"/>
+  </rdf:Description>
+  <base:_BowYaw_Wang rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Inria_and_Tsinghua_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BowYaw_Wang>
+  <base:_Robert_P._Kurshan rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cadence_Design_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Robert_P._Kurshan>
+  <base:_International_Workshop_on_Satisfiability_Modulo_Theories rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_15,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_International_Workshop_on_Satisfiability_Modulo_Theories>
+  <base:_Exploiting_Concurrency_Efficiently_and_Correctly rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_29,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Exploiting_Concurrency_Efficiently_and_Correctly>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Program_Committee"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Synopsys">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_William_N._Hung"/>
+  </owl:NamedIndividual>
+  <base:_Formal_Methods_for_Robotics_and_Automation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PSY_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Formal_Methods_for_Robotics_and_Automation>
+  <base:_Exploiting_Concurrency_Efficiently_and_Correctly rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PDMC_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Exploiting_Concurrency_Efficiently_and_Correctly>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chairs"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_23rd_International_Conference_on"/>
+  <base:_Sriram_Sankaranarayanan rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Colorado_at_Boulder">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sriram_Sankaranarayanan>
+  <base:_PreCAV_Workshops rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__July_1415,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_PreCAV_Workshops>
+  <base:_International_Workshop_on_Satisfiability_Modulo_Theories rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EC2_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_International_Workshop_on_Satisfiability_Modulo_Theories>
+  <base:_18th_International_SPIN_Workshop_on_Model_Checking_of_Software rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAC_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_18th_International_SPIN_Workshop_on_Model_Checking_of_Software>
+  <base:_Ashish_Tiwari rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SRI_International">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ashish_Tiwari>
+  <base:_10th_International_Workshop_on_Parallel_Distributed_methods_in_Verification rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FMR_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_10th_International_Workshop_on_Parallel_Distributed_methods_in_Verification>
+  <base:_Azadeh_Farzan rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Toronto">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Azadeh_Farzan>
+  <base:_Andrey_Rybalchenko rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TU_Munich">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Andrey_Rybalchenko>
+  <base:_Frontiers_in_Analog_Circuit_FAC_Synthesis_and_Verification rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SMT_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frontiers_in_Analog_Circuit_FAC_Synthesis_and_Verification>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Local_Arrangements_Chair"/>
+  <base:_Steven_German rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IBM_Research">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Steven_German>
+  <base:_Fourth_International_Workshop_on_Numerical_Software_Verification rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_March_31,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fourth_International_Workshop_on_Numerical_Software_Verification>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brigham_Young_University">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eric_Mercer"/>
+  </owl:NamedIndividual>
+  <base:_Ganesh_Gopalakrishnan rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Utah">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Regehr"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ganesh_Gopalakrishnan>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_VERIMAG">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Susanne_Graf"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Intel">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Muralidhar_Talupur"/>
+  </owl:NamedIndividual>
+  <base:_Kim_G._Larsen rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aalborg_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Kim_G._Larsen>
+  <base:_Serdar_Tasiran rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Koc_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Serdar_Tasiran>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Trento">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Roberto_Sebastiani"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NICTA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Norrish"/>
+  </owl:NamedIndividual>
+  <base:_Keijo_Heljanko rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aalto_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Keijo_Heljanko>
+  <base:_Neha_Rungta rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NASA_Ames">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dimitra_Giannakopoulou"/>
+  </base:_Neha_Rungta>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Room_Rate_and_Block_ends"/>
+  <base:_10th_International_Workshop_on_Parallel_Distributed_methods_in_Verification rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_May_16,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_10th_International_Workshop_on_Parallel_Distributed_methods_in_Verification>
+  <base:_Sandip_Ray rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Texas_at_Austin">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sandip_Ray>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Normal_Registration_Rate_Ends"/>
+  <base:_18th_International_SPIN_Workshop_on_Model_Checking_of_Software rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_1,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_18th_International_SPIN_Workshop_on_Model_Checking_of_Software>
+  <base:_Formal_Methods_for_Robotics_and_Automation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_invited_speakers_only">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Practical_Synthesis_for_Concurrent_Systems"/>
+  </base:_Formal_Methods_for_Robotics_and_Automation>
+  <base:_Orna_Kupferman rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hebrew_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Orna_Kupferman>
+  <base:_Orna_Grumberg rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Technion">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ofer_Strichman"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Orna_Grumberg>
+  <base:_Fourth_International_Workshop_on_Numerical_Software_Verification rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NSV_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fourth_International_Workshop_on_Numerical_Software_Verification>
+  <base:_Daniel_Kroening rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Oxford">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Daniel_Kroening>
+  <base:_CAV_2011 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_July_1420,_Cliff_Lodge,_Snowbird,_Utah">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_CAV_2011>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Aided_Verification"/>
+  <base:_Cormac_Flanagan rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_California_at_Santa_Cruz">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Cormac_Flanagan>
+  <base:_Tayssir_Touili rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LIAFA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Tayssir_Touili>
+  <base:_Viktor_Vafeiadis rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MPI_SWS">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Viktor_Vafeiadis>
+  <base:_Frontiers_in_Analog_Circuit_FAC_Synthesis_and_Verification rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_4,_2011_abstracts">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Frontiers_in_Analog_Circuit_FAC_Synthesis_and_Verification>
+  <base:_JoostPieter_Katoen rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RWTH_Aachen">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stefan_Kowalewski"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JoostPieter_Katoen>
+  <base:_Fourth_International_Workshop_on_Numerical_Software_Verification rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SPIN_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Fourth_International_Workshop_on_Numerical_Software_Verification>
+  <base:_Michael_Gordon rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Cambridge">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Michael_Gordon>
+  <base:_Sanjit_A._Seshia rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_California_at_Berkeley">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Sanjit_A._Seshia>
+  <base:_Shaz_Qadeer rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Microsoft_Research">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kenneth_McMillan"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jasmin_Fisher"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Akash_Lal"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Madanlal_Musuvathi"/>
+  </base:_Shaz_Qadeer>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Important_Dates"/>
+  <base:_Madhusudan_Parthasarathy rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_University_of_Illinois_at_UrbanaChampaign">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Madhusudan_Parthasarathy>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NEC_Labs">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franjo_Ivancic"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shaz_Qadeer"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stefan_Kowalewski"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andrey_Rybalchenko"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Franjo_Ivancic"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steven_German"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kim_G._Larsen"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Deadlines_for_full_papers,_unless_otherwise_noted"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_18th_International_SPIN_Workshop_on_Model_Checking_of_Software">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Deadlines_for_full_papers,_unless_otherwise_noted"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_International_Workshop_on_Satisfiability_Modulo_Theories">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Deadlines_for_full_papers,_unless_otherwise_noted"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Keijo_Heljanko"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Frontiers_in_Analog_Circuit_FAC_Synthesis_and_Verification">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Deadlines_for_full_papers,_unless_otherwise_noted"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dimitra_Giannakopoulou"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PreCAV_Workshops"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_William_N._Hung"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Gordon">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steering_Committee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Orna_Grumberg">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steering_Committee"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Susanne_Graf"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Madhusudan_Parthasarathy"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Akash_Lal"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ofer_Strichman"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Practical_Synthesis_for_Concurrent_Systems"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fourth_International_Workshop_on_Numerical_Software_Verification">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Deadlines_for_full_papers,_unless_otherwise_noted"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Exploiting_Concurrency_Efficiently_and_Correctly">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Deadlines_for_full_papers,_unless_otherwise_noted"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_10th_International_Workshop_on_Parallel_Distributed_methods_in_Verification">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_Deadlines_for_full_papers,_unless_otherwise_noted"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cormac_Flanagan"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Azadeh_Farzan"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Viktor_Vafeiadis"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JoostPieter_Katoen"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Regehr"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Norrish"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sandip_Ray">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops_Chair"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jasmin_Fisher"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tayssir_Touili"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formal_Methods_for_Robotics_and_Automation"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Robert_P._Kurshan">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steering_Committee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Muralidhar_Talupur"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Daniel_Kroening"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ashish_Tiwari"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops_Chair"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Serdar_Tasiran"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Orna_Kupferman"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Madanlal_Musuvathi"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sriram_Sankaranarayanan"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sanjit_A._Seshia"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steering_Committee"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BowYaw_Wang"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Neha_Rungta">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops_Chair"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eric_Mercer"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kenneth_McMillan">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Steering_Committee"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ganesh_Gopalakrishnan"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CAV_2011"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Roberto_Sebastiani"/>
+</rdf:RDF>

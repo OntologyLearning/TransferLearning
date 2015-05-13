@@ -1,0 +1,80 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Thomas Sauerwald,'1-2-2-1-2-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'University Lecturer at the Computer Laboratory (since July 2013).,'1-2-2-1-2-2-1,1,0,0,1,0,2,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,I
+'Contact Details,'1-2-2-1-2-2-2,0,0,1,2,1,2,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,2,C
+'Dr Thomas Sauerwald,'1-2-2-2-1-1-1,0,0,0,1,0,2,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,I
+'University of Cambridge,'1-2-2-2-1-1-2,0,0,0,1,0,2,0,0,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,2,I
+'Computer Laboratory,'1-2-2-2-1-1-3,0,0,0,1,0,2,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'15 JJ Thomson Avenue,'1-2-2-2-1-1-4,0,0,0,1,0,2,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Cambridge CB3 0FD,'1-2-2-2-1-1-5,0,0,0,1,0,2,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,2,I
+'United Kingdom,'1-2-2-2-1-1-6,0,0,0,1,0,2,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,2,I
+'Email:,'1-2-2-2-1-2-1-1,0,0,0,1,0,1,0,2,0,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'firstname.lastname at cl.cam.ac.uk,'1-2-2-2-1-2-1-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Phone:,'1-2-2-2-1-2-2-1,0,0,0,1,0,1,0,2,0,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'+44 1223 763538,'1-2-2-2-1-2-2-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Fax:,'1-2-2-2-1-2-3-1,0,0,0,1,0,1,0,2,0,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'+44 1223 334678,'1-2-2-2-1-2-3-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Research Interests,'1-2-2-2-2,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,2,C
+'Randomized algorithms,'1-2-2-3-1-1,0,1,0,1,0,2,0,0,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,1,I
+'Markov chains and random walks,'1-2-2-3-1-2,0,1,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Distributed computing,'1-2-2-3-1-3,0,1,0,1,0,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Graph Theory,'1-2-2-3-1-4,0,1,0,1,0,2,0,0,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Game Theory,'1-2-2-3-1-5,0,1,0,1,0,2,0,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Selected Publications,'1-2-2-3-2,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+"'For the complete list of my publications, please see my DBLP entry.",'1-2-2-4-1-1-1,1,0,0,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,N
+"'Load Balancing  The problem of load balancing on large networks is to find distributed algorithms that balance the load across the units of the network efficiently. Most of our work focuses on two popular communication models, the diffusion and the matching model. For both models, we analyze several iterative protocols that employ the idea of randomized rounding. We show that these protocols almost achieve the same discrepancy within the same number of rounds as their counterparts for the case of divisible load.",'1-2-2-4-1-1-2,2,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,I
+'Balls into Bins via Local Search: Cover Time and Maximum Load,'1-2-2-4-1-2-1-1-1-1,1,0,0,1,1,2,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Arxiv,'1-2-2-4-1-2-1-1-1-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Balls into Bins via Local Search,'1-2-2-4-1-2-1-1-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Arxiv,'1-2-2-4-1-2-1-1-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tight Bounds For Randomized Load Balancing on Arbitrary Network Topologies,'1-2-2-4-1-2-1-2-1-1-1,1,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Arxiv,'1-2-2-4-1-2-1-2-1-1-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Distributed Selfish Load Balancing on Networks,'1-2-2-4-1-2-1-2-1-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'ACM Transactions on Algorithms, to appear. Preliminary version appeared in SODA'11.",'1-2-2-4-1-2-1-2-1-2-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,I
+'Quasirandom Load Balancing,'1-2-2-4-1-2-1-2-2-1-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'SIAM Journal on Computing, 41(4):747-771, 2012. Preliminary version appeared in SODA'10, pages 1620-1629.",'1-2-2-4-1-2-1-2-2-1-2,1,0,0,1,0,2,0,1,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Smoothed Analysis of Balancing Networks,'1-2-2-4-1-2-1-2-2-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Random Structures & Algorithms, 39(1):115-138, 2011. Preliminary version appeared in ICALP'09, pages 472-483.",'1-2-2-4-1-2-1-2-2-2-2,1,0,0,1,0,2,0,1,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The Impact of Randomization in Smoothing Networks,'1-2-2-4-1-2-1-3-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Distributed Computing, 22(5-6), pages 381-411, 2010. Preliminary version appeared in PODC'08, pages 345-354.",'1-2-2-4-1-2-1-3-1-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Near-Perfect Load Balancing by Randomized Rounding,'1-2-2-4-1-2-1-3-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 41st Annual ACM Symposium on Theory of Computing (STOC), pages 121-130, 2009.",'1-2-2-4-1-2-1-3-2-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Rumor Spreading  Randomized rumor spreading are simple epidemic protocols that spread one message (rumor) from one node to all other nodes. This is done by allowing nodes to exchange the rumor with a randomly chosen neighbor in each round. The main question is to determine the number of required rounds to spread the rumor to all nodes on different networks. Our research includes: (1) analyzing the rumor spreading time on different network models, e.g., social networks; (2) studying the relation to graph parameters such as vertex- or edge expansion; (3) understanding the randomness requirement of rumor spreading.",'1-2-2-4-1-2-2,2,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Rumor Spreading and Vertex Expansion,'1-2-2-4-1-3-1-1-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 23rd ACM-SIAM Symposium on Discrete Algorithms (SODA), pages 1623-1641, 2012.",'1-2-2-4-1-3-1-1-1-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Ultra-Fast Rumor Spreading in Social Networks,'1-2-2-4-1-3-1-1-2-1-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 23rd ACM-SIAM Symposium on Discrete Algorithms (SODA), pages 1642-1661, 2012.",'1-2-2-4-1-3-1-1-2-1-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Low Randomness Rumor Spreading via Hashing,'1-2-2-4-1-3-1-1-2-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 29th International Symposium on Theoretical Aspects of Computer Science (STACS), pages 314-325, 2012.",'1-2-2-4-1-3-1-1-2-2-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Quasirandom Rumor Spreading,'1-2-2-4-1-3-1-1-2-3-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'ACM Transactions on Algorithms, to appear. Preliminary versions appeared in SODA'08 and ICALP'09.",'1-2-2-4-1-3-1-1-2-3-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,I
+'On Mixing and Edge Expansion Properties in Randomized Broadcasting,'1-2-2-4-1-3-1-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Algorithmica, 56(1):51-88, 2010. Preliminary version appeared in ISAAC'07, pages 196-207.",'1-2-2-4-1-3-1-2-2,1,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Random Walks  The cover time of random walks is an ubiquitous parameter of graphs, which has many interesting relations to electrical networks, spectral graph theory, probability theory, complexity theory etc. We study different ways to speed up random walks with the aim of decreasing their cover time. For instance, we examine random walks that are able to explore their neighborhood in each step or analyze the cover time of parallel random walks.",'1-2-2-4-1-3-2,2,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'HIT'nDRIVE: Multi-Driver Gene Prioritization based on Hitting Time,'1-2-2-4-1-4-1-1,0,0,0,1,0,2,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 18th Annual International Conference on Research in Computational Molecular Biology (RECOMB), pages 293-306, 2014.",'1-2-2-4-1-4-1-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'The multi-agent rotor-router on the ring: a deterministic alternative to parallel random walks,'1-2-2-4-1-4-2-1-1-1,1,0,0,1,1,0,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 32nd ACM Symposium on Principles of Distributed Computing (PODC), pages 365-374, 2013.",'1-2-2-4-1-4-2-1-1-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,I
+'Expansion and the Cover Time of Parallel Random Walks,'1-2-2-4-1-4-2-1-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 29th ACM Symposium on Principles of Distributed Computing (PODC), pages 315-324, 2010.",'1-2-2-4-1-4-2-1-2-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,2,I
+'Speeding Up Random Walks with Neighborhood Exploration,'1-2-2-4-1-4-2-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 21st ACM-SIAM Symposium on Discrete Algorithms (SODA), pages 1422-1435, 2010.",'1-2-2-4-1-4-2-2-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Tight Bounds for the Cover Time of Multiple Random Walks,'1-2-2-4-1-4-3-1-1,1,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Theoretical Computer Science, 412(24): 2623-2641, 2011. Preliminary version appeared in ICALP'09, pages 415-426.",'1-2-2-4-1-4-3-1-2,1,0,0,1,0,2,0,1,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Cover Time and Broadcast Time,'1-2-2-4-1-4-3-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 22nd International Symposium on Theoretical Aspects of Computer Science (STACS), pages 373-384, 2009.",'1-2-2-4-1-4-3-2-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Short Bio,'1-2-2-4-2,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'since 07/2013,'1-2-2-5-1-1-1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Lecturer at the University of Cambridge, United Kingdom",'1-2-2-5-1-1-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,1,0,1,1,0,0,2,I
+'08/2012 - 06/2013,'1-2-2-5-1-2-1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Independent Research Group Leader (W2) of the group Efficient Algorithms for Massive Graphs at the Cluster of Excellence on Multimodal Computing and Interaction, Saarbrücken, Germany",'1-2-2-5-1-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'10/2010 - 06/2013,'1-2-2-5-1-3-1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Research Associate and later Senior Researcher at Max Planck Institute for Informatics, Saarbrücken, Germany",'1-2-2-5-1-3-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'10/2009 - 09/2010,'1-2-2-5-1-4-1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Postdoc at the School of Computing Science at Simon Fraser University, Burnaby, Canada supported by the Pacific Institute for the Mathematical Sciences (PIMS)",'1-2-2-5-1-4-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'09/2008 - 08/2009,'1-2-2-5-1-5-1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Postdoc at the International Computer Science Institute (ICSI), Berkeley, USA",'1-2-2-5-1-5-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,2,I
+'10/2005 - 07/2008,'1-2-2-5-1-6-1,0,0,0,1,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Ph. D. in Computer Science within the PaSCo graduate school at the University of Paderborn,'1-2-2-5-1-6-2,1,0,0,1,0,2,1,0,2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Teaching,'1-2-2-5-2-1,0,0,1,2,1,1,0,0,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'I taught the second part of Algorithms in the Lent term Link,'1-2-2-5-2-2,1,0,0,1,0,2,1,0,2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,I

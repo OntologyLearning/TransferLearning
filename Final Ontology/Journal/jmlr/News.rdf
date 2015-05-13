@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_12_completed_Volume_13_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Multiple_Simultaneous_Hypothesis_Testing.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_issue_on_Learning_from_Text_and_Images.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_Special_issue_on_Independent_Component_Analysis.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Try_the_new_JMLR_search_page.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_will_be_abstracted_andor_indexed_by_Zentralblatt_MATH,_Mathematical_ReviewsMathSciNet,_Linguistics_Abstracts,_EBSCO,_PsycINFOPsychological_Abstracts,_INSPEC,_and_Computing_Reviews.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Learning_in_Large_Probabilistic_Environments.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_the_Fusion_of_Domain_Knowledge_with_Data_for_Decision_Support_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SPARC_announces_partnership_with_JMLR_Press_Release.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Leading_ML_researchers_issue_statement_of_support_for_JMLR.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_issue_on_Variable_and_Feature_Selection.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_Computational_Learning_Theory_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_topic_on_Machine_Learning_for_Computer_Security_completed.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_Learning_Theory_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_topic_on_Approaches_and_Applications_of_Inductive_Programming_completed.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Causality.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subscribe_to_the_new_RSS_feed._Read_more...">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_Learning_Text_and_Images_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_written_up_in_the_Chronicle_of_Higher_Education.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_will_publish_Discussion_Articles.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_has_an_ISI_2003_impact_factor_rating_of_4.317,_which_is_the_second_highest_rating_of_journals_in_artificial_intelligence._More_on_impact_and_indexing.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_9_completed_Volume_10_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_adopts_changes_to_the_review_process_to_help_maintain_a_rapid_response_time.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_has_an_ISI_2004_impact_factor_rating_of_5.952,_which_is_the_highest_rating_this_year_for_a_journal_in_artificial_intelligence,_automation_and_control,_or_statistics_and_probability._It_is_the_second_highest_rating_of_any_computer_science_journal._More_on_impact_and_indexing.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Mining_and_Learning_with_Graphs_and_Relations.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_5_completed_Volume_6_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_Independent_Components_Analysis_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_3_completed_Volume_4_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_will_publish_machine_learning_open_source_software.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_Variable_and_Feature_Selection_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_14_completed_Volume_15_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_7_completed_Volume_8_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_selected_for_the_Internet_Scout_Project_National_Science_Digital_Library_Report_for_Math,_Engineering,_and_Technology_5242002.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_Inductive_Logic_Programming_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_will_publish_workshop_and_conference_proceedings.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_6_completed_Volume_7_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_13_completed_Volume_14_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Machine_Learning_and_Large_Scale_Optimization.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_topic_on_Machine_Learning_and_Large_Scale_Optimization_completed.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_10_completed_Volume_11_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Model_Selection.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issue_on_Shallow_Parsing_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Approaches_and_Applications_of_Inductive_Programming.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_topic_on_Learning_Theory_completed.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Welcome_our_new_CoEditorsinChief_Kevin_Murphy_and_Bernhard_Schoelkopf.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_papers_for_special_topic_on_Machine_Learning_for_Computer_Security.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Microtome_Publishing_and_JMLR_announce_print_archiving_agreement_Press_Release.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_11_completed_Volume_12_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <base:_JMLR_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_8_completed_Volume_9_begun.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_News>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_News"/>
+</rdf:RDF>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Hyundai_Motor_Co.,_Ltd._is_an_automobile_manufacturing_company_headquartered_in_Beijing,_China,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_has_a_wide_product_line_that_includes_more_than_the_buses_that_are_its_traditional_manufacture._Offerings_encompass_many_kinds_of_commercial_vehicles,"
+>
+  <base:_Former rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nanjing_Fiat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_History_1.1_Saab_technology_transfer">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAW_Jilin">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Area_served rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Worldwide">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Area_served>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TJ_Innova">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAW_Jie_Fang">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ranz">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_PeugeotCitron">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5_References">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAW_Car_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sichuan_FAW_Toyota_Motor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_Products">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Main_article rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Beijing_Benz">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_article>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_Joint_ventures_4.1_Current_joint_ventures_4.1.1_Beijing_Hyundai">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__foreign_companies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.1.2_BAW">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_GAC_Toyota">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Auto_Shanghai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_NissanDiesel_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Former_subsidiaries"/>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAWVolkswagen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Everus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAICbranded_military_and_civilian_light_trucks_have_also_been_produced">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__agricultural_machinery,_construction_machinery,_light_trucks,_and_military_vehicles,_etc._As_of_2010_commercial_vehicle_production_capacity_is_estimated_to_be_around_700,000_units_per_year._Production_capacity_figures_may_consider_engines_and_vehicles_as_discrete">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_has_a_wide_product_line_that_includes_more_than_the_buses_that_are_its_traditional_manufacture._Offerings_encompass_many_kinds_of_commercial_vehicles,_including">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Saab_technology_transfer rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_After_several_unsuccessful_attempts_to_buy_struggling_European_automakers_in_2009,_such_as_Saab,_Volvo,_and_Opel_as_well_as_technology_from_the_American_Chrysler,_Beiqi_fulfilled_its_aim_of_obtaining_valuable_Western_technology_that_same_year_purchasing_technology_from_a_former_unit_of_General_Motors,_Saab_Automobile._This_allows_it_to_produce_older_Saab_models_but_not_brand_them_as_Saabs_for_sale_in_China">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Saab_technology_transfer>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_sells_selfbranded_consumer_products,_which_makes_it_an_outlier_among_Chinese_car_manufacturers._Based_on_purchased_Saab_platforms,_the_cars_were_first_offered_in_2013_although_sales_had_been_expected_to_start_in_both_2012_and_2010._While_it_also_make_cars_with_foreign_partners,_its_selfbranded_vehicles_were_developed_without_oversight_from_a_major_Western_car_manufacturer_although_Western_assistance_is_evident._To_support_its_own_brand,_in_2012_Beiqi_hired_as_a_consultant_former_Ferrari_designer_Leonardo_Fioravanti,_and_a_concept_car_designed_by_him_was_on_display_at_the_2012_Beijing_Auto_Show">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Divisions">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_Operations_3.1_Current_subsidiaries_3.1.1_BAIC_Motor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Qoros">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_planned_production_base_will_produce_ownbrand_autos_using_Saab_technology._It_may_be_located_in_Zhuzhou,_Hunan_province,_or_at_Sanxiang_town,_Zhongshan_city,_Guangdong_province,_and_could_become_operational_in_June_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  </owl:NamedIndividual>
+  <base:_Beijing_Foton_Daimler rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Foton_Daimler_Automobile_Co.,_Ltd._is_a_joint_venture_between_Daimler_and_BAIC_subsidiary,_Foton_Motor_which_makes_commercial_trucks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Beijing_Foton_Daimler>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.2_Former_joint_ventures_4.2.1_Beijing_Jeep">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_Official_Website_Chinese">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ciimo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.1.2_Beijing_Benz">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Automotive">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fengshen_Etsong_FAW_Besturn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shanghai_Volkswagen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.2_Former_subsidiaries_3.2.1_BLAC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_Honda">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simplified_Chinese">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Automotive_Group"/>
+  </rdf:Description>
+  <base:_Main_article rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__BAW">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_article>
+  <base:_Beijing_Benz rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_2010_Beijing_Benz,_a_BAIC_joint_venture_with_German_automaker_Daimler_AG,_makes_the_MercedesBenz_CClass_and_EClass_models_for_sale_in_China_and_seeks_to_make_more_of_the_models_it_sells_in_China_locally">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Beijing_Benz>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beiqi_Foton_Motor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:_Main_article rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Foton_Motor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_article>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Automotive_industry_in_China"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_subsidiaries"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.1.3_Foton_Motor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fujian_Benz">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAW_Tianjin">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hanyu_Pinyin">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Automotive_Group"/>
+  </rdf:Description>
+  <base:_Saab_technology_transfer rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cars_with_Saab_technology_were_expected_to_go_on_sale_in_2012_but_didnt_debut_until_May_2013._The_first_Saabbased_model_on_sale_is_the_C70_or__Shenbao,_which_may_be_translated_as_gentlemans_treasure,_although_it_is_sold_as_the_Senova_in_English">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Saab_technology_transfer>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Roewe_SG_Changzhou_Changjiang_Bus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_External_links rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_Official_Website_English">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_External_links>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dayun_Dongfeng_Dongfeng_Automobile_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Weichai_Power">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <base:_Beijing_Jeep rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Jeep_Corporation_became_Chinas_first_Sinowestern_automotive_joint_venture_when_it_was_established_in_1984_with_American_Motors_Corporation._Beijing_Jeep_subsequently_became_Beijing_BenzDaimlerChrysler_Automotive_Co_Ltd_and_then_Beijing_Benz_Automotive_Co_Ltd">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Beijing_Jeep>
+  <ns1:_and_is_a_50 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_50_jointventure_between_BAIC_and_Hyundai_Motor_Company._Established_in_2002,_it_manufactures_in_Shunyi_District,_a_satellite_city_of_Beijing,_producing_Hyundaibranded_automobiles_for_the_Chinese_market._New_models_designed_for_the_Chinese_market_are_due_to_appear">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_and_is_a_50>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Changan_PSA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Main_article rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__BAIC_Motor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_article>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foton">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Changan_Mazda">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Trumpchi_Geely_Emgrand">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guangqi_Honda">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Venucia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Foton_Daimler_Automobile_50">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BMW_Brilliance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_Yulon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chery_Jaguar_Land_Rover">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_Renault">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_GAC_Fiat">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beiqi_was_one_of_the_top_ten_mostproductive_Chinese_automakers_in_2010._This_may_be_due_to_subsidiary_Beijing_Automobile_Works_and_a_sustained_surge_of_popularity_for_Beijing_Hyundai_products._It_reached_fifth_place_by_selling_nearly_1.5_millions_units_garnering_a_market_share_of_more_than_8._2011_production_of_1.5_million_whole_vehicles_made_Beiqi_the_fifth_largest_vehiclemaker_in_China_that_year_in_terms_of_units_manufactured">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Honda_Automobile_China_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Former_joint_ventures"/>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Weiwang">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing,_China">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAW_Bus_and_Coach">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Former rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guangzhou_Peugeot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Flxible">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SAICGMWuling">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Auto">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_claims_production_bases_in_at_least_26_Chinese_cities._This_count_most_likely_includes_component_manufacturers_as_well">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foton_makes_commercial_trucks_in_a_joint_venture_with_Daimler_AG,_called_Beijing_Foton_Daimler_Automobile_Co.,_Ltd.,_which_sells_its_products_under_the_Auman_brand_name">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foton_Motor"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hongqi_Foday_Fujian_Motors_GAC_Changfeng">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zhongsheng__Category">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ankai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Automobile_Works">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Stateowned_enterprise">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Higer_Bus_Landwind_Lifan_Lishan_Bus_Mudan_Auto_Polarsun_Qingling_SAIC_Maxus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Main_article rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Beijing_Hyundai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_article>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.1.3_Beijing_Foton_Daimler">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAWGM">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Denza">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wanxiang">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volkswagen_Group_China_Other">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__600988_for_this_purpose_gaining_a_Southern_production_base_and_planning_construction_of_two_more">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_aims_to_expand_in_Southern_China_and_will_purchase_Guangzhou_Baolong_SSE">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Southern_China_expansion"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_BAW">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_BAW rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Automobile_Works_Co.,_Ltd._BAW_is_a_subsidiary_of_BAIC_based_in_Beijing_which_produces_light_offroad_vehicles,_trucks_and_military_vehicles">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BAW>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current_joint_ventures"/>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gleagle_Great_Wall_Haval_Green_Field_Haima_Hawtai_Heibao_Hengtian_Group_Bonluck_Bus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_BAIC_Motor rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_Motor_Co.,_Ltd._is_a_subsidiary_of_BAIC_which_manufactures_passenger_cars_and_microvans_sold_under_the_Beijing_and_Weiwang_marques,_respectively._Founded_in_2010_and_based_in_Beijing,_Daimler_AG_acquired_a_12_stake_in_BAIC_Motor_in_November_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BAIC_Motor>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MG">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_Yueda_Kia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Transcriptions">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Automotive_Group"/>
+  </rdf:Description>
+  <base:_History rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded_in_1958,_Beiqi_companies_build_with_Daimler_AG_and_Hyundai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_History>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1958">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_Motor_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Association_of_Automobile_Manufacturers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.2_Southern_China_expansion">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Commercial_and_passenger_vehicles">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  </owl:NamedIndividual>
+  <base:_Former rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Changan_Ford_Mazda">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Former>
+  <ns1:_and_is_a_50 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_BLAC_truck">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_and_is_a_50>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Changan_Ford">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6_External_links">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Changan_Suzuki">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shanghai_GM">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1.3_Electric_vehicles">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hengtian_Auto_JAC_JMC_Jonway_Kandi_King_Long_Golden_Dragon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Huanghai_Bus_Shaanxi_Shandong_Huoyun_Shuanghuan_Red_Star_Sinotruk_Sinotruk_Hong_Kong_Soar_Soueast_Sunlong_Bus_Tengzhong_Wuling_Wuzhoulong_Xinkai_Yangtse_Yaxing_Yema_Youngman_Yutong_Zhongtong_Zotye_ZX_Auto">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gonow">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Englon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Denway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dongfeng_Liuzhou">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Along_with_several_other_production_bases,_four_of_which_are_in_eastern_China,_Beiqi_controls_the_former_Guangzhou_Baolong_base_in_Southern_China_most_probably_in_Zengcheng_city,_Guangzhou,_Guangdong_province._Plans_exist_to_build_two_more_southern_production_basesne_in_Guangzhou,_Guangdong_province_by_2012_and_another_in_Chongqing">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  </owl:NamedIndividual>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Auto_Guangzhou">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <base:_Saab_technology_transfer rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_intellectual_property_bought_by_Beiqi_includes_the_rights_to_three_overall_vehicle_platforms,_Saab_93_and_Saab_95_technologies,_two_engine_technologies,_and_two_transmission_systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Saab_technology_transfer>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BeiBen_Brilliance_Jinbei_BYD_Changan_Changhe">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Beijing_Light_Automobile_Company_BLAC,_which_until_1988_had_been_known_as_the_Beijing_Automobile_factory_No._2,_started_in_late_1960s_when_production_of_the_independently_developed_BJ130_began._Its_introduction_was_slowed_down_considerably_by_the_upheavals_of_the_Cultural_revolution._In_1984_assembly_of_the_Isuzu_ElfNHR_began_originally_as_the_BJ136,_later_as_the_BJ103010401050_series._In_1988_a_new_plant_for_these_trucks_was_built_with_aid_from_the_Japanese,_where_petrol_and_diesel_light_truck_engines_were_also_produced._BLAC_went_bankrupt_in_2002">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BLAC"/>
+  </owl:NamedIndividual>
+  <base:_Electric_vehicles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_trial_production_run_of_30_electric_vehicles_using_Saab_and_selfdeveloped_platforms_occurred_in_late_2010._China_subsidies_oil_an_incentive_for_the_State_to_encourage_use_and_manufacture_of_electric_cars,_and_Chinese_automakers_see_opportunities_in_less_mature_electric_vehicles_because_Western_companies_have_yet_to_develop_much_of_a_lead_in_the_technology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Electric_vehicles>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_has_several_joint_ventures_with_foreign_automakers,_including_two_with_Daimler_AG">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Joint_ventures"/>
+  </owl:NamedIndividual>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Baojun">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hafei_Chery_CNJ_Dadi_Dayun_Group_Dayang">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Current rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_GAC_Mitsubishi">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Current>
+  <base:_Subsidiaries_of rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Auto_China">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Subsidiaries_of>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beiqi_Foton_Motor_Co.,_Ltd._Foton_Motor_is_a_subsidiary_of_BAIC_which_designs_and_manufactures_trucks,_buses,_sport_utility_vehicles_and_agricultural_machinery._It_is_headquartered_in_Changping,_Beijing">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foton_Motor"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Former">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sinoforeign"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Automotive_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chinese_vehicle"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Jeep"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_article">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_Motor"/>
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Hyundai_Motor_Co.,_Ltd._is_an_automobile_manufacturing_company_headquartered_in_Beijing,_China,_and_is_a_50">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Hyundai"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Benz"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAW"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foton_Motor"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Southern_China_expansion"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Benz">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sinoforeign"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chinese_vehicle"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Foton_Daimler"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAIC_Motor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sinoforeign"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foton_Motor"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Electric_vehicles"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Saab_technology_transfer"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operations"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Beijing_Hyundai">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Current"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Area_served"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BAW"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries_of"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BLAC"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Joint_ventures"/>
+</rdf:RDF>

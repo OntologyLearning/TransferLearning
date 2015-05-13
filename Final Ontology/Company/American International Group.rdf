@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns8="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Schneiderman,_R.M_Philip_Caulfield,_Celena_Fang,_Elisabeth_Goodridge_and_Vikas_Bajaj_September_15,"
+  xmlns:ns9="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#For_a_list_of_counterparties_receiving_U.S._taxpayer_dollars,"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns10="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Shelp,"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#50"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.4"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.3"
+  xmlns:ns6="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance,"
+  xmlns:ns7="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.2"
+>
+  <base:Business rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_October_12,_2012,_AIG_announced_a_5_?_year_agreement_to_sponsor_six_New_Zealandbased_rugby_teams,_including_world_champion_All_Blacks._The_AIG_logo_and_the_Adidas_logo,_the_league??_primary_sponsor,_will_be_displayed_on_the_league??_team_jerseys.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Business>
+  <base:Business rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_the_United_States,_AIG_is_the_largest_underwriter_of_commercial_and_industrial_insurance.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Business>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_U.S._Department_of_The_Treasury_in_December_2012_published_an_itemized_list_of_the_loans,_stock_purchases,_special_purpose_vehicles_SPVs_and_other_investments_engaged_in_with_AIG,_the_amount_AIG_paid_back_and_the_positive_return_on_the_loans_and_investments_to_the_government._Treasury_said_that_it_and_the_Federal_Reserve_Bank_of_New_York_provided_a_total_182.3_billion_to_AIG,_which_paid_back_a_total_205_billion,_for_a_total_positive_return,_or_profit,_to_the_government_of_22.7_billion._In_addition,_AIG_sold_off_a_number_of_its_own_assets_to_raise_money_to_pay_back_the_government.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_March_17,_2009,_AIG_announced_that_they_were_paying_165_million_in_executive_bonuses,_according_to_news_reports._Total_bonuses_for_the_financial_unit_could_reach_450_million_and_bonuses_for_the_entire_company_could_reach_1.2_billion._President_Barack_Obama,_who_voted_for_the_AIG_bailout_as_a_Senator_responded_to_the_planned_payments_by_saying_Its_hard_to_understand_how_derivative_traders_at_AIG_warranted_any_bonuses,_much_less_165_million_in_extra_pay._How_do_they_justify_this_outrage_to_the_taxpayers_who_are_keeping_the_company_afloat?_and_In_the_last_six_months,_AIG_has_received_substantial_sums_from_the_U.S._Treasury._I??e_asked_Secretary_Timothy_Geithner_to_use_that_leverage_and_pursue_every_legal_avenue_to_block_these_bonuses_and_make_the_American_taxpayers_whole.100_Politicians_on_both_sides_of_the_Congressional_aisle_reacted_with_outrage_to_the_planned_bonuses._Political_commentators_and_journalists_expressed_an_equally_bipartisan_outrage.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Steve_Miller">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_people"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Christopher_S._Lynch_??Former_Partner,_KPMG_LLP">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#John_H._Fitzpatrick">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_Home_Direct">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_International_Group"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Corporate_governance"/>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Aegon_Ageas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Scor">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Public">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Type"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Manulife_Financial">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Major_insurance_and_reinsurance_companies"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#QBE_Insurance">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Major_insurance_and_reinsurance_companies"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Official_website">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Some_of_the_key_events_in_the_upheaval._The_New_York_Times._Archived_from_the_original_on_September_16,_2008._Retrieved_September_17,_2008.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Schneiderman,_R.M_Philip_Caulfield,_Celena_Fang,_Elisabeth_Goodridge_and_Vikas_Bajaj_September_15,_2008._How_a_Market_Crisis_Unfolded">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Maurice_R._Greenberg_and_Lawrence_A._Cunningham,_The_AIG_Story_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#William_G._Jurgensen__Former_Chief_Executive_Officer_Nationwide_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Nan_Shan_Life_Insurance_Nan_Shan">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Former_subsidiaries">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_International_Group"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Swiss_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Commercial__Consumer,_Life__Retirement,_Mortgage_Insurance,_Aircraft_Leasing">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance,_Property_Casualty">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Products"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Meiji_Yasuda_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#National_Mutual_Insurance_Federation_of_Agricultural_Cooperatives">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:International_and_Domestic_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#After_World_War_II,_American_International_Underwriters_AIU_entered_Japan_and_Germany,_to_provide_insurance_for_American_military_personnel._Throughout_the_late_1940s_and_early_1950s,_AIU_continued_to_expand_in_Europe,_with_offices_opening_in_France,_Italy,_and_the_United_Kingdom._In_1952,_Mr._Starr_began_to_focus_on_the_American_market_by_acquiring_Globe__Rutgers_Fire_Insurance_Company_and_its_subsidiary,_American_Home_Fire_Assurance_Company._By_the_end_of_the_decade,_C.V._Starrs_general_and_life_insurance_organization_included_an_extensive_network_of_agents_and_offices_in_over_75_countries.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:International_and_Domestic_Expansion>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#6_References">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#8_External_links">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Lincoln">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#John_H._Fitzpatrick_??Chairman,_Oak_Street_Management_Co.,_LLC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Samsung_Fire__Marine_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#W._Don_Cornwell_??Former_Chairman_of_the_Board_and_Chief_Executive_Officer,_Granite_Broadcasting_Corporation">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#An_Insurance_Giant,_Brought_Down._New_York_Times._September_27,_2008._Archived_from_the_original_on_September_30,_2008._Retrieved_September_27,_2008.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Taikang_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Travelers">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sompo_Japan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mortgage_Insurance">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ProductsInsuranceProperty_Casualty">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_International_Group"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Gen_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#LIC_India">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#List_of_United_States_insurance_companies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Maurice_R._Greenberg">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_People">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_International_Group"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_faced_the_most_difficult_financial_crisis_in_its_history_when_a_series_of_events_unfolded_in_late_2008._The_insurer_had_sold_credit_protection_through_its_London_unit_in_the_form_of_credit_default_swaps_CDSs_on_collateralized_debt_obligations_CDOs_but_they_had_declined_in_value._The_AIG_Financial_Products_division,_headed_by_Joseph_Cassano,_in_London,_had_entered_into_credit_default_swaps_to_insure_441_billion_worth_of_securities_originally_rated_AAA._Of_those_securities,_57.8_billion_were_structured_debt_securities_backed_by_subprime_loans._As_a_result,_AIG??_credit_rating_was_downgraded_and_it_was_required_to_post_additional_collateral_with_its_trading_counterparties,_leading_to_a_liquidity_crisis_that_began_on_September_16,_2008_and_essentially_bankrupted_all_of_AIG._The_United_States_Federal_Reserve_Bank_stepped_in,_announcing_the_creation_of_a_secured_credit_facility_of_up_to_US85_billion_to_prevent_the_companys_collapse,_enabling_AIG_to_deliver_additional_collateral_to_its_credit_default_swap_trading_partners._The_credit_facility_was_secured_by_the_stock_in_AIGowned_subsidiaries_in_the_form_of_warrants_for_a_79.9_equity_stake_in_the_company_and_the_right_to_suspend_dividends_to_previously_issued_common_and_preferred_stock._The_AIG_board_accepted_the_terms_of_the_Federal_Reserve_rescue_package_that_same_day,_making_it_the_largest_government_bailout_of_a_private_company_in_U.S._history.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.1_Board_of_directors">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#President__CEO">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_people"/>
+  </owl:NamedIndividual>
+  <base:Business rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Life_and_Retirement">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </base:Business>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#4_Restatement">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ING">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:The_Early_Years rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1919_to_1939">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1_History_1.1_The_Early_Years">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:The_Early_Years>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Vienna_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Robert_H._Benmosche_current_President__CEO">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_People"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Bradesco_Seguros">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#New_York,_New_York,_U.S.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Headquarters"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#United_Guaranty">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance,_Financial_services">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Industry"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#US_548,633_million_2012">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Total_assets"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Lloyds_of_London">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  </owl:NamedIndividual>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Retirement">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#China_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allstate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Suzanne_Nora_Johnson_??Former_Vice_Chairman,_The_Goldman_Sachs_Group,_Inc.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#December_14,_2012._Treasury_sold_the_last_of_its_AIG_stock_in_its_sixth_stock_stale_for_a_total_of_approximately_7.6_billion._As_a_result_of_these_sales,_the_U.S._Government_and_America_fully_recouped_their_investment_in_AIG,_plus_a_total_combined_positive_return_of_more_than_22_billion.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Standard_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#History"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Martin_J._Sullivan">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_People"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#RSA_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Bupa">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Daiichi_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#UnipolSai">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#BB_Seguridade">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_early_2000s_saw_a_marked_period_of_growth_as_AIG_acquired_American_General_Corporation,_a_leading_domestic_life_insurance_and_annuities_provider,_and_AIG_entered_new_markets_including_India._In_February_2000,_AIG_created_a_strategic_advisory_venture_team_with_the_Blackstone_Group_and_Kissinger_Associates_to_provide_financial_advisory_services_to_corporations_seeking_high_level_independent_strategic_advice._AIG_has_been_an_investor_in_the_Blackstone_Group_since_1998_and_just_recently_sold_all_of_its_shares_in_the_company,_which_was_also_an_adviser_for_them_during_the_0708_financial_crisis.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  </owl:NamedIndividual>
+  <ns10:_Ron_2006._Fallen_Giant rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Amazing_Story_of_Hank_Greenberg_and_the_History_of_AIG._Hoboken,_NJ">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns10:_Ron_2006._Fallen_Giant>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Arthur_C._Martinez">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#May_7,_2012._Treasury_announced_an_offering_of_188.5_million_shares_of_AIG_for_a_total_of_5.8_billion._The_sale_reduced_Treasury??_stake_in_AIG_to_61_percent,_from_70_percent_before_the_transaction.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <base:Business rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mortgage_Guaranty_United_Guaranty_Corporation_or_UGC">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Business>
+  <base:Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#NYSE_AIG">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Traded_as>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Commercial__Consumer,_Life__Retirement">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ProductsInsuranceProperty_Casualty"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Bob_Benmosche">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_people"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ALICO">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Former_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#List_of_AIG_subsidiary_companies">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#External_links"/>
+  </owl:NamedIndividual>
+  <base:Employees rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Approximately_63,000_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Employees>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Business_Week_??List_of_Counterparties_and_Payouts">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#For_a_list_of_counterparties_receiving_U.S._taxpayer_dollars,_see">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Swiss_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Buildings rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Kamiyachi_Building_Tokyo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Buildings>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Old_Mutual">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Robert_S._Miller">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <base:Buildings rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#America_Tower_Houston">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Buildings>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_at_Yahoo_Finance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#External_links"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#UIIC_India">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Theresa_M._Stone">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Robert_S._Miller_??NonExecutive_Chairman_of_the_Board,_American_International_Group,_Inc.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Henry_S._Miller">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#VALIC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Northwestern_Mutual">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Arthur_C._Martinez_??Former_Chairman_of_the_Board,_President_and_Chief_Executive_Officer,_Sears,_Roebuck_and_Co.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#BNP_Paribas">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reported_in_January_2011,_AIG_sold_its_Taiwanese_life_insurance_company,_Nan_Shan_Life,_to_a_consortium_of_buyers_for_2.16_billion.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#George_L._Miles,_Jr.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Stowe_Mountain_Resort">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Theresa_M._Stone__Former_Executive_Vice_President_and_Treasurer,_Massachusetts_Institute_of_Technology">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Edward_M._Liddy">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_People"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Chartis_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Former_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#PICC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#After_Greenberg_left,_AIG_took_on_tens_of_billions_of_risk_associated_with_mortgages._It_insured_tens_of_billions_of_derivatives_against_default,_but_did_not_purchase_reinsurance_on_that_risk._Secondly,_it_used_collateral_on_deposit_to_buy_mortgagebacked_securities._When_losses_hit_the_mortgage_market_in_20078,_AIG_had_to_pay_out_insurance_claims_and_also_replace_the_losses_in_its_collateral_accounts.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_October_14,_2004,_the_New_York_State_Office_of_Attorney_General_Eliot_Spitzer_announced_that_it_had_commenced_a_civil_action_against_Marsh__McLennan_Companies_for_steering_clients_to_preferred_insurers_with_whom_the_company_maintained_lucrative_payoff_agreements,_and_for_soliciting_rigged_bids_for_insurance_contracts_from_the_insurers._The_Attorney_General_announced_in_a_release_that_two_AIG_executives_pleaded_guilty_to_criminal_charges_in_connection_with_this_illegal_course_of_conduct._In_early_May_2005,_AIG_restated_its_financial_position_and_issued_a_reduction_in_book_value_of_USD_2.7_billion,_a_3.3_percent_reduction_in_net_worth._On_February_9,_2006,_AIG_and_the_New_York_State_Attorney_Generals_office_agreed_to_a_settlement_in_which_AIG_would_pay_a_fine_of_1.6_billion.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  </owl:NamedIndividual>
+  <base:Methodology rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applicable_FY201011_revenues_of_over_US3_billion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Methodology>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Aon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1960,_C.V._Starr_hired_Maurice_R._Greenberg_to_develop_an_international_accident_and_health_business._Two_years_later,_Mr.Greenberg_reorganized_one_of_C.V._Starr??_U.S._holdings_into_a_successful_multiple_line_carrier._Greenberg_focused_on_selling_insurance_through_independent_brokers_rather_than_agents_to_eliminate_agent_salaries._Using_brokers,_AIU_could_price_insurance_according_to_its_potential_return_even_if_it_suffered_decreased_sales_of_certain_products_for_great_lengths_of_time_with_very_little_extra_expense._In_1967,_American_International_Group,_Inc._AIG_was_incorporated_as_a_unifying_umbrella_organization_for_most_of_C.V._Starr??_general_and_life_insurance_businesses._In_1968,_Starr_named_Greenberg_his_successor._The_company_went_public_in_1969._The_1970s_presented_many_challenges_for_AIG_as_operations_in_the_Middle_East_and_Southeast_Asia_were_curtailed_or_ceased_altogether_due_to_the_changing_political_landscape._However,_AIG_continued_to_expand_its_markets_by_introducing_specialized_energy,_transportation,_and_shipping_products_to_serve_the_needs_of_niche_industries._By_1979,_with_a_growing_workforce_and_a_worldwide_network_of_offices,_AIG_offered_clients_superior_technical_and_risk_management_skills_in_an_increasingly_competitive_marketplace.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reorganization_and_Specialization"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#XL_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <base:Restatement rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_May_1,_2005,_investigations_conducted_by_outside_counsel_at_the_request_of_AIGs_Audit_Committee_and_the_consultation_with_AIGs_independent_auditors,_PricewaterhouseCoopers_LLP_resulted_in_AIGs_decision_to_restate_its_financial_statements_for_the_years_ended_December_31,_2003,_2002,_2001_and_2000,_the_quarters_ended_March_31,_June_30_and_September_30,_2004_and_2003_and_the_quarter_ended_December_31,_2003._On_November_9,_2005,_the_company_was_reported_of_delaying_its_thirdquarter_earnings_report_because_it_must_restate_earlier_financial_results_to_correct_accounting_errors.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Restatement>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Fuji_Life_International_Lease_Finance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_October_2010_the_WSJ_reported_that_a_family_sued_AIG_for_alleged_complicity_in_a_strangeroriginated_life_insurance_scheme,_whereby_AIG_managers_allegedly_welcomed_people_without_an_insurable_interest_to_take_out_life_insurance_policies_against_others._The_case_involved_JB_Carlson_and_Germaine_Tomlinson,_and_was_one_of_many_similar_lawsuits_in_the_US_at_the_time.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Zurich_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_June_15,_2008,_after_disclosure_of_financial_losses_and_subsequent_to_a_falling_stock_price,_Sullivan_resigned_and_was_replaced_by_Robert_B._Willumstad,_Chairman_of_the_AIG_Board_of_Directors_since_2006._Willumstad_was_forced_by_the_US_government_to_step_down_and_was_replaced_by_Edward_M._Liddy_on_September_17,_2008._AIGs_board_of_directors_named_Robert_Benmosche_CEO_on_August_3,_2009_to_replace_Mr._Liddy,_who_earlier_in_the_year_announced_his_retirement.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Prudential_Financial">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance_Group_of_America">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sjostrom,_Jr.,_William_K._The_AIG_Bailout.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Lemon_socialism">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Douglas_Steenland_??Former_President_and_Chief_Executive_Officer,_Northwest_Airlines_Corporation">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1960_to_1979">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.3_Reorganization_and_Specialization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reorganization_and_Specialization"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Munich_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#US_3,438_million_2012">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Net_income"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2_Corporate_governance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#September_14,_2012._The_Treasury_completed_its_fifth_sale_of_AIG_common_stock,_with_proceeds_of_approximately_20.7_billion,_reducing_the_Treasury??_ownership_stake_in_AIG_to_approximately_15.9_percent_from_53_percent._Government_commitments_were_fully_recovered,_and_Treasury_and_the_FRBNY_to_date_had_received_a_combined_positive_return_of_approximately_15.1_billion.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Hannover_Re">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Great_Eastern">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Fuji_Fire__Marine">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Nippon_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_November_2004,_AIG_reached_a_US126_million_settlement_with_the_U.S._Securities_and_Exchange_Commission_and_the_Justice_Department_partly_resolving_a_number_of_regulatory_matters,_but_the_company_must_still_cooperate_with_investigators_continuing_to_probe_the_sale_of_a_nontraditional_insurance_product.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#US_6,635_million_2012">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Operating_income"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Cornelius_Vander_Starr_founder">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_People"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Scottish_Widows">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#W._Don_Cornwell">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Henry_S._Miller_??Chairman_and_Managing_Director,_Miller_Buckfire__Co.,_LLC">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_purchased_the_remaining_39_that_it_did_not_own_of_online_auto_insurance_specialist_21st_Century_Insurance_in_2007_for_749_million._With_the_failure_of_the_parent_company_and_the_continuing_recession_in_late_2008,_AIG_rebranded_its_insurance_unit_to_21st_Century_Insurance.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Marsh,_Bill_September_28,_2008._A_Tally_of_Federal_Rescues._New_York_Times._Archived_from_the_original_on_October_1,_2008._Retrieved_September_28,_2008.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#William_G._Jurgensen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_topics_at_The_New_York_Times">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#External_links"/>
+  </owl:NamedIndividual>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Advisor_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#SunAmerica_Financial_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#New_York_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.5_2000s">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Aviva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Late2000s_financial_crisis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_since_September_2008_marketed_its_assets_to_pay_off_its_government_loans._A_global_decline_in_the_valuation_of_insurance_businesses,_and_the_weakening_financial_condition_of_potential_bidders,_challenged_its_efforts._AIG_closed_on_the_sale_of_its_Hartford_Steam_Boiler_unit_on_March_31,_2009_to_Munich_Re_for_742_million,_which_was_announced_December_22,_2008._On_April_16,_2009,_AIG_announced_plans_to_sell_21st_Century_Insurance_subsidiary_to_Farmers_Insurance_Group_for_1.9_billion._June_10,_2009._AIG_sold_down_its_majority_ownership_of_reinsurer_Transatlantic_Re._The_Wall_Street_Journal_reported_on_September_7,_2009_that_Pacific_Century_Group_had_agreed_to_pay_500_million_for_a_part_of_American_International_Groups_asset_management_business,_and_that_they_also_expected_to_pay_an_additional_200_million_to_AIG_in_carried_interest_and_other_payments_linked_to_future_performance_of_the_business.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Revenue rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#US_65,656_million_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Revenue>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#During_the_1980s,_AIG_continued_expanding_its_market_distribution_and_worldwide_network_by_offering_a_wide_range_of_specialized_products,_including_pollution_liability_and_political_risk._In_1984_AIG_listed_its_shares_on_the_New_York_Stock_Exchange_NYSE._Throughout_the_1990s,_AIG_developed_new_sources_of_income_through_diverse_investments,_including_the_acquisition_of_International_Lease_Finance_Corporation_ILFC,_a_provider_of_leased_aircraft_to_the_airline_industry._In_1992,_AIG_received_the_first_foreign_insurance_license_granted_in_over_40_years_by_the_Chinese_government._Within_the_U.S.,_AIG_acquired_Sun_America_Inc._a_retirement_savings_company,_in_1999.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#New_Opportunities_and_Directions"/>
+  </owl:NamedIndividual>
+  <ns1:_largest_banks_and_bank_holding_companies_in_the_United_States rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Ally_American_Express">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_largest_banks_and_bank_holding_companies_in_the_United_States>
+  <base:Business rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_offers_property_casualty_insurance,_life_insurance,_retirement_products,_mortgage_insurance_and_other_financial_services._In_the_third_quarter_of_2012,_the_global_propertyandcasualty_insurance_business,_Chartis,_was_renamed_AIG_Property_Casualty._SunAmerica,_lifeinsurance_and_retirementservices_division,_was_renamed_AIG_Life_and_Retirement,_other_existing_brands_continue_to_be_used_in_certain_geographies_and_market_segments.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Business>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Berkshire_Hathaway">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Ronald_A._Rittenmeyer_??Former_Chairman,_Chief_Executive_Officer_and_President,_Electronic_Data_Systems_Corporation">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Win_Neuger">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_People"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mitsui_Sumitomo_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Jackson">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#PZU">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Bank">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Major_insurance_and_reinsurance_companies"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Israel">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#China_Pacific_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Shanghai,_China_1919">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Founded"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_January_21,_2009,_it_was_announced_that_AIG_would_not_be_renewing_its_sponsorship_of_the_Manchester_United_Soccer_club_at_the_end_of_the_deal_in_May_2010.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <base:Buildings rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#175_Water_Street_New_York">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Buildings>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Graphic">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Robert_H._Benmosche_??President_and_Chief_Executive_Officer,_American_International_Group,_Inc.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Samsung_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Due_to_the_Q3_2011_net_loss_widening,_on_November_3,_2011,_the_AIG_shares_plunged_49_percent_year_to_date._The_insurers_board_approved_the_share_buyback_of_as_much_as_1_billion.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Star_Life_Insurance_AIG_Star">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Former_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG.com">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Website"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Generali">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Worldwide">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Area_served"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Beginning_in_2005,_AIG_became_embroiled_in_a_series_of_fraud_investigations_conducted_by_the_Securities_and_Exchange_Commission,_U.S._Justice_Department,_and_New_York_State_Attorney_Generals_Office._Greenberg_was_ousted_amid_an_accounting_scandal_in_February_2005_he_is_still_fighting_civil_charges_being_pursued_by_New_York_state._The_New_York_Attorney_Generals_investigation_led_to_a_1.6_billion_fine_for_AIG_and_criminal_charges_for_some_of_its_executives._Greenberg_was_succeeded_as_CEO_by_Martin_J._Sullivan,_who_had_begun_his_career_at_AIG_as_a_clerk_in_its_London_office_in_1970.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_agreed_in_March_2010_to_sell_its_American_Life_Insurance_Co._ALICO_to_MetLife_Inc._for_15.5_billion_in_cash_and_MetLife_stock._Bloomberg_L.P._reported_on_March_29_that_after_almost_three_months_of_delays,_AIG_had_completed_the_500_million_sale_of_a_portion_of_its_asset_management_business,_branded_PineBridge_Investments,_to_the_Asiabased_Pacific_Century_Group._Fortress_Investment_Group_purchased_80_of_the_interest_in_financing_company_American_General_Finance_in_August_2010._AIG_in_September_sold_AIG_Starr_and_AIG_Edison,_two_of_its_Japanbased_companies,_to_Prudential_Financial_for_4.2_billion_in_cash_and_600_million_in_assumption_of_third_party_AIG_debt_by_Prudential._On_November_1,_AIG_announced_it_has_raised_36.71_billion_from_both_the_sale_of_ALICO_and_its_IPO_of_AIA._Proceeds_go_specifically_to_pay_off_FRB_of_New_York_loan.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#September_6,_2012._AIG_sold_2_billion_of_its_investment_in_AIA_to_repay_government_loans._The_board_also_approved_a_5_billion_stock_repurchase_of_governmentowned_shares_in_AIA.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <base:Business rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Property_Casualty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </base:Business>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Treasury_Department_realized_a_gain_of_more_than_22_billion_from_the_sale_of_AIG_common_stock_and_0.9_billion_from_the_sale_of_AIG_preferred_stock.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Ronald_A._Rittenmeyer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <base:Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#SP_500_Component">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Traded_as>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CNP_Assurances">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <base:Founders rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Cornelius_Vander_Starr">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Founders>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#5_See_also">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Robert_H._Benmosche">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_General_Life_Companies">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Lexington_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance_Australia_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Edison_Life_Insurance_AIG_Edison">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Former_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Graphic_and_interactive_timeline.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Hartford">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#MetLife">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#7_Further_reading">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Legal__General">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#SunAmerica_Financial_Group_SAFG">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Former_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sun_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Buildings rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_Tower_Houston">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Buildings>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Phoenix_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Prudential_plc">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:The_Early_Years rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_traces_its_roots_back_to_1919,_when_American_Cornelius_Vander_Starr_18921968_established_a_general_insurance_agency,_American_Asiatic_Underwriters_AAU,_in_Shanghai,_China._Business_grew_rapidly,_and_two_years_later,_Starr_formed_a_life_insurance_operation._By_the_late_1920s,_AAU_had_branches_throughout_China_and_Southeast_Asia,_including_the_Philippines,_Indonesia,_and_Malaysia._In_1926,_Mr._Starr_opened_his_first_office_in_the_United_States,_American_International_Underwriters_Corporation_AIU._He_also_focused_on_opportunities_in_Latin_America_and,_in_the_late_1930s,_AIU_entered_Havana,_Cuba._The_steady_growth_of_the_Latin_American_agencies_proved_significant_as_it_would_offset_the_decline_in_business_from_Asia_due_to_the_impending_World_War_II._In_1939,_Mr._Starr_moved_his_headquarters_from_Shanghai,_China,_to_New_York_City.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:The_Early_Years>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Liberty_Mutual">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <base:Buildings rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#58_Fenchurch_St_London">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Buildings>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.6_Financial_crisis">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#MBIA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2009">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Suzanne_Nora_Johnson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <ns7:_International_and_Domestic_Expansion rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1940_to_1959">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#International_and_Domestic_Expansion"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns7:_International_and_Domestic_Expansion>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_at_Google_Finance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#External_links"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#State_Farm_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:Buildings rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1999_Avenue_of_the_Stars_Los_Angeles">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Buildings>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AGLA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#3_Business">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIG_Direct">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AXA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Ping_An_Insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Farmers_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#George_L._Miles,_Jr._??President_and_Chief_Executive_Officer,_WQED_Multimedia">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Christopher_S._Lynch">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1980_to_1999">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.4_New_Opportunities_and_Directions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#New_Opportunities_and_Directions"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#US_98,669_million_2012">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Total_equity"/>
+  </owl:NamedIndividual>
+  <base:Composite rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#China_Taiping">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Composite>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Travel_Guard">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Joe_Cassano">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_People"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Hyundai_Marine__Fire_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <base:Board_of_Directors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Douglas_M._Steenland">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:Board_of_Directors>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#If_PC_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Losses_in_Perspective_New_York_Times._September_17,_2008._Graphic_of_AIG_quarterly_net_profit__losses_over_five_years,_comparing_Finance_vs._Insurance_activities.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </owl:NamedIndividual>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Chartis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIU">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Current_subsidiaries"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_General_Finance_AGF">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Former_subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:See_also rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Bailout">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:See_also>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_June_11,_2008,_three_stockholders,_collectively_owning_4_of_the_outstanding_stock_of_AIG,_delivered_a_letter_to_the_Board_of_Directors_of_AIG_seeking_to_oust_CEO_Martin_Sullivan_and_make_certain_other_management_and_Board_of_Directors_changes._This_letter_was_the_latest_volley_in_what_the_Wall_Street_Journal_deemed_a_public_spat_between_the_Companys_Board_and_management,_on_the_one_hand,_and_its_key_stockholders,_and_former_CEO_Maurice_Hank_Greenberg_on_the_other_hand.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  </owl:NamedIndividual>
+  <ns1:_largest_banks_and_bank_holding_companies_in_the_United_States rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#BancWest_Bank_of_America_Bank_of_New_York_Mellon_BBT_BBVA_Compass_BMO_Harris_BOK_Financial_Capital_One_Charles_Schwab_CIT_Citigroup_Citizens_Financial_Group_City_National_California_Comerica_Deutsche_Bank_Discover_ETrade_Fifth_Third_First_Niagara_GE_Capital_Goldman_Sachs_HSBC_Bank_USA_Hudson_City_Huntington_John_Deere_Capital_JPMorgan_Chase_Key_MT_Morgan_Stanley_New_York_Community_Northern_Trust_Peoples_United_PNC_Popular_Principal_Regions_Santander_State_Street_SunTrust_Synovus_TD_Bank_UnionBanCal_U.S._Bank_USAA_UtrechtAmerica_Wells_Fargo_Zions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_largest_banks_and_bank_holding_companies_in_the_United_States>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Tokio_Marine">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sumitomo_Life">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mapfre">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Traded_as"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_people"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Employees"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Industry"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.2_International_and_Domestic_Expansion">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Operating_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#See_also"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#50_largest_banks_and_bank_holding_companies_in_the_United_States"/>
+  <ns1:_largest_banks_and_bank_holding_companies_in_the_United_States rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_International_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </ns1:_largest_banks_and_bank_holding_companies_in_the_United_States>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Business"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_crisis"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Buildings">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_International_Group"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Methodology"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Early_Years"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_Directors">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#American_International_Group"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Composite">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Major_insurance_and_reinsurance_companies"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2000s"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Net_income"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Shelp,_Ron_2006._Fallen_Giant">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Type"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Further_reading"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Restatement"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#International_and_Domestic_Expansion"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Total_equity"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reorganization_and_Specialization"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Revenue"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#External_links"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Founders"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#New_Opportunities_and_Directions"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Total_assets"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Major_insurance_and_reinsurance_companies"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Board_of_directors"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Area_served"/>
+</rdf:RDF>

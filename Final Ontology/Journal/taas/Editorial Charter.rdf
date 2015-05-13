@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_4.3._Duration_of_the_Review_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TAAS_tries_to_enforce_a_very_quick_review_process.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.3._Duration_of_the_Review_Process>
+  <base:_2._Types_of_Articles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TAAS_will_aim_to_publish_papers_that_provably_advance_the_state_of_the_art,_or_that_provide_new_insights_and_knowledge_into_specific_issues_related_to_autonomous_adaptive_systems.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2._Types_of_Articles>
+  <base:_2._Types_of_Articles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tutorial_and_survey_papers_are_welcome,_provided_that_they_are_of_high_quality,_and_which_may_serve_the_purpose_of_informing_researchers,_professionals,_and_students_about_emerging_areas_within_the_remit_of_this_journal.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2._Types_of_Articles>
+  <base:_3.4._Duration_of_the_Editorial_Board_membership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_To_support_proper_turnaround_of_the_editorial_board_the_duration_is_limited._The_EICs_can_serve_in_that_position_after_election_following_nomination_by_another_editorial_board_member_or_their_application_for_an_initial_period_of_three_years._At_the_end_of_their_service_or_at_any_other_time_during_their_service_that_they_wish_to_they_should_step_down_and_they_will_not_be_eligible_for_reapplying_or_for_been_nominated_to_the_same_position_for_the_next_three_years._They_will_then_serve_as_AEs._They_could_serve_a_consecutive_three_year_period,_as_EIC,_only_after_direct_invitation_and_agreement_of_the_total_number_of_the_existing_editorial_board_members._AEs_can_serve_in_that_position_for_a_maximum_of_eight_years._At_the_end_of_their_service,_they_can_reapply_for_their_position,_and_the_selection_process_will_be_applied_as_for_new_AEs.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.4._Duration_of_the_Editorial_Board_membership>
+  <base:_2.3._Unethical_articles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TAAS_reserves_the_right_to_impose_the_revision_of,_or_if_necessary_to_refuse,_a_paper__despite_its_scientific_and_technical_quality__whenever_its_content_is_explicitly_unethical_or_if_it_supports_racism,_sexual_or_religious_discrimination,_illegal_activities_or_terrorism_similarly_an_article_may_be_refused_if_the_editors_deem_that_it_might_harm_the_political_or_religious_sensitivity_of_interested_readers_in_any_manner.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2.3._Unethical_articles>
+  <base:_TAAS_does_not_have_a_predefined_review_form._Referees_will_be_asked_to_thoroughly_analyze_the_paper_and_report_on rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__relevance_to_the_journal,_originality,_clarity,_technical_soundness,_quality_of_reported_results,_appropriateness_of_references_and_of_related_work._In_addition,_reviewers_should_provide_suggestions_about_how_the_authors_can_improve_the_paper._Eventually,_reviewers_should_suggest_to_the_TAAS_editor_one_of_the_following_actions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_TAAS_does_not_have_a_predefined_review_form._Referees_will_be_asked_to_thoroughly_analyze_the_paper_and_report_on>
+  <base:_3.2._Duties_of_the_Editorial_Board_Members rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_AEs_collaborate_with_the_EICs_to_assist_himher_in_managing_the_selection_of_papers_for_publication,_according_to_the_guidelines_in_the_Reviewing_Process_Section,_in_soliciting_submissions_from_colleagues_and_in_encouraging_Special_Issues_that_address_emerging_themes.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.2._Duties_of_the_Editorial_Board_Members>
+  <base:_4.4._Review_Process_for_Papers_with_Editorial_Board_Members_as_Authors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_EICs_can_also_submit_papers_to_TAAS,_in_which_case_selection_of_reviewers_and_the_final_decisions_about_it_must_be_delegated_to_the_other_EIC.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.4._Review_Process_for_Papers_with_Editorial_Board_Members_as_Authors>
+  <base:_4.3._Duration_of_the_Review_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Although_the_editorial_board_cannot_prevent_unforeseen_delays_in_the_above_process,_papers_submitted_to_TAAS_are_expected_to_receive_a_notice_about_the_outcome_of_the_review_process_within_four_months.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.3._Duration_of_the_Review_Process>
+  <base:_2._Types_of_Articles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_submitting_papers_to_this_journal_should_support_their_arguments_via_performance_evaluations,_logical_proofs,_and_statistical_data_or_usability_tests__depending_on_what_applies_to_the_specific_case._Also,_authors_are_encouraged_to_demonstrate_novelty_with_respect_to_the_state_of_the_art.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2._Types_of_Articles>
+  <base:_4.1._General_Structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsequently,_the_EIC_will_assign_the_submitted_manuscript_to_an_AE_who_will_manage_the_review_process._The_AE_will_be_selected_based_on_herhis_competencies_related_to_the_content_of_the_manuscript._When_a_manuscript_falls_into_multiple_categories,_a_suitable_AE_with_competencies_relevant_to_any_of_the_categories_may_be_selected.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.1._General_Structure>
+  <base:_2.1._Originality rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Articles_submitted_to_TAAS_must_be_original,_and_must_not_have_been_published_or_beenbeing_submitted_for_evaluation_elsewhere._Extended_versions_of_papers_from_conference_and_workshop_proceedings_may_be_acceptable,_provided_that_the_TAAS_version_notably_extends_prior_publications_with_new_results_and_discussion._Authors_are_required_to_clearly_state_where_this_is_the_case_when_they_submit_their_paper_to_TAAS.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2.1._Originality>
+  <base:_4.1._General_Structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_When_a_new_manuscript_is_received,_the_EICs_will_first_examine_it_for_suitability_and_relevance._A_manuscript_that_is_clearly_outofscope_or_is_not_suitable_to_publication_in_a_scholarly_journal_will_be_rejected_outright.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.1._General_Structure>
+  <base:_3.3._Selection_of_the_Editorial_Board_Members rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_members_of_the_editorial_board_are_selected_from_representative_researchers_in_the_Complex_Autonomous_Systems_community._They_should_have_a_relevant_background_of_research_in_one_or_more_of_the_areas_covered_by_TAAS._It_is_useful,_but_not_necessary,_for_the_EICs_to_have_a_relevant_background_of_editorial_activity.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.3._Selection_of_the_Editorial_Board_Members>
+  <base:_2._Types_of_Articles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_We_expect_that_the_first_volume_year_1_of_the_journal_can_also_contain_a_limited_number_of_general,_introductory,_magazine_style_papers,_devoted_to_assess_the_scope_of_the_journal_and_to_encourage_a_wider_readership_including_nonexperts.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2._Types_of_Articles>
+  <base:_2._Types_of_Articles rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Purely_speculative_papers,_papers_that_claim_research_results_without_supporting_them_with_appropriate_validation_arguments,_or_tutorial_and_survey_papers_that_reduce_to_a_list_of_known_techniques_without_apparent_rationale_are_not_of_interest_to_this_journal.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2._Types_of_Articles>
+  <base:_4.3._Duration_of_the_Review_Process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_EICs_will_commit_to_assign_a_paper_to_an_AE_within_two_weeks_from_its_reception._The_AE_must_commit_to_send_back_hisher_report_to_the_EICs_within_three_months_from_the_original_reception_of_the_paper._Reviewers_must_commit_to_send_back_reviews_to_the_AE_within_six_weeks.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.3._Duration_of_the_Review_Process>
+  <base:_Reviewers_should_be_independent_and_should_accept_to_review_a_paper_only_in_the_absence_of_any_conflict_of_interest._Types_of_conflict_of_interests_include rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__belonging_to_the_same_institution_or_research_group_of_the_authors,_having_collaborated_with_the_authors_in_the_past_3_years,_being_relatives_or_personal_friends_of_the_authors,_being_in_a_situation_in_which_the_reviewer_would_take_some_personal_or_professional_advantage_in_accepting_or_rejecting_the_paper,_as_well_as_any_other_situation_that_would_prevent_the_reviewer_to_judge_the_quality_of_a_paper_in_purely_scientific_and_technological_terms.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reviewers_should_be_independent_and_should_accept_to_review_a_paper_only_in_the_absence_of_any_conflict_of_interest._Types_of_conflict_of_interests_include>
+  <base:_3.3._Selection_of_the_Editorial_Board_Members rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_AEs_will_be_selected_in_a_manner_that_would_ensure_that_the_Editorial_Board_represents_all_relevant_competences_and_communities_in_the_research_areas_covered_by_TAAS._Geographical_coverage_will_also_be_considered_to_keep_the_editorial_board_balanced.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.3._Selection_of_the_Editorial_Board_Members>
+  <base:_4.1._General_Structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_should_submit_their_articles_via_manuscript_central.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.1._General_Structure>
+  <base:_3.5._Steering_Committee rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Steering_Committee_consists_of_four_AEs_members._It_assists_the_EICs_team_for_strategic_or_management_issues_related_to_the_journal,_and_may_raise_concerns_in_case_it_considers_that_the_management_of_the_journal_does_not_follow_the_initial_objectives_of_this_editorial_charter._The_Steering_Committee_is_subject_to_change_every_four_years,_or_to_be_reelected.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.5._Steering_Committee>
+  <base:_3.4._Duration_of_the_Editorial_Board_membership rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_members_of_the_editorial_board_commit_to_serve_the_journal_for_a_minimum_of_two_years._It_is_intended_that_new_AEs_will_be_appointed_periodically_to_encourage_new_input,_and_address_new_and_emerging_themes_in_the_area.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.4._Duration_of_the_Editorial_Board_membership>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Charter">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <base:_4.1._General_Structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_AE_is_responsible_for_encouraging_referees_to_submit_their_reviews_on_time_for_ensuring_that_a_reasonable_turnaround_time_time_from_submission_to_decision_can_be_achieved_and_that_the_reviews_are_of_a_high_scientific_standard,_and_for_providing_adequate_information_to_the_authors_to_help_them_improve_and_update_their_submission_prior_to_publication.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.1._General_Structure>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <base:_3.3._Selection_of_the_Editorial_Board_Members rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_members_of_the_AE_board_can_be_proposed_by_existing_AEs,_the_EICs,_or_by_direct_application_from_interested_persons_should_a_call_for_editorial_board_membership_have_been_issued._A_subsequent_voting_process_will_eventually_decide_which_candidates_are_suitable_for_obtaining_membership_in_the_editorial_board.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.3._Selection_of_the_Editorial_Board_Members>
+  <base:_4.1._General_Structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AEs_are_required_to_declare_any_conflict_of_interest_concerning_the_assigned_manuscript_to_the_EICs,_who_may_proceed_to_reallocate_it_to_another_suitable_AE.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.1._General_Structure>
+  <base:_2.2._Style_and_Length rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Articles_must_be_in_English._They_should_have_an_introductory_part_that_is_comprehensible_by_a_nonexpert,_and_should_reference_uptodate_related_literature._TAAS_enforces_a_limit_on_the_length_of_papers_to_10000_words_20_printed_pages._Papers_exceeding_10000_words_will_have_to_either_be_shortened,_or_have_to_move_some_of_the_material_to_an_appendix_that_will_only_be_published_online.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_2.2._Style_and_Length>
+  <base:_3.2._Duties_of_the_Editorial_Board_Members rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_EICs_are_in_charge_of_directing_the_general_editorial_guidelines_of_the_journal_in_concert_with_the_publisher_and_with_the_AEs._In_particular,_the_EICs_are_responsible_for_receiving_submissions_and_of_taking_final_decisions_regarding_acceptance_or_rejection_of_papers.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.2._Duties_of_the_Editorial_Board_Members>
+  <base:_4.4._Review_Process_for_Papers_with_Editorial_Board_Members_as_Authors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_AEs_can_and_are_encouraged_to_submit_articles_to_TAAS._In_this_case,_the_AE_selected_for_managing_the_paper_should_not_be_one_of_the_authors_of_the_article.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.4._Review_Process_for_Papers_with_Editorial_Board_Members_as_Authors>
+  <base:_4.1._General_Structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_particular,_the_AE_should_ensure_that_each_paper_gets_reviewed_by_at_least_4_independent_referees,_although_in_specific_cases_e.g.,_upon_receipt_of_well_substantiated_reviews_that_are_in_agreement_with_each_other_a_decision_could_be_based_on_a_fewer_number_of_reviews.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.1._General_Structure>
+  <base:_1._Scope_of_the_Journal rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TAAS_is_a_referred_journal_aimed_at_disseminating_high_quality_scientific_and_technological_research_results_in_the_area_of_autonomous_adaptive_systems,_as_defined_in_the_aims_and_scopes_section.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_1._Scope_of_the_Journal>
+  <base:_4.1._General_Structure rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Upon_assignment_of_a_manuscript,_the_AE_will_recruit_appropriate_referees,_administer_the_the_review_process,_summarize_the_reviews_received_and_recommend_an_action_acceptance,_revision_or_rejection_to_the_EICs._The_EICs_are_incharge_of_the_final_decision.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_4.1._General_Structure>
+  <base:_3.1._Composition rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_editorial_board_of_TAAS_is_composed_of_two_coEditors_in_Chief_EICs_and_up_to_20_Associated_Editors_AEs.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_3.1._Composition>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1._Scope_of_the_Journal">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3._Selection_of_the_Editorial_Board_Members">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3._Editorial_Board"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.4._Duration_of_the_Editorial_Board_membership">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3._Editorial_Board"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.1._Composition">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3._Editorial_Board"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.2._Duties_of_the_Editorial_Board_Members">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3._Editorial_Board"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.4._Review_Process_for_Papers_with_Editorial_Board_Members_as_Authors">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4._Reviewing_Process"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3._Editorial_Board"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.2._The_Role_of_Reviewers">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4._Reviewing_Process"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2._Types_of_Articles">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TAAS_does_not_have_a_predefined_review_form._Referees_will_be_asked_to_thoroughly_analyze_the_paper_and_report_on">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.2._The_Role_of_Reviewers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.1._General_Structure">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4._Reviewing_Process"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.3._Unethical_articles">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reviewers_should_be_independent_and_should_accept_to_review_a_paper_only_in_the_absence_of_any_conflict_of_interest._Types_of_conflict_of_interests_include">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.2._The_Role_of_Reviewers"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4._Reviewing_Process"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.1._Originality">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.2._Style_and_Length">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4.3._Duration_of_the_Review_Process">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4._Reviewing_Process"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.5._Steering_Committee">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3._Editorial_Board"/>
+  </rdf:Description>
+</rdf:RDF>

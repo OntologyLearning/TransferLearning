@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Self_properties">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Data_and_Information_Management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Selforganizing_Computing_Systems_and_Swarm_Intelligence">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Foundational_models_of_autonomous_and_adaptive_behaviors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_systems_and_middleware_for_autonomous_and_adaptive_systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Analytic_Models_of_Emergent_Behavior">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Adaptive_algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Distributed_Services_and_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Complex_systems_and_networks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomic_Computing_and_Communication">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MultiAgent_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Programming_approaches_and_techniques">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_P2P_Computing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Pervasive_and_Mobile_Computing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cooperative_Robotics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Networking_models_and_techniques_for_autonomous_and_adaptive_systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contextawareness_and_Semantics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applications_for_Autonomous_and_Adaptive_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Web_and_Participatory_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Natureinspired_techniques">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Social_sensing_and_social_analysis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Learning__Prediction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_NonExhaustive_List_of_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Software_Engineering_Approaches_and_Methodologies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_NonExhaustive_List_of_Topics>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sensor_Networks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <base:_General_Domains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Social_and_Urban_Computing_Systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_Domains>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_Domains">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NonExhaustive_List_of_Topics">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Autonomous_and_Adaptive_Systems"/>
+</rdf:RDF>

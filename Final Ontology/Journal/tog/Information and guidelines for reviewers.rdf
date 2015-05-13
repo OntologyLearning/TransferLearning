@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Even_though_you_would,_of_course,_act_impartially_on_any_paper,_there_should_be_absolutely_no_question_about_the_impartiality_of_review._Thus,_if_you_are_assigned_a_paper_where_your_review_would_create_a_possible_conflict_of_interest,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_a_TOG_reviewer,"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_have_been_directly_involved_in_the_work_and_will_be_receiving_credit_in_some_way._If_youre_a_member_of_the_authors_thesis_committee,_and_the_paper_is_about_his_or_her_thesis_work,_then_you_were_involved.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Even_though_you_would,_of_course,_act_impartially_on_any_paper,_there_should_be_absolutely_no_question_about_the_impartiality_of_review._Thus,_if_you_are_assigned_a_paper_where_your_review_would_create_a_possible_conflict_of_interest,_you_should_return_the_paper_and_not_submit_a_review._Conflicts_of_interest_include_but_are_not_limited_to_situations_in_which">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_have_collaborated_with_one_of_the_authors_in_the_past_three_years_more_or_less._Collaboration_is_usually_defined_as_having_written_a_paper_or_grant_proposal_together,_although_you_should_use_your_judgment._For_instance,_being_coauthors_in_either_a_course_or_survey_paper_generally_should_not_in_itself_lead_to_a_conflict_of_interest.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Even_though_you_would,_of_course,_act_impartially_on_any_paper,_there_should_be_absolutely_no_question_about_the_impartiality_of_review._Thus,_if_you_are_assigned_a_paper_where_your_review_would_create_a_possible_conflict_of_interest,_you_should_return_the_paper_and_not_submit_a_review._Conflicts_of_interest_include_but_are_not_limited_to_situations_in_which"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_have_unpublished_work_that_would_get_scooped_by_the_current_submission_because_it_tackles_the_same_problem_using_a_similar_approach._At_a_minimum,_such_a_crossreviewing_conflict_should_be_declared_to_the_editor_in_a_private_comment.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Even_though_you_would,_of_course,_act_impartially_on_any_paper,_there_should_be_absolutely_no_question_about_the_impartiality_of_review._Thus,_if_you_are_assigned_a_paper_where_your_review_would_create_a_possible_conflict_of_interest,_you_should_return_the_paper_and_not_submit_a_review._Conflicts_of_interest_include_but_are_not_limited_to_situations_in_which"/>
+  </owl:NamedIndividual>
+  <base:_Information_and_guidelines_for_reviewers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Efficient_reviewing_is_essential_to_the_success_of_TOG._To_publish_papers_in_a_timely_fashion,_we_allow_30_days_from_receipt_of_the_paper_to_prepare_a_TOG_review._It_is_important_that_you_commit_to_this_timeframe._Otherwise_the_entire_publication_pipeline_begins_to_slow_down.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_and_guidelines_for_reviewers>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_suspect_that_others_might_see_a_conflict_of_interest_in_your_involvement._For_example,_even_though_Microsoft_Research_in_Seattle_and_Beijing_are_in_some_ways_more_distant_than_Berkeley_and_MIT,_there_is_likely_to_be_a_perception_that_they_are_both_Microsoft,_so_folks_from_one_should_not_review_papers_from_the_other.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Even_though_you_would,_of_course,_act_impartially_on_any_paper,_there_should_be_absolutely_no_question_about_the_impartiality_of_review._Thus,_if_you_are_assigned_a_paper_where_your_review_would_create_a_possible_conflict_of_interest,_you_should_return_the_paper_and_not_submit_a_review._Conflicts_of_interest_include_but_are_not_limited_to_situations_in_which"/>
+  </owl:NamedIndividual>
+  <ns2:_you_have_the_responsibility_to_protect_the_confidentiality_of_the_ideas_represented_in_the_submitted_papers._TOG_submissions_are_by_their_very_nature_not_published_documents._The_work_is_considered_new_or_proprietary_by_the_authors_otherwise_they_would_not_have_submitted_it._Protection_of_the_ideas_in_the_paper_you_receive_means rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Do_not_show_the_paper_to_anyone_else,_including_colleagues_or_students,_unless_you_have_asked_them_to_write_a_review,_or_to_help_with_your_review.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_you_have_the_responsibility_to_protect_the_confidentiality_of_the_ideas_represented_in_the_submitted_papers._TOG_submissions_are_by_their_very_nature_not_published_documents._The_work_is_considered_new_or_proprietary_by_the_authors_otherwise_they_would_not_have_submitted_it._Protection_of_the_ideas_in_the_paper_you_receive_means>
+  <base:_Information_and_guidelines_for_reviewers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Be_positive_in_order_to_make_the_best_impact_consider_each_paper_in_its_best_possible_sense._Look_for_the_most_useful_and_interesting_ideas._Try_to_make_suggestions_to_the_author_that_will_make_the_paper_as_good_as_it_can_be,_whether_it_is_already_wonderful_or_in_great_need_of_help.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_and_guidelines_for_reviewers>
+  <base:_General_ACM_policies rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_more_information_on_specific_topics,_see_the_ACM_publications_policies.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_General_ACM_policies>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Graphics"/>
+  <ns2:_you_have_the_responsibility_to_protect_the_confidentiality_of_the_ideas_represented_in_the_submitted_papers._TOG_submissions_are_by_their_very_nature_not_published_documents._The_work_is_considered_new_or_proprietary_by_the_authors_otherwise_they_would_not_have_submitted_it._Protection_of_the_ideas_in_the_paper_you_receive_means rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Do_not_show_videos_to_nonreviewers.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_you_have_the_responsibility_to_protect_the_confidentiality_of_the_ideas_represented_in_the_submitted_papers._TOG_submissions_are_by_their_very_nature_not_published_documents._The_work_is_considered_new_or_proprietary_by_the_authors_otherwise_they_would_not_have_submitted_it._Protection_of_the_ideas_in_the_paper_you_receive_means>
+  <base:_Remain_anonymous rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_reviewers_are_expected_to_maintain_anonymity_forever._In_particular,_it_is_never_appropriate_for_a_reviewer_to_reveal_himself_or_herself_to_the_authors_of_an_accepted_paper,_as_this_could_be_perceived_as_an_attempt_to_curry_favor._Requesting_citations_primarily_to_ones_own_work_may_thwart_anonymity,_so_should_be_carefully_considered.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Remain_anonymous>
+  <base:_Information_and_guidelines_for_reviewers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Encourage_diversity_in_our_published_papers_and_you_will_help_make_TOG_interesting._We_want_to_also_encourage_creative_and_imaginative_papers,_those_that_stimulate_and_provoke_as_well_as_enlighten._We_will_stand_in_the_mainstream,_but_also_welcome_papers_that_are_clever,_or_surprising,_or_present_radical_new_directions_for_computer_graphics.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_and_guidelines_for_reviewers>
+  <base:_Information_and_guidelines_for_reviewers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thank_you_for_agreeing_to_review_a_paper_for_ACM_Transactions_on_Graphics._The_editorial_board_of_TOG_is_committed_to_publishing_the_most_interesting_and_stimulating_papers_in_computer_graphics._We_do_this_by_reviewing_papers_with_great_care_and_expertise,_and_carrying_out_that_reviewing_and_publishing_efficiently_and_rapidly.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_and_guidelines_for_reviewers>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_work_at_the_same_institution_as_one_of_the_authors.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Even_though_you_would,_of_course,_act_impartially_on_any_paper,_there_should_be_absolutely_no_question_about_the_impartiality_of_review._Thus,_if_you_are_assigned_a_paper_where_your_review_would_create_a_possible_conflict_of_interest,_you_should_return_the_paper_and_not_submit_a_review._Conflicts_of_interest_include_but_are_not_limited_to_situations_in_which"/>
+  </owl:NamedIndividual>
+  <ns2:_you_have_the_responsibility_to_protect_the_confidentiality_of_the_ideas_represented_in_the_submitted_papers._TOG_submissions_are_by_their_very_nature_not_published_documents._The_work_is_considered_new_or_proprietary_by_the_authors_otherwise_they_would_not_have_submitted_it._Protection_of_the_ideas_in_the_paper_you_receive_means rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Do_not_use_ideas_from_the_paper_to_develop_new_ones,_until_the_paper_has_been_published.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns2:_you_have_the_responsibility_to_protect_the_confidentiality_of_the_ideas_represented_in_the_submitted_papers._TOG_submissions_are_by_their_very_nature_not_published_documents._The_work_is_considered_new_or_proprietary_by_the_authors_otherwise_they_would_not_have_submitted_it._Protection_of_the_ideas_in_the_paper_you_receive_means>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_were_the_MSPhD_advisor_of_one_of_the_authors_or_the_MSPhD_advisee_of_one_of_the_authors._Funding_agencies_typically_consider_advisees_to_represent_a_lifetime_conflict_of_interest.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Even_though_you_would,_of_course,_act_impartially_on_any_paper,_there_should_be_absolutely_no_question_about_the_impartiality_of_review._Thus,_if_you_are_assigned_a_paper_where_your_review_would_create_a_possible_conflict_of_interest,_you_should_return_the_paper_and_not_submit_a_review._Conflicts_of_interest_include_but_are_not_limited_to_situations_in_which"/>
+  </owl:NamedIndividual>
+  <base:_Be_professional rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Belittling_or_sarcastic_comments_may_help_display_ones_wit,_but_they_are_unnecessary_in_the_reviewing_process._The_most_valuable_comments_in_a_review_are_those_that_help_the_authors_understand_the_shortcomings_of_their_work_and_how_they_might_improve_it.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Be_professional>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Protect_confidentiality">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+  </rdf:Description>
+  <base:_Information_and_guidelines_for_reviewers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Review_compassionately_and_you_can_make_the_difference_between_a_mediocre_paper_lost_forever_and_one_that_is_revised_to_publication_quality_and_contributes_to_the_field._Please_write_reviews_that_are_meaningful_for_the_author._Speak_in_particulars,_not_generalities._Never_characterize_the_authors._Give_constructive_criticism_when_discussing_a_problem._If_there_are_major_flaws,_identify_them_as_clearly_as_possible.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_and_guidelines_for_reviewers>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Avoid_conflict_of_interest">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Be_professional">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_ACM_policies">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_and_guidelines_for_reviewers"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Remain_anonymous">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_a_TOG_reviewer,_you_have_the_responsibility_to_protect_the_confidentiality_of_the_ideas_represented_in_the_submitted_papers._TOG_submissions_are_by_their_very_nature_not_published_documents._The_work_is_considered_new_or_proprietary_by_the_authors_otherwise_they_would_not_have_submitted_it._Protection_of_the_ideas_in_the_paper_you_receive_means">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ethics_of_review"/>
+  </rdf:Description>
+</rdf:RDF>

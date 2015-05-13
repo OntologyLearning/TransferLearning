@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <ns1:_but_are_not_limited_to rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hardware_and_software_algorithms_and_tools_for_Asian_language_processing,_e.g.,_handwritten_character_recognition.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_but_are_not_limited_to>
+  <ns1:_but_are_not_limited_to rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_Translation_involving_Asian_languages.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_but_are_not_limited_to>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__including_computational_phonology,_computational_morphology,_computational_syntax_e.g._parsing,_computational_semantics,_computational_pragmatics,_etc.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Linguistics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns1:_but_are_not_limited_to rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Crosslingual_information_processing_between_Asian_and_Western_natural_language_pairs.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_but_are_not_limited_to>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__including_speech,_image,_video,_imagetext_translation,_etc.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Multimedia_Asian_Information_Processing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__including_automatic_abstraction,_user_profiling,_etc.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Extraction_and_Filtering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__including_computational_lexicography,_terminology,_electronic_dictionaries,_crosslingual_dictionaries,_electronic_thesauri,_etc.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Linguistic_Resources">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Information_Understanding rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__including_text_understanding,_speech_understanding,_character_recognition,_discourse_processing,_dialogue_systems,_etc.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Understanding>
+  <base:_Speech_processing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__including_texttospeech_synthesis_and_automatic_speech_recognition.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Speech_processing>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__including_natural_language_processing_NLP_for_conceptbased_indexing,_natural_language_query_interfaces,_semantic_relevance_judgments,_etc.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Retrieval">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Charter"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Editorial_Charter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Speech_processing">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Understanding">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_ACM_Transactions_on_Asian_Language_Information_Processing_TALIP_publishes_high_quality_original_archival_papers_and_technical_notes_in_the_areas_of_computation_and_processing_of_information_in_Asian_languages_and_related_disciplines._The_subject_areas_covered_by_TALIP_include,_but_are_not_limited_to"/>
+  </rdf:Description>
+</rdf:RDF>

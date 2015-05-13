@@ -1,0 +1,120 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies,'1-2-1-1,1,0,1,2,1,2,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'To be held at the Portland Marriott Downtown Waterfront in 
+Portland, Oregon, USA, June 19-24, 2011",'1-2-1-2,1,0,0,1,1,2,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,I
+'ACL-HLT 2011 Call for Papers,'1-2-2-1-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,2,C
+"'Long Paper Submission Deadline: December 17, 2010 (11:59pm PST)",'1-2-2-1-1-2-1,0,0,0,1,0,2,0,1,0,2,1,1,1,0,0,0,1,0,1,0,0,0,0,1,C
+"'Short Paper Submission Deadline: February 25, 2011 (11:59pm PST)",'1-2-2-1-1-2-2,0,0,0,1,0,2,0,1,0,2,1,1,1,1,0,0,1,0,1,0,0,0,0,1,C
+"'The 49th Annual Meeting of the Association for Computational Linguistics and the Human Language Technologies conference will be organized as a single event to be held in Portland, Oregon, on June 19-24, 2011. The conference will cover a broad spectrum of technical areas related to natural language and computation. ACL-HLT 2011 will include full papers, short papers, oral presentations, poster presentations, demonstrations, tutorials, and workshops. The conference is organized by the Association for Computational Linguistics, in cooperation with The North American Chapter of the ACL.",'1-2-2-1-1-2-3,2,0,0,1,0,2,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1,N
+"'The conference invites the submission of papers on original and unpublished research on all aspects of computational linguistics, including but not limited to:",'1-2-2-1-1-2-4,1,0,0,1,0,0,0,2,0,2,1,1,0,1,0,0,0,0,0,0,0,1,1,3,C
+"'Discourse, Dialogue, and Pragmatics",'1-2-2-1-1-2-5-1,0,1,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Information Extraction,'1-2-2-1-1-2-5-2,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Information Retrieval,'1-2-2-1-1-2-5-3,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Language Resources,'1-2-2-1-1-2-5-4,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Lexical Semantics,'1-2-2-1-1-2-5-5,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Lexicon and ontology development,'1-2-2-1-1-2-5-6,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Linguistic Creativity,'1-2-2-1-1-2-5-7,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Machine Translation,'1-2-2-1-1-2-5-8,0,1,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Multilinguality,'1-2-2-1-1-2-5-9,0,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Multimodal representations and processing,'1-2-2-1-1-2-5-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'NLP for Web 2.0,'1-2-2-1-1-2-5-11,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'NLP in vertical domains, such as biomedical, chemical and legal text",'1-2-2-1-1-2-5-12,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Natural Language Processing Applications,'1-2-2-1-1-2-5-13,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Phonology/Morphology, Tagging and Chunking, Word Segmentation",'1-2-2-1-1-2-5-14,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Question Answering,'1-2-2-1-1-2-5-15,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Sentiment Analysis and Opinion Mining,'1-2-2-1-1-2-5-16,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Spoken Language Processing,'1-2-2-1-1-2-5-17,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Statistical and Machine Learning Methods,'1-2-2-1-1-2-5-18,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Summarization and Generation,'1-2-2-1-1-2-5-19,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Syntax and Parsing,'1-2-2-1-1-2-5-20,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Text Classification,'1-2-2-1-1-2-5-21,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Text Mining,'1-2-2-1-1-2-5-22,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'User Studies and Evaluation Methods,'1-2-2-1-1-2-5-23,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Important Dates,'1-2-2-1-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,1,2,C
+'Long Submission Deadline: 12/17 (11:59pm PST),'1-2-2-1-2-2-1,0,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,I
+'Long Notification: 02/11,'1-2-2-1-2-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Long Camera Ready Deadline: 04/15,'1-2-2-1-2-2-3,0,1,0,1,0,2,0,1,1,2,1,0,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Short Submission Deadline: 02/25 (11:59pm PST),'1-2-2-1-2-2-4,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,2,I
+'Short Notification: 04/08,'1-2-2-1-2-2-5,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Short Camera Ready Deadline: 04/22,'1-2-2-1-2-2-6,0,1,0,1,0,2,0,1,1,2,1,0,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Conference Starts: 06/19,'1-2-2-1-2-2-7,0,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Submission Information,'1-2-2-1-3-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,0,2,C
+"'Submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Submissions will be judged on correctness, originality, technical strength, significance, relevance to the conference, and interest to the attendees.",'1-2-2-1-3-2-1-1,2,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+"'ACL-HLT 2011 will also accept papers accompanied by the resource (software or data) described in the paper. In addition to the regular review of the research quality of the paper, these papers will also be reviewed for the quality of the resource that is being made available. Papers that are submitted with accompanying software/data will receive additional credit toward the overall evaluation score, and acceptance or rejection decision will be made based on the quality of both the research and the software/data component.",'1-2-2-1-3-2-1-2,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,3,N
+"'ACL-HLT 2011 has the goal of a broad technical program. We invite papers in the following four broad categories: theoretical computational linguistics, empirical/data-driven approaches, resources/evaluation, applications/tools. We also invite papers describing a challenge in the field, position papers, survey papers, and papers that describe a negative result.",'1-2-2-1-3-2-1-3,2,0,0,1,0,0,0,1,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,3,N
+'Submission is electronic using paper submission software at:,'1-2-2-1-3-2-1-4,0,0,0,1,0,0,1,2,1,2,1,1,0,1,0,0,1,0,0,0,0,0,0,3,C
+'Long papers: https://www.softconf.com/acl2011/papers/,'1-2-2-1-3-2-1-5-1,0,0,0,1,0,2,0,1,1,2,0,0,1,0,0,0,0,0,0,1,0,0,0,1,I
+'Short papers: https://www.softconf.com/acl2011/shortpapers/,'1-2-2-1-3-2-1-5-2,0,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+"'NOTE: Before submitting your paper, please make sure you read the review forms that will be used for the different paper categories.",'1-2-2-1-3-2-1-6,1,0,0,1,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Applications / Tools,'1-2-2-1-3-2-1-7-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Empirical / Data-Driven,'1-2-2-1-3-2-1-7-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Resources / Evaluation,'1-2-2-1-3-2-1-7-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Theoretical,'1-2-2-1-3-2-1-7-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'None of the above,'1-2-2-1-3-2-1-7-5,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'If you plan to also submit a software package or a dataset along with the paper, please upload the software/data in the submission form.",'1-2-2-1-3-2-1-8,1,0,0,1,0,0,0,0,1,2,1,1,0,0,0,0,1,0,0,0,0,0,0,2,N
+'Long papers,'1-2-2-1-3-2-2-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,1,1,0,0,3,C
+"'Long papers may consist of up to eight (8) pages of content, with two (2) additional pages of references, and will be presented orally or as a poster presentation as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than on the quality of the work. There will be no distinction in the proceedings between full papers presented orally and those presented as poster presentations. The deadline for long papers is December 17, 2010 (11:59pm PST).",'1-2-2-1-3-2-2-2,2,0,0,1,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Short papers,'1-2-2-1-3-2-3-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,1,1,0,0,3,C
+"'Short papers may consist of up to four (4) pages of content, and two (2) additional pages of references. Short papers will be published in a separate volume, and will be presented orally or as a poster presentations. The deadline for short papers is February 25th (11:59pm PST). The following types of papers are appropriate for a short paper submission:",'1-2-2-1-3-2-3-2-1,2,0,0,1,0,0,0,2,1,2,0,1,0,0,0,0,0,0,0,1,0,1,1,1,C
+"'A small, focused contribution",'1-2-2-1-3-2-3-2-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Work in progress,'1-2-2-1-3-2-3-2-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'A negative result,'1-2-2-1-3-2-3-2-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'An opinion piece,'1-2-2-1-3-2-3-2-2-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'An interesting application nugget,'1-2-2-1-3-2-3-2-2-5,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Format,'1-2-2-1-3-2-4-1,0,0,1,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'Both long and short paper submissions should follow the two-column format. We strongly recommend the use of ACL LaTeX style files or Microsoft Word style files tailored for this year's conference, which are available on the conference website under Information for Authors. Submissions must conform to the official ACL-HLT 2011 style guidelines, which are contained in the style files, and they must be electronic in PDF.",'1-2-2-1-3-2-4-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'As the reviewing will be blind, the paper must not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., ""We previously showed (Smith, 1991) ..."", must be avoided. Instead, use citations such as ""Smith previously showed (Smith, 1991) ..."". Papers that do not conform to these requirements will be rejected without review.",'1-2-2-1-3-2-4-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,N
+"'Authors that choose to also submit the supporting software/data with their paper, will have to ensure that the resource is ready for distribution, with complete README files and all the information required so that the reviewers can evaluate and/or use at least a part of the resource. The software/data component has to be anonymized for the review process. The resource associated with papers being accepted for publication at ACL-HLT 2011 will be publicly distributed along with the online version of the conference proceedings.",'1-2-2-1-3-2-4-2-3,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'ACL-HLT 2011 Style Files,'1-2-2-1-3-2-5-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Important: Remove authors information from your manuscripts when submitting them for blind review!,'1-2-2-1-3-2-5-2,1,0,0,1,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Latex,'1-2-2-2-1-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'MS Word,'1-2-2-2-1-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.tex,'1-2-2-2-1-2-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.doc,'1-2-2-2-1-2-2,0,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.sty,'1-2-2-2-1-3-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.dot,'1-2-2-2-1-3-2,0,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.pdf,'1-2-2-2-1-4-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.pdf,'1-2-2-2-1-4-2,0,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'acl.bst,'1-2-2-2-1-5,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,N
+'Multiple-submission policy,'1-2-2-2-2-1-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+"'Papers that have been or will be submitted to other meetings or publications must provide this information at submission time. If ACL-HLT 2011 accepts a paper, authors must notify the program chairs, indicating which meeting they choose for presentation of their work. ACL-HLT 2011 cannot accept for publication or presentation work that will be (or has been) published elsewhere.",'1-2-2-2-2-1-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Mentoring Service,'1-2-2-2-2-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'ACL is providing a mentoring (coaching) service for authors from regions of the world where English is less emphasized as a language of scientific exchange. Many authors from these regions, although able to read the scientific literature in English, have little or no experience in writing papers in English for conferences such as the ACL meetings. If you would like to take advantage of the service, please upload your paper in PDF format by November 1, 2010 using the paper submission software for the mentoring service below. Questions about the mentoring service should be referred to (tb at ldwin.net)",'1-2-2-2-2-2-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Submissions for mentoring: https://www.softconf.com/acl2011/mentoring,'1-2-2-2-2-2-2-2,0,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'Program Committee,'1-2-2-2-2-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,0,0,1,C
+'Program Co-chairs,'1-2-2-2-2-3-2-1-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,1,1,1,C
+"'Yuji Matsumoto, Nara Institute of Science and Technology",'1-2-2-2-2-3-2-1-2-1,0,1,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,1,0,0,0,0,0,1,I
+"'Rada Mihalcea, University of North Texas",'1-2-2-2-2-3-2-1-2-2,0,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+'Area Chairs,'1-2-2-2-2-3-2-2-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,1,1,2,C
+"'Razvan Bunescu, Ohio University",'1-2-2-2-2-3-2-2-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,1,0,0,0,0,0,1,I
+"'Xavier Carreras, Technical University of Catalonia",'1-2-2-2-2-3-2-2-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Anna Feldman, Montclair University",'1-2-2-2-2-3-2-2-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Pascale Fung, Hong Kong University of Science and Technology",'1-2-2-2-2-3-2-2-2-4,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Chu-Ren Huang, Hong Kong Polytechnic University",'1-2-2-2-2-3-2-2-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Kentaro Inui, Tohoku University",'1-2-2-2-2-3-2-2-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Greg Kondrak, University of Alberta",'1-2-2-2-2-3-2-2-2-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Shankar Kumar, Google",'1-2-2-2-2-3-2-2-2-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Yang Liu, University of Texas at Dallas",'1-2-2-2-2-3-2-2-2-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Bernardo Magnini, Fondazione Bruno Kessler",'1-2-2-2-2-3-2-2-2-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Elliott Macklovitch, Marque d'Or",'1-2-2-2-2-3-2-2-2-11,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Katja Markert, University of Leeds",'1-2-2-2-2-3-2-2-2-12,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Lluis Marquez, Technical University of Catalonia",'1-2-2-2-2-3-2-2-2-13,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Diana McCarthy, Lexical Computing Ltd",'1-2-2-2-2-3-2-2-2-14,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Ryan McDonald, Google",'1-2-2-2-2-3-2-2-2-15,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Alessandro Moschitti, University of Trento",'1-2-2-2-2-3-2-2-2-16,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Vivi Nastase, Heidelberg Institute for Theoretical Studies",'1-2-2-2-2-3-2-2-2-17,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Manabu Okumura, Tokyo Institute of Technology",'1-2-2-2-2-3-2-2-2-18,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Vasile Rus, University of Memphis",'1-2-2-2-2-3-2-2-2-19,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Fabrizio Sebastiani, National Research Council of Italy",'1-2-2-2-2-3-2-2-2-20,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Michel Simard, National Research Council of Canada",'1-2-2-2-2-3-2-2-2-21,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Thamar Solorio, University of Alabama at Birmingham",'1-2-2-2-2-3-2-2-2-22,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Svetlana Stoyanchev, Open University",'1-2-2-2-2-3-2-2-2-23,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Carlo Strapparava, Fondazione Bruno Kessler",'1-2-2-2-2-3-2-2-2-24,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Dan Tufis, Romanian Academy of Artificial Intelligence",'1-2-2-2-2-3-2-2-2-25,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Xiaojun Wan, Peking University",'1-2-2-2-2-3-2-2-2-26,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Taro Watanabe, National Institute of Information and Communications Technology",'1-2-2-2-2-3-2-2-2-27,1,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Alexander Yates, Temple University",'1-2-2-2-2-3-2-2-2-28,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Deniz Yuret, Koc University",'1-2-2-2-2-3-2-2-2-29,0,1,0,1,0,2,0,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+'Mentoring Chair,'1-2-2-2-2-3-2-3-1,0,0,1,1,1,2,0,0,2,2,0,0,1,0,1,0,0,0,0,0,1,1,1,2,C
+"'Tim Baldwin, University of Melbourne",'1-2-2-2-2-3-2-3-2,0,1,0,1,0,2,0,0,2,2,0,0,0,1,0,0,0,1,0,0,0,0,0,1,I
+'acl2011.conference@gmail.com   ♦   Oregon Health & Science University,'1-2-3,1,0,0,1,0,2,1,0,2,0,1,1,0,0,0,1,0,1,0,0,1,0,0,2,N

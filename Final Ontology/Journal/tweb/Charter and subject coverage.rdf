@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_addition,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Education">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mobility_and_pervasive_computing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Web_Services_and_ServiceOriented_Computing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Electronic_Publishing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Business_Services">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hypertext_and_Hypermedia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Searching,_Indexing,_Classification,_Retrieval_and_Querying,_Data_Mining_and_Analysis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Web_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_User_Interfaces">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Performance_and_scalability">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Security_and_Privacy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Semantic_Web">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_the_Web"/>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Electronic_Commerce">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_XML">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Accessibility">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Knowledge_Management_and_Representation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Browsers_and_Web_Interfaces">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following>
+  <ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recommender_systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_addition,_papers_addressing_the_intersection_of_the_following_broader_technlogies_with_the_Web_are_also_in_scope">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Charter_and_subject_coverage"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Charter_and_subject_coverage"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Topics_in_the_scope_of_TWEB_include_but_are_not_limited_to_the_following">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Charter_and_subject_coverage"/>
+  </rdf:Description>
+</rdf:RDF>

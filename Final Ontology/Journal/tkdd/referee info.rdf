@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_regular_survey_papers,"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_submitted_manuscript_should_thoroughly_consolidate_the_material,_should_extend_it_to_be_broader,_and_should_more_carefully_cover_related_research._It_should_have_at_least_30_new_material._The_new_material_should_be_content_material,_not_just_the_addition_of_proofs_or_a_few_more_performance_figures._This_provides_an_opportunity_to_describe_the_novel_approach_in_more_depth,_to_consider_the_alternatives_more_comprehensively,_and_to_delve_into_some_of_the_issues_listed_in_the_other_paper_as_future_work.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_is_a_list_of_other_considerations_to_be_taken_into_account_when_reviewing_a_submission."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LaTeX2e__SurveyReview.tex">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_TKDD_review_form_for_surveys_is_also_available_in_several_formats.">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TKDD_Review_Forms"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Knowledge_Discovery_from_Data"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Allow_a_reasonable_time_for_a_review,_at_least_two_months_for_an_initial_formal_review.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Rights"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_acm"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recognize_that_the_reviewers_have_the_right_to_decline_a_requested_review,_both_before_and_after_they_have_been_sent_a_manuscript.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Acknowledge_their_efforts_in_the_publication_process,_while_maintaining_confidentiality_of_which_submissions_they_reviewed.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Strive_to_not_overload_referees_with_TKDD_reviews.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Plain_text__SurveyReview.txt">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_TKDD_review_form_for_surveys_is_also_available_in_several_formats."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ask_the_referees_if_they_are_willing_to_review_before_the_submission_is_sent_to_them._The_papers_abstract_and_the_deadline_for_the_review_will_accompany_this_request.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Inform_them_of_the_editorial_decisions_for_the_submission,_including_the_authorvisible_portion_of_reviews._Sending_reviewers_all_the_reviews_allows_them_to_see_what_the_other_reviewers_thought_of_the_manuscript_and_allows_them_to_calibrate_future_reviews.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Not_ask_the_referees_to_provide_reviews_for_submissions_that_do_not_satisfy_stated_publication_requirements,_or_are_obviously_inappropriate_for_the_publication._The_TKDD_EditorinChief_checks_every_submission_to_ensure_that_it_satisfies_the_stated_publication_requirements_and_is_appropriate,_and_desk_rejects_those_that_are_inappropriate.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interest_and_novelty_is_high.">
+    <rdf:type>
+      <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Guidelines">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Rights"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Table_of_Contents"/>
+      </owl:NamedIndividual>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LaTeX2e__Review.tex">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_regular_survey_papers,_the_links_listed_below_provide_the_same_review_form_in_different_formats.">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TKDD_Review_Forms"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Not_expect_the_referees_to_make_up_for_delays_introduced_by_other_participants_in_the_reviewing_cycle.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_presentation_is_effective.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tell_them_who_will_see_the_reviews.__The_authorvisible_portion_of_reviews_as_well_as_the_final_editorial_decision_will_be_provided_to_the_contact_author_as_well_as_to_the_reviewers_once_an_editorial_decision_has_been_made._No_one_else_will_be_shown_the_reviews.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Recognize_that_reviewers_own_the_copyright_for_their_reviews.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Maintain_anonymity_of_reviews._TKDD_employs_singleblind_reviewing._The_identity_of_reviewers_will_not_be_revealed_to_the_authors_or_to_the_other_reviewers.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Plain_text__Review.txt">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_regular_survey_papers,_the_links_listed_below_provide_the_same_review_form_in_different_formats."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TKDD">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_is_a_list_of_other_considerations_to_be_taken_into_account_when_reviewing_a_submission."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_technical_quality_is_high.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Microsoft_Word__Review.doc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_For_regular_survey_papers,_the_links_listed_below_provide_the_same_review_form_in_different_formats."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_relevance_to_significant_computations_is_high.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Guidelines"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_will_publish_outstanding_papers_which_are_major_valueadded_extensions_of_papers_previously_published_in_conferences_that_is,_TKDD_will_not_automatically_reject_papers_that_are_substantial_extensions_of_previously_published_conference_papers._These_papers_will_go_through_the_normal_review_process.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_is_a_list_of_other_considerations_to_be_taken_into_account_when_reviewing_a_submission."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Request_the_referees_to_review_only_submissions_for_which_the_editor_feels_they_have_expertise.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_TKDD_recognizes_that_reviewing_is_a_service_to_the_profession._The_Rights_and_Responsibilities_in_ACM_Publishing_lists_an_extensive_collection_of_rights_that_ACM_provides_its_reviewers,_underscoring_ACMs_commitment_to_those_who_play_a_critical_role_in_ensuring_quality_in_its_publications._ACM_TKDD_guarantees_all_of_those_rights,_and_extends_some_of_them._Specifically,_reviewers_can_expect_ACM_TKDD_to_do_the_following"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Microsoft_Word__SurveyReview.doc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_TKDD_review_form_for_surveys_is_also_available_in_several_formats."/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Information"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Table_of_Contents">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Information"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Referee_Rights">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Table_of_Contents"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_is_a_list_of_other_considerations_to_be_taken_into_account_when_reviewing_a_submission."/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TKDD_Review_Forms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Table_of_Contents"/>
+  </owl:NamedIndividual>
+</rdf:RDF>

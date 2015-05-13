@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Collection">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Concurrency">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Types">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rough_Notes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Concepts_in_Programming_Languages">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Algebraic_MetaTheories_and_Synthesis_of_Equational_Logics_,_2009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Domains">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Interests">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Denotational_Semantics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Categorical_Models_of_Computational_Languages">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mathematical_Foundations_of_Computer_Science">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marcelo_Fiore"/>
+  </owl:NamedIndividual>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mathematical_models_of_computation_denotational_and_operational_semantics_of_programming_languages_and_interactive_systems_type_systems_and_program_logics_for_functional_and_concurrent_computation_applications_of_category_theory_to_computer_science">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_and_talks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Undergraduate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Programme">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Algebra">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Discrete_Mathematics_II">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Laboratory_University_of_Cambridge">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marcelo_Fiore"/>
+  </owl:NamedIndividual>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Book">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Postgraduate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PreSheaves">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marcelo_Fiore"/>
+</rdf:RDF>

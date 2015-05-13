@@ -1,0 +1,61 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Christopher Manning,'1-1-1-1-2,0,0,1,2,1,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,C
+'Professor of Linguistics and Computer Science,'1-1-1-1-3,0,0,1,2,1,2,1,0,0,2,1,0,1,1,1,0,0,0,0,1,0,0,0,1,I
+"'Natural Language Processing Group, Stanford University",'1-1-1-1-4,0,0,1,1,1,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,1,0,0,2,I
+"'Chris Manning works on systems and formalisms that can intelligently process and produce human languages. His research concentrates on probabilistic models of language and statistical natural language processing; including text understanding, text mining, machine translation, information extraction, named entity recognition, part-of-speech tagging, probabilistic parsing and semantic role labeling, syntactic typology, computational lexicography, and other topics in computational linguistics and machine learning.",'1-1-1-2,2,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Contact,'1-1-2-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+'M,'1-1-2-2-1-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+"'Dept of Computer Science, Gates Building 1A, 353 Serra Mall, Stanford CA 94305-9010, USA",'1-1-2-2-1-2,1,0,0,1,0,2,0,0,0,2,0,0,0,1,1,0,0,1,0,0,1,0,0,1,I
+'E,'1-1-2-2-2-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'manning@cs.stanford.edu,'1-1-2-2-2-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'W,'1-1-2-2-3-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'+1 (650) 723-7683,'1-1-2-2-3-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'F,'1-1-2-2-4-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'+1 (650) 725-1449,'1-1-2-2-4-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'R,'1-1-2-2-5-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Gates 158,'1-1-2-2-5-2,0,0,0,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'O,'1-1-2-2-6-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Tue 4-5,'1-1-2-2-6-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'A,'1-1-2-2-7-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Prashee Balaji, Gates 150, +1 (650) 725-3358, prachi@cs.stanford.edu",'1-1-2-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Brief Bio,'1-1-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+"'I'm Australian (""I come from a land of wide open spaces ..."")",'1-1-3-2-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'BA (Hons) Australian National University 1989 (majors in mathematics, computer science and linguistics)",'1-1-3-2-2,1,1,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'PhD Stanford Linguistics 1995,'1-1-3-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,1,0,0,2,I
+'Asst Professor Carnegie Mellon University Computational Linguistics Program 1994-96,'1-1-3-2-4,1,1,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Lecturer University of Sydney Dept of Linguistics 1996-99,'1-1-3-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Asst Professor Stanford University Depts of Computer Science and Linguistics 1999-2006,'1-1-3-2-6,1,1,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,1,0,0,2,I
+'Assoc Professor Stanford University Depts of Linguistics and Computer Science 2006-2012,'1-1-3-2-7,1,1,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,1,0,0,2,I
+'Professor Stanford University Depts of Linguistics and Computer Science 2012-,'1-1-3-2-8,1,1,0,1,0,2,0,0,1,2,1,0,0,1,1,0,0,0,0,0,1,0,0,2,I
+'Papers,'1-1-4-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'Most of my papers are available online in my publication list. Or things might be more up-to-date at Google Scholar or Microsoft Academic Search.,'1-1-4-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Books,'1-1-5-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'My new book, an Introduction to Information Retrieval, with Hinrich Schütze and Prabhakar Raghavan, is now available in print. My ""bestseller"" is Manning and Schütze, Foundations of Statistical Natural Language Processing (MIT Press, 1999). My two monographs are Ergativity: Argument Structure and Grammatical Relations and Complex Predicates and Information Spreading in LFG.",'1-1-5-2,2,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Conferences and Talks,'1-1-6-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+'A few of my talks are available online.,'1-1-6-2-1,0,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'In 2013, I was one of the program co-chairs for the new International Conference on Learning Representations (ICLR 2013). It was a really good workshop-scale event. You can now get information on ICLR 2014.",'1-1-6-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In 2013, I helped organize the first CVSC workshop. It was a really lively workshop. We're organizing a second Workshop on Continuous Vector Space Models and their Compositionality at EACL 2014.",'1-1-6-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'I'm helping organize a Workshop on Interactive Language Learning, Visualization, and Interfaces to be held at ACL 2014. We’re trying to build an interdisciplinary community interested in the intersection of NLP, HCI, and data visualization. Join us!",'1-1-6-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Research Projects,'1-1-7-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+"'My current research focuses on robust but linguistically sophisticated probabilistic natural language processing, and opportunities to use it in real-world domains. Particularly topics include richer models for probabilistic parsing, computational semantics, machine translation, grammar induction, text categorization and clustering, incorporating probabilistic models into syntactic theories, electronic dictionaries and their usability, particularly for indigenous languages, information extraction and presentation, and linguistic typology.",'1-1-7-2-1,2,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'My research at Stanford is currently supported by an IBM Faculty Partnership Award, IARPA, DARPA, and the NSF.",'1-1-7-2-2,1,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'I am interested in new students wanting to work in the area of Natural Language Processing. To find out more about what I do, it's best to look at my papers, or my group research page. However, to cut down on my email load, it's necessary to put in some more information:",'1-1-7-2-3,2,0,0,1,0,0,1,2,1,2,1,1,0,1,0,1,0,0,0,0,0,1,1,2,I
+"'Unadmitted students: The above statement is directed at students who have already been admitted to Stanford. I don't do admissions. You need to apply to a program in the usual manner; for Linguistics see http://www-linguistics.stanford.edu/graduate/admissions.shtml, and for Computer Science, see http://cs.stanford.edu/Admissions/.",'1-1-7-2-4-1,2,1,0,1,0,0,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'PhD students in CS/Linguistics or allied fields: please contact me directly.,'1-1-7-2-4-2,1,1,0,1,0,0,0,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Masters students: I have normally employed a couple of masters students. Most appealing are people with a background in NLP, and time to devote to an RAship. If you want to convince me, your best approach is to do well in CS 224N: NLP.",'1-1-7-2-4-3,2,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Undergraduate students in CS/Linguistics or allied fields: please contact me directly.,'1-1-7-2-4-4,1,1,0,1,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+'Courses,'1-1-8-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+"'I co-taught tutorials on Deep Learning for NLP at ACL 2012 with Yoshua Bengio and Richard Socher, and at NAACL 2013 with Richard Socher. Slides, references, and videos are available.",'1-1-8-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Starting January 2012, I'll be teaching a free online course on Natural Language Processing with Dan Jurafsky.",'1-1-8-2-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In June 2011, I taught a tutorial Natural Language Processing Tools for the Digital Humanities at Digital Humanities 2011 at Stanford.",'1-1-8-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In fall 2008, I will again teach CS 276: Information Retrieval and Web Search, with Prabhakar Raghavan Earlier versions of this course include two years of two-quarter sequences CS276A/B on information retrieval and text information classification and extraction, broadly construed (""IR++""): Fall quarter course website. Winter quarter course website. This course started in 2001. Early versions were also co-taught by Hinrich Schütze.",'1-1-8-2-4,2,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In spring 2009, I will again teach CS 224N / Ling 237. Natural Language Processing -- Develops an in-depth understanding of both the algorithms available for the processing of linguistic information and the underlying computational properties of natural languages. Morphological, syntactic, and semantic processing from both a linguistic and an algorithmic perspective. Focus on modern quantitative techniques in NLP: using large corpora, statistical models for acquisition, disambiguation, and parsing. Examination and construction of representative systems. Prerequisites: 121/221 or Ling 138/238, and programming experience. Recommended: basic familiarity with logic and probability. 3 units. I've taught this course yearly since Spr 2000. Many previous student projects are available online.",'1-1-8-2-5,2,0,0,1,0,0,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In fall 2007 I taught Ling 289: Quantitative and Probabilistic Explanation in Linguistics MW 2:15-3:45 in 160-318. I previously taught it in winter 2002 (née Ling 236) and Winter 2005 (as Ling 235).,'1-1-8-2-6,2,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In the summer of 2007, I taught at the LSA Linguistic Institute: Statistical Parsing and Computational Linguistics in Industry.",'1-1-8-2-7,1,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In fall 1999 and winter 2001, I taught CS 121 Artificial Intelligence. The text book was S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach.",'1-1-8-2-8,1,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'The NLP Reading Group (which I ran 1999-2002) has now been transformed into The Natural Language and Speech Processing Colloquium.,'1-1-8-2-9,1,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Other stuff,'1-1-9-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'LaTeX: When I used to have more time (i.e., when I was a grad student), I used to spend some of it writing (La)TeX macros. [Actually, that's a lie; I still spend some time doing it....]",'1-1-9-2-1,2,0,0,1,0,0,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'We've now got two sons: Joel and Casey. Here are my opinions on books for the very young.,'1-1-9-2-2,1,0,0,1,0,2,1,1,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'http://www.stanford.edu/~manning/,'1-2-1,0,0,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+"'Christopher Manning -- <manning@cs.stanford.edu> -- Last modified: Mar 1, 2013",'1-2-2,1,0,0,1,0,2,1,1,2,1,0,0,0,1,0,0,0,0,1,0,0,0,0,3,N

@@ -1,0 +1,2253 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY owl2xml "http://www.w3.org/2006/12/owl2-xml#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY base "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#" >
+    <!ENTITY untitled-ontology-2410 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#8" >
+    <!ENTITY untitled-ontology-2412 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#7" >
+    <!ENTITY untitled-ontology-2416 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1" >
+    <!ENTITY untitled-ontology-2423 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2" >
+    <!ENTITY untitled-ontology-2424 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#3" >
+    <!ENTITY untitled-ontology-2418 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#6" >
+    <!ENTITY untitled-ontology-244 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#4" >
+    <!ENTITY untitled-ontology-249 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#5" >
+    <!ENTITY ns1 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#20" >
+    <!ENTITY R "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#R+" >
+    <!ENTITY untitled-ontology-24 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.7" >
+    <!ENTITY untitled-ontology-243 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.9" >
+    <!ENTITY untitled-ontology-247 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.2" >
+    <!ENTITY untitled-ontology-2428 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.4" >
+    <!ENTITY untitled-ontology-246 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.3" >
+    <!ENTITY untitled-ontology-2417 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.2" >
+    <!ENTITY untitled-ontology-242 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.6" >
+    <!ENTITY untitled-ontology-2425 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.3" >
+    <!ENTITY untitled-ontology-2413 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.5" >
+    <!ENTITY untitled-ontology-2419 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.8" >
+    <!ENTITY untitled-ontology-2415 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.11" >
+    <!ENTITY untitled-ontology-2422 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.12" >
+    <!ENTITY untitled-ontology-2420 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1891" >
+    <!ENTITY ns4 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2003" >
+    <!ENTITY untitled-ontology-2427 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.10" >
+    <!ENTITY ns2 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1991" >
+    <!ENTITY untitled-ontology-245 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$8.243" >
+    <!ENTITY untitled-ontology-2426 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$46.56" >
+    <!ENTITY untitled-ontology-248 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$5.053" >
+    <!ENTITY untitled-ontology-2414 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$624.95" >
+    <!ENTITY untitled-ontology-2411 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#171,340" >
+    <!ENTITY Munich "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Munich," >
+    <!ENTITY untitled-ontology-2421 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$115.451" >
+    <!ENTITY _banking "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance,_banking," >
+    <!ENTITY Credimundi_ex-Ducroire "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Credimundi_ex-Ducroire/" >
+    <!ENTITY Allianz_offers_a_wide_range_of_general "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_offers_a_wide_range_of_general," >
+    <!ENTITY Allianz_operates_through_Allianz_Belgium "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_operates_through_Allianz_Belgium," >
+    <!ENTITY ns3 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Italian_parent_company,_Allianz_SpA,_resulted_from_the_integration_??in_October_2007_??" >
+    <!ENTITY In_Pakistan_Allianz_primarily_operates_through_EFU_Allianz_Health_Insurance_Company_Limited "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_Pakistan_Allianz_primarily_operates_through_EFU_Allianz_Health_Insurance_Company_Limited," >
+    <!ENTITY _Zurich_Global_Corporate "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Zurich_Insurance_Group_Zurich_Insurance_plc,_Niederlassung_f?r_Deutschland_Germany,_Zurich_North_America_USA,_Zurich_Global_Corporate," >
+    <!ENTITY _New_Jersey "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_had_been_in_negotiations_with_the_New_York_Jets_and_the_Giants_to_buy_naming_rights_to_the_New_Meadowlands_Stadium_now_known_as_MetLife_Stadium_in_East_Rutherford,_New_Jersey," >
+    <!ENTITY _a_general_insurance_company "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_started_its_operations_in_Indonesia_with_a_representative_office_in_1981._In_1989,_Allianz_established_PT_Asuransi_Allianz_Utama_Indonesia,_a_general_insurance_company._Furthermore," >
+    <!ENTITY _established_in_1936_and_based_in_Trieste_part_of_the_Allianz_Group_since_1995_and_Allianz_Subalpina "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ras,_established_in_1838_and_based_in_Milan_part_of_the_Allianz_Group_since_1987,_Lloyd_Adriatico,_established_in_1936_and_based_in_Trieste_part_of_the_Allianz_Group_since_1995_and_Allianz_Subalpina," >
+    <!ENTITY rse_Deutsche_Post_Deutsche_Telekom_E "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#BASF_Bayer_Beiersdorf_BMW_Commerzbank_Continental_Daimler_Deutsche_Bank_Deutsche_B?rse_Deutsche_Post_Deutsche_Telekom_E.ON_Fresenius_Fresenius_Medical_Care_HeidelbergCement_Henkel_Infineon_Technologies_K+" >
+    <!ENTITY from_slave_labor_to_extermination_ "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_It_was_just_one_more_piece_of_business_in_the_Third_Reich,_but_it_demonstrated_that_such_pieces_on_any_large_scale_made_contact_at_some_point_with_all_that_is_represented_by_the_name_Auschwitz_??from_slave_labor_to_extermination_??" >
+    <!ENTITY _Germany "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_has_operations_in_over_70_countries_and_has_around_180,000_employees._The_parent_company,_Allianz_SE,_is_headquartered_in_Munich,_Germany._Allianz_has_more_than_76_million_customers_worldwide_and_its_services_include_property_and_casualty_insurance," >
+    <!ENTITY _health "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_India_Allianz_primarily_operates_through_Bajaj_Allianz_General_Insurance_Company_Limited,_a_joint_venture_between_Allianz_and_Bajaj_Finserv_Limited._Bajaj_Allianz_has_around_1,200_branches_across_India_and_offers_services_including_unit-linked,_traditional,_health," >
+    <!ENTITY _Allianz_Championship_golf "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_company_has_also_been_the_sponsor_of_others_sports,_including_the_Women??_British_Open_golf,_Allianz_Open_de_Lyon_golf,_Allianz_Championship_golf,_Allianz_Golf_Open_du_Grand_Toulouse_golf,_Allianz_Suisse_Open_Gstaad_tennis,_Allianz_Cup_tennis,_Allianz_Championship_golf," >
+    <!ENTITY rales_de_France_AGF "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1990,_Allianz_started_an_expansion_into_eight_Eastern_European_countries_with_establishing_a_presence_in_Hungary._In_the_same_decade,_Allianz_also_acquired_Firemans_Fund,_an_insurer_in_the_United_States,_which_was_followed_by_the_purchase_of_Assurances_G?n?rales_de_France_AGF," >
+    <!ENTITY _Milan "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#These_expansions_were_followed_in_the_1970s_by_the_establishment_of_business_in_the_United_Kingdom,_the_Netherlands,_Spain,_Brazil_and_the_United_States._In_1986,_Allianz_acquired_Cornhill_Insurance_PLC,_London,_and_the_purchase_of_a_stake_in_Riunione_Adriatica_di_Sicurit?_RAS,_Milan," >
+    <!ENTITY _a_large_German_insurer_that_declared_bankruptcy_due_to_the_onset_of_the_Great_Depression "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1927_Allianz_merged_with_Stuttgarter_Verein_Versicherung_AG_and_two_years_later_acquired_the_insurance_businesses_of_Favag,_a_large_German_insurer_that_declared_bankruptcy_due_to_the_onset_of_the_Great_Depression._Expansion_of_the_company_then_slowed_until_1938_at_which_point_it_employed_more_than_24,000" >
+    <!ENTITY _Allianz_Life_and_Hunter_Premium_Funding "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Tracing_its_roots_back_to_1914,_Allianz_Australia_Insurance_Limited_operates_throughout_Australia_and_New_Zealand_and_through_its_subsidiaries_offers_a_range_of_insurance_and_risk_management_products_and_services._Subsidiaries_of_Allianz_Australia_include_Club_Marine,_Allianz_Life_and_Hunter_Premium_Funding._In_2012," >
+    <!ENTITY _RAS_for_around_US "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_September_2005,_Allianz_announced_that_it_would_convert_its_holding_company_into_a_European_Company_Societas_Europaea,_becoming_one_of_the_first_major_companies_to_do_so._The_conversion_was_made_in_conjunction_with_Allianzs_acquisition_of_100_per_cent_control_of_its_principal_Italian_subsidiary_Riunione_Adriatica_di_Sicurt?_RAS_for_around_US$7" >
+    <!ENTITY rale_Telef "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Anheuser-Busch_InBev_ArcelorMittal_ASML_Holding_AXA_Banco_Santander_BASF_Bayer_BMW_BBVA_BNP_Paribas_Carrefour_CRH_Daimler_Danone_Deutsche_Bank_Deutsche_Telekom_E.ON_Enel_Essilor_GDF_Suez_Generali_Iberdrola_Inditex_Intesa_Sanpaolo_LOr?al_LVMH_Munich_Re_Nokia_Orange_Philips_Repsol_RWE_Saint-Gobain_Sanofi_SAP_Schneider_Electric_Siemens_Soci?t?_G?n?rale_Telef?" >
+    <!ENTITY ov "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_started_its_life_and_Property__Casualty_PC_operation_in_Slovakia_in_1993._In_2001_Allianz_AG_bought_the_majority_ownership_in_then_state-owned_Slovensk?_pois?ov?a_SP,_Slovak_Insurance_Company._Upon_the_purchase_SP_held_a_market_share_of_well_over_50._Upon_the_purchase_the_local_Allianz_operation_was_merged_with_SP_creating_a_new_company_Allianz_-_Slovensk?_pois?ov?" >
+    <!ENTITY _and_was_succeeded_by_Kurt_Schmitt "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1905_the_company_began_to_offer_fire_insurance,_and_in_1911_it_began_to_sell_machinery_breakdown_policies._Allianz_remained_the_only_company_in_the_world_that_sold_machine_breakdown_insurance_until_1924._Then_in_1918_it_began_to_offer_automobile_insurance_as_well._In_1921_Von_Naher_passed_away,_and_was_succeeded_by_Kurt_Schmitt._The_company_would_begin_to_offer_life_insurance_as_of_1922," >
+    <!ENTITY _and_Allianz_Canada_ceased_operations_in_2004 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_entered_the_Canadian_market_in_the_early_1990s_through_an_acquisition_of_several_North_American_insurers,_namely_the_American_Firemans_Fund_and_the_Canadian_Surety._Upon_the_market_exit_the_personal_and_commercial_lines_unit_was_sold_off_to_the_market_leader_ING_Canada_Now_Intact,_and_Allianz_Canada_ceased_operations_in_2004._Its_industrial_underwriting_branch_was_bought_by_Allianz_US," >
+    <!ENTITY _Trivandrum_in_Kerala "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_owns_British_insurance_company_Cornhill_Insurance_plc,_subsequently_renamed_Allianz_Cornhill_Insurance_plc._This_then_simply_became_Allianz_Insurance_plc_in_April_2007._It_also_owns_the_high-net-worth_insurance_broker_Home_and_Legacy,_which_it_purchased_in_2006._Their_IT_captive_unit_in_India_ACIS_is_located_at_Technopark,_Trivandrum_in_Kerala._Allianz_previously_owned_Kleinwort_Benson," >
+    <!ENTITY _as_well_as_through_the_broad_agents "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_Bank_Bulgaria_is_a_universal_commercial_bank_having_its_headquarters_in_Sofia._It_was_established_in_1997._On_October_13,_2003_the_bank_received_the_name_of_its_principal_shareholder_??Allianz_Bulgaria_Holding._Before_that_the_bank_was_named_??ulgaria_Invest??Commercial_Bank._Allianz_Bank_Bulgaria_offers_its_products_in_more_than_hundred_branches_and_offices_all_over_the_country,_as_well_as_through_the_broad_agents??" >
+    <!ENTITY _on_the_fixed_income_side "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_has_a_presence_within_the_United_States,_including_Allianz_Life_Insurance_Company_of_North_America_and_Allianz_Global_Corporate__Specialty_and_Firemans_Fund._Allianz_Life_Insurance_Company_of_North_America_has_been_ranked_among_the_100_best_companies_to_work_for_by_Fortune_Magazine._Allianzs_investment_arm,_Allianz_Global_Investors_AGI,_owns_Pacific_Investment_Management_Company,_commonly_called_PIMCO,_on_the_fixed_income_side," >
+    <!ENTITY _whose_father_was_the_director_of_Thuringia_and_Wilhelm_von_Finck_co-owner_of_the_Merck_Finck__Co_bank "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_AG_was_founded_in_Berlin_on_5_February_1890_by_then_director_of_the_Munich_Reinsurance_Company_Carl_von_Thieme_a_native_of_Erfurt,_whose_father_was_the_director_of_Thuringia_and_Wilhelm_von_Finck_co-owner_of_the_Merck_Finck__Co_bank._The_joint_company_was_listed_in_Berlins_trade_register_under_the_name_Allianz_Versicherungs-Aktiengesellschaft._The_first_Allianz_products_were_marine_and_accident_policies_first_sold_only_in_Germany," >
+    <!ENTITY _voluntarily_partnered_with_the_Nazi_Regime_and_the_Third_Reich "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Furthermore,_Allianz_became_a_founding_member_of_the_German_Foundation_Remembrance,_Responsibility_and_Future._Feldman_published_the_comprehensive_results_of_his_research_in_September_2001._Based_on_these_results_Allianz_established_an_exhibition_in_the_Archive_for_Corporate_History_and_on_the_Internet._The_research_concluded_that_Allianz,_as_an_organization_and_through_its_corporate_officers,_voluntarily_partnered_with_the_Nazi_Regime_and_the_Third_Reich," >
+    <!ENTITY _France_and_the_Allianz_Park_rugby_stadium_in_London "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_provided_naming_rights_for_the_Allianz_Arena,_a_football_stadium_in_the_north_of_Munich,_Germany._The_two_professional_Munich_football_clubs_Bayern_Munich_and_TSV_1860_M?nchen_have_played_their_home_games_at_Allianz_Arena_since_the_start_of_the_2005??6_season._Other_stadiums_owned_by_Allianz_include_the_Allianz_Parque_soccer_stadium_in_Sao_Paulo,_Brazil,_the_Allianz_Riviera_soccer_stadium_in_Nice,_France_and_the_Allianz_Park_rugby_stadium_in_London," >
+    <!ENTITY _global_business_activities_were_gradually_resumed "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#During_World_War_II_the_Munich_headquarters_of_Allianz_were_destroyed_by_Allied_bombing_runs._Following_the_end_of_the_war_in_1945,_Hans_Heb_became_head_of_the_company,_and_Allianz_shifted_its_headquarters_to_Munich_in_1949_due_to_the_split_between_East_and_West_Germany._Heb_only_held_the_position_until_1948,_when_he_was_replaced_by_Hans_Goudefroy._After_World_War_II,_global_business_activities_were_gradually_resumed._Allianz_opened_an_office_in_Paris_in_1959," >
+    <!ENTITY _it_was_announced_in_November_2008_that_Commerzbank_would_acquire_the_100_ownership_of_Dresdner_Bank_earlier_12_January_2009 "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_31_August_2008,_it_was_announced_that_Allianz_had_agreed_to_sell_60.2_per_cent_of_Dresdner_Bank_to_Commerzbank_for_??.8_billion_US$14.4_billion,_with_an_agreement_that_Commerzbank_would_acquire_the_remainder_of_Dresdner_Bank_by_the_end_of_2009._After_renegotiations,_it_was_announced_in_November_2008_that_Commerzbank_would_acquire_the_100_ownership_of_Dresdner_Bank_earlier_12_January_2009._The_sale_price_was_lowered_to_5.5_billion_Euro._Shortly_after_the_transaction_completed," >
+    <!ENTITY _Jewish_World_War_II_survivors_and_their_descendants_took_Allianz_and_other_European_insurance_companies_to_court "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1993_Henning_Schulte-Noelle_commissioned_a_new_Archive_for_Corporate_History,_becoming_the_first_Allianz_CEO_to_address_the_companys_activities_during_the_Third_Reich._In_1997_Schulte-Noelle_asked_Gerald_Feldman,_historian_from_the_University_of_California-Berkeley,_if_he_would_undertake_a_larger_research_project_on_Allianzs_past_involvement_with_the_Third_Reich._After_research_began,_Jewish_World_War_II_survivors_and_their_descendants_took_Allianz_and_other_European_insurance_companies_to_court," >
+    <!ENTITY _Allianz_entered_an_agreement_with_the_Sydney_Cricket__Sports_Ground_Trust_which_oversaw_the_Sydney_Football_Stadium_being_renamed_Allianz_Stadium "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_owned_the_Polish_football_team_Gornik_Zabrze_but_sold_its_shares_in_the_club_in_April_2011._Allianz_has_been_involved_in_Formula_One_since_2000,_firstly_as_a_sponsor_of_the_ATT_WilliamsF1_Team,_and_since_2011_as_a_sponsor_of_the_Mercedes_GP_Petronas_team._In_2009_Allianz_signed_an_agreement_to_become_the_Global_Partner_of_the_St._Andrews_Links_Trust._In_early_2012,_Allianz_entered_an_agreement_with_the_Sydney_Cricket__Sports_Ground_Trust_which_oversaw_the_Sydney_Football_Stadium_being_renamed_Allianz_Stadium._2012_also_saw_Allianz_partner_up_with_Saracens_to_be_their_main_shirt_sponsor_as_well_as_securing_an_?8" >
+    <!ENTITY _Ceylon "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1900_the_company_became_the_first_insurer_to_obtain_a_license_to_distribute_corporate_policies._In_1904_Paul_Von_Naher_took_over_the_sole_leadership_of_the_company,_as_it_moved_into_the_US_and_other_markets._Markets_entered_by_1914_included_the_Netherlands,_Italy,_Belgium,_France,_the_Scandinavian_countries_and_the_Baltic_States,_and_Allianz_had_become_the_largest_maritime_insurer_in_Germany._The_company_suffered_an_early_disaster_in_expansion,_when_the_1906_San_Francisco_earthquake_caused_the_company_to_sustain_300,000_marks_in_losses._In_1905_the_company_acquired_Fides_Insurance_Company,_a_firm_that_had_innovated_the_first_form_of_home_invasion_insurance._Other_places_it_would_expand_into_during_the_1910s_and_1920s_included_Palestine,_Cyprus,_Iraq,_China,_the_Dutch_Indies,_Ceylon," >
+    <!ENTITY _at_Dresdner_Bank "http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_April_2001,_Allianz_agreed_to_acquire_the_80_per_cent_of_Dresdner_Bank_that_it_did_not_already_own_for_US$20_billion._As_part_of_the_transaction,_Allianz_agreed_to_sell_its_13.5_per_cent_stake_in_HypoVereinsbank_to_Munich_Re,_and_to_acquire_Munich_Res_40_per_cent_stake_in_Allianz_Leben._Following_completion_of_the_acquisition,_Allianz_and_Dresdner_Bank_combined_their_asset_management_activities_by_forming_Allianz_Global_Investors._In_2002,_Michael_Diekmann_succeeded_Henning_Schulte-Noelle_as_CEO_of_Allianz_AG._In_June_2006,_Allianz_announced_the_layoff_of_7,280_employees,_about_4_percent_of_its_worldwide_work_force_at_the_time,_as_part_of_a_restructuring_program_aimed_at_raising_profitability._The_reductions_comprised_5,000_staff_at_Allianz_insurance_operations_and_2,480_at_Dresdner_Bank._In_the_same_month," >
+]>
+
+
+<rdf:RDF xmlns="file:/G:/&#26412;&#31185;&#30740;&#31350;&#24037;&#20316;/&#27605;&#35774;/Ontology/Company/Allianz.rdf#"
+     xml:base="file:/G:/&#26412;&#31185;&#30740;&#31350;&#24037;&#20316;/&#27605;&#35774;/Ontology/Company/Allianz.rdf"
+     xmlns:_established_in_1936_and_based_in_Trieste_part_of_the_Allianz_Group_since_1995_and_Allianz_Subalpina="&base;_Ras,_established_in_1838_and_based_in_Milan_part_of_the_Allianz_Group_since_1987,_Lloyd_Adriatico,_established_in_1936_and_based_in_Trieste_part_of_the_Allianz_Group_since_1995_and_Allianz_Subalpina,"
+     xmlns:_and_Allianz_Canada_ceased_operations_in_2004="&base;Allianz_entered_the_Canadian_market_in_the_early_1990s_through_an_acquisition_of_several_North_American_insurers,_namely_the_American_Firemans_Fund_and_the_Canadian_Surety._Upon_the_market_exit_the_personal_and_commercial_lines_unit_was_sold_off_to_the_market_leader_ING_Canada_Now_Intact,_and_Allianz_Canada_ceased_operations_in_2004._Its_industrial_underwriting_branch_was_bought_by_Allianz_US,"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:untitled-ontology-245="&base;$8.243"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:_Allianz_Championship_golf="&base;The_company_has_also_been_the_sponsor_of_others_sports,_including_the_Women??_British_Open_golf,_Allianz_Open_de_Lyon_golf,_Allianz_Championship_golf,_Allianz_Golf_Open_du_Grand_Toulouse_golf,_Allianz_Suisse_Open_Gstaad_tennis,_Allianz_Cup_tennis,_Allianz_Championship_golf,"
+     xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+     xmlns:untitled-ontology-2419="&base;2.8"
+     xmlns:untitled-ontology-246="&base;2.3"
+     xmlns:ns1="&base;20"
+     xmlns:_global_business_activities_were_gradually_resumed="&base;During_World_War_II_the_Munich_headquarters_of_Allianz_were_destroyed_by_Allied_bombing_runs._Following_the_end_of_the_war_in_1945,_Hans_Heb_became_head_of_the_company,_and_Allianz_shifted_its_headquarters_to_Munich_in_1949_due_to_the_split_between_East_and_West_Germany._Heb_only_held_the_position_until_1948,_when_he_was_replaced_by_Hans_Goudefroy._After_World_War_II,_global_business_activities_were_gradually_resumed._Allianz_opened_an_office_in_Paris_in_1959,"
+     xmlns:_at_Dresdner_Bank="&base;In_April_2001,_Allianz_agreed_to_acquire_the_80_per_cent_of_Dresdner_Bank_that_it_did_not_already_own_for_US$20_billion._As_part_of_the_transaction,_Allianz_agreed_to_sell_its_13.5_per_cent_stake_in_HypoVereinsbank_to_Munich_Re,_and_to_acquire_Munich_Res_40_per_cent_stake_in_Allianz_Leben._Following_completion_of_the_acquisition,_Allianz_and_Dresdner_Bank_combined_their_asset_management_activities_by_forming_Allianz_Global_Investors._In_2002,_Michael_Diekmann_succeeded_Henning_Schulte-Noelle_as_CEO_of_Allianz_AG._In_June_2006,_Allianz_announced_the_layoff_of_7,280_employees,_about_4_percent_of_its_worldwide_work_force_at_the_time,_as_part_of_a_restructuring_program_aimed_at_raising_profitability._The_reductions_comprised_5,000_staff_at_Allianz_insurance_operations_and_2,480_at_Dresdner_Bank._In_the_same_month,"
+     xmlns:ns2="&base;1991"
+     xmlns:untitled-ontology-2416="&base;1"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:_health="&base;In_India_Allianz_primarily_operates_through_Bajaj_Allianz_General_Insurance_Company_Limited,_a_joint_venture_between_Allianz_and_Bajaj_Finserv_Limited._Bajaj_Allianz_has_around_1,200_branches_across_India_and_offers_services_including_unit-linked,_traditional,_health,"
+     xmlns:_Allianz_Life_and_Hunter_Premium_Funding="&base;Tracing_its_roots_back_to_1914,_Allianz_Australia_Insurance_Limited_operates_throughout_Australia_and_New_Zealand_and_through_its_subsidiaries_offers_a_range_of_insurance_and_risk_management_products_and_services._Subsidiaries_of_Allianz_Australia_include_Club_Marine,_Allianz_Life_and_Hunter_Premium_Funding._In_2012,"
+     xmlns:untitled-ontology-2421="&base;$115.451"
+     xmlns:untitled-ontology-2423="&base;2"
+     xmlns:_as_well_as_through_the_broad_agents="&base;Allianz_Bank_Bulgaria_is_a_universal_commercial_bank_having_its_headquarters_in_Sofia._It_was_established_in_1997._On_October_13,_2003_the_bank_received_the_name_of_its_principal_shareholder_??Allianz_Bulgaria_Holding._Before_that_the_bank_was_named_??ulgaria_Invest??Commercial_Bank._Allianz_Bank_Bulgaria_offers_its_products_in_more_than_hundred_branches_and_offices_all_over_the_country,_as_well_as_through_the_broad_agents??"
+     xmlns:R="&base;R+"
+     xmlns:Allianz_operates_through_Allianz_Belgium="&base;Allianz_operates_through_Allianz_Belgium,"
+     xmlns:_a_large_German_insurer_that_declared_bankruptcy_due_to_the_onset_of_the_Great_Depression="&base;In_1927_Allianz_merged_with_Stuttgarter_Verein_Versicherung_AG_and_two_years_later_acquired_the_insurance_businesses_of_Favag,_a_large_German_insurer_that_declared_bankruptcy_due_to_the_onset_of_the_Great_Depression._Expansion_of_the_company_then_slowed_until_1938_at_which_point_it_employed_more_than_24,000"
+     xmlns:Allianz_offers_a_wide_range_of_general="&base;Allianz_offers_a_wide_range_of_general,"
+     xmlns:untitled-ontology-2420="&base;1891"
+     xmlns:untitled-ontology-242="&base;2.6"
+     xmlns:rse_Deutsche_Post_Deutsche_Telekom_E="&base;BASF_Bayer_Beiersdorf_BMW_Commerzbank_Continental_Daimler_Deutsche_Bank_Deutsche_B?rse_Deutsche_Post_Deutsche_Telekom_E.ON_Fresenius_Fresenius_Medical_Care_HeidelbergCement_Henkel_Infineon_Technologies_K+"
+     xmlns:In_Pakistan_Allianz_primarily_operates_through_EFU_Allianz_Health_Insurance_Company_Limited="&base;In_Pakistan_Allianz_primarily_operates_through_EFU_Allianz_Health_Insurance_Company_Limited,"
+     xmlns:untitled-ontology-2422="&base;2.12"
+     xmlns:untitled-ontology-2411="&base;171,340"
+     xmlns:Munich="&base;Munich,"
+     xmlns:untitled-ontology-2426="&base;$46.56"
+     xmlns:ns3="&base;The_Italian_parent_company,_Allianz_SpA,_resulted_from_the_integration_??in_October_2007_??"
+     xmlns:untitled-ontology-2427="&base;2.10"
+     xmlns:Credimundi_ex-Ducroire="&base;Credimundi_ex-Ducroire/"
+     xmlns:_Ceylon="&base;In_1900_the_company_became_the_first_insurer_to_obtain_a_license_to_distribute_corporate_policies._In_1904_Paul_Von_Naher_took_over_the_sole_leadership_of_the_company,_as_it_moved_into_the_US_and_other_markets._Markets_entered_by_1914_included_the_Netherlands,_Italy,_Belgium,_France,_the_Scandinavian_countries_and_the_Baltic_States,_and_Allianz_had_become_the_largest_maritime_insurer_in_Germany._The_company_suffered_an_early_disaster_in_expansion,_when_the_1906_San_Francisco_earthquake_caused_the_company_to_sustain_300,000_marks_in_losses._In_1905_the_company_acquired_Fides_Insurance_Company,_a_firm_that_had_innovated_the_first_form_of_home_invasion_insurance._Other_places_it_would_expand_into_during_the_1910s_and_1920s_included_Palestine,_Cyprus,_Iraq,_China,_the_Dutch_Indies,_Ceylon,"
+     xmlns:_and_was_succeeded_by_Kurt_Schmitt="&base;In_1905_the_company_began_to_offer_fire_insurance,_and_in_1911_it_began_to_sell_machinery_breakdown_policies._Allianz_remained_the_only_company_in_the_world_that_sold_machine_breakdown_insurance_until_1924._Then_in_1918_it_began_to_offer_automobile_insurance_as_well._In_1921_Von_Naher_passed_away,_and_was_succeeded_by_Kurt_Schmitt._The_company_would_begin_to_offer_life_insurance_as_of_1922,"
+     xmlns:ns4="&base;2003"
+     xmlns:_a_general_insurance_company="&base;Allianz_started_its_operations_in_Indonesia_with_a_representative_office_in_1981._In_1989,_Allianz_established_PT_Asuransi_Allianz_Utama_Indonesia,_a_general_insurance_company._Furthermore,"
+     xmlns:untitled-ontology-2417="&base;1.2"
+     xmlns:_Milan="&base;These_expansions_were_followed_in_the_1970s_by_the_establishment_of_business_in_the_United_Kingdom,_the_Netherlands,_Spain,_Brazil_and_the_United_States._In_1986,_Allianz_acquired_Cornhill_Insurance_PLC,_London,_and_the_purchase_of_a_stake_in_Riunione_Adriatica_di_Sicurit?_RAS,_Milan,"
+     xmlns:_banking="&base;Insurance,_banking,"
+     xmlns:untitled-ontology-2424="&base;3"
+     xmlns:untitled-ontology-249="&base;5"
+     xmlns:_New_Jersey="&base;Allianz_had_been_in_negotiations_with_the_New_York_Jets_and_the_Giants_to_buy_naming_rights_to_the_New_Meadowlands_Stadium_now_known_as_MetLife_Stadium_in_East_Rutherford,_New_Jersey,"
+     xmlns:_Jewish_World_War_II_survivors_and_their_descendants_took_Allianz_and_other_European_insurance_companies_to_court="&base;In_1993_Henning_Schulte-Noelle_commissioned_a_new_Archive_for_Corporate_History,_becoming_the_first_Allianz_CEO_to_address_the_companys_activities_during_the_Third_Reich._In_1997_Schulte-Noelle_asked_Gerald_Feldman,_historian_from_the_University_of_California-Berkeley,_if_he_would_undertake_a_larger_research_project_on_Allianzs_past_involvement_with_the_Third_Reich._After_research_began,_Jewish_World_War_II_survivors_and_their_descendants_took_Allianz_and_other_European_insurance_companies_to_court,"
+     xmlns:untitled-ontology-2418="&base;6"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:_Trivandrum_in_Kerala="&base;Allianz_owns_British_insurance_company_Cornhill_Insurance_plc,_subsequently_renamed_Allianz_Cornhill_Insurance_plc._This_then_simply_became_Allianz_Insurance_plc_in_April_2007._It_also_owns_the_high-net-worth_insurance_broker_Home_and_Legacy,_which_it_purchased_in_2006._Their_IT_captive_unit_in_India_ACIS_is_located_at_Technopark,_Trivandrum_in_Kerala._Allianz_previously_owned_Kleinwort_Benson,"
+     xmlns:_it_was_announced_in_November_2008_that_Commerzbank_would_acquire_the_100_ownership_of_Dresdner_Bank_earlier_12_January_2009="&base;On_31_August_2008,_it_was_announced_that_Allianz_had_agreed_to_sell_60.2_per_cent_of_Dresdner_Bank_to_Commerzbank_for_??.8_billion_US$14.4_billion,_with_an_agreement_that_Commerzbank_would_acquire_the_remainder_of_Dresdner_Bank_by_the_end_of_2009._After_renegotiations,_it_was_announced_in_November_2008_that_Commerzbank_would_acquire_the_100_ownership_of_Dresdner_Bank_earlier_12_January_2009._The_sale_price_was_lowered_to_5.5_billion_Euro._Shortly_after_the_transaction_completed,"
+     xmlns:untitled-ontology-243="&base;2.9"
+     xmlns:ov="&base;Allianz_started_its_life_and_Property__Casualty_PC_operation_in_Slovakia_in_1993._In_2001_Allianz_AG_bought_the_majority_ownership_in_then_state-owned_Slovensk?_pois?ov?a_SP,_Slovak_Insurance_Company._Upon_the_purchase_SP_held_a_market_share_of_well_over_50._Upon_the_purchase_the_local_Allianz_operation_was_merged_with_SP_creating_a_new_company_Allianz_-_Slovensk?_pois?ov?"
+     xmlns:_voluntarily_partnered_with_the_Nazi_Regime_and_the_Third_Reich="&base;Furthermore,_Allianz_became_a_founding_member_of_the_German_Foundation_Remembrance,_Responsibility_and_Future._Feldman_published_the_comprehensive_results_of_his_research_in_September_2001._Based_on_these_results_Allianz_established_an_exhibition_in_the_Archive_for_Corporate_History_and_on_the_Internet._The_research_concluded_that_Allianz,_as_an_organization_and_through_its_corporate_officers,_voluntarily_partnered_with_the_Nazi_Regime_and_the_Third_Reich,"
+     xmlns:rale_Telef="&base;Anheuser-Busch_InBev_ArcelorMittal_ASML_Holding_AXA_Banco_Santander_BASF_Bayer_BMW_BBVA_BNP_Paribas_Carrefour_CRH_Daimler_Danone_Deutsche_Bank_Deutsche_Telekom_E.ON_Enel_Essilor_GDF_Suez_Generali_Iberdrola_Inditex_Intesa_Sanpaolo_LOr?al_LVMH_Munich_Re_Nokia_Orange_Philips_Repsol_RWE_Saint-Gobain_Sanofi_SAP_Schneider_Electric_Siemens_Soci?t?_G?n?rale_Telef?"
+     xmlns:untitled-ontology-248="&base;$5.053"
+     xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
+     xmlns:untitled-ontology-2413="&base;2.5"
+     xmlns:untitled-ontology-2412="&base;7"
+     xmlns:untitled-ontology-2428="&base;2.4"
+     xmlns:untitled-ontology-2410="&base;8"
+     xmlns:untitled-ontology-24="&base;2.7"
+     xmlns:rales_de_France_AGF="&base;In_1990,_Allianz_started_an_expansion_into_eight_Eastern_European_countries_with_establishing_a_presence_in_Hungary._In_the_same_decade,_Allianz_also_acquired_Firemans_Fund,_an_insurer_in_the_United_States,_which_was_followed_by_the_purchase_of_Assurances_G?n?rales_de_France_AGF,"
+     xmlns:untitled-ontology-2414="&base;$624.95"
+     xmlns:_Germany="&base;Allianz_has_operations_in_over_70_countries_and_has_around_180,000_employees._The_parent_company,_Allianz_SE,_is_headquartered_in_Munich,_Germany._Allianz_has_more_than_76_million_customers_worldwide_and_its_services_include_property_and_casualty_insurance,"
+     xmlns:_Zurich_Global_Corporate="&base;Zurich_Insurance_Group_Zurich_Insurance_plc,_Niederlassung_f?r_Deutschland_Germany,_Zurich_North_America_USA,_Zurich_Global_Corporate,"
+     xmlns:_Allianz_entered_an_agreement_with_the_Sydney_Cricket__Sports_Ground_Trust_which_oversaw_the_Sydney_Football_Stadium_being_renamed_Allianz_Stadium="&base;Allianz_owned_the_Polish_football_team_Gornik_Zabrze_but_sold_its_shares_in_the_club_in_April_2011._Allianz_has_been_involved_in_Formula_One_since_2000,_firstly_as_a_sponsor_of_the_ATT_WilliamsF1_Team,_and_since_2011_as_a_sponsor_of_the_Mercedes_GP_Petronas_team._In_2009_Allianz_signed_an_agreement_to_become_the_Global_Partner_of_the_St._Andrews_Links_Trust._In_early_2012,_Allianz_entered_an_agreement_with_the_Sydney_Cricket__Sports_Ground_Trust_which_oversaw_the_Sydney_Football_Stadium_being_renamed_Allianz_Stadium._2012_also_saw_Allianz_partner_up_with_Saracens_to_be_their_main_shirt_sponsor_as_well_as_securing_an_?8"
+     xmlns:_RAS_for_around_US="&base;In_September_2005,_Allianz_announced_that_it_would_convert_its_holding_company_into_a_European_Company_Societas_Europaea,_becoming_one_of_the_first_major_companies_to_do_so._The_conversion_was_made_in_conjunction_with_Allianzs_acquisition_of_100_per_cent_control_of_its_principal_Italian_subsidiary_Riunione_Adriatica_di_Sicurt?_RAS_for_around_US$7"
+     xmlns:untitled-ontology-2425="&base;1.3"
+     xmlns:_whose_father_was_the_director_of_Thuringia_and_Wilhelm_von_Finck_co-owner_of_the_Merck_Finck__Co_bank="&base;Allianz_AG_was_founded_in_Berlin_on_5_February_1890_by_then_director_of_the_Munich_Reinsurance_Company_Carl_von_Thieme_a_native_of_Erfurt,_whose_father_was_the_director_of_Thuringia_and_Wilhelm_von_Finck_co-owner_of_the_Merck_Finck__Co_bank._The_joint_company_was_listed_in_Berlins_trade_register_under_the_name_Allianz_Versicherungs-Aktiengesellschaft._The_first_Allianz_products_were_marine_and_accident_policies_first_sold_only_in_Germany,"
+     xmlns:_France_and_the_Allianz_Park_rugby_stadium_in_London="&base;Allianz_provided_naming_rights_for_the_Allianz_Arena,_a_football_stadium_in_the_north_of_Munich,_Germany._The_two_professional_Munich_football_clubs_Bayern_Munich_and_TSV_1860_M?nchen_have_played_their_home_games_at_Allianz_Arena_since_the_start_of_the_2005??6_season._Other_stadiums_owned_by_Allianz_include_the_Allianz_Parque_soccer_stadium_in_Sao_Paulo,_Brazil,_the_Allianz_Riviera_soccer_stadium_in_Nice,_France_and_the_Allianz_Park_rugby_stadium_in_London,"
+     xmlns:untitled-ontology-2415="&base;2.11"
+     xmlns:untitled-ontology-247="&base;2.2"
+     xmlns:from_slave_labor_to_extermination_="&base;_It_was_just_one_more_piece_of_business_in_the_Third_Reich,_but_it_demonstrated_that_such_pieces_on_any_large_scale_made_contact_at_some_point_with_all_that_is_represented_by_the_name_Auschwitz_??from_slave_labor_to_extermination_??"
+     xmlns:untitled-ontology-244="&base;4"
+     xmlns:_on_the_fixed_income_side="&base;Allianz_has_a_presence_within_the_United_States,_including_Allianz_Life_Insurance_Company_of_North_America_and_Allianz_Global_Corporate__Specialty_and_Firemans_Fund._Allianz_Life_Insurance_Company_of_North_America_has_been_ranked_among_the_100_best_companies_to_work_for_by_Fortune_Magazine._Allianzs_investment_arm,_Allianz_Global_Investors_AGI,_owns_Pacific_Investment_Management_Company,_commonly_called_PIMCO,_on_the_fixed_income_side,">
+    <owl:Ontology rdf:about=""/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1991_2003 -->
+
+    <owl:Class rdf:about="&base;1991_2003">
+        <rdfs:subClassOf rdf:resource="&base;CEOs_to_date"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2003_Present_ -->
+
+    <owl:Class rdf:about="&base;2003_Present_">
+        <rdfs:subClassOf rdf:resource="&base;CEOs_to_date"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#20th_century_developments -->
+
+    <owl:Class rdf:about="&base;20th_century_developments"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz -->
+
+    <owl:Class rdf:about="&base;Allianz"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_SE -->
+
+    <owl:Class rdf:about="&base;Allianz_SE">
+        <rdfs:subClassOf rdf:resource="&base;Allianz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_in_the_21st_century -->
+
+    <owl:Class rdf:about="&base;Allianz_in_the_21st_century"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Area_served -->
+
+    <owl:Class rdf:about="&base;Area_served">
+        <rdfs:subClassOf rdf:resource="&base;Allianz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Australia -->
+
+    <owl:Class rdf:about="&base;Australia"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Belgium -->
+
+    <owl:Class rdf:about="&base;Belgium"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Bulgaria -->
+
+    <owl:Class rdf:about="&base;Bulgaria"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CEO -->
+
+    <owl:Class rdf:about="&base;CEO">
+        <rdfs:subClassOf rdf:resource="&base;Key_people"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CEOs_to_date -->
+
+    <owl:Class rdf:about="&base;CEOs_to_date">
+        <rdfs:subClassOf rdf:resource="&base;Senior_management"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CFO -->
+
+    <owl:Class rdf:about="&base;CFO">
+        <rdfs:subClassOf rdf:resource="&base;Key_people"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Canada -->
+
+    <owl:Class rdf:about="&base;Canada"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Chairman_of_the_supervisory_board -->
+
+    <owl:Class rdf:about="&base;Chairman_of_the_supervisory_board">
+        <rdfs:subClassOf rdf:resource="&base;Key_people"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Composite -->
+
+    <owl:Class rdf:about="&base;Composite">
+        <rdfs:subClassOf rdf:resource="&base;Insurance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Contents -->
+
+    <owl:Class rdf:about="&base;Contents"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Controversies -->
+
+    <owl:Class rdf:about="&base;Controversies"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#DAX_companies_of_Germany -->
+
+    <owl:Class rdf:about="&base;DAX_companies_of_Germany"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Employees -->
+
+    <owl:Class rdf:about="&base;Employees"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Euro_Stoxx_50_companies_of_Europe -->
+
+    <owl:Class rdf:about="&base;Euro_Stoxx_50_companies_of_Europe"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#External_links -->
+
+    <owl:Class rdf:about="&base;External_links"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#FWB -->
+
+    <owl:Class rdf:about="&base;FWB">
+        <rdfs:subClassOf rdf:resource="&base;Traded_as"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Feldman_summarized_his_findings_stating -->
+
+    <owl:Class rdf:about="&base;Feldman_summarized_his_findings_stating">
+        <rdfs:subClassOf rdf:resource="&base;Controversies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Foundation -->
+
+    <owl:Class rdf:about="&base;Foundation"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Founded -->
+
+    <owl:Class rdf:about="&base;Founded">
+        <rdfs:subClassOf rdf:resource="&base;Allianz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#General_insurance -->
+
+    <owl:Class rdf:about="&base;General_insurance">
+        <rdfs:subClassOf rdf:resource="&base;Insurance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Germany -->
+
+    <owl:Class rdf:about="&base;Germany"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Headquarters -->
+
+    <owl:Class rdf:about="&base;Headquarters">
+        <rdfs:subClassOf rdf:resource="&base;Allianz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#History -->
+
+    <owl:Class rdf:about="&base;History"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#India -->
+
+    <owl:Class rdf:about="&base;India"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Indonesia -->
+
+    <owl:Class rdf:about="&base;Indonesia"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Industry -->
+
+    <owl:Class rdf:about="&base;Industry">
+        <rdfs:subClassOf rdf:resource="&base;Allianz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance -->
+
+    <owl:Class rdf:about="&base;Insurance"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Italy -->
+
+    <owl:Class rdf:about="&base;Italy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Key_people -->
+
+    <owl:Class rdf:about="&base;Key_people"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Life_insurance -->
+
+    <owl:Class rdf:about="&base;Life_insurance">
+        <rdfs:subClassOf rdf:resource="&base;Insurance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Operating_income -->
+
+    <owl:Class rdf:about="&base;Operating_income"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Operations -->
+
+    <owl:Class rdf:about="&base;Operations"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Pakistan -->
+
+    <owl:Class rdf:about="&base;Pakistan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Present_International_Credit_Insurance__Surety_Association_ICISA_Members -->
+
+    <owl:Class rdf:about="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Products -->
+
+    <owl:Class rdf:about="&base;Products"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Profit -->
+
+    <owl:Class rdf:about="&base;Profit"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance -->
+
+    <owl:Class rdf:about="&base;Reinsurance"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Reinsurance_Group_of_America -->
+
+    <owl:Class rdf:about="&base;Reinsurance_Group_of_America"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Revenue -->
+
+    <owl:Class rdf:about="&base;Revenue"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#See_also -->
+
+    <owl:Class rdf:about="&base;See_also"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Senior_management -->
+
+    <owl:Class rdf:about="&base;Senior_management"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Slovakia -->
+
+    <owl:Class rdf:about="&base;Slovakia"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sponsorships -->
+
+    <owl:Class rdf:about="&base;Sponsorships"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Subsidiaries -->
+
+    <owl:Class rdf:about="&base;Subsidiaries"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Italian_parent_company,_Allianz_SpA,_resulted_from_the_integration_??in_October_2007_??of_three_former_insurance_companies -->
+
+    <owl:Class rdf:about="&base;The_Italian_parent_company,_Allianz_SpA,_resulted_from_the_integration_??in_October_2007_??of_three_former_insurance_companies">
+        <rdfs:subClassOf rdf:resource="&base;Italy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Total_assets -->
+
+    <owl:Class rdf:about="&base;Total_assets"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Total_equity -->
+
+    <owl:Class rdf:about="&base;Total_equity"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Traded_as -->
+
+    <owl:Class rdf:about="&base;Traded_as">
+        <rdfs:subClassOf rdf:resource="&base;Allianz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Type -->
+
+    <owl:Class rdf:about="&base;Type">
+        <rdfs:subClassOf rdf:resource="&base;Allianz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#United_Kingdom -->
+
+    <owl:Class rdf:about="&base;United_Kingdom"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#United_States -->
+
+    <owl:Class rdf:about="&base;United_States"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Website -->
+
+    <owl:Class rdf:about="&base;Website"/>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Thing -->
+
+    <owl:Class rdf:about="&owl;Thing"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$115.451_billion_2013 -->
+
+    <base:Revenue rdf:about="&base;$115.451_billion_2013">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Revenue>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$46.56_billion_end_2013 -->
+
+    <base:Total_equity rdf:about="&base;$46.56_billion_end_2013">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Total_equity>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$5.053_billion_2013 -->
+
+    <owl:Thing rdf:about="&base;$5.053_billion_2013">
+        <rdf:type rdf:resource="&base;Profit"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$624.95_billion_end_2013 -->
+
+    <owl:Thing rdf:about="&base;$624.95_billion_end_2013">
+        <rdf:type rdf:resource="&base;Total_assets"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#$8.243_billion_2013 -->
+
+    <base:Operating_income rdf:about="&base;$8.243_billion_2013">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Operating_income>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.2_20th_century_developments -->
+
+    <base:Contents rdf:about="&base;1.2_20th_century_developments">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1.3_Allianz_in_the_21st_century -->
+
+    <owl:Thing rdf:about="&base;1.3_Allianz_in_the_21st_century">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#171,340_end_2013 -->
+
+    <base:Employees rdf:about="&base;171,340_end_2013">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Employees>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1891_Berlin -->
+
+    <owl:Thing rdf:about="&base;1891_Berlin">
+        <rdf:type rdf:resource="&base;Founded"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#1_History_1.1_Foundation -->
+
+    <owl:Thing rdf:about="&base;1_History_1.1_Foundation">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.10_Slovakia -->
+
+    <base:Contents rdf:about="&base;2.10_Slovakia">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.11_United_Kingdom -->
+
+    <owl:Thing rdf:about="&base;2.11_United_Kingdom">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.12_United_States -->
+
+    <owl:Thing rdf:about="&base;2.12_United_States">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.2_Belgium -->
+
+    <base:Contents rdf:about="&base;2.2_Belgium">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.3_Bulgaria -->
+
+    <owl:Thing rdf:about="&base;2.3_Bulgaria">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.4_Canada -->
+
+    <owl:Thing rdf:about="&base;2.4_Canada">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.5_Germany -->
+
+    <base:Contents rdf:about="&base;2.5_Germany">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.6_India -->
+
+    <base:Contents rdf:about="&base;2.6_India">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.7_Indonesia -->
+
+    <base:Contents rdf:about="&base;2.7_Indonesia">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.8_Italy -->
+
+    <owl:Thing rdf:about="&base;2.8_Italy">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2.9_Pakistan -->
+
+    <base:Contents rdf:about="&base;2.9_Pakistan">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#2_Operations_2.1_Australia -->
+
+    <base:Contents rdf:about="&base;2_Operations_2.1_Australia">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#3_Senior_management -->
+
+    <owl:Thing rdf:about="&base;3_Senior_management">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#4_Sponsorships -->
+
+    <owl:Thing rdf:about="&base;4_Sponsorships">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#5_Controversies -->
+
+    <owl:Thing rdf:about="&base;5_Controversies">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#6_See_also -->
+
+    <base:Contents rdf:about="&base;6_See_also">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#7_References -->
+
+    <owl:Thing rdf:about="&base;7_References">
+        <rdf:type rdf:resource="&base;Contents"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#8_External_links -->
+
+    <base:Contents rdf:about="&base;8_External_links">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Contents>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ACE_USA_United_States -->
+
+    <owl:Thing rdf:about="&base;ACE_USA_United_States">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AIA -->
+
+    <owl:Thing rdf:about="&base;AIA">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AXA -->
+
+    <owl:Thing rdf:about="&base;AXA">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AXA-Winterthur_Switzerland -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;AXA-Winterthur_Switzerland">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AXA_Assurcredit_France -->
+
+    <owl:Thing rdf:about="&base;AXA_Assurcredit_France">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#AXIS_Re_Ireland -->
+
+    <owl:Thing rdf:about="&base;AXIS_Re_Ireland">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Adidas -->
+
+    <owl:Thing rdf:about="&base;Adidas">
+        <rdf:type rdf:resource="&base;DAX_companies_of_Germany"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Aegon_Ageas_AIG -->
+
+    <base:Composite rdf:about="&base;Aegon_Ageas_AIG">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Afianzadora_Latinoamericana_Argentina -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Afianzadora_Latinoamericana_Argentina">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Air_Liquide -->
+
+    <owl:Thing rdf:about="&base;Air_Liquide">
+        <rdf:type rdf:resource="&base;Euro_Stoxx_50_companies_of_Europe"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz -->
+
+    <base:DAX_companies_of_Germany rdf:about="&base;Allianz">
+        <rdf:type rdf:resource="&base;Composite"/>
+        <rdf:type rdf:resource="&base;Euro_Stoxx_50_companies_of_Europe"/>
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:DAX_companies_of_Germany>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_AG_was_founded_in_Berlin_on_5_February_1890_by_then_director_of_the_Munich_Reinsurance_Company_Carl_von_Thieme_a_native_of_Erfurt,_whose_father_was_the_director_of_Thuringia_and_Wilhelm_von_Finck_co-owner_of_the_Merck_Finck__Co_bank._The_joint_company_was_listed_in_Berlins_trade_register_under_the_name_Allianz_Versicherungs-Aktiengesellschaft._The_first_Allianz_products_were_marine_and_accident_policies_first_sold_only_in_Germany,_however_in_1893_Allianz_opened_its_first_international_branch_office_in_London._It_distributed_marine_insurance_coverage_to_German_clientele_looking_for_coverage_abroad. -->
+
+    <base:Foundation rdf:about="&base;Allianz_AG_was_founded_in_Berlin_on_5_February_1890_by_then_director_of_the_Munich_Reinsurance_Company_Carl_von_Thieme_a_native_of_Erfurt,_whose_father_was_the_director_of_Thuringia_and_Wilhelm_von_Finck_co-owner_of_the_Merck_Finck__Co_bank._The_joint_company_was_listed_in_Berlins_trade_register_under_the_name_Allianz_Versicherungs-Aktiengesellschaft._The_first_Allianz_products_were_marine_and_accident_policies_first_sold_only_in_Germany,_however_in_1893_Allianz_opened_its_first_international_branch_office_in_London._It_distributed_marine_insurance_coverage_to_German_clientele_looking_for_coverage_abroad.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Foundation>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_Bank_Bulgaria_is_a_universal_commercial_bank_having_its_headquarters_in_Sofia._It_was_established_in_1997._On_October_13,_2003_the_bank_received_the_name_of_its_principal_shareholder_??Allianz_Bulgaria_Holding._Before_that_the_bank_was_named_??ulgaria_Invest??Commercial_Bank._Allianz_Bank_Bulgaria_offers_its_products_in_more_than_hundred_branches_and_offices_all_over_the_country,_as_well_as_through_the_broad_agents??network_of_Allianz_Bulgaria_Holding._The_bank_possesses_a_full_banking_license_for_carrying_out_banking_and_financial_transactions. -->
+
+    <owl:Thing rdf:about="&base;Allianz_Bank_Bulgaria_is_a_universal_commercial_bank_having_its_headquarters_in_Sofia._It_was_established_in_1997._On_October_13,_2003_the_bank_received_the_name_of_its_principal_shareholder_??Allianz_Bulgaria_Holding._Before_that_the_bank_was_named_??ulgaria_Invest??Commercial_Bank._Allianz_Bank_Bulgaria_offers_its_products_in_more_than_hundred_branches_and_offices_all_over_the_country,_as_well_as_through_the_broad_agents??network_of_Allianz_Bulgaria_Holding._The_bank_possesses_a_full_banking_license_for_carrying_out_banking_and_financial_transactions.">
+        <rdf:type rdf:resource="&base;Bulgaria"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_France -->
+
+    <base:Subsidiaries rdf:about="&base;Allianz_France">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_Global_Corporate_and_Speciality -->
+
+    <base:Subsidiaries rdf:about="&base;Allianz_Global_Corporate_and_Speciality">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_Global_Investors -->
+
+    <base:Subsidiaries rdf:about="&base;Allianz_Global_Investors">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_Insurance_plc -->
+
+    <base:Subsidiaries rdf:about="&base;Allianz_Insurance_plc">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_Life -->
+
+    <base:Subsidiaries rdf:about="&base;Allianz_Life">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_Marine__Transit -->
+
+    <base:Subsidiaries rdf:about="&base;Allianz_Marine__Transit">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_entered_the_Canadian_market_in_the_early_1990s_through_an_acquisition_of_several_North_American_insurers,_namely_the_American_Firemans_Fund_and_the_Canadian_Surety._Upon_the_market_exit_the_personal_and_commercial_lines_unit_was_sold_off_to_the_market_leader_ING_Canada_Now_Intact,_and_Allianz_Canada_ceased_operations_in_2004._Its_industrial_underwriting_branch_was_bought_by_Allianz_US,_which_has_retained_the_Toronto_office. -->
+
+    <base:Canada rdf:about="&base;Allianz_entered_the_Canadian_market_in_the_early_1990s_through_an_acquisition_of_several_North_American_insurers,_namely_the_American_Firemans_Fund_and_the_Canadian_Surety._Upon_the_market_exit_the_personal_and_commercial_lines_unit_was_sold_off_to_the_market_leader_ING_Canada_Now_Intact,_and_Allianz_Canada_ceased_operations_in_2004._Its_industrial_underwriting_branch_was_bought_by_Allianz_US,_which_has_retained_the_Toronto_office.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Canada>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_had_been_in_negotiations_with_the_New_York_Jets_and_the_Giants_to_buy_naming_rights_to_the_New_Meadowlands_Stadium_now_known_as_MetLife_Stadium_in_East_Rutherford,_New_Jersey,_but_those_talks_ended_due_to_opposition_from_Jewish_groups_and_Holocaust_survivors. -->
+
+    <base:Sponsorships rdf:about="&base;Allianz_had_been_in_negotiations_with_the_New_York_Jets_and_the_Giants_to_buy_naming_rights_to_the_New_Meadowlands_Stadium_now_known_as_MetLife_Stadium_in_East_Rutherford,_New_Jersey,_but_those_talks_ended_due_to_opposition_from_Jewish_groups_and_Holocaust_survivors.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Sponsorships>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_has_a_presence_within_the_United_States,_including_Allianz_Life_Insurance_Company_of_North_America_and_Allianz_Global_Corporate__Specialty_and_Firemans_Fund._Allianz_Life_Insurance_Company_of_North_America_has_been_ranked_among_the_100_best_companies_to_work_for_by_Fortune_Magazine._Allianzs_investment_arm,_Allianz_Global_Investors_AGI,_owns_Pacific_Investment_Management_Company,_commonly_called_PIMCO,_on_the_fixed_income_side,_and_RCM_Capital_Management_and_NFJ_on_the_equities_side. -->
+
+    <base:United_States rdf:about="&base;Allianz_has_a_presence_within_the_United_States,_including_Allianz_Life_Insurance_Company_of_North_America_and_Allianz_Global_Corporate__Specialty_and_Firemans_Fund._Allianz_Life_Insurance_Company_of_North_America_has_been_ranked_among_the_100_best_companies_to_work_for_by_Fortune_Magazine._Allianzs_investment_arm,_Allianz_Global_Investors_AGI,_owns_Pacific_Investment_Management_Company,_commonly_called_PIMCO,_on_the_fixed_income_side,_and_RCM_Capital_Management_and_NFJ_on_the_equities_side.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:United_States>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_has_operations_in_over_70_countries_and_has_around_180,000_employees._The_parent_company,_Allianz_SE,_is_headquartered_in_Munich,_Germany._Allianz_has_more_than_76_million_customers_worldwide_and_its_services_include_property_and_casualty_insurance,_life_and_health_insurance_and_asset_management._In_2013_it_was_number_25_on_the_global_Forbes_2000_list. -->
+
+    <owl:Thing rdf:about="&base;Allianz_has_operations_in_over_70_countries_and_has_around_180,000_employees._The_parent_company,_Allianz_SE,_is_headquartered_in_Munich,_Germany._Allianz_has_more_than_76_million_customers_worldwide_and_its_services_include_property_and_casualty_insurance,_life_and_health_insurance_and_asset_management._In_2013_it_was_number_25_on_the_global_Forbes_2000_list.">
+        <rdf:type rdf:resource="&base;Operations"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_offers_a_wide_range_of_general,_life_and_health_insurance_products_in_Germany_through_its_Allianz_Deutschland_AG_subsidiary._It_is_the_market_leader_in_both_the_general_and_life_insurance_markets._Allianz_products_are_distributed_principally_through_a_network_of_full-time_tied_agents._Since_September_2010_Allianz_products_have_also_been_sold_through_Commerzbank_branches. -->
+
+    <owl:Thing rdf:about="&base;Allianz_offers_a_wide_range_of_general,_life_and_health_insurance_products_in_Germany_through_its_Allianz_Deutschland_AG_subsidiary._It_is_the_market_leader_in_both_the_general_and_life_insurance_markets._Allianz_products_are_distributed_principally_through_a_network_of_full-time_tied_agents._Since_September_2010_Allianz_products_have_also_been_sold_through_Commerzbank_branches.">
+        <rdf:type rdf:resource="&base;Germany"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_operates_through_Allianz_Belgium,_previously_AGF_Belgium_which_has_been_re-branded_to_Allianz_Belgium_in_November_2007. -->
+
+    <base:Belgium rdf:about="&base;Allianz_operates_through_Allianz_Belgium,_previously_AGF_Belgium_which_has_been_re-branded_to_Allianz_Belgium_in_November_2007.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Belgium>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_owned_the_Polish_football_team_Gornik_Zabrze_but_sold_its_shares_in_the_club_in_April_2011._Allianz_has_been_involved_in_Formula_One_since_2000,_firstly_as_a_sponsor_of_the_ATT_WilliamsF1_Team,_and_since_2011_as_a_sponsor_of_the_Mercedes_GP_Petronas_team._In_2009_Allianz_signed_an_agreement_to_become_the_Global_Partner_of_the_St._Andrews_Links_Trust._In_early_2012,_Allianz_entered_an_agreement_with_the_Sydney_Cricket__Sports_Ground_Trust_which_oversaw_the_Sydney_Football_Stadium_being_renamed_Allianz_Stadium._2012_also_saw_Allianz_partner_up_with_Saracens_to_be_their_main_shirt_sponsor_as_well_as_securing_an_?8m_deal_for_naming_rights_to_their_new_Barnet_Copthall_home_to_be_called_Allianz_Park. -->
+
+    <base:Sponsorships rdf:about="&base;Allianz_owned_the_Polish_football_team_Gornik_Zabrze_but_sold_its_shares_in_the_club_in_April_2011._Allianz_has_been_involved_in_Formula_One_since_2000,_firstly_as_a_sponsor_of_the_ATT_WilliamsF1_Team,_and_since_2011_as_a_sponsor_of_the_Mercedes_GP_Petronas_team._In_2009_Allianz_signed_an_agreement_to_become_the_Global_Partner_of_the_St._Andrews_Links_Trust._In_early_2012,_Allianz_entered_an_agreement_with_the_Sydney_Cricket__Sports_Ground_Trust_which_oversaw_the_Sydney_Football_Stadium_being_renamed_Allianz_Stadium._2012_also_saw_Allianz_partner_up_with_Saracens_to_be_their_main_shirt_sponsor_as_well_as_securing_an_?8m_deal_for_naming_rights_to_their_new_Barnet_Copthall_home_to_be_called_Allianz_Park.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Sponsorships>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_owns_British_insurance_company_Cornhill_Insurance_plc,_subsequently_renamed_Allianz_Cornhill_Insurance_plc._This_then_simply_became_Allianz_Insurance_plc_in_April_2007._It_also_owns_the_high-net-worth_insurance_broker_Home_and_Legacy,_which_it_purchased_in_2006._Their_IT_captive_unit_in_India_ACIS_is_located_at_Technopark,_Trivandrum_in_Kerala._Allianz_previously_owned_Kleinwort_Benson,_which_it_inherited_when_it_acquired_Dresdner_Bank._The_investment_bank_has_subsequently_been_merged_with_the_corporate_bank_of_Dresdner_Bank_and_rebranded_as_Dresdner_Kleinwort. -->
+
+    <owl:Thing rdf:about="&base;Allianz_owns_British_insurance_company_Cornhill_Insurance_plc,_subsequently_renamed_Allianz_Cornhill_Insurance_plc._This_then_simply_became_Allianz_Insurance_plc_in_April_2007._It_also_owns_the_high-net-worth_insurance_broker_Home_and_Legacy,_which_it_purchased_in_2006._Their_IT_captive_unit_in_India_ACIS_is_located_at_Technopark,_Trivandrum_in_Kerala._Allianz_previously_owned_Kleinwort_Benson,_which_it_inherited_when_it_acquired_Dresdner_Bank._The_investment_bank_has_subsequently_been_merged_with_the_corporate_bank_of_Dresdner_Bank_and_rebranded_as_Dresdner_Kleinwort.">
+        <rdf:type rdf:resource="&base;United_Kingdom"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_provided_naming_rights_for_the_Allianz_Arena,_a_football_stadium_in_the_north_of_Munich,_Germany._The_two_professional_Munich_football_clubs_Bayern_Munich_and_TSV_1860_M?nchen_have_played_their_home_games_at_Allianz_Arena_since_the_start_of_the_2005??6_season._Other_stadiums_owned_by_Allianz_include_the_Allianz_Parque_soccer_stadium_in_Sao_Paulo,_Brazil,_the_Allianz_Riviera_soccer_stadium_in_Nice,_France_and_the_Allianz_Park_rugby_stadium_in_London,_UK. -->
+
+    <base:Sponsorships rdf:about="&base;Allianz_provided_naming_rights_for_the_Allianz_Arena,_a_football_stadium_in_the_north_of_Munich,_Germany._The_two_professional_Munich_football_clubs_Bayern_Munich_and_TSV_1860_M?nchen_have_played_their_home_games_at_Allianz_Arena_since_the_start_of_the_2005??6_season._Other_stadiums_owned_by_Allianz_include_the_Allianz_Parque_soccer_stadium_in_Sao_Paulo,_Brazil,_the_Allianz_Riviera_soccer_stadium_in_Nice,_France_and_the_Allianz_Park_rugby_stadium_in_London,_UK.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Sponsorships>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_started_its_life_and_Property__Casualty_PC_operation_in_Slovakia_in_1993._In_2001_Allianz_AG_bought_the_majority_ownership_in_then_state-owned_Slovensk?_pois?ov?a_SP,_Slovak_Insurance_Company._Upon_the_purchase_SP_held_a_market_share_of_well_over_50._Upon_the_purchase_the_local_Allianz_operation_was_merged_with_SP_creating_a_new_company_Allianz_-_Slovensk?_pois?ov?a. -->
+
+    <owl:Thing rdf:about="&base;Allianz_started_its_life_and_Property__Casualty_PC_operation_in_Slovakia_in_1993._In_2001_Allianz_AG_bought_the_majority_ownership_in_then_state-owned_Slovensk?_pois?ov?a_SP,_Slovak_Insurance_Company._Upon_the_purchase_SP_held_a_market_share_of_well_over_50._Upon_the_purchase_the_local_Allianz_operation_was_merged_with_SP_creating_a_new_company_Allianz_-_Slovensk?_pois?ov?a.">
+        <rdf:type rdf:resource="&base;Slovakia"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allianz_started_its_operations_in_Indonesia_with_a_representative_office_in_1981._In_1989,_Allianz_established_PT_Asuransi_Allianz_Utama_Indonesia,_a_general_insurance_company._Furthermore,_Allianz_entered_the_Indonesian_life_insurance_market_by_opening_PT_Asuransi_Allianz_Life_Indonesia_in_1996. -->
+
+    <base:Indonesia rdf:about="&base;Allianz_started_its_operations_in_Indonesia_with_a_representative_office_in_1981._In_1989,_Allianz_established_PT_Asuransi_Allianz_Utama_Indonesia,_a_general_insurance_company._Furthermore,_Allianz_entered_the_Indonesian_life_insurance_market_by_opening_PT_Asuransi_Allianz_Life_Indonesia_in_1996.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Indonesia>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Allstate -->
+
+    <base:Composite rdf:about="&base;Allstate">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Anheuser-Busch_InBev_ArcelorMittal_ASML_Holding_AXA_Banco_Santander_BASF_Bayer_BMW_BBVA_BNP_Paribas_Carrefour_CRH_Daimler_Danone_Deutsche_Bank_Deutsche_Telekom_E.ON_Enel_Essilor_GDF_Suez_Generali_Iberdrola_Inditex_Intesa_Sanpaolo_LOr?al_LVMH_Munich_Re_Nokia_Orange_Philips_Repsol_RWE_Saint-Gobain_Sanofi_SAP_Schneider_Electric_Siemens_Soci?t?_G?n?rale_Telef?nica_Total_Unibail-Rodamco_UniCredit_Unilever_Vinci_Vivendi_Volkswagen -->
+
+    <owl:Thing rdf:about="&base;Anheuser-Busch_InBev_ArcelorMittal_ASML_Holding_AXA_Banco_Santander_BASF_Bayer_BMW_BBVA_BNP_Paribas_Carrefour_CRH_Daimler_Danone_Deutsche_Bank_Deutsche_Telekom_E.ON_Enel_Essilor_GDF_Suez_Generali_Iberdrola_Inditex_Intesa_Sanpaolo_LOr?al_LVMH_Munich_Re_Nokia_Orange_Philips_Repsol_RWE_Saint-Gobain_Sanofi_SAP_Schneider_Electric_Siemens_Soci?t?_G?n?rale_Telef?nica_Total_Unibail-Rodamco_UniCredit_Unilever_Vinci_Vivendi_Volkswagen">
+        <rdf:type rdf:resource="&base;Euro_Stoxx_50_companies_of_Europe"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Aon -->
+
+    <owl:Thing rdf:about="&base;Aon">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Arch_Re_Europe_Ireland -->
+
+    <owl:Thing rdf:about="&base;Arch_Re_Europe_Ireland">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Argo_Surety_United_States -->
+
+    <owl:Thing rdf:about="&base;Argo_Surety_United_States">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Askrindo_Indonesia -->
+
+    <owl:Thing rdf:about="&base;Askrindo_Indonesia">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Aspen_Re_Europe_Switzerland -->
+
+    <owl:Thing rdf:about="&base;Aspen_Re_Europe_Switzerland">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Atradius_Netherlands -->
+
+    <owl:Thing rdf:about="&base;Atradius_Netherlands">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Aviva -->
+
+    <owl:Thing rdf:about="&base;Aviva">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#BASF_Bayer_Beiersdorf_BMW_Commerzbank_Continental_Daimler_Deutsche_Bank_Deutsche_B?rse_Deutsche_Post_Deutsche_Telekom_E.ON_Fresenius_Fresenius_Medical_Care_HeidelbergCement_Henkel_Infineon_Technologies_K+S_Linde_Lanxess_Lufthansa_Merck_Munich_Re_RWE_SAP_Siemens_ThyssenKrupp_Volkswagen -->
+
+    <owl:Thing rdf:about="&base;BASF_Bayer_Beiersdorf_BMW_Commerzbank_Continental_Daimler_Deutsche_Bank_Deutsche_B?rse_Deutsche_Post_Deutsche_Telekom_E.ON_Fresenius_Fresenius_Medical_Care_HeidelbergCement_Henkel_Infineon_Technologies_K+S_Linde_Lanxess_Lufthansa_Merck_Munich_Re_RWE_SAP_Siemens_ThyssenKrupp_Volkswagen">
+        <rdf:type rdf:resource="&base;DAX_companies_of_Germany"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#BB_Seguridade -->
+
+    <owl:Thing rdf:about="&base;BB_Seguridade">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#BNP_Paribas -->
+
+    <base:General_insurance rdf:about="&base;BNP_Paribas">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Berkshire_Hathaway -->
+
+    <owl:Thing rdf:about="&base;Berkshire_Hathaway">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Bradesco_Seguros -->
+
+    <base:General_insurance rdf:about="&base;Bradesco_Seguros">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Bupa -->
+
+    <owl:Thing rdf:about="&base;Bupa">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CESCE_Spain -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;CESCE_Spain">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CGIC_South_Africa -->
+
+    <owl:Thing rdf:about="&base;CGIC_South_Africa">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CLAL_Israel -->
+
+    <owl:Thing rdf:about="&base;CLAL_Israel">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#CNP_Assurances -->
+
+    <base:General_insurance rdf:about="&base;CNP_Assurances">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#COSEC_Portugal -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;COSEC_Portugal">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Catlin_Re_Switzerland -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Catlin_Re_Switzerland">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#China_Life -->
+
+    <owl:Thing rdf:about="&base;China_Life">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#China_National_Investment__Guaranty_Company_China -->
+
+    <owl:Thing rdf:about="&base;China_National_Investment__Guaranty_Company_China">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#China_Pacific_Insurance -->
+
+    <owl:Thing rdf:about="&base;China_Pacific_Insurance">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#China_Taiping -->
+
+    <base:Composite rdf:about="&base;China_Taiping">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Chubb_United_States -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Chubb_United_States">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Club_Marine -->
+
+    <owl:Thing rdf:about="&base;Club_Marine">
+        <rdf:type rdf:resource="&base;Subsidiaries"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Coface_France -->
+
+    <owl:Thing rdf:about="&base;Coface_France">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Credimundi_ex-Ducroire/Delcredere_Belgium -->
+
+    <owl:Thing rdf:about="&base;Credimundi_ex-Ducroire/Delcredere_Belgium">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Dai-ichi_Life -->
+
+    <base:Life_insurance rdf:about="&base;Dai-ichi_Life">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#During_World_War_II_the_Munich_headquarters_of_Allianz_were_destroyed_by_Allied_bombing_runs._Following_the_end_of_the_war_in_1945,_Hans_Heb_became_head_of_the_company,_and_Allianz_shifted_its_headquarters_to_Munich_in_1949_due_to_the_split_between_East_and_West_Germany._Heb_only_held_the_position_until_1948,_when_he_was_replaced_by_Hans_Goudefroy._After_World_War_II,_global_business_activities_were_gradually_resumed._Allianz_opened_an_office_in_Paris_in_1959,_and_started_repurchasing_stakes_in_former_subsidiaries_in_Italy_and_Austria._In_1971_Wolfgang_Schieren_became_the_head_of_the_company. -->
+
+    <owl:Thing rdf:about="&base;During_World_War_II_the_Munich_headquarters_of_Allianz_were_destroyed_by_Allied_bombing_runs._Following_the_end_of_the_war_in_1945,_Hans_Heb_became_head_of_the_company,_and_Allianz_shifted_its_headquarters_to_Munich_in_1949_due_to_the_split_between_East_and_West_Germany._Heb_only_held_the_position_until_1948,_when_he_was_replaced_by_Hans_Goudefroy._After_World_War_II,_global_business_activities_were_gradually_resumed._Allianz_opened_an_office_in_Paris_in_1959,_and_started_repurchasing_stakes_in_former_subsidiaries_in_Italy_and_Austria._In_1971_Wolfgang_Schieren_became_the_head_of_the_company.">
+        <rdf:type rdf:resource="&base;20th_century_developments"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ECICS_Singapore -->
+
+    <owl:Thing rdf:about="&base;ECICS_Singapore">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Endurance_Switzerland -->
+
+    <owl:Thing rdf:about="&base;Endurance_Switzerland">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Euler_Hermes_France -->
+
+    <owl:Thing rdf:about="&base;Euler_Hermes_France">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#European_Financial_Services_Roundtable -->
+
+    <owl:Thing rdf:about="&base;European_Financial_Services_Roundtable">
+        <rdf:type rdf:resource="&base;See_also"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Farmers_Insurance_Group -->
+
+    <base:Composite rdf:about="&base;Farmers_Insurance_Group">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Fianzas_Atlas_Mexico -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Fianzas_Atlas_Mexico">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Financial_services -->
+
+    <base:Industry rdf:about="&base;Financial_services">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Industry>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Firemans_Fund -->
+
+    <base:Subsidiaries rdf:about="&base;Firemans_Fund">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Furthermore,_Allianz_became_a_founding_member_of_the_German_Foundation_Remembrance,_Responsibility_and_Future._Feldman_published_the_comprehensive_results_of_his_research_in_September_2001._Based_on_these_results_Allianz_established_an_exhibition_in_the_Archive_for_Corporate_History_and_on_the_Internet._The_research_concluded_that_Allianz,_as_an_organization_and_through_its_corporate_officers,_voluntarily_partnered_with_the_Nazi_Regime_and_the_Third_Reich,_starting_as_early_as_the_early_1930s_and_continuing_all_the_way_through_to_the_collapse_of_the_Third_Reich. -->
+
+    <base:Controversies rdf:about="&base;Furthermore,_Allianz_became_a_founding_member_of_the_German_Foundation_Remembrance,_Responsibility_and_Future._Feldman_published_the_comprehensive_results_of_his_research_in_September_2001._Based_on_these_results_Allianz_established_an_exhibition_in_the_Archive_for_Corporate_History_and_on_the_Internet._The_research_concluded_that_Allianz,_as_an_organization_and_through_its_corporate_officers,_voluntarily_partnered_with_the_Nazi_Regime_and_the_Third_Reich,_starting_as_early_as_the_early_1930s_and_continuing_all_the_way_through_to_the_collapse_of_the_Third_Reich.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Controversies>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#GCNA_Canada -->
+
+    <owl:Thing rdf:about="&base;GCNA_Canada">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Garant_Austria -->
+
+    <owl:Thing rdf:about="&base;Garant_Austria">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Gen_Re -->
+
+    <base:Reinsurance rdf:about="&base;Gen_Re">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Reinsurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Generali -->
+
+    <owl:Thing rdf:about="&base;Generali">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Great_Eastern -->
+
+    <base:Life_insurance rdf:about="&base;Great_Eastern">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Groupama_France -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Groupama_France">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#HCC_International_UK -->
+
+    <owl:Thing rdf:about="&base;HCC_International_UK">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Hannover_Re -->
+
+    <base:Reinsurance rdf:about="&base;Hannover_Re">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Reinsurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Hannover_Re_worldwide -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Hannover_Re_worldwide">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Helmut_Perlet -->
+
+    <base:Chairman_of_the_supervisory_board rdf:about="&base;Helmut_Perlet">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Chairman_of_the_supervisory_board>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Hunter_Premium_Funding -->
+
+    <base:Subsidiaries rdf:about="&base;Hunter_Premium_Funding">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Hyundai_Marine__Fire_Insurance -->
+
+    <owl:Thing rdf:about="&base;Hyundai_Marine__Fire_Insurance">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ICIC_Israel -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;ICIC_Israel">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#ING -->
+
+    <base:Composite rdf:about="&base;ING">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#If_PC_Insurance -->
+
+    <owl:Thing rdf:about="&base;If_PC_Insurance">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1900_the_company_became_the_first_insurer_to_obtain_a_license_to_distribute_corporate_policies._In_1904_Paul_Von_Naher_took_over_the_sole_leadership_of_the_company,_as_it_moved_into_the_US_and_other_markets._Markets_entered_by_1914_included_the_Netherlands,_Italy,_Belgium,_France,_the_Scandinavian_countries_and_the_Baltic_States,_and_Allianz_had_become_the_largest_maritime_insurer_in_Germany._The_company_suffered_an_early_disaster_in_expansion,_when_the_1906_San_Francisco_earthquake_caused_the_company_to_sustain_300,000_marks_in_losses._In_1905_the_company_acquired_Fides_Insurance_Company,_a_firm_that_had_innovated_the_first_form_of_home_invasion_insurance._Other_places_it_would_expand_into_during_the_1910s_and_1920s_included_Palestine,_Cyprus,_Iraq,_China,_the_Dutch_Indies,_Ceylon,_and_Siam. -->
+
+    <owl:Thing rdf:about="&base;In_1900_the_company_became_the_first_insurer_to_obtain_a_license_to_distribute_corporate_policies._In_1904_Paul_Von_Naher_took_over_the_sole_leadership_of_the_company,_as_it_moved_into_the_US_and_other_markets._Markets_entered_by_1914_included_the_Netherlands,_Italy,_Belgium,_France,_the_Scandinavian_countries_and_the_Baltic_States,_and_Allianz_had_become_the_largest_maritime_insurer_in_Germany._The_company_suffered_an_early_disaster_in_expansion,_when_the_1906_San_Francisco_earthquake_caused_the_company_to_sustain_300,000_marks_in_losses._In_1905_the_company_acquired_Fides_Insurance_Company,_a_firm_that_had_innovated_the_first_form_of_home_invasion_insurance._Other_places_it_would_expand_into_during_the_1910s_and_1920s_included_Palestine,_Cyprus,_Iraq,_China,_the_Dutch_Indies,_Ceylon,_and_Siam.">
+        <rdf:type rdf:resource="&base;Foundation"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1905_the_company_began_to_offer_fire_insurance,_and_in_1911_it_began_to_sell_machinery_breakdown_policies._Allianz_remained_the_only_company_in_the_world_that_sold_machine_breakdown_insurance_until_1924._Then_in_1918_it_began_to_offer_automobile_insurance_as_well._In_1921_Von_Naher_passed_away,_and_was_succeeded_by_Kurt_Schmitt._The_company_would_begin_to_offer_life_insurance_as_of_1922,_becoming_Europes_largest_offerer_of_the_policies_by_the_end_of_the_1920s. -->
+
+    <ns1:th_century_developments rdf:about="&base;In_1905_the_company_began_to_offer_fire_insurance,_and_in_1911_it_began_to_sell_machinery_breakdown_policies._Allianz_remained_the_only_company_in_the_world_that_sold_machine_breakdown_insurance_until_1924._Then_in_1918_it_began_to_offer_automobile_insurance_as_well._In_1921_Von_Naher_passed_away,_and_was_succeeded_by_Kurt_Schmitt._The_company_would_begin_to_offer_life_insurance_as_of_1922,_becoming_Europes_largest_offerer_of_the_policies_by_the_end_of_the_1920s.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:th_century_developments>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1927_Allianz_merged_with_Stuttgarter_Verein_Versicherung_AG_and_two_years_later_acquired_the_insurance_businesses_of_Favag,_a_large_German_insurer_that_declared_bankruptcy_due_to_the_onset_of_the_Great_Depression._Expansion_of_the_company_then_slowed_until_1938_at_which_point_it_employed_more_than_24,000_people._Christian_Stadler_wrote_of_the_history_of_Allianz_that_it_shows_how_important_it_is_to_diversify_into_related_areas_to_hedge_against_the_risk_of_fundamental_changes_in_markets_and_economies. -->
+
+    <owl:Thing rdf:about="&base;In_1927_Allianz_merged_with_Stuttgarter_Verein_Versicherung_AG_and_two_years_later_acquired_the_insurance_businesses_of_Favag,_a_large_German_insurer_that_declared_bankruptcy_due_to_the_onset_of_the_Great_Depression._Expansion_of_the_company_then_slowed_until_1938_at_which_point_it_employed_more_than_24,000_people._Christian_Stadler_wrote_of_the_history_of_Allianz_that_it_shows_how_important_it_is_to_diversify_into_related_areas_to_hedge_against_the_risk_of_fundamental_changes_in_markets_and_economies.">
+        <rdf:type rdf:resource="&base;20th_century_developments"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1990,_Allianz_started_an_expansion_into_eight_Eastern_European_countries_with_establishing_a_presence_in_Hungary._In_the_same_decade,_Allianz_also_acquired_Firemans_Fund,_an_insurer_in_the_United_States,_which_was_followed_by_the_purchase_of_Assurances_G?n?rales_de_France_AGF,_Paris._These_acquisitions_were_followed_by_the_expansion_into_Asia_with_several_joint_ventures_and_acquisitions_in_China_and_South_Korea_and_the_acquisition_of_Australias_Manufacturers_Mutual_Insurance._Around_this_time_Allianz_expanded_its_asset_management_business_as_well_by_purchasing_for_example_asset_management_companies_in_California. -->
+
+    <owl:Thing rdf:about="&base;In_1990,_Allianz_started_an_expansion_into_eight_Eastern_European_countries_with_establishing_a_presence_in_Hungary._In_the_same_decade,_Allianz_also_acquired_Firemans_Fund,_an_insurer_in_the_United_States,_which_was_followed_by_the_purchase_of_Assurances_G?n?rales_de_France_AGF,_Paris._These_acquisitions_were_followed_by_the_expansion_into_Asia_with_several_joint_ventures_and_acquisitions_in_China_and_South_Korea_and_the_acquisition_of_Australias_Manufacturers_Mutual_Insurance._Around_this_time_Allianz_expanded_its_asset_management_business_as_well_by_purchasing_for_example_asset_management_companies_in_California.">
+        <rdf:type rdf:resource="&base;20th_century_developments"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_1993_Henning_Schulte-Noelle_commissioned_a_new_Archive_for_Corporate_History,_becoming_the_first_Allianz_CEO_to_address_the_companys_activities_during_the_Third_Reich._In_1997_Schulte-Noelle_asked_Gerald_Feldman,_historian_from_the_University_of_California-Berkeley,_if_he_would_undertake_a_larger_research_project_on_Allianzs_past_involvement_with_the_Third_Reich._After_research_began,_Jewish_World_War_II_survivors_and_their_descendants_took_Allianz_and_other_European_insurance_companies_to_court,_accusing_them_of_unpaid_insurance_policies._Allianz_and_four_other_insurers_supported_the_creation_of_the_International_Commission_on_Holocaust_Era_Insurance_Claims_ICHEIC. -->
+
+    <owl:Thing rdf:about="&base;In_1993_Henning_Schulte-Noelle_commissioned_a_new_Archive_for_Corporate_History,_becoming_the_first_Allianz_CEO_to_address_the_companys_activities_during_the_Third_Reich._In_1997_Schulte-Noelle_asked_Gerald_Feldman,_historian_from_the_University_of_California-Berkeley,_if_he_would_undertake_a_larger_research_project_on_Allianzs_past_involvement_with_the_Third_Reich._After_research_began,_Jewish_World_War_II_survivors_and_their_descendants_took_Allianz_and_other_European_insurance_companies_to_court,_accusing_them_of_unpaid_insurance_policies._Allianz_and_four_other_insurers_supported_the_creation_of_the_International_Commission_on_Holocaust_Era_Insurance_Claims_ICHEIC.">
+        <rdf:type rdf:resource="&base;Controversies"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_April_2001,_Allianz_agreed_to_acquire_the_80_per_cent_of_Dresdner_Bank_that_it_did_not_already_own_for_US$20_billion._As_part_of_the_transaction,_Allianz_agreed_to_sell_its_13.5_per_cent_stake_in_HypoVereinsbank_to_Munich_Re,_and_to_acquire_Munich_Res_40_per_cent_stake_in_Allianz_Leben._Following_completion_of_the_acquisition,_Allianz_and_Dresdner_Bank_combined_their_asset_management_activities_by_forming_Allianz_Global_Investors._In_2002,_Michael_Diekmann_succeeded_Henning_Schulte-Noelle_as_CEO_of_Allianz_AG._In_June_2006,_Allianz_announced_the_layoff_of_7,280_employees,_about_4_percent_of_its_worldwide_work_force_at_the_time,_as_part_of_a_restructuring_program_aimed_at_raising_profitability._The_reductions_comprised_5,000_staff_at_Allianz_insurance_operations_and_2,480_at_Dresdner_Bank._In_the_same_month,_Allianz_announced_that_its_Dresdner_Kleinwort_Wasserstein_investment_banking_operation_would_be_renamed_as_simply_Dresdner_Kleinwort. -->
+
+    <owl:Thing rdf:about="&base;In_April_2001,_Allianz_agreed_to_acquire_the_80_per_cent_of_Dresdner_Bank_that_it_did_not_already_own_for_US$20_billion._As_part_of_the_transaction,_Allianz_agreed_to_sell_its_13.5_per_cent_stake_in_HypoVereinsbank_to_Munich_Re,_and_to_acquire_Munich_Res_40_per_cent_stake_in_Allianz_Leben._Following_completion_of_the_acquisition,_Allianz_and_Dresdner_Bank_combined_their_asset_management_activities_by_forming_Allianz_Global_Investors._In_2002,_Michael_Diekmann_succeeded_Henning_Schulte-Noelle_as_CEO_of_Allianz_AG._In_June_2006,_Allianz_announced_the_layoff_of_7,280_employees,_about_4_percent_of_its_worldwide_work_force_at_the_time,_as_part_of_a_restructuring_program_aimed_at_raising_profitability._The_reductions_comprised_5,000_staff_at_Allianz_insurance_operations_and_2,480_at_Dresdner_Bank._In_the_same_month,_Allianz_announced_that_its_Dresdner_Kleinwort_Wasserstein_investment_banking_operation_would_be_renamed_as_simply_Dresdner_Kleinwort.">
+        <rdf:type rdf:resource="&base;Allianz_in_the_21st_century"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_India_Allianz_primarily_operates_through_Bajaj_Allianz_General_Insurance_Company_Limited,_a_joint_venture_between_Allianz_and_Bajaj_Finserv_Limited._Bajaj_Allianz_has_around_1,200_branches_across_India_and_offers_services_including_unit-linked,_traditional,_health,_child_and_pension_policies. -->
+
+    <base:India rdf:about="&base;In_India_Allianz_primarily_operates_through_Bajaj_Allianz_General_Insurance_Company_Limited,_a_joint_venture_between_Allianz_and_Bajaj_Finserv_Limited._Bajaj_Allianz_has_around_1,200_branches_across_India_and_offers_services_including_unit-linked,_traditional,_health,_child_and_pension_policies.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:India>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_Pakistan_Allianz_primarily_operates_through_EFU_Allianz_Health_Insurance_Company_Limited,_a_joint_venture_between_Allianz_and_Eastern_Federal_Union. -->
+
+    <base:Pakistan rdf:about="&base;In_Pakistan_Allianz_primarily_operates_through_EFU_Allianz_Health_Insurance_Company_Limited,_a_joint_venture_between_Allianz_and_Eastern_Federal_Union.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Pakistan>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#In_September_2005,_Allianz_announced_that_it_would_convert_its_holding_company_into_a_European_Company_Societas_Europaea,_becoming_one_of_the_first_major_companies_to_do_so._The_conversion_was_made_in_conjunction_with_Allianzs_acquisition_of_100_per_cent_control_of_its_principal_Italian_subsidiary_Riunione_Adriatica_di_Sicurt?_RAS_for_around_US$7_billion._The_conversion_to_an_SE_was_completed_on_13_October_2006._The_Allianz_Group_also_simplified_its_brand_strategy_from_2006_and_their_previous_emblem_was_replaced_by_the_current_combination_mark._By_2008_the_company_was_Europes_largest_insurer. -->
+
+    <owl:Thing rdf:about="&base;In_September_2005,_Allianz_announced_that_it_would_convert_its_holding_company_into_a_European_Company_Societas_Europaea,_becoming_one_of_the_first_major_companies_to_do_so._The_conversion_was_made_in_conjunction_with_Allianzs_acquisition_of_100_per_cent_control_of_its_principal_Italian_subsidiary_Riunione_Adriatica_di_Sicurt?_RAS_for_around_US$7_billion._The_conversion_to_an_SE_was_completed_on_13_October_2006._The_Allianz_Group_also_simplified_its_brand_strategy_from_2006_and_their_previous_emblem_was_replaced_by_the_current_combination_mark._By_2008_the_company_was_Europes_largest_insurer.">
+        <rdf:type rdf:resource="&base;Allianz_in_the_21st_century"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance,_banking,_asset_management -->
+
+    <owl:Thing rdf:about="&base;Insurance,_banking,_asset_management">
+        <rdf:type rdf:resource="&base;Products"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Insurance_Australia_Group -->
+
+    <owl:Thing rdf:about="&base;Insurance_Australia_Group">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Jackson -->
+
+    <base:Life_insurance rdf:about="&base;Jackson">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#LIC_India -->
+
+    <base:Life_insurance rdf:about="&base;LIC_India">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Legal__General -->
+
+    <owl:Thing rdf:about="&base;Legal__General">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Liberty_Mutual -->
+
+    <base:General_insurance rdf:about="&base;Liberty_Mutual">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Lincoln -->
+
+    <owl:Thing rdf:about="&base;Lincoln">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Lloyds_of_London -->
+
+    <base:Reinsurance rdf:about="&base;Lloyds_of_London">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Reinsurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Lombard_Insurance_Company_South_Africa -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Lombard_Insurance_Company_South_Africa">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Manulife_Financial -->
+
+    <owl:Thing rdf:about="&base;Manulife_Financial">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mapfre -->
+
+    <base:General_insurance rdf:about="&base;Mapfre">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Maximilian_Zimmerer -->
+
+    <owl:Thing rdf:about="&base;Maximilian_Zimmerer">
+        <rdf:type rdf:resource="&base;CFO"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Meiji_Yasuda_Life -->
+
+    <owl:Thing rdf:about="&base;Meiji_Yasuda_Life">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#MetLife -->
+
+    <base:Life_insurance rdf:about="&base;MetLife">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Michael_Diekmann -->
+
+    <owl:Thing rdf:about="&base;Michael_Diekmann">
+        <rdf:type rdf:resource="&base;CEO"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mitsui_Sumitomo_Insurance_Group -->
+
+    <base:General_insurance rdf:about="&base;Mitsui_Sumitomo_Insurance_Group">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mitsui_Sumitomo_Japan -->
+
+    <owl:Thing rdf:about="&base;Mitsui_Sumitomo_Japan">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Mondial -->
+
+    <base:Subsidiaries rdf:about="&base;Mondial">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Munich,_Germany -->
+
+    <owl:Thing rdf:about="&base;Munich,_Germany">
+        <rdf:type rdf:resource="&base;Headquarters"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Munich_Re -->
+
+    <owl:Thing rdf:about="&base;Munich_Re">
+        <rdf:type rdf:resource="&base;Reinsurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Munich_Re_worldwide -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Munich_Re_worldwide">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#National_Mutual_Insurance_Federation_of_Agricultural_Cooperatives -->
+
+    <base:Composite rdf:about="&base;National_Mutual_Insurance_Federation_of_Agricultural_Cooperatives">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Nationale_Borg_Netherlands -->
+
+    <owl:Thing rdf:about="&base;Nationale_Borg_Netherlands">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#New_York_Life -->
+
+    <owl:Thing rdf:about="&base;New_York_Life">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Nippon_Life -->
+
+    <owl:Thing rdf:about="&base;Nippon_Life">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Northwestern_Mutual -->
+
+    <owl:Thing rdf:about="&base;Northwestern_Mutual">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Novae_Group_plc_UK -->
+
+    <owl:Thing rdf:about="&base;Novae_Group_plc_UK">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Old_Mutual -->
+
+    <owl:Thing rdf:about="&base;Old_Mutual">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#On_31_August_2008,_it_was_announced_that_Allianz_had_agreed_to_sell_60.2_per_cent_of_Dresdner_Bank_to_Commerzbank_for_??.8_billion_US$14.4_billion,_with_an_agreement_that_Commerzbank_would_acquire_the_remainder_of_Dresdner_Bank_by_the_end_of_2009._After_renegotiations,_it_was_announced_in_November_2008_that_Commerzbank_would_acquire_the_100_ownership_of_Dresdner_Bank_earlier_12_January_2009._The_sale_price_was_lowered_to_5.5_billion_Euro._Shortly_after_the_transaction_completed,_Commerzbank_was_partially_nationalized_by_the_German_government_to_save_it_from_bankruptcy._Allianz_currently_retains_a_stake_of_around_14_in_Commerzbank. -->
+
+    <owl:Thing rdf:about="&base;On_31_August_2008,_it_was_announced_that_Allianz_had_agreed_to_sell_60.2_per_cent_of_Dresdner_Bank_to_Commerzbank_for_??.8_billion_US$14.4_billion,_with_an_agreement_that_Commerzbank_would_acquire_the_remainder_of_Dresdner_Bank_by_the_end_of_2009._After_renegotiations,_it_was_announced_in_November_2008_that_Commerzbank_would_acquire_the_100_ownership_of_Dresdner_Bank_earlier_12_January_2009._The_sale_price_was_lowered_to_5.5_billion_Euro._Shortly_after_the_transaction_completed,_Commerzbank_was_partially_nationalized_by_the_German_government_to_save_it_from_bankruptcy._Allianz_currently_retains_a_stake_of_around_14_in_Commerzbank.">
+        <rdf:type rdf:resource="&base;Allianz_in_the_21st_century"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#PICC -->
+
+    <owl:Thing rdf:about="&base;PICC">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#PICC_China -->
+
+    <owl:Thing rdf:about="&base;PICC_China">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#PIMCO -->
+
+    <base:Subsidiaries rdf:about="&base;PIMCO">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Subsidiaries>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#PZU -->
+
+    <owl:Thing rdf:about="&base;PZU">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Partner_Re_worldwide -->
+
+    <owl:Thing rdf:about="&base;Partner_Re_worldwide">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Phoenix_Group -->
+
+    <base:Life_insurance rdf:about="&base;Phoenix_Group">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Ping_An_Insurance -->
+
+    <base:Composite rdf:about="&base;Ping_An_Insurance">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Ping_An_PC_China -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Ping_An_PC_China">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Prisma_Austria -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Prisma_Austria">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Prudential_Financial -->
+
+    <owl:Thing rdf:about="&base;Prudential_Financial">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Prudential_plc -->
+
+    <base:Composite rdf:about="&base;Prudential_plc">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#QBE_Insurance -->
+
+    <owl:Thing rdf:about="&base;QBE_Insurance">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#QBE_Insurance_Australia -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;QBE_Insurance_Australia">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#R+V_Re_Germany -->
+
+    <owl:Thing rdf:about="&base;R+V_Re_Germany">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#RSA_Insurance_Group -->
+
+    <owl:Thing rdf:about="&base;RSA_Insurance_Group">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#SACE_BT_Italy -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;SACE_BT_Italy">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#SCOR_Global_PC_SE_worldwide -->
+
+    <owl:Thing rdf:about="&base;SCOR_Global_PC_SE_worldwide">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#SID_First_Credit_Slovenia -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;SID_First_Credit_Slovenia">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Samsung_Fire__Marine_Insurance -->
+
+    <base:General_insurance rdf:about="&base;Samsung_Fire__Marine_Insurance">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Samsung_Life -->
+
+    <base:Life_insurance rdf:about="&base;Samsung_Life">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Scor -->
+
+    <owl:Thing rdf:about="&base;Scor">
+        <rdf:type rdf:resource="&base;Reinsurance_Group_of_America"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Scottish_Widows -->
+
+    <owl:Thing rdf:about="&base;Scottish_Widows">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Seoul_Guarantee_Insurance_Company_Korea -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Seoul_Guarantee_Insurance_Company_Korea">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Societas_Europaea -->
+
+    <owl:Thing rdf:about="&base;Societas_Europaea">
+        <rdf:type rdf:resource="&base;Type"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sompo_Japan -->
+
+    <owl:Thing rdf:about="&base;Sompo_Japan">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sompo_Japan_Japan -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Sompo_Japan_Japan">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Standard_Life -->
+
+    <base:Life_insurance rdf:about="&base;Standard_Life">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#State_Farm_Insurance -->
+
+    <owl:Thing rdf:about="&base;State_Farm_Insurance">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sumitomo_Life -->
+
+    <owl:Thing rdf:about="&base;Sumitomo_Life">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Sun_Life -->
+
+    <owl:Thing rdf:about="&base;Sun_Life">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Swiss_Life -->
+
+    <base:Life_insurance rdf:about="&base;Swiss_Life">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Life_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Swiss_Re -->
+
+    <owl:Thing rdf:about="&base;Swiss_Re">
+        <rdf:type rdf:resource="&base;Reinsurance_Group_of_America"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Swiss_Re_worldwide -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Swiss_Re_worldwide">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Taikang_Life -->
+
+    <owl:Thing rdf:about="&base;Taikang_Life">
+        <rdf:type rdf:resource="&base;Life_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Allianz_Group_in_Italy_is_headed_by_composite_insurance_company_Allianz_SpA_and_it_ranks_second_in_terms_of_premiums_written_and_fifth_in_terms_of_assets_under_management_as_well_as_fourth_for_financial_advisors. -->
+
+    <base:Italy rdf:about="&base;The_Allianz_Group_in_Italy_is_headed_by_composite_insurance_company_Allianz_SpA_and_it_ranks_second_in_terms_of_premiums_written_and_fifth_in_terms_of_assets_under_management_as_well_as_fourth_for_financial_advisors.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Italy>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Geneva_Association -->
+
+    <owl:Thing rdf:about="&base;The_Geneva_Association">
+        <rdf:type rdf:resource="&base;See_also"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_Hartford -->
+
+    <base:Composite rdf:about="&base;The_Hartford">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#The_company_has_also_been_the_sponsor_of_others_sports,_including_the_Women??_British_Open_golf,_Allianz_Open_de_Lyon_golf,_Allianz_Championship_golf,_Allianz_Golf_Open_du_Grand_Toulouse_golf,_Allianz_Suisse_Open_Gstaad_tennis,_Allianz_Cup_tennis,_Allianz_Championship_golf,_and_FINA_Swimming_World_Cup_swimming_events._The_National_Football_League_of_Ireland_is_named_the_Allianz_National_Football_League_for_its_sponsorship. -->
+
+    <base:Sponsorships rdf:about="&base;The_company_has_also_been_the_sponsor_of_others_sports,_including_the_Women??_British_Open_golf,_Allianz_Open_de_Lyon_golf,_Allianz_Championship_golf,_Allianz_Golf_Open_du_Grand_Toulouse_golf,_Allianz_Suisse_Open_Gstaad_tennis,_Allianz_Cup_tennis,_Allianz_Championship_golf,_and_FINA_Swimming_World_Cup_swimming_events._The_National_Football_League_of_Ireland_is_named_the_Allianz_National_Football_League_for_its_sponsorship.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Sponsorships>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#These_expansions_were_followed_in_the_1970s_by_the_establishment_of_business_in_the_United_Kingdom,_the_Netherlands,_Spain,_Brazil_and_the_United_States._In_1986,_Allianz_acquired_Cornhill_Insurance_PLC,_London,_and_the_purchase_of_a_stake_in_Riunione_Adriatica_di_Sicurit?_RAS,_Milan,_strengthened_its_presence_in_Western_and_Southern_Europe_in_the_1980s. -->
+
+    <ns1:th_century_developments rdf:about="&base;These_expansions_were_followed_in_the_1970s_by_the_establishment_of_business_in_the_United_Kingdom,_the_Netherlands,_Spain,_Brazil_and_the_United_States._In_1986,_Allianz_acquired_Cornhill_Insurance_PLC,_London,_and_the_purchase_of_a_stake_in_Riunione_Adriatica_di_Sicurit?_RAS,_Milan,_strengthened_its_presence_in_Western_and_Southern_Europe_in_the_1980s.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns1:th_century_developments>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Tokio_Marine -->
+
+    <base:General_insurance rdf:about="&base;Tokio_Marine">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Tokio_Marine__Nichido_Fire_Japan -->
+
+    <owl:Thing rdf:about="&base;Tokio_Marine__Nichido_Fire_Japan">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Tracing_its_roots_back_to_1914,_Allianz_Australia_Insurance_Limited_operates_throughout_Australia_and_New_Zealand_and_through_its_subsidiaries_offers_a_range_of_insurance_and_risk_management_products_and_services._Subsidiaries_of_Allianz_Australia_include_Club_Marine,_Allianz_Life_and_Hunter_Premium_Funding._In_2012,_Allianz_Australia_announced_a_multi-year_agreement_with_the_SCG_Trust_to_rename_the_Sydney_Football_Stadium_to_Allianz_Stadium. -->
+
+    <base:Australia rdf:about="&base;Tracing_its_roots_back_to_1914,_Allianz_Australia_Insurance_Limited_operates_throughout_Australia_and_New_Zealand_and_through_its_subsidiaries_offers_a_range_of_insurance_and_risk_management_products_and_services._Subsidiaries_of_Allianz_Australia_include_Club_Marine,_Allianz_Life_and_Hunter_Premium_Funding._In_2012,_Allianz_Australia_announced_a_multi-year_agreement_with_the_SCG_Trust_to_rename_the_Sydney_Football_Stadium_to_Allianz_Stadium.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Australia>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Travelers -->
+
+    <owl:Thing rdf:about="&base;Travelers">
+        <rdf:type rdf:resource="&base;General_insurance"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Tryg_Garanti_Denmark -->
+
+    <base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members rdf:about="&base;Tryg_Garanti_Denmark">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Present_International_Credit_Insurance__Surety_Association_ICISA_Members>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#UIIC_India -->
+
+    <base:General_insurance rdf:about="&base;UIIC_India">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#UnipolSai -->
+
+    <base:Composite rdf:about="&base;UnipolSai">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Composite>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Vienna_Insurance_Group -->
+
+    <owl:Thing rdf:about="&base;Vienna_Insurance_Group">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Worldwide -->
+
+    <base:Area_served rdf:about="&base;Worldwide">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Area_served>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#XL_Group -->
+
+    <base:General_insurance rdf:about="&base;XL_Group">
+        <rdf:type rdf:resource="&base;Reinsurance_Group_of_America"/>
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:General_insurance>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Zurich_Insurance_Group -->
+
+    <owl:Thing rdf:about="&base;Zurich_Insurance_Group">
+        <rdf:type rdf:resource="&base;Composite"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#Zurich_Insurance_Group_Zurich_Insurance_plc,_Niederlassung_f?r_Deutschland_Germany,_Zurich_North_America_USA,_Zurich_Global_Corporate,_Surety_UK -->
+
+    <owl:Thing rdf:about="&base;Zurich_Insurance_Group_Zurich_Insurance_plc,_Niederlassung_f?r_Deutschland_Germany,_Zurich_North_America_USA,_Zurich_Global_Corporate,_Surety_UK">
+        <rdf:type rdf:resource="&base;Present_International_Credit_Insurance__Surety_Association_ICISA_Members"/>
+    </owl:Thing>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ALV -->
+
+    <base:FWB rdf:about="&base;_ALV">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:FWB>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Henning_Schulte-Noelle -->
+
+    <ns2:_2003 rdf:about="&base;_Henning_Schulte-Noelle">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns2:_2003>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_It_was_just_one_more_piece_of_business_in_the_Third_Reich,_but_it_demonstrated_that_such_pieces_on_any_large_scale_made_contact_at_some_point_with_all_that_is_represented_by_the_name_Auschwitz_??from_slave_labor_to_extermination_??virtually_inescapable._They_were_recorded_in_a_book_published_by_Cambridge_University_Press. -->
+
+    <base:Feldman_summarized_his_findings_stating rdf:about="&base;_It_was_just_one_more_piece_of_business_in_the_Third_Reich,_but_it_demonstrated_that_such_pieces_on_any_large_scale_made_contact_at_some_point_with_all_that_is_represented_by_the_name_Auschwitz_??from_slave_labor_to_extermination_??virtually_inescapable._They_were_recorded_in_a_book_published_by_Cambridge_University_Press.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </base:Feldman_summarized_his_findings_stating>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Michael_Diekmann -->
+
+    <ns4:_Present_ rdf:about="&base;_Michael_Diekmann">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns4:_Present_>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ras,_established_in_1838_and_based_in_Milan_part_of_the_Allianz_Group_since_1987,_Lloyd_Adriatico,_established_in_1936_and_based_in_Trieste_part_of_the_Allianz_Group_since_1995_and_Allianz_Subalpina,_established_in_1928_and_based_in_Turin_formerly_a_subsidiary_of_Ras. -->
+
+    <ns3:of_three_former_insurance_companies rdf:about="&base;_Ras,_established_in_1838_and_based_in_Milan_part_of_the_Allianz_Group_since_1987,_Lloyd_Adriatico,_established_in_1936_and_based_in_Trieste_part_of_the_Allianz_Group_since_1995_and_Allianz_Subalpina,_established_in_1928_and_based_in_Turin_formerly_a_subsidiary_of_Ras.">
+        <rdf:type rdf:resource="&owl;Thing"/>
+    </ns3:of_three_former_insurance_companies>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#www.allianz.com -->
+
+    <owl:Thing rdf:about="&base;www.allianz.com">
+        <rdf:type rdf:resource="&base;Website"/>
+    </owl:Thing>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 2.2.1.1138) http://owlapi.sourceforge.net -->
+

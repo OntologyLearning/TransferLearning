@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Formatting_information_is_contained_in_the_following_files rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_Guidelines">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Formatting_information_is_contained_in_the_following_files>
+  <base:_ASAP_2011_22nd_IEEE_International_Conference_on rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applicationspecific_Systems,_Architectures_and_Processors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ASAP_2011_22nd_IEEE_International_Conference_on>
+  <base:_ASAP_2011_22nd_IEEE_International_Conference_on rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Santa_Monica,_California,_USA,_September_1114,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ASAP_2011_22nd_IEEE_International_Conference_on>
+  <base:_Submission rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_deadline_extended_to_April_4,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Submission>
+  <base:_Formatting_information_is_contained_in_the_following_files rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LaTeX_Style_Files">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Formatting_information_is_contained_in_the_following_files>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_period_has_ended."/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ASAP_2011_22nd_IEEE_International_Conference_on"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_information_is_contained_in_the_following_files">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_period_has_ended."/>
+  </rdf:Description>
+</rdf:RDF>

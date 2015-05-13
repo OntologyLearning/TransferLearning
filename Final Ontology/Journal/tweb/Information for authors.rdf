@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__ACM_introduces_a_new_publishing_license_agreement,_an_updated_copyright_transfer_agreement,_and_a_new_authorpays_option_which_allows_for_perpetual_open_access_through_the_ACM_Digital_Library._For_more_information,_visit_the_ACM_Author_Rights_web_page_at_http">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_options_for_ACM_authors_to_manage_rights_and_permissions_for_their_work">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_Rights"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Citations_to_relevant_literature">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_and_preparing_your_manuscript">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WWW_conferences_SIGWEB_conferences_TOIT_TOIS">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_the_Web"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Author_names_and_affiliations">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_and_preparing_your_manuscript"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Related_work">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_and_preparing_your_manuscript"/>
+  </owl:NamedIndividual>
+  <base:_Is_TWEB_the_right_place_to_publish_your_work rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Call_for_Papers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Is_TWEB_the_right_place_to_publish_your_work>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Content_indicators">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_and_preparing_your_manuscript"/>
+  </owl:NamedIndividual>
+  <base:_ACM_AuthorIzer_Service rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_You_may_wish_to_distribute_your_paper_from_your_personal_home_page_or_your_employers_institutional_repository._ACMs_AuthorIzer_Service_extends_ACMs_support_for_selfarchiving_by_enabling_authors_to_generate_and_post_links_to_the_paper_distributed_from_the_ACM_Digital_Library.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_ACM_AuthorIzer_Service>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Content_indicators_required_once_paper_is_accepted">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+  </owl:NamedIndividual>
+  <base:_The_Review_process rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_When_we_receive_your_manuscript_and_verify_that_it_can_be_read_and_is_within_the_scope_of_the_journal,_an_Associate_Editor_will_take_responsibility_for_handling_the_review_process._The_Associate_Editor_will_assign_the_article_to_34_reviewers,_study_the_reviews_that_are_returned,_and_make_an_overall_recommendation_to_the_EditorsinChief.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_Review_process>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Abstract">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_and_preparing_your_manuscript"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_names_should_be_given_without_titles_or_degrees_along_with_the_names_and_addresses_of_the_authors_institution._Identify_the_contact_author_for_coauthored_work.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__1_categories_and_subject_descriptors,_2_general_terms,_3_keywords_and_phrases._The_first_two_items_are_selected_from_the_Computing_Reviews_Classification_Scheme_most_recently_revised_in_1998._Select_as_many_as_are_applicable._The_keywords_and_phrases_are_additional_English_language_words_that_indicate_the_content_of_the_submission.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Three_types_of_content_indicators_must_be_assigned">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_abstract_should_concisely_state_the_objectives_of_the_work,_summarize_the_results,_and_give_the_principle_conclusions,_but_omit_future_plans_and_citations.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Citations_should_be_referenced_within_the_text_of_the_paper.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Descriptive_title">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formatting_and_preparing_your_manuscript"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_Rights"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_AuthorIzer_Service"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Is_TWEB_the_right_place_to_publish_your_work">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_for_authors"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_following_are_guidelines_for_the_preparation_of_this_material."/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Review_process"/>
+</rdf:RDF>

@@ -1,0 +1,31 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ACM Transactions on Computational Logic (TOCL),'1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,C
+'Scope of the Journal,'1-2-1,0,0,0,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+"'TOCL welcomes submissions related to all aspects of logic as it pertains to topics in computer science. This area has a great tradition in computer science. Several researchers who earned the ACM Turing award have also contributed to this field, namely Edgar Codd (relational database systems), Stephen Cook (complexity of logical theories), Edsger W. Dijkstra, Robert W. Floyd, Tony Hoare, Amir Pnueli, and Dana Scott (program logics, program derivation and verification, programming languages semantics), Robin Milner (interactive theorem proving, concurrency calculi, and functional programming), and John McCarthy (functional programming and logics in AI).",'1-2-2-1,2,0,0,1,0,2,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,1,N
+"'Logic continues to play an important role in computer science and has permeated several of its areas, including artificial intelligence, computational complexity, database systems, and programming languages.",'1-2-2-2,1,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'The Editorial Board of this journal seeks and hopes to attract high-quality submissions in all the above-mentioned areas of computational logic so that TOCL becomes the standard reference in the field.,'1-2-2-3,2,0,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+'Both theoretical and applied papers are sought. Submissions showing novel use of logic in computer science are especially welcome.,'1-2-2-4,1,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,N
+"'The following areas are currently covered by the members of the Editorial Board. They may change as the field evolves. In particular, submissions on the semantic aspects of the mentioned topics are welcome.",'1-2-2-5,2,0,0,1,0,0,0,0,1,2,1,1,0,1,1,0,0,0,0,0,1,1,3,C
+'Automated Deduction,'1-2-2-6-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Automata and Temporal Logic,'1-2-2-6-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Automated Verification,'1-2-2-6-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Concurrency Calculi and Tools,'1-2-2-6-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Constraint Programming,'1-2-2-6-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Finite Model Theory and Complexity of Logical Theories,'1-2-2-6-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Functional Programming and Lambda Calculus,'1-2-2-6-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Logical Aspects of Computational Complexity,'1-2-2-6-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Logical Aspects of Computational Linguistics and Computational Semantics,'1-2-2-6-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Logical Aspects of Databases,'1-2-2-6-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Logical Aspects of Knowledge Representation, Logic of Geometry, Physics, and Other Commonsense Domains",'1-2-2-6-11,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Logic and Machine Learning,'1-2-2-6-12,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Logic Programming,'1-2-2-6-13,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Logics of Uncertainty,'1-2-2-6-14,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Modal Logic, Epistemic Logic, Dynamic Logic, Logic and Games",'1-2-2-6-15,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Model Checking and Formal Methods,'1-2-2-6-16,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Nonmonotonic Reasoning and Answer Sets,'1-2-2-6-17,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Program Development and Verification,'1-2-2-6-18,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Program Specification,'1-2-2-6-19,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Proof Theory,'1-2-2-6-20,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Term Rewriting Systems,'1-2-2-6-21,0,1,0,1,0,2,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Type Theory and Logical Frameworks,'1-2-2-6-22,0,1,0,1,0,2,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Back to home page,'1-2-2-7,0,0,0,1,0,2,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,N

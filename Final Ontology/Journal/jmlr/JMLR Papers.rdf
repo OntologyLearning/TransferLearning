@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shallow_Parsing_Mar_2002">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_Learning_Methods_for_Text_and_Images_Feb_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Approaches_and_Applications_of_Inductive_Programming_Feb_2006__Mar_2006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_5_Dec_2003__Dec_2004">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_9_Jan_2008__Dec_2008">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eighteenth_International_Conference_on_Machine_Learning_ICML2001_Dec_2002">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kernel_Methods_Dec_2001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Variable_and_Feature_Selection_Mar_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_2_Oct_2001__Mar_2002">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_7_Jan_2006__Dec_2006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fusion_of_Domain_Knowledge_with_Data_for_Decision_Support_Jul_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_1_Oct_2000__Sep_2001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_6_Jan_2005__Dec_2005">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_8_Jan_2007__Dec_2007">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Grammar_Induction,_Representation_of_Language_and_Language_Learning_Nov_2010__Apr_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Causality_Sep_2007__May_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_14_Jan_2013__Dec_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Learning_Theory_Oct_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_15">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Conference_on_Learning_Theory_2005_Feb_2007__Jul_2007">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computational_Learning_Theory_Nov_2002">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Model_Selection_Apr_2007__Jul_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_4_Apr_2003__Dec_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_3_Jul_2002__Mar_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Large_Scale_Learning_Jul_2009__present">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Independent_Components_Analysis_Dec_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_Learning_for_Computer_Security_Dec_2006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Learning_Theory_Jun_2004__Aug_2004">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guesture_Recognition_May_2012__present">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_13_Jan_2012__Dec_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Machine_Learning_and_Large_Scale_Optimization_Jul_2006__Oct_2006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_Special_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Inductive_Logic_Programming_Aug_2003">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Issues>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_10_Jan_2009__Dec_2009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_Special_Topics rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mining_and_Learning_with_Graphs_and_Relations_Feb_2009__present">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_Topics>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_12_Jan_2011__Dec_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <base:_JMLR_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_11_Jan_2010__Dec_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_Papers>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Issues"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Papers"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Topics"/>
+</rdf:RDF>

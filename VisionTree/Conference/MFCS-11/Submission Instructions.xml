@@ -1,0 +1,58 @@
+<VIPSPage Url="http://mfcs.mimuw.edu.pl/index.php/papers-details" PageTitle="Submission Instructions" WindowWidth="413" WindowHeight="768" PageRectLeft="10" PageRectTop="15" PageRectWidth="1024" PageRectHeight="768" neworder="0" order="0"><LayoutNode FrameSourceIndex="0" SourceIndex="17" DoC="1" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="1083" LinkTextLen="93" DOMCldNum="1" FontSize="9" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="768" ID="1" order="1"><LayoutNode FrameSourceIndex="0" SourceIndex="22" DoC="11" ContainImg="1" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="1" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="366" ObjectRectHeight="723" Content=" " SRC="
+&lt;DIV id=drzewo&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/drzewo.png&quot;&gt;&lt;/DIV&gt; " ID="1-1" order="2"/><LayoutNode FrameSourceIndex="0" SourceIndex="26" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="1083" LinkTextLen="93" DOMCldNum="2" FontSize="10" FontWeight="700" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="768" ID="1-2" order="3"><LayoutNode FrameSourceIndex="0" SourceIndex="27" DoC="10" ContainImg="3" IsImg="false" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="3" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1024" ObjectRectHeight="196" Content="    " SRC="
+&lt;DIV id=logo&gt;&lt;DIV id=naglowek&gt;&lt;A title=&quot;MFCS 2011&quot; href=&quot;http://mfcs.mimuw.edu.pl&quot;&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/naglowek.png&quot;&gt;&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV id=eatcslogo&gt;&lt;A title=EATCS href=&quot;http://www.eatcs.org/&quot;&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/eatcslogo-small.png&quot;&gt;&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV id=znaki&gt;&lt;IMG src=&quot;/templates/mfcs2011/images/znaki.png&quot;&gt; &lt;/DIV&gt;&lt;/DIV&gt; " ID="1-2-1" order="4"/><LayoutNode FrameSourceIndex="0" SourceIndex="36" DoC="5" ContainImg="0" IsImg="false" ContainTable="true" ContainP="0" TextLen="1083" LinkTextLen="93" DOMCldNum="2" FontSize="10" FontWeight="700" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="211" ObjectRectWidth="1024" ObjectRectHeight="572" ID="1-2-2" order="5"><LayoutNode FrameSourceIndex="0" SourceIndex="39" DoC="7" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="168" LinkTextLen="0" DOMCldNum="13" FontSize="9" FontWeight="400" BgColor="transparent" ObjectRectLeft="234" ObjectRectTop="217" ObjectRectWidth="176" ObjectRectHeight="336" Content="HomeProgrammeAccepted PapersVenueInvited SpeakersCall For PapersSubmission DetailsLocal InfoRegistrationAccomodationMapProgram CommiteeOrganizersYoung Researchers Forum " SRC="
+&lt;UL class=menu&gt;&lt;LI class=item1&gt;&lt;A href=&quot;http://mfcs.mimuw.edu.pl/&quot;&gt;&lt;SPAN&gt;Home&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item53&gt;&lt;A href=&quot;/index.php/programme&quot;&gt;&lt;SPAN&gt;Programme&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item52&gt;&lt;A href=&quot;/index.php/papers-accepted&quot;&gt;&lt;SPAN&gt;Accepted Papers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item27&gt;&lt;A href=&quot;/index.php/info-venue&quot;&gt;&lt;SPAN&gt;Venue&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item58&gt;&lt;A href=&quot;/index.php/invited-speakers&quot;&gt;&lt;SPAN&gt;Invited Speakers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item20&gt;&lt;A href=&quot;/index.php/papers-cfp&quot;&gt;&lt;SPAN&gt;Call For Papers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI id=current class=&quot;active item51&quot;&gt;&lt;A href=&quot;/index.php/papers-details&quot;&gt;&lt;SPAN&gt;Submission Details&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item56&gt;&lt;A href=&quot;/index.php/general-local-menu&quot;&gt;&lt;SPAN&gt;Local Info&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item54&gt;&lt;A href=&quot;/index.php/registration-menu&quot;&gt;&lt;SPAN&gt;Registration&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item55&gt;&lt;A href=&quot;/index.php/accomodation-menu&quot;&gt;&lt;SPAN&gt;Accomodation&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item57&gt;&lt;A href=&quot;/index.php/localinfo-map-menu&quot;&gt;&lt;SPAN&gt;Map&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item11&gt;&lt;A href=&quot;/index.php/org-pc&quot;&gt;&lt;SPAN&gt;Program Commitee&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item12&gt;&lt;A href=&quot;/index.php/org-organizers&quot;&gt;&lt;SPAN&gt;Organizers&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;
+&lt;LI class=item62&gt;&lt;A href=&quot;/index.php/yrf-menu&quot;&gt;&lt;SPAN&gt;Young Researchers Forum&lt;/SPAN&gt;&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt; " ID="1-2-2-1" order="6"/><LayoutNode FrameSourceIndex="0" SourceIndex="82" DoC="6" ContainImg="0" IsImg="false" ContainTable="true" ContainP="0" TextLen="915" LinkTextLen="93" DOMCldNum="2" FontSize="10" FontWeight="700" BgColor="transparent" ObjectRectLeft="410" ObjectRectTop="211" ObjectRectWidth="624" ObjectRectHeight="488" Content="Important Dates
+Full papers: April 15, 2011
+Notification: May 30, 2011
+Final version: June 13, 2011
+Conference: August 22-26, 2011contact
+MFCS 2011 PC chairs:
+Filip Murlak &amp; Piotr Sankowski
+
+
+Submission server is open at Easychair https://www.easychair.org/conferences/?conf=mfcs2011.
+Submissions will be accepted by 15 April 2011, 23:59:59 UCT. This is a hard deadline.
+Submissions to MFCS must not exceed 12 pages (in Springer-Verlag’s Lecture Notes style and including bibliography). If the authors believe that more details are essential to substantiate the main claims, they may include a clearly marked appendix that will be read at the discretion of the program committee. Simultaneous submissions of papers to any other conference with published proceedings or submitting previously published papers is not allowed. Only electronic submissions in the PDF format are accepted. Detailed information about the submission procedure will be available on the conference web page in due time. The proceedings will be published in the new ARCoSS subline of Lecture Notes in Computer Science by Springer-Verlag.
+   " SRC="
+&lt;DIV id=meat&gt;&lt;DIV id=boxwrapper&gt;
+&lt;DIV id=leftbox class=redbox&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=module&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;H3&gt;Important Dates&lt;/H3&gt;
+&lt;DIV&gt;Full papers: April 15, 2011&lt;BR&gt;Notification: May 30, 2011&lt;BR&gt;Final version: June 13, 2011&lt;BR&gt;Conference: August 22-26, 2011&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;
+&lt;DIV id=rightbox class=redbox&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=moduletable&gt;
+&lt;DIV class=module&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;DIV&gt;
+&lt;H3&gt;contact&lt;/H3&gt;
+&lt;DIV&gt;MFCS 2011 PC chairs:&lt;BR&gt;&lt;A href=&quot;http://www.mimuw.edu.pl/~fmurlak/&quot;&gt;Filip Murlak&lt;/A&gt; &amp;amp; &lt;A href=&quot;http://www.mimuw.edu.pl/~sank/&quot;&gt;Piotr Sankowski&lt;/A&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;
+&lt;DIV id=content&gt;
+&lt;TABLE class=contentpaneopen&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD vAlign=top&gt;
+&lt;P&gt;Submission server is open at Easychair &lt;A href=&quot;https://www.easychair.org/conferences/?conf=mfcs2011&quot;&gt;https://www.easychair.org/conferences/?conf=mfcs2011&lt;/A&gt;.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Submissions will be accepted by &lt;A href=&quot;http://www.timeanddate.com/worldclock/fixedtime.html?day=15&amp;amp;month=4&amp;amp;year=2011&amp;amp;hour=23&amp;amp;min=59&amp;amp;sec=59&amp;amp;p1=0&quot;&gt;15 April 2011, 23:59:59 UCT&lt;/A&gt;.&lt;/STRONG&gt; This is a hard deadline.&lt;/P&gt;
+&lt;P&gt;Submissions to &lt;SPAN class=caps&gt;MFCS&lt;/SPAN&gt; &lt;STRONG&gt;must not exceed 12 pages&lt;/STRONG&gt; (in Springer-Verlag’s Lecture Notes style and including bibliography). If the authors believe that more details are essential to substantiate the main claims, they may include a clearly marked appendix that will be read at the discretion of the program committee. Simultaneous submissions of papers to any other conference with published proceedings or submitting previously published papers is not allowed. Only electronic submissions in the &lt;SPAN class=caps&gt;PDF&lt;/SPAN&gt; format are accepted. Detailed information about the submission procedure will be available on the conference web page in due time. The proceedings will be published in the new &lt;A href=&quot;http://www.springer.com/computer/lncs?SGWID=0-164-6-737109-0&quot;&gt;ARCoSS subline&lt;/A&gt; of Lecture Notes in Computer Science by Springer-Verlag.&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;SPAN class=article_separator&gt;&amp;nbsp;&lt;/SPAN&gt; &lt;/DIV&gt;&lt;/DIV&gt; " ID="1-2-2-2" order="7"/></LayoutNode></LayoutNode></LayoutNode></VIPSPage>

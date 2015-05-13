@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_new_book,_an_Introduction_to_Information_Retrieval,_with_Hinrich_Schtze_and_Prabhakar_Raghavan,_is_now_available_in_print._My_bestseller_is_Manning_and_Schtze,_Foundations_of_Statistical_Natural_Language_Processing_MIT_Press,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_spring_2009,_I_will_again_teach_CS_224N__Ling_237._Natural_Language_Processing__Develops_an_indepth_understanding_of_both_the_algorithms_available_for_the_processing_of_linguistic_information_and_the_underlying_computational_properties_of_natural_languages._Morphological,_syntactic,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_fall_1999_and_winter_2001,_I_taught_CS_121_Artificial_Intelligence._The_text_book_was_S._Russell_and_P._Norvig,"
+  xmlns:ns4="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_fall_2008,"
+  xmlns:ns5="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_summer_of_2007,"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prashee_Balaji,_Gates_150,_1_650_7253358,_prachics.stanford.edu">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A"/>
+  </owl:NamedIndividual>
+  <base:_M rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dept_of_Computer_Science,_Gates_Building_1A,_353_Serra_Mall,_Stanford_CA_943059010,_USA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_M>
+  <ns4:_I_will_again_teach_CS_276 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Information_Retrieval_and_Web_Search,_with_Prabhakar_Raghavan_Earlier_versions_of_this_course_include_two_years_of_twoquarter_sequences_CS276AB_on_information_retrieval_and_text_information_classification_and_extraction,_broadly_construed_IR">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns4:_I_will_again_teach_CS_276>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BA_Hons_Australian_National_University_1989_majors_in_mathematics,_computer_science_and_linguistics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <base:_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Most_of_my_papers_are_available_online_in_my_publication_list._Or_things_might_be_more_uptodate_at_Google_Scholar_or_Microsoft_Academic_Search">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Papers>
+  <base:_Masters_students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__I_have_normally_employed_a_couple_of_masters_students._Most_appealing_are_people_with_a_background_in_NLP,_and_time_to_devote_to_an_RAship._If_you_want_to_convince_me,_your_best_approach_is_to_do_well_in_CS_224N">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Masters_students>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lecturer_University_of_Sydney_Dept_of_Linguistics_199699">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <base:_O rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tue_45">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_O>
+  <base:_R rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gates_158">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_R>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assoc_Professor_Stanford_University_Depts_of_Linguistics_and_Computer_Science_20062012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <base:_Courses rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Starting_January_2012,_Ill_be_teaching_a_free_online_course_on_Natural_Language_Processing_with_Dan_Jurafsky">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Courses>
+  <base:_Unadmitted_students rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__The_above_statement_is_directed_at_students_who_have_already_been_admitted_to_Stanford._I_dont_do_admissions._You_need_to_apply_to_a_program_in_the_usual_manner_for_Linguistics_see_http">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Unadmitted_students>
+  <base:_W rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_650_7237683">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_W>
+  <base:_Research_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_research_at_Stanford_is_currently_supported_by_an_IBM_Faculty_Partnership_Award,_IARPA,_DARPA,_and_the_NSF">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Projects>
+  <base:_Conferences_and_Talks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2013,_I_helped_organize_the_first_CVSC_workshop._It_was_a_really_lively_workshop._Were_organizing_a_second_Workshop_on_Continuous_Vector_Space_Models_and_their_Compositionality_at_EACL_2014">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Conferences_and_Talks>
+  <base:_Christopher_Manning rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_of_Linguistics_and_Computer_Science">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Christopher_Manning>
+  <base:_Conferences_and_Talks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Im_helping_organize_a_Workshop_on_Interactive_Language_Learning,_Visualization,_and_Interfaces_to_be_held_at_ACL_2014._Were_trying_to_build_an_interdisciplinary_community_interested_in_the_intersection_of_NLP,_HCI,_and_data_visualization._Join_us">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Conferences_and_Talks>
+  <base:_LaTeX rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__When_I_used_to_have_more_time_i.e.,_when_I_was_a_grad_student,_I_used_to_spend_some_of_it_writing_LaTeX_macros._Actually,_thats_a_lie_I_still_spend_some_time_doing_it">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_LaTeX>
+  <base:_Undergraduate_students_in_CSLinguistics_or_allied_fields rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__please_contact_me_directly">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PhD_students_in_CSLinguistics_or_allied_fields">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Projects"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Undergraduate_students_in_CSLinguistics_or_allied_fields>
+  <base:_Christopher_Manning rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Natural_Language_Processing_Group,_Stanford_University">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Christopher_Manning>
+  <ns3:_Artificial_Intelligence rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__A_Modern_Approach">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns3:_Artificial_Intelligence>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asst_Professor_Carnegie_Mellon_University_Computational_Linguistics_Program_199496">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <base:_Research_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_current_research_focuses_on_robust_but_linguistically_sophisticated_probabilistic_natural_language_processing,_and_opportunities_to_use_it_in_realworld_domains._Particularly_topics_include_richer_models_for_probabilistic_parsing,_computational_semantics,_machine_translation,_grammar_induction,_text_categorization_and_clustering,_incorporating_probabilistic_models_into_syntactic_theories,_electronic_dictionaries_and_their_usability,_particularly_for_indigenous_languages,_information_extraction_and_presentation,_and_linguistic_typology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Projects>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Statistical_Parsing_and_Computational_Linguistics_in_Industry">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_the_summer_of_2007,_I_taught_at_the_LSA_Linguistic_Institute">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_In_fall_2007_I_taught_Ling_289 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Quantitative_and_Probabilistic_Explanation_in_Linguistics_MW_2">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_In_fall_2007_I_taught_Ling_289>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_Stanford_University_Depts_of_Linguistics_and_Computer_Science_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <base:_Christopher_Manning rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chris_Manning_works_on_systems_and_formalisms_that_can_intelligently_process_and_produce_human_languages._His_research_concentrates_on_probabilistic_models_of_language_and_statistical_natural_language_processing_including_text_understanding,_text_mining,_machine_translation,_information_extraction,_named_entity_recognition,_partofspeech_tagging,_probabilistic_parsing_and_semantic_role_labeling,_syntactic_typology,_computational_lexicography,_and_other_topics_in_computational_linguistics_and_machine_learning">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Christopher_Manning>
+  <base:_F rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_650_7251449">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_F>
+  <base:_Courses rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_NLP_Reading_Group_which_I_ran_19992002_has_now_been_transformed_into_The_Natural_Language_and_Speech_Processing_Colloquium">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Courses>
+  <base:_Weve_now_got_two_sons rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Joel_and_Casey._Here_are_my_opinions_on_books_for_the_very_young">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Weve_now_got_two_sons>
+  <base:_Courses rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_June_2011,_I_taught_a_tutorial_Natural_Language_Processing_Tools_for_the_Digital_Humanities_at_Digital_Humanities_2011_at_Stanford">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Courses>
+  <base:_Courses rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_cotaught_tutorials_on_Deep_Learning_for_NLP_at_ACL_2012_with_Yoshua_Bengio_and_Richard_Socher,_and_at_NAACL_2013_with_Richard_Socher._Slides,_references,_and_videos_are_available">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Courses>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Im_Australian_I_come_from_a_land_of_wide_open_spaces">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <base:_Research_Projects rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_I_am_interested_in_new_students_wanting_to_work_in_the_area_of_Natural_Language_Processing._To_find_out_more_about_what_I_do,_its_best_to_look_at_my_papers,_or_my_group_research_page._However,_to_cut_down_on_my_email_load,_its_necessary_to_put_in_some_more_information">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research_Projects>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PhD_Stanford_Linguistics_1995">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__using_large_corpora,_statistical_models_for_acquisition,_disambiguation,_and_parsing._Examination_and_construction_of_representative_systems._Prerequisites">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_spring_2009,_I_will_again_teach_CS_224N__Ling_237._Natural_Language_Processing__Develops_an_indepth_understanding_of_both_the_algorithms_available_for_the_processing_of_linguistic_information_and_the_underlying_computational_properties_of_natural_languages._Morphological,_syntactic,_and_semantic_processing_from_both_a_linguistic_and_an_algorithmic_perspective._Focus_on_modern_quantitative_techniques_in_NLP">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_E rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_manningcs.stanford.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_E>
+  <base:_Conferences_and_Talks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_few_of_my_talks_are_available_online">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Conferences_and_Talks>
+  <base:_Brief_Bio rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asst_Professor_Stanford_University_Depts_of_Computer_Science_and_Linguistics_19992006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Brief_Bio>
+  <ns1:_1999._My_two_monographs_are_Ergativity rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Argument_Structure_and_Grammatical_Relations_and_Complex_Predicates_and_Information_Spreading_in_LFG">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_1999._My_two_monographs_are_Ergativity>
+  <base:_Conferences_and_Talks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2013,_I_was_one_of_the_program_cochairs_for_the_new_International_Conference_on_Learning_Representations_ICLR_2013._It_was_a_really_good_workshopscale_event._You_can_now_get_information_on_ICLR_2014">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Conferences_and_Talks>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Projects"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brief_Bio"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_M">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_stuff"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_fall_1999_and_winter_2001,_I_taught_CS_121_Artificial_Intelligence._The_text_book_was_S._Russell_and_P._Norvig,_Artificial_Intelligence">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Undergraduate_students_in_CSLinguistics_or_allied_fields">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Projects"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Weve_now_got_two_sons">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_stuff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Masters_students">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Projects"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Christopher_Manning"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_fall_2008,_I_will_again_teach_CS_276">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_R">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_F">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Unadmitted_students">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research_Projects"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Books"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_fall_2007_I_taught_Ling_289">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Conferences_and_Talks"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Courses"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_W">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_E">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_My_new_book,_an_Introduction_to_Information_Retrieval,_with_Hinrich_Schtze_and_Prabhakar_Raghavan,_is_now_available_in_print._My_bestseller_is_Manning_and_Schtze,_Foundations_of_Statistical_Natural_Language_Processing_MIT_Press,_1999._My_two_monographs_are_Ergativity">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Books"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_O"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LaTeX">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_stuff"/>
+  </rdf:Description>
+</rdf:RDF>

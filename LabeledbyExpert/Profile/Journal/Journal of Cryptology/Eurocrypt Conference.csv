@@ -1,0 +1,25 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Eurocrypt Conference,'1-2-1-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,0,C
+"'The Eurocrypt conference is an international conference on all aspects of cryptology. The Eurocrypt conference has been held every year since 1987, and is held in a different location in Europe every year. For information about organizing Eurocrypt in the future, contact an Officer or a Director in the Board of Directors.",'1-2-1-2-1,2,0,0,1,0,2,1,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,1,N
+'Information about previous years is available below. Information about publications from the conferences may be found in Cryptodb.,'1-2-1-2-2,1,0,0,1,0,0,1,0,1,2,1,1,0,1,0,0,0,1,0,0,1,1,3,N
+"'Eurocrypt 2014, Copenhagen, Denmark.",'1-2-1-2-3-1,0,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
+"'Eurocrypt 2013, Athens, Greece.",'1-2-1-2-3-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 2012, Cambridge, UK. Mirror of website mirror created 4-Sep-13",'1-2-1-2-3-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+"'Eurocrypt 2011, Tallinn, Estonia.",'1-2-1-2-3-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Eurocrypt 2010, Nice, French Riviera, France. Mirror of website mirror created 4-Sep-13",'1-2-1-2-3-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 2009, Cologne, Germany. Mirror of website",'1-2-1-2-3-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 2008, Istanbul, Turkey. Rump session presentations and videos",'1-2-1-2-3-7,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 2007, Barcelona, Spain.",'1-2-1-2-3-8,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 2006, St. Petersburg, Russia.",'1-2-1-2-3-9,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Eurocrypt 2005, Aarhus, Denmark. Mirror of website Mirror created 26-May-06",'1-2-1-2-3-10,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'Eurocrypt 2004, Interlaken, Switzerland. Mirror of website Mirror created 14-Oct-04.",'1-2-1-2-3-11,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Eurocrypt 2003, Warsaw, Poland.",'1-2-1-2-3-12,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Eurocrypt 2002, Amsterdam, The Netherlands. Mirror of website Mirror created 20-Oct-03.",'1-2-1-2-3-13,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Eurocrypt 2001, Innsbruck, Austria. Mirror of website Mirror created 30-Apr-02.",'1-2-1-2-3-14,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'Eurocrypt 2000, Bruges, Belgium. Mirror of website Mirror created 01-Jan-01.",'1-2-1-2-3-15,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'Eurocrypt 1999, Prague, Czech Republic.",'1-2-1-2-3-16,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Eurocrypt 1998, Espoo, Finland.",'1-2-1-2-3-17,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 1997, Konstanz, Germany.",'1-2-1-2-3-18,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 1996, Saragossa, Spain.",'1-2-1-2-3-19,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Eurocrypt 1995, Saint-Malo, France.",'1-2-1-2-3-20,0,1,0,1,0,2,1,0,2,2,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Copyright © 2014 IACR,'1-2-2,0,0,0,1,0,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N

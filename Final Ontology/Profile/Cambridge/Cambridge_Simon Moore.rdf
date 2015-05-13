@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Miscellaneous"/>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Paul_Foxs_thesis_on_Massively_Parallel_Neural_Computation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Design_and_ECAD">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Oct_2011__Large_grant_awarded_under_the_DARPA_Mission_Oriented_Resilient_Clouds_program">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Examples">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Asynchronous_Remote_Stores_for_InterProcessor_Communication_at_FASPP2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Febriary_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_July_2012__keynote_on_Communication__the_next_resource_war_at_ReCoSoC_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Computer_Architecture_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_September_2012__Paper_on_Mamba__A_Scalable_Communication_Centric_Multithreaded_Processor_Architecture_appears_at_ICCD">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Trinity_Hall_my_college"/>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_March_2013__Video_of_Nengo_character_recognition_system_on_FPGA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_June_2013__FPGA_prototype_tablet_design_open_sourced_based_around_a_DE4_board_and_multitouch_screen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Feb_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_March_2012__Our_CHERI_processor_boots_multiuser_FreeBSD_on_FPGA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_September_2013__Paper_presented_at_FPL_comparing_custom_computing_to_vector_processing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_May_2013__PCIetoSATA_breakout_board_open_sourced">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_January_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Group_meetings">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_July_2012__Advertising_two_RASRA_positions_now_closed">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__a_research_platform_deconflating_hardware_virtualization_and_protection_at_RESoLVE_2012">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CHERI">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Some_News"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Comp_Arch_People">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_June_2012__paper_on_Energy_Implications_of_Photonic_Networks_With_Speculative_Transmission_is_spotlighted_by_OCN">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Energy_Implications_of_Photonic_Networks_With_Speculative_Transmission_highlighted_by_OCN_Journal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Projects">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publications">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Resume"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_July_2012__paper_on">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_December_2013__Video_of_tadpole_neural_model_on_FPGA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Rosemary_Fancis_Ph.D._thesis_on_Exploring_NoCs_for_FPGAs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Details"/>
+  <base:_Teaching rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Advanced_Computer_Design">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Teaching>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Designing_a_physical_locality_aware_coherence_protocol_for_CMPs_accepted_by_IEEE_Transactions_on_Computers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_April_2012__Initial_results_from_Bluehive_massively_parallel_FPGA_platform_appear_at_FCCM_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nov_2011__Dan_Greenfield_wins_the_2011_distinguished_dissertation_award">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_March_2012__paper">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_March_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Philip_Pauls_thesis_on_Microelectronic_Security_Measures">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_June_2010__awarded_the_Pilkington_Teaching_Prize">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Some_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_June_2012__paper_on">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Some_News>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Graduated_Ph.D._students">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Research rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Opportunities_including_current_vacancies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Research>
+  <base:_Simon_Moore rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simon_Moore_is_Reader_in_Computer_Architecture_at_the_University_of_Cambridge_Computer_Laboratory_in_England,_where_he_undertakes_research_and_teaching_in_the_general_area_of_computer_design_with_particular_interests_in_massively_parallel_computer_architecture_and_associated_algorithm_issues._Dr_Moore_is_the_senior_member_of_the_Computer_Architecture_research_group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Simon_Moore>
+  <base:_Resume rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ph.D.s_Supervised">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Resume>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Resume"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Simon_Moore"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Teaching"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Research"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Some_News"/>
+</rdf:RDF>

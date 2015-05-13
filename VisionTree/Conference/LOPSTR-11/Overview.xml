@@ -1,0 +1,427 @@
+<VIPSPage Url="http://users.dsic.upv.es/~lopstr11/" PageTitle="LOPSTR 2011: Logic-Based Program Synthesis and Transformation" WindowWidth="413" WindowHeight="5307" PageRectLeft="10" PageRectTop="15" PageRectWidth="612" PageRectHeight="5288" neworder="0" order="0"><LayoutNode FrameSourceIndex="0" SourceIndex="10" DoC="2" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="6754" LinkTextLen="1253" DOMCldNum="8" FontSize="24" FontWeight="700" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="612" ObjectRectHeight="5288" ID="1" order="1"><LayoutNode FrameSourceIndex="0" SourceIndex="11;12;13;16;23;30" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="6741" LinkTextLen="1240" DOMCldNum="6" FontSize="13.55" FontWeight="700" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="612" ObjectRectHeight="5232" ID="1-1" order="2"><LayoutNode FrameSourceIndex="0" SourceIndex="11;12" DoC="6" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="81" LinkTextLen="0" DOMCldNum="2" FontSize="21.6" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="413" ObjectRectHeight="85" Content="21st International Symposium on  Logic-Based Program Synthesis and Transformation  " SRC="
+&lt;DIV class=sympheader&gt;21st International Symposium on &lt;/DIV&gt; 
+&lt;DIV class=nameheader&gt;Logic-Based Program Synthesis and Transformation &lt;/DIV&gt; " ID="1-1-1" order="3"/><LayoutNode FrameSourceIndex="0" SourceIndex="13;16;23;30" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="6660" LinkTextLen="1240" DOMCldNum="4" FontSize="13.55" FontWeight="700" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="100" ObjectRectWidth="612" ObjectRectHeight="5147" ID="1-1-2" order="4"><LayoutNode FrameSourceIndex="0" SourceIndex="13" DoC="11" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="11" LinkTextLen="0" DOMCldNum="1" FontSize="24" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="100" ObjectRectWidth="413" ObjectRectHeight="36" Content="LOPSTR 2011 " SRC="
+&lt;DIV class=acroheader&gt;LOPSTR 2011&lt;/DIV&gt; " ID="1-1-2-1" order="5"/><LayoutNode FrameSourceIndex="0" SourceIndex="16;23;30" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="6649" LinkTextLen="1240" DOMCldNum="3" FontSize="13.55" FontWeight="700" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="155" ObjectRectWidth="612" ObjectRectHeight="5092" ID="1-1-2-2" order="6"><LayoutNode FrameSourceIndex="0" SourceIndex="16;23" DoC="6" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="85" LinkTextLen="27" DOMCldNum="2" FontSize="12" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="155" ObjectRectWidth="413" ObjectRectHeight="94" Content="Odense, Denmark 
+July 18-20, 2011  Co-located with PPDP 2011, AAIP 2011 and WFLP 2011.  " SRC="
+&lt;TABLE border=0 cellSpacing=2 cellPadding=3 width=&quot;100%&quot;&gt;&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD class=seacolor&gt;Odense, Denmark &lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD class=beachcolor&gt;July 18-20, 2011 &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt; 
+&lt;DIV class=affiliation&gt;Co-located with &lt;A href=&quot;http://www-ps.informatik.uni-kiel.de/ppdp11/&quot; target=_blank&gt;PPDP 2011&lt;/A&gt;, &lt;A href=&quot;http://www.cogsys.wiai.uni-bamberg.de/aaip11/&quot; target=_blank&gt;AAIP 2011&lt;/A&gt; and &lt;A href=&quot;http://www.wi.uni-muenster.de/pi/konferenzen/wflp2011/wflp2011.htm&quot; target=_blank&gt;WFLP 2011&lt;/A&gt;. &lt;/DIV&gt; " ID="1-1-2-2-1" order="7"/><LayoutNode FrameSourceIndex="0" SourceIndex="30" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="6564" LinkTextLen="1213" DOMCldNum="2" FontSize="13.55" FontWeight="700" BgColor="#8b1a1a" ObjectRectLeft="12" ObjectRectTop="270" ObjectRectWidth="610" ObjectRectHeight="4977" ID="1-1-2-2-2" order="8"><LayoutNode FrameSourceIndex="0" SourceIndex="31" DoC="7" ContainImg="3" IsImg="false" ContainTable="true" ContainP="0" TextLen="169" LinkTextLen="169" DOMCldNum="15" FontSize="10.2" FontWeight="700" BgColor="#8b1a1a" ObjectRectLeft="12" ObjectRectTop="270" ObjectRectWidth="232" ObjectRectHeight="4977" Content=" Conference Description
+ Conference Program
+ Registration
+ Accomodation
+ Proceedings
+ Important Dates
+ Submissions
+ Invited Speakers
+ Program Committee
+ Contacts
+ Call for Papers
+ Sponsorships " SRC="
+&lt;TD vAlign=top&gt;&lt;TABLE class=latmenu&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#description&quot;&gt;Conference&amp;nbsp;Description&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;lopstr11_program.html&quot;&gt;Conference Program&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;http://www.imada.sdu.dk/~petersk/OLP/&quot; target=_blank&gt;Registration&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;http://www.imada.sdu.dk/~petersk/OLP/&quot; target=_blank&gt;Accomodation&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#procs&quot;&gt;Proceedings&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;!--&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;ball.gif&quot; border=&quot;0&quot; alt=&quot;o&quot;&gt;&amp;nbsp;&lt;/td&gt;
+      &lt;td&gt;&lt;a class=&quot;button&quot; href=&quot;accepted.html&quot;&gt;Accepted Papers&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;--&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#deadlines&quot;&gt;Important Dates&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#submissions&quot;&gt;Submissions&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#invited&quot;&gt;Invited Speakers&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#pc&quot;&gt;Program Committee&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#contact&quot;&gt;Contacts&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#cfp&quot;&gt;Call for Papers&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;IMG border=0 alt=o src=&quot;pics/ball.gif&quot;&gt;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&lt;A class=button href=&quot;#sponsorships&quot;&gt;Sponsorships&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;!--  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;LOPSTR/ball.gif&quot; alt=&quot;o&quot; border=&quot;0&quot;&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;td&gt;&lt;a class=&quot;button&quot; href=&quot;http://www.dsic.upv.es/%7Eslp2008/Pictures/&quot;&gt;Conference Pictures&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+--&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;!--&lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;ball.gif&quot; border=&quot;0&quot; alt=&quot;o&quot;&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;td&gt;&lt;a class=&quot;button&quot; href=&quot;#cfp&quot;&gt;Call for Papers&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;--&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD colSpan=2&gt;&lt;A href=&quot;pics/egeskov.jpg&quot;&gt;&lt;IMG alt=&quot;Egeskov Slot&quot; src=&quot;pics/egeskov_small.jpg&quot;&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD colSpan=2&gt;&lt;A href=&quot;pics/odense.jpg&quot;&gt;&lt;IMG alt=Odense src=&quot;pics/odense_small.jpg&quot;&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD colSpan=2&gt;&lt;A href=&quot;pics/sdu.jpg&quot;&gt;&lt;IMG alt=&quot;Lecture Hall&quot; src=&quot;pics/sdu_small.jpg&quot;&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/TD&gt; " ID="1-1-2-2-2-1" order="9"/><LayoutNode FrameSourceIndex="0" SourceIndex="123" DoC="6" ContainImg="0" IsImg="false" ContainTable="true" ContainP="12" TextLen="6395" LinkTextLen="1044" DOMCldNum="32" FontSize="13.55" FontWeight="700" BgColor="rgb(240,240,230)" ObjectRectLeft="246" ObjectRectTop="270" ObjectRectWidth="372" ObjectRectHeight="4977" Content="News
+List of accepted papers     NEW! 
+Registration is open      NEW! 
+Local information (travel, venue, accomodation and registration) already available here. 
+Submission deadlines (for both full papers and extended abstracts) have been extended to April 17, 2011 !! 
+
+
+Conference Description
+The aim of the LOPSTR series is to stimulate and promote international research and collaboration on logic-based program development. LOPSTR is open to contributions in logic-based program development in any language paradigm. LOPSTR has a reputation for being a lively, friendly forum for presenting and discussing work in progress. Formal proceedings are produced only after the symposium so that authors can incorporate this feedback in the published papers. 
+The 21st International Symposium on Logic-based Program Synthesis and Transformation (LOPSTR 2011) will be held in Odense, Denmark; previous symposia were held in Hagenberg, Coimbra, Valencia, Lyngby, Venice, London, Verona, Uppsala, Madrid, Paphos, London, Venice, Manchester, Leuven, Stockholm, Arnhem, Pisa, Louvain-la-Neuve, and Manchester (you might have a look at the contents of past LOPSTR symposia). LOPSTR 2011 will be co-located with PPDP 2011 (International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming). 
+Topics of interest cover all aspects of logic-based program development, all stages of the software life cycle, and issues of both programming-in-the-small and programming-in-the-large. Papers describing applications in these areas are especially welcome. Contributions are welcome on all aspects of logic-based program development, including, but not limited to: 
+specification 
+verification 
+analysis 
+specialization 
+composition 
+certification 
+transformational techniques in SE 
+synthesis 
+transformation 
+optimisation 
+inversion 
+program/model manipulation 
+security 
+applications and tools 
+
+Survey papers, that present some aspect of the above topics from a new perspective, and application papers, that describe experience with industrial applications, are also welcome. 
+Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal, conference, or workshop with refereed proceedings. Work that already appeared in unpublished or informally published workshop proceedings may be submitted (please contact the PC chair in case of questions). 
+Proceedings
+The formal post-conference proceedings will be published by Springer in the Lecture Notes in Computer Science series. 
+Important Dates 
+Paper submission:       March 27,2011    April 17, 2011
+Extended abstract submission:        April 3, 2011    April 17, 2011
+Notification (for pre-proceedings):     May 16, 2011      May 26, 2011
+Camera-ready (for pre-proceedings):     June 12, 2011      June 19, 2011
+Symposium: July 18-20, 2011 
+
+Submission Guidelines
+Submissions can either be (short) extended abstracts or (full) papers whose length should not exceed 9 and 15 pages (including references), respectively. Submissions must be formatted in the Lecture Notes in Computer Science style (excluding well-marked appendices not intended for publication). Referees are not required to read the appendices, and thus papers should be intelligible without them. Short papers may describe work-in-progress or tool demonstrations. 
+Both short and full papers can be accepted for presentation at the symposium and will then appear in the LOPSTR 2011 pre-proceedings. Full papers can also be immediately accepted for publication in the formal proceedings to be published by Springer in the LNCS series. In addition, after the symposium, the programme committee will select further short or full papers presented in LOPSTR 2011 to be considered for formal publication. These authors will be invited to revise and/or extend their submissions in the light of the feedback solicited at the symposium. Then after another round of reviewing, these revised papers can also be published in the formal proceedings. 
+Authors should submit an electronic copy of the full paper (written in English) in PDF or Postscript (Level 2). Each submission must include on its first page the paper title; authors and their affiliations; contact author's email; abstract; and three to four keywords. The keywords will be used to assist us in selecting appropriate reviewers for the paper. If electronic submission is impossible, please contact the program chair for information on how to submit hard copies. 
+Papers should be submitted to the submission website for LOPSTR 2011. 
+Invited Speakers
+Invited talks will be given by 
+John Gallagher 
+Roskilde University, Denmark
+Fritz Henglein 
+University of Copenhagen, Denmark shared with PPDP 
+Vitaly Lagoon 
+Cadence Design Systems, Boston, USA shared with PPDP 
+
+See also the PPDP, WFLP and AAIP invited speakers.
+
+Program Committee
+Elvira AlbertComplutense University of Madrid, Spain
+Malgorzata BiernackaUniversity of Wroclaw, Poland
+Manuel CarroTechnical University of Madrid, Spain
+Michael CodishBen-Gurion University of the Negev, Israel
+Danny De SchreyeK.U.Leuven, Belgium
+Maribel FernandezKing's College London, UK
+Raul GutierrezUniversity of Illinois at Urbana-Champaign, USA
+Mark HarmanUniversity College London, UK
+Frank HuchC.A.U. Kiel, Germany
+Michael LeuschelUniversity of Düsseldorf, Germany
+Yanhong Annie LiuState University of New York at Stony Brook, USA
+Kazutaka MatsudaTohoku University, Japan
+Fred MesnardUniversite de La Reunion, France
+Ulrich NeumerkelTechnical University of Wien, Austria
+Alberto PettorossiUniversita' di Roma Tor Vergata, Italy
+Carla PiazzaUniversity of Udine, Italy
+Peter Schneider-KampUniversity of Southern Denmark, Denmark
+Hirohisa SekiNagoya Institute of Technology, Japan
+Josep SilvaTechnical University of Valencia, Spain
+German VidalTechnical University of Valencia, Spain
+Jurgen VinjuCentrum Wiskunde &amp; Informatica, The Netherlands
+Jianjun ZhaoShanghai Jiao Tong University, Shanghai, China
+
+
+Contacts
+Program Chair (contact him for additional information about papers and submissions): 
+German Vidal
+Department of Computer Science (DSIC)
+U.P. Valencia
+Valencia, Spain
+Email: lopstr11@dsic.upv.es 
+
+General Chair 
+Peter Schneider-Kamp
+Dept. of Mathematics and Computer Science
+University of Southern Denmark
+Campusvej 55
+DK-5230 Odense M, Denmark
+Email: petersk@imada.sdu.dk 
+
+Call for Papers
+You can view or download the Call for Papers as 
+plain text 
+PDF  " SRC="
+&lt;TD class=main&gt;&lt;H1&gt;&lt;A name=description&gt;News&lt;/A&gt;&lt;/H1&gt;
+&lt;UL&gt;
+&lt;LI&gt;List of &lt;A href=&quot;accepted_papers.html&quot;&gt;accepted papers&lt;/A&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;SPAN style=&quot;COLOR: red; TEXT-DECORATION: blink&quot;&gt;NEW!&lt;/SPAN&gt; 
+&lt;LI&gt;&lt;A href=&quot;http://www.imada.sdu.dk/~petersk/OLP/registration.html&quot;&gt;Registration&lt;/A&gt; is open &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;SPAN style=&quot;COLOR: red; TEXT-DECORATION: blink&quot;&gt;NEW!&lt;/SPAN&gt; 
+&lt;LI&gt;Local information (travel, venue, accomodation and registration) already available &lt;A href=&quot;http://www.imada.sdu.dk/~petersk/OLP/&quot; target=_blank&gt;here&lt;/A&gt;. &lt;/SPAN&gt;
+&lt;LI&gt;&lt;SPAN style=&quot;FONT-SIZE: larger&quot;&gt;Submission deadlines (for both full papers and extended abstracts) have been extended to April 17, 2011 !! &lt;/LI&gt;&lt;/UL&gt;&lt;BR&gt;
+&lt;H1&gt;&lt;A name=description&gt;Conference Description&lt;/A&gt;&lt;/H1&gt;
+&lt;P&gt;The aim of the &lt;A href=&quot;http://en.wikipedia.org/wiki/International_Symposium_on_Logic-based_Program_Synthesis_and_Transformation&quot; target=_blank&gt;LOPSTR&lt;/A&gt; series is to stimulate and promote international research and collaboration on logic-based program development. LOPSTR is open to contributions in logic-based program development in any language paradigm. LOPSTR has a reputation for being a lively, friendly forum for presenting and discussing work in progress. Formal proceedings are produced only after the symposium so that authors can incorporate this feedback in the published papers. &lt;/P&gt;
+&lt;P&gt;The 21st International Symposium on Logic-based Program Synthesis and Transformation (LOPSTR 2011) will be held in &lt;A href=&quot;http://en.wikipedia.org/wiki/Odense&quot;&gt;Odense&lt;/A&gt;, Denmark; previous symposia were held in &lt;A href=&quot;http://www.risc.jku.at/about/conferences/lopstr2010/&quot;&gt;Hagenberg&lt;/A&gt;, &lt;A href=&quot;http://www.cs.kuleuven.be/conference/lopstr09/&quot;&gt;Coimbra&lt;/A&gt;, &lt;A href=&quot;http://www.informatik.uni-kiel.de/%7Emh/lopstr08/&quot;&gt;Valencia&lt;/A&gt;, &lt;A href=&quot;http://www.cs.kent.ac.uk/events/conf/2007/lopstr/&quot;&gt;Lyngby&lt;/A&gt;, &lt;A href=&quot;http://www.dsi.unive.it/lopstr2006/&quot;&gt;Venice&lt;/A&gt;, &lt;A href=&quot;http://www.comp.leeds.ac.uk/lopstr05/index.html&quot;&gt;London&lt;/A&gt;, &lt;A href=&quot;http://www.sci.univr.it/%7Elopstr04&quot; target=_blank&gt;Verona&lt;/A&gt;, &lt;A href=&quot;http://www.cs.kuleuven.ac.be/%7Edtai/lopstr03/&quot; target=_blank&gt;Uppsala&lt;/A&gt;, &lt;A href=&quot;http://www.clip.dia.fi.upm.es/LOPSTR02/&quot; target=_blank&gt;Madrid&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr/&quot; target=_blank&gt;Paphos&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr2000/%20target=&quot; _blank=&quot;&quot;&gt;London&lt;/A&gt;, &lt;A href=&quot;http://www.dsi.unive.it/%7Ebossi/LOPSTR99.html&quot; target=_blank&gt;Venice&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr98/&quot; target=_blank&gt;Manchester&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr/&quot; target=_blank&gt;Leuven&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr/&quot; target=_blank&gt;Stockholm&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr/&quot; target=_blank&gt;Arnhem&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr/&quot; target=_blank&gt;Pisa&lt;/A&gt;, &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr/&quot; target=_blank&gt;Louvain-la-Neuve&lt;/A&gt;, and &lt;A href=&quot;http://www.cs.man.ac.uk/%7Ekung-kiu/lopstr/&quot; target=_blank&gt;Manchester&lt;/A&gt; (you might have a look at the &lt;A href=&quot;http://www.informatik.uni-trier.de/%7Eley/db/conf/lopstr/index.html&quot;&gt;contents of past LOPSTR symposia&lt;/A&gt;). LOPSTR 2011 will be co-located with &lt;A href=&quot;http://www-ps.informatik.uni-kiel.de/ppdp11/&quot; target=_blank&gt;PPDP 2011&lt;/A&gt; (International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming). &lt;/P&gt;
+&lt;P&gt;Topics of interest cover all aspects of logic-based program development, all stages of the software life cycle, and issues of both programming-in-the-small and programming-in-the-large. Papers describing applications in these areas are especially welcome. Contributions are welcome on all aspects of logic-based program development, including, but not limited to: &lt;BR&gt;
+&lt;TABLE style=&quot;MARGIN-LEFT: 2em&quot;&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;UL&gt;
+&lt;LI&gt;specification 
+&lt;LI&gt;verification 
+&lt;LI&gt;analysis 
+&lt;LI&gt;specialization 
+&lt;LI&gt;composition 
+&lt;LI&gt;certification 
+&lt;LI&gt;transformational techniques in SE &lt;/LI&gt;&lt;/UL&gt;&lt;/TD&gt;
+&lt;TD&gt;
+&lt;UL&gt;
+&lt;LI&gt;synthesis 
+&lt;LI&gt;transformation 
+&lt;LI&gt;optimisation 
+&lt;LI&gt;inversion 
+&lt;LI&gt;program/model manipulation 
+&lt;LI&gt;security 
+&lt;LI&gt;applications and tools &lt;/LI&gt;&lt;/UL&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;!--
+&lt;table style=&quot;margin-left: 1em;&quot;&gt;
+&lt;tbody&gt;&lt;tr&gt;
+  &lt;td&gt;specification&lt;/td&gt;
+  &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td&gt;synthesis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;verification&lt;/td&gt;
+
+  &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td&gt;transformation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;analysis&lt;/td&gt;
+  &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td&gt;optimisation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+
+  &lt;td&gt;composition&lt;/td&gt;
+  &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td&gt;security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;reuse&lt;/td&gt;
+  &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td&gt;applications and tools&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;component-based software development&lt;/td&gt;
+  &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td&gt;software architectures&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;agent-based software development&lt;/td&gt;
+  &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+
+  &lt;td&gt;program refinement&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+--&gt;Survey papers, that present some aspect of the above topics from a new perspective, and application papers, that describe experience with industrial applications, are also welcome. 
+&lt;P&gt;Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal, conference, or workshop with refereed proceedings. Work that already appeared in unpublished or informally published workshop proceedings may be submitted (please contact the PC chair in case of questions). &lt;/P&gt;
+&lt;H1&gt;&lt;A name=procs&gt;Proceedings&lt;/A&gt;&lt;/H1&gt;
+&lt;P&gt;&lt;!--The &lt;a href=&quot;http://www.informatik.uni-kiel.de/%7Emh/lopstr09/preproceedings.pdf&quot;&gt;pre-proceedings of LOPSTR 2009&lt;/a&gt;
+are available as a
+&lt;a href=&quot;http://www.informatik.uni-kiel.de/%7Emh/lopstr09/preproceedings.pdf&quot;&gt;PDF document&lt;/a&gt;.--&gt;The formal post-conference proceedings will be published by &lt;A href=&quot;http://www.springer.com/&quot;&gt;Springer&lt;/A&gt; in the &lt;A href=&quot;http://www.springer.com/lncs/&quot;&gt;Lecture Notes in Computer Science series&lt;/A&gt;. &lt;/P&gt;
+&lt;H1&gt;&lt;A name=deadlines&gt;Important Dates&lt;/A&gt; &lt;/H1&gt;
+&lt;P&gt;
+&lt;UL&gt;
+&lt;TABLE border=0&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;Paper submission: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&amp;nbsp;&amp;nbsp;&lt;SPAN style=&quot;TEXT-DECORATION: line-through&quot;&gt;&lt;B&gt;March 27,2011&lt;/B&gt;&lt;/SPAN&gt;&lt;/TD&gt;
+&lt;TD&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;B&gt;April 17, 2011&lt;/B&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;Extended abstract submission: &amp;nbsp;&amp;nbsp;&lt;/TD&gt;
+&lt;TD&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;SPAN style=&quot;TEXT-DECORATION: line-through&quot;&gt;&lt;B&gt;April 3, 2011&lt;/B&gt;&lt;/SPAN&gt;&lt;/TD&gt;
+&lt;TD&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;B&gt;April 17, 2011&lt;/B&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;Notification (for pre-proceedings): &lt;/TD&gt;
+&lt;TD&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;SPAN style=&quot;TEXT-DECORATION: line-through&quot;&gt;&lt;B&gt;May 16, 2011&lt;/B&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;TD&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;May 26, 2011&lt;/B&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;Camera-ready (for pre-proceedings): &lt;/TD&gt;
+&lt;TD&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;SPAN style=&quot;TEXT-DECORATION: line-through&quot;&gt;&lt;B&gt;June 12, 2011&lt;/B&gt;&lt;/SPAN&gt; &lt;/TD&gt;
+&lt;TD&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;B&gt;June 19, 2011&lt;/B&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;Symposium: &lt;/TD&gt;
+&lt;TD&gt;&lt;B&gt;July 18-20, 2011&lt;/B&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/UL&gt;
+&lt;H1&gt;&lt;A name=submissions&gt;Submission Guidelines&lt;/A&gt;&lt;/H1&gt;
+&lt;P&gt;Submissions can either be (short) extended abstracts or (full) papers whose length should not exceed 9 and 15 pages (including references), respectively. Submissions must be formatted in the &lt;A href=&quot;http://www.springer.de/comp/lncs/authors.html&quot;&gt;Lecture Notes in Computer Science style&lt;/A&gt; (excluding well-marked appendices not intended for publication). Referees are not required to read the appendices, and thus papers should be intelligible without them. Short papers may describe work-in-progress or tool demonstrations. &lt;/P&gt;
+&lt;P&gt;Both short and full papers can be accepted for presentation at the symposium and will then appear in the LOPSTR 2011 pre-proceedings. Full papers can also be immediately accepted for publication in the formal proceedings to be published by &lt;A href=&quot;http://www.springer.com/&quot;&gt;Springer&lt;/A&gt; in the &lt;A href=&quot;http://www.springer.com/lncs/&quot;&gt;LNCS series&lt;/A&gt;. In addition, after the symposium, the programme committee will select further short or full papers presented in LOPSTR 2011 to be considered for formal publication. These authors will be invited to revise and/or extend their submissions in the light of the feedback solicited at the symposium. Then after another round of reviewing, these revised papers can also be published in the formal proceedings. &lt;/P&gt;
+&lt;P&gt;Authors should submit an electronic copy of the full paper (written in English) in PDF or Postscript (Level 2). Each submission must include on its first page the paper title; authors and their affiliations; contact author's email; &lt;!-- and postal addresses, telephone and fax numbers--&gt;abstract; and three to four keywords. The keywords will be used to assist us in selecting appropriate reviewers for the paper. If electronic submission is impossible, please contact the program chair for information on how to submit hard copies. &lt;/P&gt;&lt;!--&lt;p&gt;
+Papers should be submitted either in PostScript or PDF format and
+they should be interpretable by Ghostscript or Acrobat Reader.
+&lt;/p&gt;--&gt;
+&lt;P&gt;Papers should be submitted to the &lt;A href=&quot;http://www.easychair.org/conferences/?conf=lopstr2011&quot;&gt;submission website for LOPSTR 2011&lt;/A&gt;. &lt;/P&gt;
+&lt;H1&gt;&lt;A name=invited&gt;Invited Speakers&lt;/A&gt;&lt;/H1&gt;
+&lt;P&gt;&lt;/P&gt;
+&lt;P&gt;Invited talks will be given by &lt;/P&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;LI&gt;&lt;A href=&quot;http://www.ruc.dk/~jpg&quot; target=_blank&gt;John Gallagher&lt;/A&gt; &lt;/LI&gt;&lt;/TD&gt;
+&lt;TD style=&quot;PADDING-LEFT: 2em&quot;&gt;Roskilde University, Denmark&lt;/TD&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;LI&gt;&lt;A href=&quot;http://www.diku.dk/~henglein/&quot; target=_blank&gt;Fritz Henglein&lt;/A&gt; &lt;/LI&gt;&lt;/TD&gt;
+&lt;TD style=&quot;PADDING-LEFT: 2em&quot;&gt;University of Copenhagen, Denmark &lt;/TD&gt;
+&lt;TD&gt;&lt;SPAN style=&quot;COLOR: #800000; MARGIN-LEFT: 3em&quot;&gt;&lt;EM&gt;shared with PPDP&lt;/EM&gt;&lt;/SPAN&gt; &lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;LI&gt;&lt;A href=&quot;http://www.linkedin.com/in/lagoonv&quot; target=_blank&gt;Vitaly Lagoon&lt;/A&gt; &lt;/LI&gt;&lt;/TD&gt;
+&lt;TD style=&quot;PADDING-LEFT: 2em&quot;&gt;Cadence Design Systems, Boston, USA &lt;/TD&gt;
+&lt;TD&gt;&lt;SPAN style=&quot;COLOR: #800000; MARGIN-LEFT: 3em&quot;&gt;&lt;EM&gt;shared with PPDP&lt;/EM&gt;&lt;/SPAN&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+&lt;P&gt;&lt;/P&gt;See also the &lt;A href=&quot;http://www-ps.informatik.uni-kiel.de/ppdp11/#invited&quot; target=_blank&gt;PPDP&lt;/A&gt;, &lt;A href=&quot;http://www.wi.uni-muenster.de/pi/konferenzen/wflp2011/wflp2011.htm#invited&quot; target=_blank&gt;WFLP&lt;/A&gt; and &lt;A href=&quot;http://www.cogsys.wiai.uni-bamberg.de/aaip11/invited.html&quot; target=_blank&gt;AAIP&lt;/A&gt; invited speakers.&lt;BR&gt;
+&lt;P&gt;&lt;/P&gt;
+&lt;H1&gt;&lt;A name=pc&gt;Program Committee&lt;/A&gt;&lt;/H1&gt;
+&lt;TABLE cellSpacing=0 cellPadding=6&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://clip.dia.fi.upm.es/~elvira/&quot; target=_blank&gt;Elvira Albert&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Complutense University of Madrid, Spain&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.ii.uni.wroc.pl/~mabi/&quot; target=_blank&gt;Malgorzata Biernacka&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;University of Wroclaw, Poland&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://clip.dia.fi.upm.es/~mcarro/&quot; target=_blank&gt;Manuel Carro&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Technical University of Madrid, Spain&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.cs.bgu.ac.il/~mcodish/&quot; target=_blank&gt;Michael Codish&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Ben-Gurion University of the Negev, Israel&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://people.cs.kuleuven.be/~danny.deschreye/&quot; target=_blank&gt;Danny De Schreye&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;K.U.Leuven, Belgium&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.dcs.kcl.ac.uk/staff/maribel/&quot; target=_blank&gt;Maribel Fernandez&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;King's College London, UK&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;&quot; target=_blank&gt;Raul Gutierrez&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;University of Illinois at Urbana-Champaign, USA&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.cs.ucl.ac.uk/staff/mharman/&quot; target=_blank&gt;Mark Harman&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;University College London, UK&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www-ps.informatik.uni-kiel.de/~fhu/&quot; target=_blank&gt;Frank Huch&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;C.A.U. Kiel, Germany&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.stups.uni-duesseldorf.de/~leuschel/&quot; target=_blank&gt;Michael Leuschel&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;University of Düsseldorf, Germany&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.cs.sunysb.edu/~liu/&quot; target=_blank&gt;Yanhong Annie Liu&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;State University of New York at Stony Brook, USA&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.kb.ecei.tohoku.ac.jp/~kztk/&quot; target=_blank&gt;Kazutaka Matsuda&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Tohoku University, Japan&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://personnel.univ-reunion.fr/fred/&quot; target=_blank&gt;Fred Mesnard&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Universite de La Reunion, France&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.complang.tuwien.ac.at/ulrich/&quot; target=_blank&gt;Ulrich Neumerkel&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Technical University of Wien, Austria&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.iasi.cnr.it/~adp/&quot; target=_blank&gt;Alberto Pettorossi&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Universita' di Roma Tor Vergata, Italy&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://users.dimi.uniud.it/~carla.piazza/&quot; target=_blank&gt;Carla Piazza&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;University of Udine, Italy&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www.imada.sdu.dk/~petersk/&quot; target=_blank&gt;Peter Schneider-Kamp&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;University of Southern Denmark, Denmark&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://www-sekilab.ics.nitech.ac.jp/&quot; target=_blank&gt;Hirohisa Seki&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Nagoya Institute of Technology, Japan&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://users.dsic.upv.es/~jsilva/&quot; target=_blank&gt;Josep Silva&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Technical University of Valencia, Spain&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://users.dsic.upv.es/~gvidal/&quot; target=_blank&gt;German Vidal&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Technical University of Valencia, Spain&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://jurgen.vinju.org/&quot; target=_blank&gt;Jurgen Vinju&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Centrum Wiskunde &amp;amp; Informatica, The Netherlands&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;A href=&quot;http://cse.sjtu.edu.cn/~zhao/&quot; target=_blank&gt;Jianjun Zhao&lt;/A&gt;&lt;/TD&gt;
+&lt;TD&gt;Shanghai Jiao Tong University, Shanghai, China&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+&lt;CENTER&gt;
+&lt;TABLE cellSpacing=0 cellPadding=6&gt;&lt;!--
+  &lt;tbody&gt;&lt;tr&gt;
+ &lt;td&gt;&lt;a href=&quot;http://cs.guc.edu.eg/faculty/sabdennadher/&quot; target=&quot;_blank&quot;&gt;
+ Slim Abdennadher&lt;/a&gt;&lt;/td&gt;&lt;td&gt;German University Cairo&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+--&gt;
+&lt;TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;
+&lt;P&gt;&lt;/P&gt;
+&lt;H1&gt;&lt;A name=contact&gt;Contacts&lt;/A&gt;&lt;/H1&gt;
+&lt;P&gt;&lt;B&gt;Program Chair&lt;/B&gt; (contact him for additional information about papers and submissions): &lt;/P&gt;
+&lt;BLOCKQUOTE&gt;&lt;A href=&quot;http://users.dsic.upv.es/~gvidal/&quot; target=_blank&gt;German Vidal&lt;/A&gt;&lt;BR&gt;&lt;A href=&quot;http://www.dsic.upv.es/indexI.pl&quot; target=_blank&gt;Department of Computer Science (DSIC)&lt;/A&gt;&lt;BR&gt;&lt;A href=&quot;http://www.upv.es/&quot; target=_blank&gt;U.P. Valencia&lt;/A&gt;&lt;BR&gt;&lt;A href=&quot;http://en.wikipedia.org/wiki/Valencia,_Spain&quot; target=_blank&gt;Valencia&lt;/A&gt;, Spain&lt;BR&gt;Email: &lt;A href=&quot;mailto:lopstr11@dsic.upv.es&quot;&gt;lopstr11@dsic.upv.es&lt;/A&gt; &lt;BR&gt;&lt;/BLOCKQUOTE&gt;
+&lt;P&gt;&lt;B&gt;General Chair&lt;/B&gt; &lt;/P&gt;
+&lt;BLOCKQUOTE&gt;&lt;A href=&quot;http://www.imada.sdu.dk/~petersk/&quot; target=_blank&gt;Peter Schneider-Kamp&lt;/A&gt;&lt;BR&gt;&lt;A href=&quot;http://www.imada.sdu.dk/&quot; target=_blank&gt;Dept. of Mathematics and Computer Science&lt;/A&gt;&lt;BR&gt;University of Southern Denmark&lt;BR&gt;Campusvej 55&lt;BR&gt;DK-5230 Odense M, Denmark&lt;BR&gt;Email: &lt;A href=&quot;mailto:petersk@imada.sdu.dk&quot;&gt;petersk@imada.sdu.dk&lt;/A&gt; &lt;BR&gt;&lt;/BLOCKQUOTE&gt;&lt;!--
+&lt;p&gt;
+&lt;b&gt;Local Organization Committee&lt;/b&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a href=&quot;http://www.cisuc.uc.pt/view_member.php?id_m=2001&quot; target=&quot;_blank&quot;&gt;Ana Almeida&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;http://www.cisuc.uc.pt/view_member.php?id_m=98&quot; target=&quot;_blank&quot;&gt;Pedro Quaresma&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;http://www.mat.uc.pt/%7Ekahle/index.en.html&quot; target=&quot;_blank&quot;&gt;Reinhard Kahle&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+--&gt;
+&lt;H1&gt;&lt;A name=cfp&gt;Call for Papers&lt;/A&gt;&lt;/H1&gt;
+&lt;P&gt;You can view or download the Call for Papers as &lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;&lt;A href=&quot;cfp.txt&quot;&gt;plain text&lt;/A&gt; 
+&lt;LI&gt;&lt;A href=&quot;cfp.pdf&quot;&gt;PDF&lt;/A&gt; &lt;/LI&gt;&lt;/UL&gt;&lt;!--
+&lt;h1&gt;&lt;a name=&quot;sponsorships&quot;&gt;Sponsorships&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;
+LOPSTR 2011 is sponsored by:
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src=&quot;pics/logo.gif&quot; alt=&quot;o&quot; border=&quot;0&quot;&gt;
+&lt;/p&gt;
+--&gt;&lt;/SPAN&gt;&lt;/TD&gt; " ID="1-1-2-2-2-2" order="10"/></LayoutNode></LayoutNode></LayoutNode></LayoutNode><LayoutNode FrameSourceIndex="0" SourceIndex="418" DoC="11" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="13" LinkTextLen="13" DOMCldNum="1" FontSize="12" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="5284" ObjectRectWidth="95" ObjectRectHeight="19" Content="German Vidal  " SRC="&lt;A href=&quot;mailto:lopstr11@dsic.upv.es&quot;&gt;German Vidal &lt;/A&gt; " ID="1-2" order="11"/></LayoutNode></VIPSPage>

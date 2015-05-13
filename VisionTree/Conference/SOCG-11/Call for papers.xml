@@ -1,0 +1,151 @@
+<VIPSPage Url="http://socg2011.inria.fr/call-for-papers" PageTitle="Call for papers — SOCG2011" WindowWidth="433" WindowHeight="1262" PageRectLeft="0" PageRectTop="0" PageRectWidth="900" PageRectHeight="1262" neworder="0" order="0"><LayoutNode FrameSourceIndex="0" SourceIndex="36" DoC="4" ContainImg="1" IsImg="false" ContainTable="false" ContainP="0" TextLen="5433" LinkTextLen="378" DOMCldNum="1" FontSize="7.8" FontWeight="400" BgColor="#eae4df" ObjectRectLeft="0" ObjectRectTop="0" ObjectRectWidth="900" ObjectRectHeight="1262" ID="1" order="1"><LayoutNode FrameSourceIndex="0" SourceIndex="39" DoC="7" ContainImg="1" IsImg="false" ContainTable="false" ContainP="0" TextLen="128" LinkTextLen="90" DOMCldNum="3" FontSize="13.2" FontWeight="700" BgColor="#eae4df" ObjectRectLeft="0" ObjectRectTop="0" ObjectRectWidth="900" ObjectRectHeight="222" Content="Skip to content. | Skip to navigation  Site Map 
+Accessibility 
+Contact 
+Legal infos 
+Search Site 
+only in current section  
+  
+Advanced Search…  " SRC="
+&lt;DIV id=portal-header&gt;&lt;P class=hiddenStructure&gt;&lt;A accessKey=2 href=&quot;http://socg2011.inria.fr/call-for-papers#documentContent&quot;&gt;Skip to content.&lt;/A&gt; | &lt;A accessKey=6 href=&quot;http://socg2011.inria.fr/call-for-papers#portlet-navigation-tree&quot;&gt;Skip to navigation&lt;/A&gt; &lt;/P&gt;&lt;A accessKey=1 id=portal-logo href=&quot;http://socg2011.inria.fr&quot;&gt;&lt;IMG title=&quot;&quot; alt=&quot;&quot; src=&quot;http://socg2011.inria.fr/logoWhiteBlack.gif&quot; width=283 height=72&gt;&lt;/A&gt; 
+&lt;UL id=portal-siteactions&gt;
+&lt;LI id=siteaction-sitemap&gt;&lt;A accessKey=3 title=&quot;Site Map&quot; href=&quot;http://socg2011.inria.fr/sitemap&quot;&gt;Site Map&lt;/A&gt; 
+&lt;LI id=siteaction-accessibility&gt;&lt;A accessKey=0 title=Accessibility href=&quot;http://socg2011.inria.fr/accessibility-info&quot;&gt;Accessibility&lt;/A&gt; 
+&lt;LI id=siteaction-contact&gt;&lt;A accessKey=9 title=Contact href=&quot;http://socg2011.inria.fr/contact-info&quot;&gt;Contact&lt;/A&gt; 
+&lt;LI id=siteaction-legalinfos&gt;&lt;A accessKey=&quot;&quot; title=&quot;Legal infos&quot; href=&quot;http://socg2011.inria.fr/legalinfos&quot;&gt;Legal infos&lt;/A&gt; &lt;/LI&gt;&lt;/UL&gt;
+&lt;DIV id=portal-searchbox&gt;
+&lt;FORM style=&quot;WHITE-SPACE: nowrap&quot; id=livesearch0 name=searchform action=http://socg2011.inria.fr/search jQuery1309515561119=&quot;2&quot;&gt;&lt;LABEL class=hiddenStructure for=searchGadget&gt;Search Site&lt;/LABEL&gt; 
+&lt;DIV class=searchSection&gt;&lt;LABEL style=&quot;CURSOR: pointer&quot; for=searchbox_currentfolder_only&gt;only in current section &lt;/LABEL&gt;&lt;INPUT id=searchbox_currentfolder_only class=noborder value=/socg2011/call-for-papers type=checkbox name=path&gt; &lt;/DIV&gt;
+&lt;DIV class=LSBox&gt;&lt;INPUT accessKey=4 id=searchGadget class=inputLabelActive title=&quot;Search Site&quot; value=&quot;Search Site&quot; size=18 name=SearchableText autocomplete=&quot;off&quot; jQuery1309515561119=&quot;3&quot;&gt; &lt;INPUT class=searchButton value=&quot;- Search -&quot; type=submit&gt; 
+&lt;DIV id=LSResult class=LSResult&gt;
+&lt;DIV id=LSShadow class=LSShadow&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/FORM&gt;
+&lt;DIV id=portal-advanced-search class=hiddenStructure&gt;&lt;A accessKey=5 href=&quot;http://socg2011.inria.fr/search_form&quot;&gt;Advanced Search… &lt;/A&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt; " ID="1-1" order="2"/><LayoutNode FrameSourceIndex="0" SourceIndex="70;236" DoC="4" ContainImg="0" IsImg="false" ContainTable="false" ContainP="1" TextLen="5305" LinkTextLen="288" DOMCldNum="2" FontSize="19.2" FontWeight="700" BgColor="#eae4df" ObjectRectLeft="0" ObjectRectTop="222" ObjectRectWidth="900" ObjectRectHeight="1022" ID="1-2" order="3"><LayoutNode FrameSourceIndex="0" SourceIndex="70" DoC="4" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="5228" LinkTextLen="238" DOMCldNum="2" FontSize="19.2" FontWeight="700" BgColor="#eae4df" ObjectRectLeft="0" ObjectRectTop="222" ObjectRectWidth="900" ObjectRectHeight="988" ID="1-2-1" order="4"><LayoutNode FrameSourceIndex="0" SourceIndex="73" DoC="10" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="4951" LinkTextLen="193" DOMCldNum="2" FontSize="19.2" FontWeight="700" BgColor="#eae4df" ObjectRectLeft="190" ObjectRectTop="222" ObjectRectWidth="700" ObjectRectHeight="988" Content="SectionsHome 
+Program 
+Venue 
+Registration 
+Call for papers 
+Accepted papers 
+Call for Video &amp; Multimedia 
+Accepted Video &amp; Multimedia 
+Committees 
+Conference Poster 
+Contact 
+This Global Sections Viewlet registered to qPloneSkinWhiteBlack Info Call for papers 
+We invite submissions of high-quality papers describing original research on geometric algorithms and data structures, their mathematical foundations and correctness, their implementation, and their applications.
+The program committee explicitly encourages the submission of video or multimedia in support of submitted papers. Authors may wish to consider making a separate submission to the video/multimedia track (of the which the call for submissions will be distributed separately). Papers and video/multimedia submissions will be reviewed separately; acceptance or rejection of one will not influence acceptance or rejection of the other.
+Final versions of accepted papers will be published by ACM in the symposium proceedings. Proceedings will be distributed to symposium participants and will also be available from ACM for purchase or through the digital library. An author of each accepted paper will be expected to attend the Symposium and give a presentation (approximately 20 minutes) of the paper.  Authors of a selection of papers from the conference will be invited to submit extended versions of their papers to a special issue of one or more journals.
+Paper Submission
+
+All submissions should be made electronically; see the EasyChair SoCG2011 web pages for detailed submission instructions. If electronic submission is not feasible, please contact the program committee chairs, Ferran Hurtado and Marc van Kreveld, well in advance of the submission deadlines.
+Submission Guidelines
+
+Papers should be submitted in the form of an extended abstract, which begins with the title of the paper, each author's name, affiliation, and e-mail address. This should be followed by a precise statement of the problem considered, a succinct summary of the results obtained (emphasizing the significance, novelty, and potential impact of the research), and a clear comparison with related work. The remainder of the extended abstract should provide sufficient detail to allow the program committee to evaluate the validity, quality, and relevance of the contribution. Clarity of presentation is very important; the whole extended abstract should be written carefully, taking into consideration that it will be read and evaluated by both experts and non-experts, often under tight time constraints.
+Submissions should be typeset in single column format, using 11-point or larger font, with at least 1 inch/2.54 cm margins and single line spacing. Excluding the title page and bibliography, the extended abstract must not exceed 10 pages. Submissions deviating from these guidelines risk rejection without consideration of their merits.
+A clearly marked appendix (of reasonable length) containing omitted proofs may be included directly in the submission, and is mandatory for crucial proofs. Appendices are not counted in the 10 page limit, so while they may serve as a reference, they are not necessarily read by the program committee. Other supporting materials, such as a video or multimedia presentation, source code, or experimental data, may be provided by including a URL in the submission, but again, these will be considered only at the discretion of the program committee.
+Anticipating the usual high overall quality of submissions, the program committee intends to accept more papers than was typical in previous years. Also, we intend to interpret the scope of the conference broadly, and will accept all papers of high quality that are of significant interest to our research community. The conference venue in Paris is attractive and allows a bigger conference than previous years.
+Authors must submit the title and a short abstract of their paper by November 22, 2010. This pre-submission will be used to help make program committee reading assignments. Extended abstracts must be received by December 1, 2010 (23:59, Honolulu time). There will be no extension of this deadline; late submissions will not be considered. Authors will be notified of acceptance or rejection by February 14, 2011. The final proceedings papers must be formatted in accordance with ACM proceedings guidelines; LaTeX style files will be made available to authors of accepted papers.
+Concurrent submission of the same (or essentially the same) abstract to SoCG and to another conference with published proceedings is not allowed. An extended abstract of a paper that is under journal review, or scheduled for publication in a journal after June 2011, may be submitted, when it is clear that the extended abstract differs substantially from the journal version. In such cases, the authors must include the journal version in an appendix that clearly identifies the status of the journal submission.
+Document ActionsSend this Print this  " SRC="
+&lt;DIV&gt;&lt;H5 class=hiddenStructure&gt;Sections&lt;/H5&gt;
+&lt;UL id=portal-globalnav-custom&gt;
+&lt;LI id=portaltab-index_html class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr&quot;&gt;Home&lt;/A&gt; 
+&lt;LI id=portaltab-program class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/program&quot;&gt;Program&lt;/A&gt; 
+&lt;LI id=portaltab-venue class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/venue&quot;&gt;Venue&lt;/A&gt; 
+&lt;LI id=portaltab-registration class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/registration&quot;&gt;Registration&lt;/A&gt; 
+&lt;LI id=portaltab-call-for-papers class=selected&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/call-for-papers&quot;&gt;Call for papers&lt;/A&gt; 
+&lt;LI id=portaltab-accepted-papers class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/accepted-papers&quot;&gt;Accepted papers&lt;/A&gt; 
+&lt;LI id=portaltab-call-for-video-multimedia class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/call-for-video-multimedia&quot;&gt;Call for Video &amp;amp; Multimedia&lt;/A&gt; 
+&lt;LI id=portaltab-accepted-video-multimedia class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/accepted-video-multimedia&quot;&gt;Accepted Video &amp;amp; Multimedia&lt;/A&gt; 
+&lt;LI id=portaltab-committees class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/committees&quot;&gt;Committees&lt;/A&gt; 
+&lt;LI id=portaltab-poster/view class=plain&gt;&lt;A title=&quot;Here is a PDF file of the official SoCG 2011 poster (in A3 format): &quot; href=&quot;http://socg2011.inria.fr/poster/view&quot;&gt;Conference Poster&lt;/A&gt; 
+&lt;LI id=portaltab-contact class=plain&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/contact&quot;&gt;Contact&lt;/A&gt; &lt;/LI&gt;
+&lt;LI class=themeComment&gt;This Global Sections Viewlet registered to qPloneSkinWhiteBlack &lt;/LI&gt;&lt;/UL&gt;
+&lt;DIV id=region-content class=documentContent&gt;&lt;SPAN id=contentTopLeft&gt;&lt;/SPAN&gt;&lt;SPAN id=contentTopRight&gt;&lt;/SPAN&gt;&lt;A name=documentContent&gt;&lt;/A&gt;
+&lt;DL style=&quot;DISPLAY: none&quot; id=kssPortalMessage class=&quot;portalMessage info&quot;&gt;
+&lt;DT&gt;Info 
+&lt;DD&gt;&lt;/DD&gt;&lt;/DL&gt;
+&lt;DIV id=viewlet-above-content&gt;&lt;/DIV&gt;
+&lt;DIV id=content&gt;
+&lt;H1 class=documentFirstHeading&gt;&lt;SPAN id=parent-fieldname-title&gt;Call for papers &lt;/SPAN&gt;&lt;/H1&gt;
+&lt;P class=documentDescription&gt;&lt;SPAN id=parent-fieldname-description&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;DIV id=parent-fieldname-text&gt;
+&lt;P&gt;We invite submissions of high-quality papers describing original research on geometric algorithms and data structures, their mathematical foundations and correctness, their implementation, and their applications.&lt;/P&gt;
+&lt;P&gt;The program committee explicitly encourages the submission of video or multimedia in support of submitted papers. Authors may wish to consider making a separate submission to the video/multimedia track (of the which the call for submissions will be distributed separately). Papers and video/multimedia submissions will be reviewed separately; acceptance or rejection of one will not influence acceptance or rejection of the other.&lt;/P&gt;
+&lt;P&gt;Final versions of accepted papers will be published by ACM in the symposium proceedings. Proceedings will be distributed to symposium participants and will also be available from ACM for purchase or through the digital library. An author of each accepted paper will be expected to attend the Symposium and give a presentation (approximately 20 minutes) of the paper.&amp;nbsp; Authors of a selection of papers from the conference will be invited to submit extended versions of their papers to a special issue of one or more journals.&lt;/P&gt;
+&lt;H3&gt;Paper Submission&lt;BR&gt;&lt;/H3&gt;
+&lt;P class=link-external jQuery1309515561119=&quot;4&quot;&gt;All submissions should be made electronically; see the &lt;A class=external-link href=&quot;http://www.easychair.org/conferences/?conf=socg2011&quot; target=_blank&gt;EasyChair SoCG2011 web pages&lt;/A&gt; for detailed submission instructions. If electronic submission is not feasible, please contact the program committee chairs, Ferran Hurtado and Marc van Kreveld, well in advance of the submission deadlines.&lt;/P&gt;
+&lt;H3&gt;Submission Guidelines&lt;BR&gt;&lt;/H3&gt;
+&lt;P&gt;Papers should be submitted in the form of an extended abstract, which begins with the title of the paper, each author's name, affiliation, and e-mail address. This should be followed by a precise statement of the problem considered, a succinct summary of the results obtained (emphasizing the significance, novelty, and potential impact of the research), and a clear comparison with related work. The remainder of the extended abstract should provide sufficient detail to allow the program committee to evaluate the validity, quality, and relevance of the contribution. Clarity of presentation is very important; the whole extended abstract should be written carefully, taking into consideration that it will be read and evaluated by both experts and non-experts, often under tight time constraints.&lt;/P&gt;
+&lt;P&gt;Submissions should be typeset in single column format, using 11-point or larger font, with at least 1 inch/2.54 cm margins and single line spacing. Excluding the title page and bibliography, the extended abstract must not exceed 10 pages. Submissions deviating from these guidelines risk rejection without consideration of their merits.&lt;/P&gt;
+&lt;P&gt;A clearly marked appendix (of reasonable length) containing omitted proofs may be included directly in the submission, and is mandatory for crucial proofs. Appendices are not counted in the 10 page limit, so while they may serve as a reference, they are not necessarily read by the program committee. Other supporting materials, such as a video or multimedia presentation, source code, or experimental data, may be provided by including a URL in the submission, but again, these will be considered only at the discretion of the program committee.&lt;/P&gt;
+&lt;P&gt;Anticipating the usual high overall quality of submissions, the program committee intends to accept more papers than was typical in previous years. Also, we intend to interpret the scope of the conference broadly, and will accept all papers of high quality that are of significant interest to our research community. The conference venue in Paris is attractive and allows a bigger conference than previous years.&lt;/P&gt;
+&lt;P&gt;Authors must submit the title and a short abstract of their paper by November 22, 2010. This pre-submission will be used to help make program committee reading assignments. Extended abstracts must be received by December 1, 2010 (23:59, Honolulu time). There will be no extension of this deadline; late submissions will not be considered. Authors will be notified of acceptance or rejection by February 14, 2011. The final proceedings papers must be formatted in accordance with ACM proceedings guidelines; LaTeX style files will be made available to authors of accepted papers.&lt;/P&gt;
+&lt;P&gt;Concurrent submission of the same (or essentially the same) abstract to SoCG and to another conference with published proceedings is not allowed. An extended abstract of a paper that is under journal review, or scheduled for publication in a journal after June 2011, may be submitted, when it is clear that the extended abstract differs substantially from the journal version. In such cases, the authors must include the journal version in an appendix that clearly identifies the status of the journal submission.&lt;/P&gt;&lt;/DIV&gt;
+&lt;DIV class=relatedItems&gt;&lt;/DIV&gt;
+&lt;DIV class=visualClear&gt;&lt;!-- --&gt;&lt;/DIV&gt;
+&lt;DIV class=documentActions&gt;
+&lt;H5 class=hiddenStructure&gt;Document Actions&lt;/H5&gt;
+&lt;UL&gt;
+&lt;LI id=document-action-sendto&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr/call-for-papers/call-for-paper/sendto_form&quot;&gt;Send this&lt;/A&gt; 
+&lt;LI id=document-action-print&gt;&lt;A title=&quot;&quot; href=&quot;javascript:this.print();&quot;&gt;Print this&lt;/A&gt; &lt;/LI&gt;&lt;/UL&gt;&lt;/DIV&gt;
+&lt;DIV id=review-history class=reviewHistory&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;SPAN id=contentBottomLeft&gt;&lt;/SPAN&gt;&lt;SPAN id=contentBottomRight&gt;&lt;/SPAN&gt;&lt;/DIV&gt;&lt;/DIV&gt; " ID="1-2-1-1" order="5"/><LayoutNode FrameSourceIndex="0" SourceIndex="142" DoC="7" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="277" LinkTextLen="45" DOMCldNum="2" FontSize="12.6" FontWeight="700" BgColor="#eae4df" ObjectRectLeft="0" ObjectRectTop="222" ObjectRectWidth="180" ObjectRectHeight="665" Content="Navigation
+ 
+ Home 
+ Program 
+ Venue 
+ Registration 
+ Call for papers 
+ Accepted papers 
+ Call for Video &amp; Multimedia 
+ Accepted Video &amp; Multimedia 
+ Committees 
+ Conference Poster 
+ Contact 
+Log in
+ 
+      
+Login Name 
+ 
+Password 
+ 
+Cookies are not enabled. You must enable cookies before you can log in. 
+ 
+ Forgot your password? 
+   " SRC="
+&lt;DIV class=visualPadding&gt;&lt;DIV id=portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f6367323031310a6e617669676174696f6e class=&quot;portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f6367323031310a6e617669676174696f6e&quot;&gt;
+&lt;DL class=&quot;portlet portletNavigationTree&quot;&gt;
+&lt;DT class=portletHeader&gt;&lt;SPAN class=portletTopLeft&gt;&lt;/SPAN&gt;&lt;A class=tile href=&quot;http://socg2011.inria.fr/sitemap&quot;&gt;Navigation&lt;/A&gt; &lt;SPAN class=portletTopRight&gt;&lt;/SPAN&gt;
+&lt;DD class=&quot;portletItem lastItem&quot;&gt;
+&lt;UL class=&quot;navTree navTreeLevel0&quot;&gt;
+&lt;LI class=navTreeItem&gt;
+&lt;DIV&gt;&lt;A title=&quot;&quot; href=&quot;http://socg2011.inria.fr&quot;&gt;&lt;IMG alt=&quot;&quot; src=&quot;http://socg2011.inria.fr/site_icon.gif&quot; width=16 height=16&gt; Home &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/program&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Program&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/venue&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Venue&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/registration&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Registration&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeCurrentNode navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeCurrentItem navTreeCurrentNode navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/call-for-papers&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Call for papers&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/accepted-papers&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Accepted papers&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/call-for-video-multimedia&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Call for Video &amp;amp; Multimedia&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/accepted-video-multimedia&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Accepted Video &amp;amp; Multimedia&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/committees&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Committees&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker&quot;&gt;
+&lt;DIV&gt;&lt;A class=state-missing-value title=&quot;Here is a PDF file of the official SoCG 2011 poster (in A3 format): &quot; href=&quot;http://socg2011.inria.fr/poster/view&quot;&gt;&lt;IMG alt=File src=&quot;http://socg2011.inria.fr/pdf_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Conference Poster&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;
+&lt;LI class=&quot;navTreeItem visualNoMarker navTreeFolderish&quot;&gt;
+&lt;DIV&gt;&lt;A class=&quot;state-published navTreeFolderish&quot; title=&quot;&quot; href=&quot;http://socg2011.inria.fr/contact&quot;&gt;&lt;IMG alt=Folder src=&quot;http://socg2011.inria.fr/folder_icon.gif&quot; width=16 height=16&gt; &lt;SPAN&gt;Contact&lt;/SPAN&gt; &lt;/A&gt;&lt;/DIV&gt;&lt;/LI&gt;&lt;/UL&gt;&lt;SPAN class=portletBottomLeft&gt;&lt;/SPAN&gt;&lt;SPAN class=portletBottomRight&gt;&lt;/SPAN&gt;&lt;/DD&gt;&lt;/DL&gt;&lt;/DIV&gt;
+&lt;DIV id=portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f6367323031310a6c6162656c5f6c6f675f696e class=&quot;portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f736f6367323031310a6c6162656c5f6c6f675f696e&quot;&gt;
+&lt;DL class=&quot;portlet portletLogin&quot;&gt;
+&lt;DT class=portletHeader&gt;&lt;SPAN class=portletTopLeft&gt;&lt;/SPAN&gt;&lt;A class=tile href=&quot;http://socg2011.inria.fr/login_form&quot;&gt;Log in&lt;/A&gt; &lt;SPAN class=portletTopRight&gt;&lt;/SPAN&gt;
+&lt;DD class=&quot;portletItem odd&quot;&gt;
+&lt;FORM method=post name=loginform action=https://socg2011.inria.fr/login_form&gt;&lt;INPUT value=1 type=hidden name=form.submitted&gt; &lt;INPUT value=https://socg2011.inria.fr/call-for-papers type=hidden name=came_from&gt; &lt;INPUT id=js_enabled value=0 type=hidden name=js_enabled&gt; &lt;INPUT id=cookies_enabled type=hidden name=cookies_enabled&gt; &lt;INPUT id=login_name type=hidden name=login_name&gt; &lt;INPUT id=pwd_empty value=0 type=hidden name=pwd_empty&gt; 
+&lt;DIV class=field&gt;&lt;LABEL for=__ac_name&gt;Login Name&lt;/LABEL&gt; &lt;BR&gt;&lt;INPUT id=__ac_name alt=&quot;Login Name&quot; size=10 name=__ac_name&gt; &lt;/DIV&gt;
+&lt;DIV class=field&gt;&lt;LABEL for=__ac_password&gt;Password&lt;/LABEL&gt; &lt;BR&gt;&lt;INPUT id=__ac_password value=&quot;&quot; alt=Password size=10 type=password name=__ac_password&gt; &lt;/DIV&gt;
+&lt;DIV style=&quot;DISPLAY: none&quot; class=&quot;cookiesMessage portalMessage&quot;&gt;Cookies are not enabled. You must enable cookies before you can log in. &lt;/DIV&gt;
+&lt;DIV class=formControls&gt;&lt;INPUT class=context value=&quot;Log in&quot; alt=&quot;Log in&quot; type=submit name=submit&gt; &lt;/DIV&gt;&lt;/FORM&gt;
+&lt;DD class=&quot;portletItem even&quot;&gt;&lt;A class=tile href=&quot;http://socg2011.inria.fr/mail_password_form&quot;&gt;&lt;IMG title=&quot;&quot; alt=&quot;&quot; src=&quot;http://socg2011.inria.fr/info_icon.gif&quot; width=16 height=16&gt; Forgot your password? &lt;/A&gt;&lt;/DD&gt;&lt;/DL&gt;&lt;/DIV&gt;&amp;nbsp; &lt;/DIV&gt; " ID="1-2-1-2" order="6"/></LayoutNode><LayoutNode FrameSourceIndex="0" SourceIndex="236" DoC="11" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="77" LinkTextLen="50" DOMCldNum="1" FontSize="12.6" FontWeight="700" BgColor="#d3d3d4" ObjectRectLeft="10" ObjectRectTop="1228" ObjectRectWidth="880" ObjectRectHeight="16" Content="Alternative Plone Skins and Themes © 2005-2011 Quintagroup. Powered by Plone.  " SRC="
+&lt;P&gt;&lt;A href=&quot;http://skins.quintagroup.com&quot; target=_blank&gt;Alternative Plone Skins and Themes&lt;/A&gt; © 2005-&lt;SPAN&gt;2011&lt;/SPAN&gt; &lt;A href=&quot;http://quintagroup.com&quot; target=_blank&gt;Quintagroup&lt;/A&gt;. Powered by &lt;A href=&quot;http://plone.org&quot; target=_blank&gt;Plone&lt;/A&gt;. &lt;/P&gt; " ID="1-2-2" order="7"/></LayoutNode></LayoutNode></VIPSPage>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_15,"
+>
+  <base:_Accepted_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_13,_2012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Accepted_Papers>
+  <base:_Accepted_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_12,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Accepted_Papers>
+  <ns1:_Number_2_tentative rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Symbolic_bisimulation_for_quantum_processes_Yuan_Feng,_Yuxin_Deng,_and_Mingsheng_Ying">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_2_tentative>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AlgebraCoalgebra_Duality_in_Brzozowskis_Minimization_Algorithm_Filippo_Bonchi,_Marcello_Bonsangue,_Helle_Hvid_Hansen,_Prakash_Panangaden,_Jan_Rutten,_and_Alexandra_Silva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Using_Tableau_to_Decide_Description_Logics_with_Full_Role_Negation_and_Identity_Renate_A._Schmidt_and_Dmitry_Tishkovsky">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_QuantifierFree_Interpolation_in_Combinations_of_Equality_Interpolating_Theories_Roberto_Bruttomesso,_Silvio_Ghilardi,_and_Silvio_Ranise">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_the_Complexity_of_Existential_Positive_Queries_Hubie_Chen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Structural_focalization_Robert_J._Simmons_Electronic_Appendix">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <base:_SuperSolutions rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Succinctly_Representing_Solutions_in_Abductive_Annotated_Probabilistic_Temporal_Logic_Cristian_Molinaro,_Amy_Sliva,_and_V.S._Subrahmanian">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_SuperSolutions>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Identifying_efficient_abductive_hypotheses_using_multicriteria_dominance_relation_Maciej_Komosinski,_Adam_Kups,_Dorota_LeszczynacuteskaJasion,_and_Mariusz_Urbanacuteski">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <ns1:_Number_2_tentative rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Parity_Games_and_Propositional_Proofs_Arnold_Beckmann,_Pavel_Pudlk,_and_Neil_Thapen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_2_tentative>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Complexity_Classifications_for_logicbased_Argumentation_Nadia_Creignou,_Uwe_Egly,_and_Johannes_Schmidt">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Improved_Witnessing_and_Local_Improvement_Principles_for_SecondOrder_Bounded_Arithmetic_Arnold_Beckmann_and_Samuel_R._Buss">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ModelChecking_LinearTime_Properties_of_Quantum_Systems_Mingsheng_Ying,_Yangjia_Li,_Nengkun_Yu,_and_Yuan_Feng">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nonfinite_axiomatizability_of_Dynamic_Topological_Logic_David_FernndezDuque">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Extending_twovariable_logic_on_data_trees_with_order_on_data_values_and_its_automata_Tony_Tan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <base:_Accepted_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Previous_Issues">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Accepted_Papers>
+  <base:_Accepted_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_11,_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Accepted_Papers>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Randomisation_in_Automata_on_Infinite_Trees_Arnaud_Carayol,_Axel_Haddad,_and_Olivier_Serre">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Degree_Lower_Bounds_of_TowerType_for_Approximating_Formulas_with_Parity_Quantifiers_Albert_Atserias_and_Anuj_Dawar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <base:_PartialObservation_Stochastic_Games rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__How_to_Win_when_Belief_Fails_Krishnendu_Chatterjee_and_Laurent_Doyen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_PartialObservation_Stochastic_Games>
+  <ns1:_Number_2_tentative rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Formalizing_Negotiations_Using_Logic_Programming_Tran_Cao_Son,_Enrico_Pontelli,_NgocHieu_Nguyen,_and_Chiaki_Sakama">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_2_tentative>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_certified_reduction_strategy_for_homological_image_processing_Mara_Poza,_Csar_Domnguez,_Jnathan_Heras,_and_Julio_Rubio">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_Resolution_Calculus_for_the_BranchingTime_Temporal_Logic_CTL_Lan_Zhang,_Ullrich_Hustadt,_and_Clare_Dixon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <ns1:_Number_2_tentative rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Pebble_Weighted_Automata_and_Weighted_Logics_Benedikt_Bollig,_Paul_Gastin,_Benjamin_Monmege,_and_Marc_Zeitoun">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_2_tentative>
+  <ns1:_Number_1 rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_PSPACEComplete_First_Order_Fragment_of_Computability_Logic_Matthew_S._Bauer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_1>
+  <base:_Accepted_Papers rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_14,_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Accepted_Papers>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LoCo__A_Logic_for_Configuration_Problems_Markus_Aschinger,_Conrad_Drescher,_Georg_Gottlob,_and_Helibert_Vollmer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <ns1:_Number_2_tentative rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Safety_and_Liveness,_Weakness_and_Strength,_and_the_Underlying_Topological_Relations_Cindy_Eisner,_Dana_Fisman,_and_John_Havlicek">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_2_tentative>
+  <base:_Future_Issues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Temporal_Specifications_with_Accumulative_Values_Udi_Boker,_Krishnendu_Chatterjee,_Thomas_A._Henzinger,_and_Orna_Kupferman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Future_Issues>
+  <ns1:_Number_2_tentative rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Preferred_Firstorder_Answer_Set_Programs_Vernon_Asuncion,_Yan_Zhang,_and_Yi_Zhou">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_Number_2_tentative>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_15,_Number_1"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Accepted_Papers">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Future_Issues"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PartialObservation_Stochastic_Games">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_15,_Number_2_tentative"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Volume_15,_Number_2_tentative"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Computational_Logic_TOCL"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SuperSolutions">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Future_Issues"/>
+  </rdf:Description>
+</rdf:RDF>

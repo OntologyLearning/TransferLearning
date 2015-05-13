@@ -1,0 +1,132 @@
+<VIPSPage Url="http://icpp2011.org/committees.htm" PageTitle="ICPP 2011 - International Conference on Parallel Processing - Taipei, Taiwan" WindowWidth="413" WindowHeight="2577" PageRectLeft="10" PageRectTop="15" PageRectWidth="1010" PageRectHeight="2577" neworder="0" order="0"><LayoutNode FrameSourceIndex="0" SourceIndex="9" DoC="4" ContainImg="1" IsImg="false" ContainTable="true" ContainP="0" TextLen="2705" LinkTextLen="406" DOMCldNum="1" FontSize="12" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1010" ObjectRectHeight="2577" ID="1" order="1"><LayoutNode FrameSourceIndex="0" SourceIndex="21" DoC="7" ContainImg="3" IsImg="false" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="3" FontSize="0" FontWeight="0" BgColor="#ffffff" ObjectRectLeft="10" ObjectRectTop="15" ObjectRectWidth="1010" ObjectRectHeight="290" Content=" " SRC="
+&lt;TR bgColor=#ffffff&gt;&lt;TD height=0&gt;
+&lt;DIV align=right&gt;&lt;A href=&quot;index.htm&quot;&gt;&lt;IMG border=0 src=&quot;image/123_left.jpg&quot; width=49 height=290&gt;&lt;/A&gt;&lt;/DIV&gt;&lt;/TD&gt;
+&lt;TD height=0 colSpan=5&gt;
+&lt;DIV align=center&gt;&lt;A href=&quot;index.htm&quot;&gt;&lt;IMG border=0 src=&quot;image/123_mid.jpg&quot; width=913 height=290&gt;&lt;/A&gt;&lt;/DIV&gt;&lt;/TD&gt;
+&lt;TD height=0&gt;
+&lt;DIV align=left&gt;&lt;A href=&quot;index.htm&quot;&gt;&lt;IMG border=0 src=&quot;image/123_right.jpg&quot; width=49 height=290&gt;&lt;/A&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt; " ID="1-1" order="2"/><LayoutNode FrameSourceIndex="0" SourceIndex="36;76;78;82;86;87;94;95;102;105;106;118;119;128;129;138;139;148;149;155;156;165;166;175;176;182;183;189;190;199;201;210;211;218;219;223;224;228;229;233;234;241;242;249;250;254;255;262;265;270;272" DoC="4" ContainImg="17" IsImg="false" ContainTable="false" ContainP="0" TextLen="2705" LinkTextLen="406" DOMCldNum="51" FontSize="17" FontWeight="400" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="305" ObjectRectWidth="1010" ObjectRectHeight="2236" ID="1-2" order="3"><LayoutNode FrameSourceIndex="0" SourceIndex="36" DoC="7" ContainImg="13" IsImg="false" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="13" FontSize="0" FontWeight="0" BgColor="#f5c556" ObjectRectLeft="59" ObjectRectTop="305" ObjectRectWidth="182" ObjectRectHeight="2236" Content=" " SRC="
+&lt;TD class=css3 bgColor=#f5c556 vAlign=top rowSpan=27 width=182&gt;&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image7','','image/8.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;Home.htm&quot;&gt;&lt;IMG border=0 name=Image7 src=&quot;image/7.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image9','','image/10.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;index.htm&quot;&gt;&lt;IMG border=0 name=Image9 src=&quot;image/9.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image11','','image/12.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;committees.htm&quot;&gt;&lt;IMG border=0 name=Image11 src=&quot;image/11.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image13','','image/14.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;icpp2011.pdf&quot; target=_blank&gt;&lt;IMG border=0 name=Image13 src=&quot;image/13.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image15','','image/16.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;PaperSub.htm&quot;&gt;&lt;IMG border=0 name=Image15 src=&quot;image/15.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image17','','image/18.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;ProA.htm&quot;&gt;&lt;IMG border=0 name=Image17 src=&quot;image/17.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image19','','image/20.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;Worksh.htm&quot;&gt;&lt;IMG border=0 name=Image19 src=&quot;image/19.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image21','','image/22.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;registration.php&quot;&gt;&lt;IMG border=0 name=Image21 src=&quot;image/21.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image23','','image/24.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;CRK.htm&quot;&gt;&lt;IMG border=0 name=Image23 src=&quot;image/23.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image25','','image/26.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;VISA.htm&quot;&gt;&lt;IMG border=0 name=Image25 src=&quot;image/25.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image27','','image/28.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;Conference.htm&quot;&gt;&lt;IMG border=0 name=Image27 src=&quot;image/27.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image29','','image/30.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;hotel.htm&quot;&gt;&lt;IMG border=0 name=Image29 src=&quot;image/29.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=right&gt;&lt;A onmouseover=&quot;MM_swapImage('Image35','','image/sponsors-after.jpg',1)&quot; onmouseout=MM_swapImgRestore() href=&quot;sponsor.htm&quot;&gt;&lt;IMG border=0 name=Image35 src=&quot;image/sponsors-before.jpg&quot; width=182 height=46&gt;&lt;/A&gt;&lt;/DIV&gt;&lt;/TD&gt; " ID="1-2-1" order="4"/><LayoutNode FrameSourceIndex="0" SourceIndex="76" DoC="11" ContainImg="1" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="1" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="241" ObjectRectTop="305" ObjectRectWidth="38" ObjectRectHeight="2236" Content=" " SRC="
+&lt;TD vAlign=top rowSpan=27 width=38 align=middle&gt;&lt;IMG alt=&quot;&quot; src=&quot;image/index_06.jpg&quot; width=38 height=486&gt;&lt;/TD&gt; " ID="1-2-2" order="5"/><LayoutNode FrameSourceIndex="0" SourceIndex="78" DoC="11" ContainImg="1" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="1" FontSize="0" FontWeight="0" BgColor="#ffffff" ObjectRectLeft="279" ObjectRectTop="305" ObjectRectWidth="657" ObjectRectHeight="64" Content=" " SRC="
+&lt;TD class=css1 bgColor=#ffffff colSpan=2&gt;&lt;BR&gt;&lt;IMG src=&quot;ya/1.jpg&quot; width=657 height=49&gt;&lt;BR&gt;&lt;/TD&gt; " ID="1-2-3" order="6"/><LayoutNode FrameSourceIndex="0" SourceIndex="82" DoC="11" ContainImg="1" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="1" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="936" ObjectRectTop="305" ObjectRectWidth="35" ObjectRectHeight="2236" Content=" " SRC="
+&lt;TD vAlign=top rowSpan=27 width=35 align=middle&gt;&lt;IMG alt=&quot;&quot; src=&quot;image/index_06.jpg&quot; width=35 height=486&gt;&lt;/TD&gt; " ID="1-2-4" order="7"/><LayoutNode FrameSourceIndex="0" SourceIndex="86;87;94;95;102;105;106;118;119;128;129;138;139;148;149;155;156;165;166;175;176;182;183;189;190;199;201;210;211;218;219;223;224;228;229;233;234;241;242;249;250;254;255;262" DoC="6" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="2560" LinkTextLen="364" DOMCldNum="44" FontSize="17" FontWeight="400" BgColor="#ffffff" ObjectRectLeft="279" ObjectRectTop="369" ObjectRectWidth="657" ObjectRectHeight="2050" Content="General Co-Chairs Wen-Tsuen Chen 
+National Tsing Hua University, Taiwan
+Xiaodong Zhang 
+Ohio State University, USA  Program Co-Chairs Guang R. Gao 
+University of Delaware, USA
+Yu-Chee Tseng 
+National Chiao Tung University, Taiwan  Program Vice-Chairs Architecture      Chung-Ping Chung 
+National Chiao Tung University, Taiwan
+Krishina Kavi 
+University of North Texas, USA 
+List of Program Committee members  Algorithms Design and Parallelization      Pangfeng Liu 
+National Taiwan University, Taiwan
+Yves Robert 
+ENS Lyon, France 
+List of Program Committee members  Cloud Computing      Yeh-Ching Chung 
+National Tsing Hua University, Taiwan
+Wen-Chih Peng 
+National Chiao Tung University, Taiwan 
+List of Program Committee members  Cluster and Grid Computing      Hsi-Ya Chang 
+National Center of High-Performance Computing, Taiwan
+Weimin Zheng
+Tsing Hua University, China 
+List of Program Committee members  Compilers, Prog. Models, and Languages      Calin Cascaval 
+Qualcomm, USA 
+List of Program Committee members  Mobile Computing and Networks      Sajal K. Das 
+University of Texas at Arlington, USA
+Ravi Prakash 
+University of Texas at Dallas, USA 
+List of Program Committee members  Multi-core and Parallel Systems      Tien-Fu Chen 
+National Chiao Tung University, Taiwan
+Dongrui Fan 
+Chinese Academy of Sciences, China 
+List of Program Committee members  P2P Computing and Services      Zhiwei Xu 
+Chinese Academy of Sciences, China 
+List of Program Committee members  Performance and Modeling      Darren Kerbyson 
+Pacific Northwest National Laboratory, USA 
+List of Program Committee members  OS and Runtime Technology      Taisuke Boku 
+University of Tsukuba, Japan
+Richard Murphy 
+Sandia National Laboratories, USA 
+List of Program Committee members  Wireless/Sensor Networks           
+and Pervasive Computing       Ruay-Shiung Chang 
+National Dong Hwa University, Taiwan
+Erol Gelenbe 
+Imperial College, UK 
+List of Program Committee members  Workshops Co-Chairs Jang-Ping Sheu
+National Tsing Hua University, Taiwan
+Cho-Li Wang
+The University of Hong Kong, China  Awards Chair Pen-Chung Yew
+University of Minnesota, USA &amp; Academia Sinica, Taiwan  Publications Chair Jiun-Long Huang 
+National Chiao Tung University, Taiwan  Publicity Chair Ching-Hsien Hsu 
+Chung Hua University, Taiwan  Local Arrangement Co-Chairs Wen-Shyen E. Chen 
+FalconStor Software, Taiwan
+Ming-Hour Yang 
+Chung Yuan University, Taiwan  International Liaison Co-Chairs Michel Raynal 
+IRISA, France
+Makoto Takizawa 
+Seikei University, Japan    Registration Chair Chih-Wei Yi 
+National Chiao Tung University, Taiwan    Steering Committee Chair Ming T. Liu 
+Ohio State University, USA   BACK TO THE TOP     " SRC="
+&lt;TD class=css7 bgColor=#ffffff vAlign=top width=329 align=middle&gt;General Co-Chairs&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Wen-Tsuen Chen &lt;BR&gt;&lt;SPAN class=css9&gt;National Tsing Hua University, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Xiaodong Zhang &lt;BR&gt;&lt;SPAN class=css9&gt;Ohio State University, USA&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Program Co-Chairs&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Guang R. Gao &lt;BR&gt;&lt;SPAN class=css9&gt;University of Delaware, USA&lt;/SPAN&gt;&lt;BR&gt;Yu-Chee Tseng &lt;BR&gt;&lt;SPAN class=css9&gt;National Chiao Tung University, Taiwan&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top width=329 align=middle&gt;Program Vice-Chairs&lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Architecture &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;&lt;SPAN class=css9&gt;&lt;SPAN class=style1&gt;Chung-Ping Chung&lt;/SPAN&gt; &lt;BR&gt;National Chiao Tung University, Taiwan&lt;BR&gt;&lt;/SPAN&gt;&lt;SPAN class=style3&gt;&lt;SPAN class=style2&gt;Krishina Kavi &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN class=css9&gt;&lt;BR&gt;University of North Texas, USA &lt;BR&gt;&lt;A href=&quot;/committees1.htm#architecture&quot;&gt;List of Program Committee members &lt;/A&gt;&lt;/SPAN&gt;&lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Algorithms Design and Parallelization &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Pangfeng Liu &lt;BR&gt;&lt;SPAN class=css9&gt;National Taiwan University, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Yves Robert &lt;BR&gt;&lt;SPAN class=css9&gt;ENS Lyon, France &lt;BR&gt;&lt;A href=&quot;/committees1.htm#algorithm&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Cloud Computing &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Yeh-Ching Chung &lt;BR&gt;&lt;SPAN class=css9&gt;National Tsing Hua University, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Wen-Chih Peng &lt;BR&gt;&lt;SPAN class=css9&gt;National Chiao Tung University, Taiwan &lt;BR&gt;&lt;A href=&quot;/committees1.htm#cloud&quot;&gt;List of Program Committee members&lt;/A&gt; &lt;/SPAN&gt;&lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Cluster and Grid Computing &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Hsi-Ya Chang &lt;BR&gt;&lt;SPAN class=css9&gt;National Center of High-Performance Computing, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Weimin Zheng&lt;BR&gt;&lt;SPAN class=css9&gt;Tsing Hua University, China &lt;BR&gt;&lt;A href=&quot;/committees1.htm#cluster&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Compilers, Prog. Models, and Languages &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Calin Cascaval &lt;BR&gt;&lt;SPAN class=css9&gt;Qualcomm, USA &lt;BR&gt;&lt;A href=&quot;/committees1.htm#compilers&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Mobile Computing and Networks &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Sajal K. Das &lt;BR&gt;&lt;SPAN class=css9&gt;University of Texas at Arlington, USA&lt;/SPAN&gt;&lt;BR&gt;Ravi Prakash &lt;BR&gt;&lt;SPAN class=css9&gt;University of Texas at Dallas, USA &lt;BR&gt;&lt;A href=&quot;/committees1.htm#mobile&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Multi-core and Parallel Systems &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Tien-Fu Chen &lt;BR&gt;&lt;SPAN class=css9&gt;National Chiao Tung University, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Dongrui Fan &lt;BR&gt;&lt;SPAN class=css9&gt;Chinese Academy of Sciences, China &lt;BR&gt;&lt;A href=&quot;/committees1.htm#multicore&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;P2P Computing and Services &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Zhiwei Xu &lt;BR&gt;&lt;SPAN class=css9&gt;Chinese Academy of Sciences, China &lt;BR&gt;&lt;A href=&quot;/committees1.htm#p2p&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Performance and Modeling &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Darren Kerbyson &lt;BR&gt;&lt;SPAN class=css9&gt;Pacific Northwest National Laboratory, USA &lt;BR&gt;&lt;A href=&quot;/committees1.htm#performance&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;OS and Runtime Technology &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Taisuke Boku &lt;BR&gt;&lt;SPAN class=css9&gt;University of Tsukuba, Japan&lt;/SPAN&gt;&lt;BR&gt;Richard Murphy &lt;BR&gt;&lt;SPAN class=css9&gt;Sandia National Laboratories, USA &lt;BR&gt;&lt;A href=&quot;/committees1.htm#os&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css8 bgColor=#ffffff vAlign=top width=329 align=right&gt;Wireless/Sensor Networks &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;BR&gt;and Pervasive Computing &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top width=328 align=left&gt;Ruay-Shiung Chang &lt;BR&gt;&lt;SPAN class=css9&gt;National Dong Hwa University, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Erol Gelenbe &lt;BR&gt;&lt;SPAN class=css9&gt;Imperial College, UK &lt;BR&gt;&lt;A href=&quot;/committees1.htm#wireless&quot;&gt;List of Program Committee members&lt;/A&gt;&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Workshops Co-Chairs&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Jang-Ping Sheu&lt;BR&gt;&lt;SPAN class=css9&gt;National Tsing Hua University, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Cho-Li Wang&lt;BR&gt;&lt;SPAN class=css9&gt;The University of Hong Kong, China&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Awards Chair&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Pen-Chung Yew&lt;BR&gt;&lt;SPAN class=css9&gt;University of Minnesota, USA &amp;amp; Academia Sinica, Taiwan&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Publications Chair&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Jiun-Long Huang &lt;BR&gt;&lt;SPAN class=css9&gt;National Chiao Tung University, Taiwan&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Publicity Chair&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Ching-Hsien Hsu &lt;BR&gt;&lt;SPAN class=css9&gt;Chung Hua University, Taiwan&lt;/SPAN&gt; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Local Arrangement Co-Chairs&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Wen-Shyen E. Chen &lt;BR&gt;&lt;SPAN class=css9&gt;FalconStor Software, Taiwan&lt;/SPAN&gt;&lt;BR&gt;Ming-Hour Yang &lt;BR&gt;&lt;SPAN class=css9&gt;Chung Yuan University, Taiwan &lt;/SPAN&gt;&lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;International Liaison Co-Chairs&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Michel Raynal &lt;BR&gt;&lt;SPAN class=css9&gt;IRISA, France&lt;/SPAN&gt;&lt;BR&gt;Makoto Takizawa &lt;BR&gt;&lt;SPAN class=css9&gt;Seikei University, Japan &lt;/SPAN&gt;&amp;nbsp; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Registration Chair&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Chih-Wei Yi &lt;BR&gt;&lt;SPAN class=css9&gt;National Chiao Tung University, Taiwan &lt;/SPAN&gt;&amp;nbsp; &lt;/TD&gt; 
+&lt;TD class=css7 bgColor=#ffffff vAlign=top align=middle&gt;Steering Committee Chair&lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=left&gt;Ming T. Liu &lt;BR&gt;&lt;SPAN class=css9&gt;Ohio State University, USA&lt;/SPAN&gt;&amp;nbsp; &lt;/TD&gt; 
+&lt;TD class=css2 bgColor=#ffffff vAlign=top align=right&gt;&lt;A href=&quot;#top&quot;&gt;&lt;STRONG&gt;BACK TO THE TOP&lt;/STRONG&gt;&lt;/A&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/TD&gt; " ID="1-2-5" order="8"/><LayoutNode FrameSourceIndex="0" SourceIndex="265" DoC="11" ContainImg="1" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="1" FontSize="0" FontWeight="0" BgColor="#ffffff" ObjectRectLeft="10" ObjectRectTop="2419" ObjectRectWidth="1010" ObjectRectHeight="49" Content=" " SRC="
+&lt;TR&gt;&lt;TD class=css1 bgColor=#ffffff colSpan=2&gt;&lt;IMG src=&quot;ya/6.jpg&quot; width=657 height=49&gt;&lt;BR&gt;&lt;/TD&gt;&lt;/TR&gt; " ID="1-2-6" order="9"/><LayoutNode FrameSourceIndex="0" SourceIndex="272" DoC="9" ContainImg="0" IsImg="false" ContainTable="false" ContainP="0" TextLen="131" LinkTextLen="42" DOMCldNum="2" FontSize="17" FontWeight="400" BgColor="#ffffff" ObjectRectLeft="279" ObjectRectTop="2491" ObjectRectWidth="657" ObjectRectHeight="50" Content="◆ Guang R. Gao, University of Delaware, ggao@capsl.udel.edu
+◆ Yu-Chee Tseng, National Chiao Tung University, yctseng@cs.nctu.edu.tw  " SRC="
+&lt;TD class=css2 bgColor=#ffffff vAlign=top colSpan=2&gt;◆ Guang R. Gao, University of Delaware, &lt;A class=css6 href=&quot;mailto:ggao@capsl.udel.edu&quot;&gt;ggao@capsl.udel.edu&lt;/A&gt;&lt;BR&gt;◆ Yu-Chee Tseng, National Chiao Tung University, &lt;A class=css6 href=&quot;mailto:yctseng@cs.nctu.edu.tw%20&quot;&gt;yctseng@cs.nctu.edu.tw &lt;/A&gt;&lt;/TD&gt; " ID="1-2-7" order="10"/></LayoutNode><LayoutNode FrameSourceIndex="0" SourceIndex="277;281;285" DoC="6" ContainImg="3" IsImg="true" ContainTable="false" ContainP="0" TextLen="0" LinkTextLen="0" DOMCldNum="3" FontSize="0" FontWeight="0" BgColor="transparent" ObjectRectLeft="10" ObjectRectTop="2541" ObjectRectWidth="1010" ObjectRectHeight="51" Content="   " SRC="
+&lt;TD vAlign=top&gt;&lt;DIV align=right&gt;&lt;A href=&quot;index.htm&quot;&gt;&lt;IMG border=0 src=&quot;image/index_25_left.jpg&quot; width=45 height=49&gt;&lt;/A&gt;&lt;/DIV&gt;&lt;/TD&gt; 
+&lt;TD vAlign=top colSpan=5&gt;&lt;DIV align=center&gt;&lt;A href=&quot;index.htm&quot;&gt;&lt;IMG border=0 src=&quot;image/index_25_mid.jpg&quot; width=913 height=51&gt;&lt;/A&gt;&lt;/DIV&gt;&lt;/TD&gt; 
+&lt;TD vAlign=top&gt;&lt;DIV align=left&gt;&lt;A href=&quot;index.htm&quot;&gt;&lt;IMG border=0 src=&quot;image/index_25_right.jpg&quot; width=46 height=49&gt;&lt;/A&gt;&lt;/DIV&gt;&lt;/TD&gt; " ID="1-3" order="11"/></LayoutNode></VIPSPage>

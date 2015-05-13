@@ -1,0 +1,585 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
+<head>
+    <!--
+    Designed by CompanyName
+    Base template (without user's data) checked by http://validator.w3.org : "This page is valid XHTML 1.0 Transitional"
+    -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <title>ECML-PKDD 2011 in Athens, Greece</title>
+
+    <script type="text/javascript" src="script.js"></script>
+
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    <!--[if IE 6]><link rel="stylesheet" href="style.ie6.css" type="text/css" media="screen" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" href="style.ie7.css" type="text/css" media="screen" /><![endif]-->
+    
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="css/highslide.css" type="text/css" media="all" />
+    <script type="text/javascript" src="includes/highslide.js"></script>
+    <script type="text/javascript">
+        hs.graphicsDir = 'images/highslide/';
+        // Identify a caption for all images. This can also be set inline for each image.
+        hs.captionId = 'the-caption';
+        hs.outlineType = 'drop-shadow';
+
+
+        function changeBanner(bannerName){
+            var logo = document.getElementById("logo");
+            logo.style.backgroundImage = "url("+bannerName+")";
+        }
+
+        function checkEmail(email){
+            var filter=/^(\w+((?:\.\w+)|(?:[-]\w+))*)@((?:\w+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+            if (!filter.test(email)){
+                alert("Please insert a valid Email Address\n");
+            }
+            else {
+                document.getElementById("bannerPoll").submit();
+            }
+        }
+
+    </script>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-20796606-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    <style type="text/css">
+        #MIS{position:relative; margin:15px auto; width:410px; height:250px; box-shadow: #7a7f86 4px 4px 4px;}
+
+        .MIS-image{position:absolute; top:0; left:0; border: solid 1px #AFA479; width:410px; height:250px;}
+
+
+        .MIS-black{text-shadow: black 1px 1px 2px; line-height: 12px; position: absolute; bottom: 0px; padding: 8px; width: 394px; height: 25px; font-size:11px; color: #bababa; background-color: rgb(10, 10, 10); background-color: rgba(0, 0, 0, 0.7);}
+        .MIS-black a{color: white; text-decoration: none;}
+
+        .MIS-button{z-index: 800; font-size: 13px; width: 15px;}
+        .MIS-button a{padding: 0 4px 2px; color: #707070; text-decoration: none;}
+        .MIS-button a:hover{background-color: black; color: #6fd5e8;}
+        #MIS-left{position: absolute; top: 146px; left: 268px;}
+        #MIS-right{position: absolute; top: 146px; left: 295px;}
+
+        #MIS2{position:relative; margin:15px auto; width:250px; height:150px; box-shadow: #7a7f86 4px 4px 4px;}
+
+        .MIS2-image{position:absolute; top:0; left:0; width:250px; height:150px;}
+       
+    </style>
+    <script type="text/javascript" src="includes/marc_mis_1.js"></script>
+
+	<!--Second Slideshow script for sponsors!-->
+	<script language="JavaScript1.1">
+	
+
+	//*****************************************
+	// Blending Image Slide Show Script- 
+	// © Dynamic Drive (www.dynamicdrive.com)
+	// For full source code, visit http://www.dynamicdrive.com/
+	//*****************************************
+
+	//specify interval between slide (in mili seconds)
+	var slidespeed=3000
+
+	//specify images
+	var slideimages=new Array(
+        "images/sponsors/google_research.gif",
+        "images/sponsors/modap.png", 
+        "images/sponsors/rapidi.jpg",
+        "images/sponsors/costmovelogo.png",
+        "images/sponsors/xeroxlogo.gif",
+        "images/sponsors/mds.gif",
+        "images/sponsors/EETN.gif",
+        "images/sponsors/imis.jpg",
+        "images/sponsors/sony.gif",
+        "images/sponsors/uoi.jpg",
+        "images/sponsors/unipi.gif",
+        "images/sponsors/aueb.jpg",
+        "images/sponsors/uoa.png",
+        "images/sponsors/uniba.gif"
+        )
+
+	//specify corresponding links
+	var slidelinks=new Array(
+        "http://research.google.com/", 
+        "http://www.modap.org/",
+        "http://rapid-i.com/",
+        "http://www.move-cost.info/",
+        "http://www.xerox.com/",
+        "http://www.marathondata.gr/english/index_en.htm",
+        "http://ai-lab-webserver.aegean.gr/EETN/",
+        "http://www.ipsyp.gr/",
+        "http://www.sony.gr/section/home",
+        "http://www.uoi.gr",
+        "http://www.unipi.gr",
+        "http://www.aueb.gr",
+        "http://www.uoa.gr",
+        "http://www.aueb.gr",
+        "http://www.uniba.it"
+        )
+
+	var newwindow=1 //open links in new window? 1=yes, 0=no
+
+	var imageholder=new Array()
+	var ie=document.all
+	for (i=0;i<slideimages.length;i++){
+		imageholder[i]=new Image()
+		imageholder[i].src=slideimages[i]
+	}
+
+	function gotoshow(){
+		if (newwindow)
+			window.open(slidelinks[whichlink])
+		else
+			window.location=slidelinks[whichlink]
+	}	                                                                                                                                                                       
+
+
+	</script>
+
+
+</head>
+<body>
+    <div id="art-page-background-gradient"></div>
+    <div id="art-main">
+        <div class="art-Sheet">
+            <div class="art-Sheet-tl"></div>
+            <div class="art-Sheet-tr"></div>
+            <div class="art-Sheet-bl"></div>
+            <div class="art-Sheet-br"></div>
+            <div class="art-Sheet-tc"></div>
+            <div class="art-Sheet-bc">We reccomend <a href="http://www.flashmint.com/">flash templates</a> .</div>
+            
+            <div class="art-Sheet-cl"></div>
+            <div class="art-Sheet-cr"></div>
+            <div class="art-Sheet-cc"></div>
+            <div class="art-Sheet-body">
+                <div class="art-Header">
+                    <div class="art-Header-jpeg" id="logo"></div>
+                    <div class="art-Logo">
+                        <h1 id="name-text" class="art-Logo-name"><a href="#"></a></h1>
+                        <div id="slogan-text" class="art-Logo-text"></div>
+                    </div>
+                </div>
+                <div class="art-nav">
+                	<div class="l"></div>
+                	<div class="r"></div>
+                	<ul class="art-menu">
+                		<li><a href="index.php" class=" active"><span class="l"></span><span class="r"></span><span class="t">Home</span></a></li>
+                		<li><a href="contact.php"><span class="l"></span><span class="r"></span><span class="t">Contact</span></a></li>
+                	</ul>
+                </div>
+                <div class="art-contentLayout">
+                    <div class="art-sidebar1">
+                      
+                        <div class="art-Block">
+                            <div class="art-Block-tl"></div>
+                            <div class="art-Block-tr"></div>
+                            <div class="art-Block-bl"></div>
+                            <div class="art-Block-br"></div>
+                            <div class="art-Block-tc"></div>
+                            <div class="art-Block-bc"></div>
+                            <div class="art-Block-cl"></div>
+                            <div class="art-Block-cr"></div>
+                            <div class="art-Block-cc"></div>
+                            <div class="art-Block-body">
+                                <div class="art-BlockHeader">
+                                    <div class="l"></div>
+                                    <div class="r"></div>
+                                    <div class="art-header-tag-icon">
+                                        <div class="t">Information</div>
+                                    </div>
+                                </div>
+                                <div class="art-BlockContent">
+                                    <div class="art-BlockContent-body">
+                                        <div>
+                                            <ul>
+                				<li><a href="keyDates.php">Key Dates</a></li>
+                				<li><a href="organization.php">Conference Organisation</a></li>
+                				<li><a href="pCommittee.php">Program Committee</a></li>
+                				<li><a href="calls.php">Calls</a></li>
+                                <li><a href="https://cmt.research.microsoft.com/ECMLPKDD2011/Protected/Author/" target="_BLANK">Paper Submission</a></li>
+                				<li><a href="pastConferences.php">Past Conferences</a></li>
+                				<li><a href="sponsors.php">Sponsors</a></li>
+                				<li><a href="sponsorshipOpp.php">Sponsorship Opportunities</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="art-Block">
+                            <div class="art-Block-tl"></div>
+                            <div class="art-Block-tr"></div>
+                            <div class="art-Block-bl"></div>
+                            <div class="art-Block-br"></div>
+                            <div class="art-Block-tc"></div>
+                            <div class="art-Block-bc"></div>
+                            <div class="art-Block-cl"></div>
+                            <div class="art-Block-cr"></div>
+                            <div class="art-Block-cc"></div>
+                            <div class="art-Block-body">
+                                <div class="art-BlockHeader">
+                                    <div class="l"></div>
+                                    <div class="r"></div>
+                                    <div class="art-header-tag-icon">
+                                        <div class="t">Program</div>
+                                    </div>
+                                </div><div class="art-BlockContent">
+                                    <div class="art-BlockContent-body">
+                                        <div>
+                                            <ul>
+                				<li><a href="schedule.php">Schedule</a></li>
+                				<li><a href="workshops.php">Workshops</a></li>
+                				<li><a href="tutorials.php">Tutorials</a></li>
+                				<li><a href="challenge.php">Discovery Challenge</a></li>
+                				<li><a href="keynoteTalks.php">Keynote Talks</a></li>
+                				<li><a href="colEvents.php">Co-located Events</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="art-Block">
+                            <div class="art-Block-tl"></div>
+                            <div class="art-Block-tr"></div>
+                            <div class="art-Block-bl"></div>
+                            <div class="art-Block-br"></div>
+                            <div class="art-Block-tc"></div>
+                            <div class="art-Block-bc"></div>
+                            <div class="art-Block-cl"></div>
+                            <div class="art-Block-cr"></div>
+                            <div class="art-Block-cc"></div>
+                            <div class="art-Block-body">
+                                <div class="art-BlockHeader">
+                                    <div class="l"></div>
+                                    <div class="r"></div>
+                                    <div class="art-header-tag-icon">
+                                        <div class="t">Attending</div>
+                                    </div>
+                                </div><div class="art-BlockContent">
+                                    <div class="art-BlockContent-body">
+                                        <div>
+                                            <ul>
+                				<li><a href="registration.php">Registration</a></li>
+                				<li><a href="localInformation.php">Local Information</a></li>
+                				<li><a href="conferenceVenue.php">Conference Venue</a></li>
+                                            </ul>
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="art-Block" align="center">
+                            <a href="http://www.twitter.com/ECML_PKDD_2011"><img src="http://twitter-badges.s3.amazonaws.com/follow_us-b.png" alt="Follow ECML_PKDD_2011 on Twitter" style="margin-bottom:4px;" width="155" /></a>
+                            <a href="http://www.linkedin.com/groups?about=&gid=3668438&trk=anet_ug_grppro" target="_BLANK"><img src="images/linkedin.jpg" alt="Join our Group on LinkedIn" style="margin-bottom:4px;" width="130" /></a>
+                            <a href="http://www.facebook.com/pages/ECML-PKDD-2011/111315008934900" target="_TOP" title="ECML PKDD 2011 on facebook"><img src="images/Find-us-on-facebook_logo.jpg" width="130" alt="Find us on Facebook" style="margin-bottom:10px;"/></a>
+                            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FECML-PKDD-2011%2F111315008934900&amp;layout=standard&amp;show_faces=true&amp;width=155&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:155px; height:80px;" allowTransparency="true"></iframe>
+                        </div>
+                    </div>
+                    <div class="art-content">
+                        <div class="art-Post">
+                            <div class="art-Post-body">
+                                <div class="art-Post-inner">
+                                                                        
+                                    <div class="art-PostContent"  style="height:880px;">
+                                   
+                                        <!--<center>
+                                            <span class="art-button-wrapper" width="80%">
+                                        	<span class="l"> </span>
+                                        	<span class="r"> </span>
+                                        	
+                                                <marquee class="art-button"  onMouseOver="this.scrollAmount=0" onMouseOut="this.scrollAmount=2" scrollamount="2" direction="left" loop="true" height="15">
+                                                    <font color="#006b6f">Abstract Submission has been extended to <b>April 12</b>.
+                                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                        Paper Submission has been extended to <b>April 19</b>.</font>
+                                                </marquee>
+                                            </span>
+                                        </center>-->
+
+                                        <div id="MIS">
+                                            <div id="MIS-image0" class="MIS-image">
+                                                    <img src="images/athens01.jpg" border="0" alt="img0" width="410px" height="250px"/>
+                                                  <!--   <div class="MIS-black">
+                                                        This is a brief introduction to MIS. Remember that the images shown here are just examples, you can change them, of course!
+                                                    </div>-->
+                                            </div>
+                                            
+                                            <div id="MIS-image1" class="MIS-image">
+                                                    <img src="images/athens02.jpg" border="0" alt="img3" width="410px" height="250px"/>
+                                                 <!--    <div class="MIS-black">
+                                                        Did you know that you can use HTML on image descriptions?<br/><b>Of course!</b> <i>I'm not lying!</i> <font style="color: yellow;">;-)</font>
+                                                    </div> -->
+                                            </div>
+
+                                            <div id="MIS-image2" class="MIS-image">
+                                                   <img src="images/athens03.jpg" border="0" alt="img4" width="410px" height="250px"/>
+                                                  <!--  <div class="MIS-black">
+                                                        Thanks to the magic of CSS, this slideshow can make alpha transitions between images. Old browsers won't show these effects, but the slideshow still works.
+                                                    </div>-->
+                                            </div>
+
+                                            <div id="MIS-image3" class="MIS-image">
+                                                    <img src="images/athens04.jpg" border="0" alt="img1" width="410px" height="250px"/>
+                                                   <!--  <div class="MIS-black">
+                                                        MIS makes full use of CSS. It's fully customizable, and you only have to edit some lines of CSS code.
+                                                    </div>-->
+                                            </div>
+
+                                            <div id="MIS-image4" class="MIS-image">
+                                                    <img src="images/athens05.jpg" border="0" alt="img6" width="410px" height="250px"/>
+                                                    <!-- <div class="MIS-black">
+                                                            What are you waiting for? Download &amp; install MIS on your website for free!
+                                                    </div> -->
+                                            </div>
+
+                                            <div id="MIS-image5" class="MIS-image">
+                                                    <img src="images/athens06.jpg" border="0" alt="img5" width="410px" height="250px"/>
+                                                   <!-- <div class="MIS-black">
+                                                            What are you waiting for? Download &amp; install MIS on your website for free!
+                                                    </div> -->
+                                            </div>
+                                            
+                                            <div id="MIS-image6" class="MIS-image">
+                                                    <img src="images/athens07.jpg" border="0" alt="img7" width="410px" height="250px"/>
+                                                   <!-- <div class="MIS-black">
+                                                            What are you waiting for? Download &amp; install MIS on your website for free!
+                                                    </div> -->
+                                            </div>
+                                    </div>
+
+                                        <p>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) will take place in Athens, Greece from September 5th to 9th, 2011.</p>
+                                        <p>This event builds upon a very successful series of 21 ECML and 14 PKDD conferences, which have been jointly organized for the past ten years.</p>
+                                        <p>It has become the major European scientific event in these fields and in 2011 it will comprise presentations of contributed papers and invited speakers, a wide program of workshops and tutorials, a discovery challenge, a demo track and an industrial track.</p>
+                                        <a href="http://www.springer.com/computer/lncs/ecmlpkdd?SGWID=0-163702-0-0-0">Springer ECML PKDD Community Portal</a>
+                                        <br/>
+                                        <a href="http://www.ecmlpkdd.org/">ECML PKDD Steering Committee </a>
+                                        <br/>
+                                        <p><b>General co-Chairs</b>
+                                            <br/>Prof. A. Likas (Univ. of Ioannina, Greece)
+                                            <br/>Prof. Y. Theodoridis (Univ. of Piraeus, Greece)
+                                        </p>
+                                        <p><b>Programme Commitee chairs</b>
+                                            <br/>Prof. D. Gunopulos (Univ. of Athens, Greece)
+                                            <br/>Dr. T. Hofmann (Google Research)
+                                            <br/>Prof. Donato Malerba (Univ. of Bari, Italy)
+                                            <br/>Prof. M. Vazirgiannis (Athens Univ. of Economics and Business, Greece)
+                                        </p>
+                                        <br/>
+                                        <p align="center">
+                                            <b><a href="flyer.pdf" target="_BLANK">ECML/PKDD 2011 flyer</a></b>
+                                        </p>
+<br/>
+<center>
+<h3 style="text-align:center">Sponsors</h3>
+<a href="javascript:gotoshow()"><img src="images/sponsors/uoi.jpg" name="slide" border=0 style="filter:blendTrans(duration=3)" width=210 ></a>
+</center>
+<script language="JavaScript1.1">
+<!--
+
+var whichlink=0
+var whichimage=0
+var blenddelay=(ie)? document.images.slide.filters[0].duration*1000 : 0
+function slideit(){
+if (!document.images) return
+if (ie) document.images.slide.filters[0].apply()
+document.images.slide.src=imageholder[whichimage].src
+if (ie) document.images.slide.filters[0].play()
+whichlink=whichimage
+whichimage=(whichimage<slideimages.length-1)? whichimage+1 : 0
+setTimeout("slideit()",slidespeed+blenddelay)
+}
+slideit()
+
+//-->
+</script>					
+
+
+                                    </div>
+                                                                        <div class="cleared"></div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+                   <div class="art-sidebar2">
+                        <div class="art-Block">
+                        <br/>
+  <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'search',
+  search: '#ecmlpkdd2011 OR ecmlpkdd OR \"ecml pkdd\" OR \"ECML PKDD\" OR from:ecmlpkdd11 OR to:ecmlpkdd11 OR to:ecmlpkdd2011 OR @ecmlpkdd2011 OR @ecmlpkdd',
+  interval: 6000,
+  title: 'What \'s happening at',
+  subject: 'ECML PKDD 2011',
+  width: 230,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#b5912f',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#444444',
+      links: '#9b630a'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    toptweets: true,
+    behavior: 'default'
+  }
+}).render().start();
+</script>
+                    </div>
+                    </div>
+<!--
+                    <div class="art-sidebar2">            
+                        <div class="art-Block">
+                            <div class="art-Block-tl"></div>
+                            <div class="art-Block-tr"></div>
+                            <div class="art-Block-bl"></div>
+                            <div class="art-Block-br"></div>
+                            <div class="art-Block-tc"></div>
+                            <div class="art-Block-bc"></div>
+                            <div class="art-Block-cl"></div>
+                            <div class="art-Block-cr"></div>
+                            <div class="art-Block-cc"></div>
+                            <div class="art-Block-body">
+                                <div class="art-BlockHeader">
+                                    <div class="l"></div>
+                                    <div class="r"></div>
+                                    <div class="art-header-tag-icon">
+                                        <div class="t">Banner Vote</div>
+                                    </div>
+                                </div>
+                                <div class="art-BlockContent">
+                                    <div class="art-BlockContent-body">
+                                        <div>
+                                                                                   
+                                            Vote the Banner/Logo you like most for ECML PKDD 2011.<br/><br/>
+                                            <form name="bannerPoll" id="bannerPoll" action="#" method="post">
+                                                <input type="radio" name="vote" value="1" checked onclick="changeBanner('images/ECML-PKDD-8888.jpg');"/> <a href="images/ECML-PKDD-8888.jpg" class="highslide" onclick="return hs.expand(this)"><img src="images/ECML-PKDD-8small.jpg" width="160px" align="absmiddle"></a><br/><br/>
+                                                <input type="radio" name="vote" value="2" onclick="changeBanner('images/ECML-PKDD-1888.jpg');"/> <a href="images/ECML-PKDD-1888.jpg" class="highslide" onclick="return hs.expand(this)"><img src="images/ECML-PKDD-1small.jpg" width="160px" align="absmiddle" title="Click to enlarge"></a><br/><br/>
+                                                <input type="radio" name="vote" value="3" onclick="changeBanner('images/ECML-PKDD-3888.jpg');"/> <a href="images/ECML-PKDD-3888.jpg" class="highslide" onclick="return hs.expand(this)"><img src="images/ECML-PKDD-3small.jpg" width="160px" align="absmiddle" title="Click to enlarge"></a><br/><br/>
+                                                <input type="radio" name="vote" value="4" onclick="changeBanner('images/bannerM888.jpg');"/> <a href="images/bannerM888.jpg" class="highslide" onclick="return hs.expand(this)"><img src="images/bannerMsmall.jpg" width="160px" align="absmiddle" title="Click to enlarge"></a><br/><br/>
+                                                Your E-Mail: <input type="text" name="email" size="20px" style="background:lightgrey;border:0px;padding:2px"/><br/><br/>
+                                                <table width="100%">
+                                                    <tr>
+                                                        <td style="font-size:11px">
+                                                            <a style="border-width:1px 0px 1px 0px;border-style:dotted;border-color:grey;padding:3px;text-decoration:none" href="?show=1"> > View Results </a>
+                                                        </td>
+                                                        <td align="right">
+                                                            <input type="button" class="art-button" value="VOTE" onclick="checkEmail(bannerPoll.email.value)" />
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </form>
+                                                                                        <div class='highslide-caption' id='the-caption'>
+                                                <a href="#" onclick="return hs.previous(this)" class="control" style="float:left; display: block">
+                                                Previous
+                                                <br/>
+                                                <small style="font-weight: normal; text-transform: none">Left Arrow Key</small>
+                                                </a>
+
+                                                <a href="#" onclick="return hs.next(this)" class="control"
+                                                style="float:left; display: block; text-align: right; margin-left: 50px">
+                                                Next
+                                                <br/>
+                                                <small style="font-weight: normal; text-transform: none">Right Arrow Key</small>
+                                                </a>
+                                                <a href="#" onclick="return hs.close(this)" class="control">Close</a>
+                                                <a href="#" onclick="return false" class="highslide-move control">Move</a>
+                                                <div style="clear:both"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+-->
+                    <div class="art-sidebar2">
+                        <div class="art-Block">
+                            <div class="art-Block-tl"></div>
+                            <div class="art-Block-tr"></div>
+                            <div class="art-Block-bl"></div>
+                            <div class="art-Block-br"></div>
+                            <div class="art-Block-tc"></div>
+                            <div class="art-Block-bc"></div>
+                            <div class="art-Block-cl"></div>
+                            <div class="art-Block-cr"></div>
+                            <div class="art-Block-cc"></div>
+                            <div class="art-Block-body">
+                                <div class="art-BlockHeader">
+                                    <div class="l"></div>
+                                    <div class="r"></div>
+                                    <div class="art-header-tag-icon">
+                                        <div class="t">Recent Conferences</div>
+                                    </div>
+                                </div>
+                                <div class="art-BlockContent">
+                                    <div class="art-BlockContent-body">
+                                        <div>
+                                            <a  href="http://www.ecmlpkdd2009.net/"><img class="art-article" src="images/ecmlpkdd2009.png" width="190px" border="0"/></a>
+                                            <br/><br/>
+                                            <a href="http://www.ecmlpkdd2010.org/"><img class="art-article" src="images/ecmlpkdd2010.jpg" width="190px" border="0"/></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="art-sidebar2">
+                        <div class="art-Block" align="center">
+                            <a href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.ecmlpkdd2011.org/" id="clustrMapsLink" target="_BLANK"><img src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.ecmlpkdd2011.org/" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src=\'http://clustrmaps.com/images/clustrmaps-back-soon.jpg\'; document.getElementById(\'clustrMapsLink\').href=\'http://clustrmaps.com\';" /></a>
+                        </div>
+                    </div>
+<!--                    <div class="art-sidebar2">
+                        <div class="art-Block" align="center">
+                            <a href="http://www.twitter.com/ECML_PKDD_2011"><img src="http://twitter-badges.s3.amazonaws.com/follow_us-c.png" alt="Follow ECML_PKDD_2011 on Twitter" style="margin-bottom:4px;"/></a>
+                            <a href="http://www.facebook.com/pages/ECML-PKDD-2011/111315008934900" target="_TOP" title="ECML PKDD 2011 on facebook"><img src="images/Find-us-on-facebook_logo.jpg" width="130" alt="Find us on Facebook" style="margin-bottom:10px;"/></a>
+                            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FECML-PKDD-2011%2F111315008934900&amp;layout=standard&amp;show_faces=true&amp;width=230&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:80px;" allowTransparency="true"></iframe>
+                        </div>
+                    </div>
+-->
+                </div>
+                <div class="cleared"></div><div class="art-Footer">
+                    <div class="art-Footer-inner">
+                        <div class="art-Footer-text">
+                            <p><a href="credits.php">Credits</a> | <a href="sitemap.php">Site Map</a><br />
+                                ECML PKDD 2011</p>
+                        </div>
+                    </div>
+                    <div class="art-Footer-background"></div>
+                </div>
+            </div>
+        </div>
+        <div class="cleared"></div>
+        <p class="art-page-footer">XHTML and CSS valid. Powered by <a href="http://myfreetemplatehome.com/">Free Web Templates</a>.</p>
+    </div>
+    
+<div style="text-align: center; font-size: 0.75em;">Design downloaded from <a href="http://www.freewebtemplates.com/">free website templates</a>.</div></body>
+</html>

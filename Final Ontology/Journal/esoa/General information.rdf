@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Symposium_covers_research_in_efficient_algorithms_and_data_structures_in_computer_science,_discrete_applied_mathematics,_operations_research_and_mathematical_programming._Starting_from_2002,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_20th_Annual_European_Symposium_on_Algorithms_ESA_2012_took_place_in_Ljubljana,_Slovenia,_from_September_10_to_12,_2012.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_22nd_Annual_European_Symposium_on_Algorithms_ESA_2014_will_take_place_in_Wrocaw,_Poland,_from_September_08_to_10,_2014.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <ns1:_the_symposium_has_two_tracks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Design_and_mathematical_analysis_of_algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_the_symposium_has_two_tracks>
+  <ns1:_the_symposium_has_two_tracks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Engineering_and_Application_Track">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_the_symposium_has_two_tracks>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_19th_Annual_European_Symposium_on_Algorithms_ESA_2011_took_place_in_Saarbrcken,_Germany,_from_September_5_to_9,_2011.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_21th_Annual_European_Symposium_on_Algorithms_ESA_2013_will_take_place_in_Sophia_Antipolis,_France,_from_September_02_to_04,_2013_Call_for_papers.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_ESA_2007,_in_addition_to_the_best_student_paper_award,_ESA_confers_a_best_paper_award._The_prize_acknowledges_the_best_contributed_ESA_paper_of_that_year,_as_judged_by_the_program_committee._The_award_is_sponsored_by_EATCS.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <ns1:_the_symposium_has_two_tracks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Design_and_Analysis_Track">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_the_symposium_has_two_tracks>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_General_information">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_European_Symposia_on_Algorithms"/>
+  </rdf:Description>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_23rd_Annual_European_Symposium_on_Algorithms_ESA_2015_will_take_place_in_Patras,_Greece.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_17th_Annual_European_Symposium_on_Algorithms_ESA_2009_took_place_in_Copenhagen,_Denmark,_from_September_7_to_9,_2009.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <ns1:_the_symposium_has_two_tracks rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Realworld_applications,_engineering_and_experimental_analysis_of_algorithms">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_the_symposium_has_two_tracks>
+  <base:_News rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_18th_Annual_European_Symposium_on_Algorithms_ESA_2010_took_place_in_Liverpool,_United_Kingdom,_from_September_6_to_8,_2010.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_News>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Symposium_covers_research_in_efficient_algorithms_and_data_structures_in_computer_science,_discrete_applied_mathematics,_operations_research_and_mathematical_programming._Starting_from_2002,_the_symposium_has_two_tracks">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_European_Symposia_on_Algorithms"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_European_Symposia_on_Algorithms"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_European_Symposia_on_Algorithms"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACL_HLT_2011_is_the_49th_Annual_meeting_of_the_Association_for_Computational_Linguistics._It_will_be_held_in_Portland,_Oregon,_June_1924,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Proposed_workshop_CFP rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jan_22,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposed_workshop_CFP>
+  <base:_SHARED_DATES rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshop_proposal_deadline">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_SHARED_DATES>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EMNLP_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_description_of_special_requirements_for_technical_needs.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_for_workshops_should_contain">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SUBMISSION_INFORMATION"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mar_18,_2011">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposed_paper_due_date">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_SHARED_DATES rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nov_15,_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_SHARED_DATES>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_note_specifying_which_venues_ACL_HLT_versus_EMNLP_would_be_acceptable_to_you_if_both_are_acceptable,_you_may_express_preference_for_one_or_the_other.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_for_workshops_should_contain"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_names,_postal_addresses,_phone_numbers,_and_email_addresses_of_the_organizers,_with_oneparagraph_statements_of_their_research_interests_and_areas_of_expertise.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_for_workshops_should_contain"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__http">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACL_HLT_2011_is_the_49th_Annual_meeting_of_the_Association_for_Computational_Linguistics._It_will_be_held_in_Portland,_Oregon,_June_1924,_2011._The_dates_for_the_ACL_HLT_workshops_will_be_June_2324._The_webpage_for_ACL_HLT_2011_is">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Association_for_Computational_Linguistics_ACL_and_the_ACL_Special_Interest_Group_on_Linguistic_Data_and_CorpusBased_Approaches_to_NLP_SIGDAT_invite_proposals_for_workshops_to_be_held_in_conjunction_with_either_the_ACL_HLT_or_EMNLP_conferences_in_the_summer_of_2011._We_solicit_proposals_on_any_topic_of_interest_to_the_ACL_and_EMNLP_communities._Workshops_will_be_held_at_one_of_the_following_conference_venues"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jul_3031,_2011">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jun_03,_2011">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cameraready_deadline">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_John_Carroll,_ACL_HLT_University_of_Sussex">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WORKSHOP_COCHAIRS"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_desired_workshop_length_one_or_two_days,_and_an_estimate_of_the_number_of_attendees.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_for_workshops_should_contain"/>
+  </owl:NamedIndividual>
+  <base:_The_Association_for_Computational_Linguistics_ACL_and_the_ACL_Special_Interest_Group_on_Linguistic_Data_and_CorpusBased_Approaches_to_NLP_SIGDAT_invite_proposals_for_workshops_to_be_held_in_conjunction_with_either_the_ACL_HLT_or_EMNLP_conferences_in_the_summer_of_2011._We_solicit_proposals_on_any_topic_of_interest_to_the_ACL_and_EMNLP_communities._Workshops_will_be_held_at_one_of_the_following_conference_venues rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_EMNLP_2011_is_the_conference_organized_by_SIGDAT._It_will_be_held_in_Edinburgh,_Scotland,_July_2731,_2011._The_EMNLP_workshops_will_be_held_July_3031.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_The_Association_for_Computational_Linguistics_ACL_and_the_ACL_Special_Interest_Group_on_Linguistic_Data_and_CorpusBased_Approaches_to_NLP_SIGDAT_invite_proposals_for_workshops_to_be_held_in_conjunction_with_either_the_ACL_HLT_or_EMNLP_conferences_in_the_summer_of_2011._We_solicit_proposals_on_any_topic_of_interest_to_the_ACL_and_EMNLP_communities._Workshops_will_be_held_at_one_of_the_following_conference_venues>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACL_HLT_2011__EMNLP_2011"/>
+  <base:_Proposed_workshop_CFP rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dec_18,_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposed_workshop_CFP>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACL_HLT_2011">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+  </rdf:Description>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_list_of_potential_members_of_the_program_committee,_with_an_indication_of_which_members_have_already_agreed.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_for_workshops_should_contain"/>
+  </owl:NamedIndividual>
+  <base:_SHARED_DATES rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dec_05,_2010">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_SHARED_DATES>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apr_22,_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposed_paper_due_date"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cameraready_deadline"/>
+  </owl:NamedIndividual>
+  <base:_Proposed_notification_of_acceptance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apr_15,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposed_notification_of_acceptance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hal_Daum_III,_ACL_HLT_University_of_Maryland,_College_Park">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WORKSHOP_COCHAIRS"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marie_Candito,_EMNLP_Universit_Paris_Diderot,_Alpage">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WORKSHOP_COCHAIRS"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notification_of_acceptance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CALL_FOR_WORKSHOP_PROPOSALS"/>
+  <base:_Proposed_notification_of_acceptance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_May_20,_2011">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Proposed_notification_of_acceptance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_description_of_any_shared_tasks_associated_with_the_workshop.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_for_workshops_should_contain"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jun_2324,_2011">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Workshops"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_A_title_and_brief_2page_max_description_of_the_workshop_topic_and_content.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposals_for_workshops_should_contain"/>
+  </owl:NamedIndividual>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposed_notification_of_acceptance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SUBMISSION_INFORMATION"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Association_for_Computational_Linguistics_ACL_and_the_ACL_Special_Interest_Group_on_Linguistic_Data_and_CorpusBased_Approaches_to_NLP_SIGDAT_invite_proposals_for_workshops_to_be_held_in_conjunction_with_either_the_ACL_HLT_or_EMNLP_conferences_in_the_summer_of_2011._We_solicit_proposals_on_any_topic_of_interest_to_the_ACL_and_EMNLP_communities._Workshops_will_be_held_at_one_of_the_following_conference_venues"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SHARED_DATES">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WORKSHOP_COCHAIRS"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposed_workshop_CFP">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TIMELINES_FOR_2011_WORKSHOPS"/>
+  </rdf:Description>
+</rdf:RDF>

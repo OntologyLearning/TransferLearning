@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_More_specific_criteria_apply_to_papers_presenting_theoretical_results,_which_has_been_a_particular_issue_in_distributed_or_parallel_computing._ACM_TOCS_does_not_accept_papers_that_belong_in_more_theoretical_journals_e.g._JACM,_SpringerVerlags_Distributed_Computing,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_demonstration_of_superiority_compared_to_alternative_approaches.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_More_specific_criteria_apply_to_papers_presenting_theoretical_results,_which_has_been_a_particular_issue_in_distributed_or_parallel_computing._ACM_TOCS_does_not_accept_papers_that_belong_in_more_theoretical_journals_e.g._JACM,_SpringerVerlags_Distributed_Computing,_Journal_of_Parallel_and_Distributed_Computing._This_does_not_imply_that_all_theoretical_papers_are_to_be_rejected_rather_it_implies_that_theoretical_papers_that_cannot_establish_their_direct_relevance_to_current_issues_in_the_development_of_computer_systems_will_generally_be_rejected._An_acceptable_paper_of_this_type_should_contain">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Referees"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_evidence_of_effectiveness_and_practicality_and">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_More_specific_criteria_apply_to_papers_presenting_theoretical_results,_which_has_been_a_particular_issue_in_distributed_or_parallel_computing._ACM_TOCS_does_not_accept_papers_that_belong_in_more_theoretical_journals_e.g._JACM,_SpringerVerlags_Distributed_Computing,_Journal_of_Parallel_and_Distributed_Computing._This_does_not_imply_that_all_theoretical_papers_are_to_be_rejected_rather_it_implies_that_theoretical_papers_that_cannot_establish_their_direct_relevance_to_current_issues_in_the_development_of_computer_systems_will_generally_be_rejected._An_acceptable_paper_of_this_type_should_contain"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_technical_quality_is_high">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_must_be_of_high_quality_and_fall_within_the_scope_of_the_journal._There_are_four_main_ingredients_to_an_acceptable_paper">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Referees"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_presentation_is_effective.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_must_be_of_high_quality_and_fall_within_the_scope_of_the_journal._There_are_four_main_ingredients_to_an_acceptable_paper"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_interest_and_novelty_is_high_and">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_must_be_of_high_quality_and_fall_within_the_scope_of_the_journal._There_are_four_main_ingredients_to_an_acceptable_paper"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_relevance_to_significant_computations_is_high">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_must_be_of_high_quality_and_fall_within_the_scope_of_the_journal._There_are_four_main_ingredients_to_an_acceptable_paper"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_motivation_and_technical_analysis_of_the_method">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_More_specific_criteria_apply_to_papers_presenting_theoretical_results,_which_has_been_a_particular_issue_in_distributed_or_parallel_computing._ACM_TOCS_does_not_accept_papers_that_belong_in_more_theoretical_journals_e.g._JACM,_SpringerVerlags_Distributed_Computing,_Journal_of_Parallel_and_Distributed_Computing._This_does_not_imply_that_all_theoretical_papers_are_to_be_rejected_rather_it_implies_that_theoretical_papers_that_cannot_establish_their_direct_relevance_to_current_issues_in_the_development_of_computer_systems_will_generally_be_rejected._An_acceptable_paper_of_this_type_should_contain"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Welcome_to_ACM_TOCS"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guidelines_for_Referees"/>
+</rdf:RDF>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_Contact_Information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Department_of_Electrical_Engineering">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Information>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__6507231258">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Telephone">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Information"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_jointly_with_Computer_Science"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_McCluskey_developed_the_first_algorithm_for_designing_combinational_circuits__the_QuineMcCluskey_logic_minimization_procedure_as_a_doctoral_student_at_MIT._At_Bell_Labs_and_Princeton,_he_developed_the_modern_theory_of_transients_hazards_in_logic_networks_and_formulated_the_concept_of_operating_modes_of_sequential_circuits._His_Stanford_research_focuses_on_logic_testing,_synthesis,_design_for_testability,_and_faulttolerant_computing._Prof._McCluskey_and_his_students_at_the_Center_for_Reliable_Computing_worked_out_many_key_ideas_for_fault_equivalence,_probablilistic_modelling_of_logic_networks,_pseudoexhaustive_testing,_and_watchdog_processors._He_collaborated_with_Signetics_researchers_in_developing_one_of_the_first_practical_multivalued_logic_implementations_and_then_worked_out_a_design_technique_for_such_circuitry">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brief_Biography"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Professor_McCluskey_worked_on_electronic_switching_systems_at_the_Bell_Telephone_Laboratories_from_1955_to_1959._In_1959,_he_moved_to_Princeton_University,_where_he_was_Professor_of_Electrical_Engineering_and_Director_of_the_University_Computer_Center._In_1966,_he_joined_Stanford_University,_where_he_is_Professor_of_Electrical_Engineering_and_Computer_Science,_as_well_as_Director_of_the_Center_for_Reliable_Computing._He_founded_the_Stanford_Digital_Systems_Laboratory_now_the_Computer_Systems_Laboratory_in_1969_and_the_Stanford_Computer_Engineering_Program_now_the_Computer_Science_MS_Degree_Program_in_1970._The_Stanford_Computer_Forum_an_Industrial_Affiliates_Program_was_started_by_Dr._McCluskey_and_two_colleagues_in_1970_and_he_was_its_Director_until_1978">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brief_Biography"/>
+  </owl:NamedIndividual>
+  <base:_Contact_Information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gates_Bldg._2A,_Room_235">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Information>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Edward_J._McCluskey"/>
+  <base:_Contact_Information rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ejmcrc.stanford.edu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contact_Information>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dr._McCluskey_served_as_the_first_President_of_the_IEEE_Computer_Society._He_is_the_recipient_of_the_1996_IEEE_Emanuel_R._Piore_Award._He_is_a_Fellow_of_the_IEEE,_AAAS,_and_ACM_and_a_member_of_the_NAE._He_has_honorary_doctorates_from_the_University_of_Grenoble_and_Bowdoin_College._He_has_published_several_books_including_two_widely_used_texts">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brief_Biography"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__6507231451">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FAX">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Information"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contact_Information"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brief_Biography"/>
+</rdf:RDF>

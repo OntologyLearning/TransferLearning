@@ -1,0 +1,559 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux/x86 (vers 1 September 2005), see www.w3.org">
+<!--[if IE]> <style>
+#uoc {
+  position: absolute; top: 0px; right: 0px; float: right;
+}
+</style> <![endif]-->
+
+<style type="text/css">
+.clock {
+color: black;
+font-family: verdana;
+float: center;
+}
+.time {
+font-size: 60;
+}
+.clock TD {
+}
+B {color:black}
+</style>
+<script language="JavaScript" type="text/javascript">
+function time() {
+var today = new Date();
+var hrs = today.getHours();
+var min = today.getMinutes();
+var secs = today.getSeconds();
+var alsohrs = today.getHours();
+var dayNumber = today.getDate();
+var year = today.getFullYear();
+var ampm="";
+var zero="0";
+var month = today.getMonth() +1;
+var weekday = today.getDay();
+var wdn = new Array(7)
+wdn[0] = "SUN";
+wdn[1] = "MON";
+wdn[2] = "TUE";
+wdn[3] = "WED";
+wdn[4] = "THU";
+wdn[5] = "FRI";
+wdn[6] = "SAT";
+//Statement that puts '0's in front of single minutes or seconds.
+if (min<10)
+{
+min=zero+min;
+}
+if (secs<10)
+{
+secs=zero+secs;
+}
+//Statement that eliminates Metric Time
+if (hrs>12)
+{
+hrs=eval(hrs - 12);
+}
+if (hrs>=0 && hrs<1)
+{
+hrs=12
+}
+//P.M. Statement
+if (alsohrs>=12 && alsohrs<24)
+{
+ampm="<font size=6>p.m.<\/font>";
+}
+//A.M. Statement
+if (alsohrs<12 && alsohrs>=0)
+{
+ampm="<font size=6>a.m.<\/font>";
+}
+tmp='<table class="clock"><tr><td class="time" colspan="4">';
+tmp+=hrs+'<span id="blinker">:<\/span>'+min+ampm;
+tmp+='<tr><td><font size="-1">Month<\/font><br><b>'+month+'<\/b><\/td>';
+tmp+='<td><font size="-1">Date<\/font><br><b>'+dayNumber+'<\/b><\/td>';
+tmp+='<td><font size="-1">Day<\/font><br><b>'+wdn[weekday]+'<\/b><\/td>';
+tmp+='<td><font size="-1">Year<\/font><br><b>'+year+'<\/b><\/td><\/tr><\/table>';
+document.getElementById("clockgoeshere").innerHTML=tmp;
+clocktime=setTimeout("time()","1000");
+}
+function blink() {
+var obj = document.getElementById("blinker");
+if (obj.style.visibility == "visible") {
+obj.style.visibility="hidden";
+}
+else {
+obj.style.visibility="visible";
+}
+eachsecond=setTimeout("blink()","500");
+}
+</script>
+  <meta name="HandheldFriendly" content="True">
+  <link rel="SHORTCUT ICON" href="favicon.png">
+
+  <title>Mike Gordon</title>
+<style type="text/css">
+ body.c5 {background-color: white;}
+ span.c4 {font-size: 64%}
+ span.c3 {font-size: 80%}
+ span.c2 {font-family: Helvetica,Arial,sans-serif; font-weight: bold}
+ img.c1 {width: 200px; height: 165px}
+</style>
+</head>
+
+<body class="c5">
+
+<!--
+<script src="http://badge.facebook.com/badge/540481417.320.508763772.js"></script><noscript><a href="http://www.facebook.com/people/Mike_Gordon/540481417">Mike Gordon's Facebook profile</a></noscript>
+-->
+
+  <img id="uoc" src="UoCCL.gif" style="position:fixed; right:0px" alt=
+  "University of Cambridge Computer Laboratory" align="right"
+  border="0" height="94" hspace="5" width="289"><br clear="all">
+  <br>
+
+  <table cellpadding="10">
+    <tbody>
+      <tr>
+
+        <td>
+<!--
+        <a href="Seville.html"><img class="c1" alt=
+        "[Photo of Mike Gordon taken taken in Seville, December 2005]"
+        src="MikeInSevilleDec2005.jpg"></a>
+
+
+
+        <a href = "Roland/Gordon-08.big.jpg">
+          <img  alt= "Photo by Roland Eva [reva@evaeye.com]"
+                src= "Roland/Gordon-08.small.jpg"
+                border= 2>
+             
+        </a>
+
+
+-->
+
+<img  alt="Photo of Mike speaking at Dave MacQueen Fest"
+      width="150"
+      src="KarenPictureOfMeAtMacQueenFestCropped.png"
+>
+             
+
+
+<!--
+<script src="http://badge.facebook.com/badge/540481417.320.508763772.js"></script><noscript><a href="http://www.facebook.com/people/Mike_Gordon/540481417">Mike Gordon's Facebook profile</a></noscript>
+-->
+        </td>
+
+<!--
+<font size="-2">&nbsp;&nbsp;&nbsp;&nbsp;Thanks to <a href="http://www.evaeye.com/portrait.htm">eva</a> for the photo below</font>
+-->
+        <td>
+          <address>
+            <span class="c2">
+
+            <br>
+            Michael J. C. Gordon</span><br>
+            Professor of Computer Assisted Reasoning<br>
+            <a href="http://www.cam.ac.uk/" target="_blank">The University</a> of
+            Cambridge <a href=
+            "http://www.cl.cam.ac.uk/home.html" target="_blank">Computer
+            Laboratory</a><br>
+            <a href=
+            "http://www.cl.cam.ac.uk/site-maps/gates2.html" target="_blank">Room
+            FE19</a>, <a href=
+            "http://www.cl.cam.ac.uk/maps" target="_blank">William
+            Gates Building</a><br>
+            <a href=
+            "http://www.cam.ac.uk/map/v3/drawmap.cgi?mp=main;xx=675;yy=468;mt=c;tl=Computer%20Laboratory" target="_blank">
+            15 JJ Thomson Avenue</a>, Cambridge CB3 0FD, United
+            Kingdom<br>
+            office: <span class="c3">+441223334627</span>, mobile:
+            <span class="c3">+447774017428</span>, fax:
+            <span class="c3">+441223334678</span><br>
+          </address>
+
+          <table border="0" cellpadding="0" cellspacing="0">
+            <tbody>
+              <tr>
+                <td></td>
+
+                <td rowspan="2" valign="bottom">@</td>
+
+                <td></td>
+              </tr>
+
+              <tr>
+                <td><i>email:</i> mjcg</td>
+
+                <td>cl.cam.ac.uk</td>
+
+
+              </tr>
+
+<!--
+<tr><td><INPUT TYPE=button VALUE="Time" onClick="time(); blink();"></td></tr>
+-->
+
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+
+              <tr>
+
+                <!--            <td><a href="javascript:time();blink()">Add clock</a></td> -->
+              </tr>
+
+            </tbody>
+
+
+
+          </table>
+        </td>
+
+        <td>
+          <div id="clockgoeshere"></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+<br>
+
+  <hr>
+
+  <h3>Past research</h3>
+
+  <ul>
+
+<!--
+    <li><a href=
+    "http://www.cl.cam.ac.uk/Research/HVG/FTP/#papers">Cambridge
+    FTP Area for HOL</a> and 
+-->
+
+    <li> <a href="WhyHOL.pdf" target="_blank">Why higher order logic is a good formalism for specifying and verifying hardware</a>
+
+    <li> <a href="Banffpaper.pdf" target="_blank">Mechanizing programming logics in higher order logic</a>
+
+    <li><a href="papers/HolHistory.html" target="_blank">From LCF to HOL: a short
+    history</a></li>
+
+    <li><a href="STA.html" target="_blank">State Transition Assertions (STAs)</a></li>
+
+    <li><a href="papers/holst/index.html" target="_blank">Combining set theory and
+    type theory</a></li>
+
+    <li><a href="Verilog/index.html" target="_blank">Verilog HDL</a> </li>
+
+<!--
+     and <a href=
+    "Verilog/V/V.html">semantics</a> of a small subset</li>
+--> 
+
+    <li><a href="PVS.html" target="_blank">Comparing HOL and PVS</a></li>
+
+    <li><a href="http://www.dcs.gla.ac.uk/prosper" target="_blank">PROSPER: Proof
+    and Specification Assisted Design Environments</a></li>
+
+<!--
+    <li><a href="EDSAC99.ps.gz">Historical talk on work done at
+    Cambridge in the 1980s</a></li>
+-->
+
+    <li><a href=
+    "http://dl.acm.org/citation.cfm?id=609211" target="_blank">
+    Christopher Strachey: recollections of his influence</a></li>
+
+<!--
+    <li><a href=
+    "Strachey.ps">
+    Christopher Strachey: recollections of his influence</a></li>
+-->
+
+    <li><a href="http://www.cl.cam.ac.uk/users/mjcg/ARM/" target="_blank">Formal
+    Specification and Verification of ARM6</a></li>
+
+    <li><a href=
+    "http://www.cl.cam.ac.uk/users/mjcg/Research00/" target="_blank">Directions in
+    Formal and Semi-Formal Verification</a></li>
+
+    <li><a href=
+    "http://www.cl.cam.ac.uk/users/mjcg/HolCheck/" target="_blank">Fully Expansive
+    Proof and Algorithmic Verification</a></li>
+
+    <li><a href=
+    "http://www.cl.cam.ac.uk/users/mjcg/HolBddLib/" target="_blank"><tt>HolBddLib</tt></a>,
+    <a href=
+    "http://www.cl.cam.ac.uk/users/mjcg/HolSatLib/" target="_blank"><tt>HolSatLib</tt></a>,
+    <a href="puzzleTool" target="_blank"><code>puzzleTool</code></a></li>
+
+    <li><a href="Sugar" target="_blank">Deep embedding of Accellera PSL (IBM Sugar
+    2.0) in HOL</a></li>
+
+    <li><a href=
+    "http://www.lms.ac.uk/jcm/5/lms2000-001" target="_blank">Programming
+    combinations of deduction and BDD-based symbolic
+    calculation</a></li>
+
+    <li><a href="DMUTalk.html" target="_blank">STRL Annual Distinguished
+    Seminar</a></li>
+
+    <li><a href="CAV03" target="_blank">Invited talk</a> at <a href=
+    "http://www.cs.utexas.edu/users/trcenter/CAV/cav2003homepage.html" target="_blank">
+    CAV 2003</a></li>
+
+    <li><a href="Talks/Strachey/" target="_blank">Strachey Lecture</a></li>
+
+    <li><a href="Talks/DCC04" target="_blank">PSL Semantics in Higher Order
+    Logic</a> (contribution to <a href=
+    "http://www.cs.chalmers.se/%7Ems/DCC04/" target="_blank">DCC 2004</a>)</li>
+
+    <li><a href=
+    "http://www.cl.cam.ac.uk/%7Emjcg/proposals/dev/" target="_blank">Translating HOL
+    to hardware</a>
+    (<a href="http://www.cl.cam.ac.uk/~mjcg/proposals/CryptVer/cvs/cryptver/doc/papers/DCC06/faq.pdf" target="_blank">FAQ</a>) </li>
+
+    <li><a href="http://www.cl.cam.ac.uk/~mjcg/hol2acl2/" target="_blank">Linking the
+    HOL4 and ACL2 proof
+    systems</a></li>
+
+    <li><a href="http://www.cl.cam.ac.uk/~mjcg/Talks/Hoare75/extended-talk.pdf" target="_blank">Mechanically Proving Hoare Formulae</a>
+    (talk given at event celebrating Tony Hoare's 75th birthday)</li>
+
+    <li><a href="http://www.cl.cam.ac.uk/~mjcg/MITB" target="_blank">The MITB project</a>
+    </li>
+
+  </ul>
+
+  <h3>Teaching</h3>
+
+  <ul>
+
+    <li><a href="http://www.cl.cam.ac.uk/~mjcg/HoareLogic" target="_blank">Hoare Logic</a>
+<!--  
+     (previous version of course <a href="HoareLogicOld.html" target="_Blank">here</a>) 
+-->
+
+
+    <li><a href="http://www.cl.cam.ac.uk/~mjcg/TempLogic/TempLogic.html" target="_blank">Temporal Logic and Model Checking</a> 
+
+<!--
+    <font color="red">(<a href="TempLogicNew" target="_Blank">revised version for 2014</a>)</font>
+
+        (<a href="http://www.cl.cam.ac.uk/~mjcg/Temporal">backup link</a> during server problems)
+-->
+
+    <li>Notes for a <a href="http://www.cl.cam.ac.uk/~mjcg/NewPhDStudents.html" target="_blank">talk given to incoming PhD students</a> on October 18, 2013</li> 
+
+    <li>Notes for a <a href="http://www.cl.cam.ac.uk/~mjcg/Nov12TalkNotes" target="_blank">talk given to potential PhD students</a> on November 12, 2013</li> 
+
+    <li><a href="http://www.cl.cam.ac.uk/~mjcg/PLSV.html"
+    target="_blank">Programming Logics and Software Verification</a>
+    (discontinued)
+
+    <li><a href="Lectures/SpecVer1/SpecVer1.html" target="_blank">Specification and
+    Verification I</a> (discontinued after 2010)</li>
+
+    <li><a href="Lectures/SpecVer2/SpecVer2.html" target="_blank">Specification and
+    Verification II</a> (discontinued after 2010)</li>
+
+    <li><a href="https://prezi.com/secure/f6208a8538c7399a57e9c0aec8f7df2122c29834/" target="_blank">Five minute talk</a> 
+        given to potential PhD students on November 18, 2010
+    </li>
+
+    <li><a href="PhD" target="_blank">Short talk</a> given to new PhD students on the 2008 Induction Day</li>
+
+
+    <li><a href="Lectures/FuncProg/FuncProg.html" target="_blank">Introduction to
+    Functional Programming</a> (only of historical interest - last taught in 1996!)</li>
+</ul>
+
+  <h3>Miscellaneous</h3>
+
+  <ul>
+    <li><a href="digclock.html" target="_blank">Digital clock</a></li>
+
+<!--
+    <li> <a href="http://www.google.com/calendar/embed?src=r48qarlgcv2u1c2tdbm2i0dkq4%40group.calendar.google.com&ctz=Europe/London">Borrowing calendar</a> for "hvg" laptop
+
+    <li><a href="http://www.cl.cam.ac.uk/~arc54/tea.html">ARG
+    Tea</a></li>
+
+    <li><a href=
+    "http://www.mikegordon.com/Nav.aspx/Page=/About/Default.aspx">When
+    people think of Mike Gordon, I want them to think of a
+    commitment to excellence</a> &nbsp; <b>:-)</b></li>
+-->
+    <li><a href="29034.txt" target="_blank"><tt>IMMEDIATE ATTENTION
+    NEEDED</tt></a>; <a href="http://costofwar.com/" target="_blank">costs</a></li>
+
+    <li><a href="http://www.bagism.com/tablemaker/" target="_blank">HTML
+    tablemaker</a>, <a href=
+    "http://www.natural-innovations.com/boo/doc-charset.html" target="_blank">table
+    of HTML characters</a>, <a href=
+    "http://validator.w3.org/" target="_blank">HTML validator</a> and
+    <a href="http://www.wikifaq.com" target="_blank">WikiFAQ</a> FAQ hosting site</li> 
+    
+
+    <li><a href="http://maps.google.co.uk/" target="_blank">Google Maps UK</a>,
+    <a href="http://www.theaa.com/travelwatch/planner_main.jsp" target="_blank">AA
+    Route Planner</a>, <a href=
+    "http://www.mapquest.co.uk/" target="_blank">Mapquest UK</a>, <a href=
+    "http://www.streetmap.co.uk/" target="_blank">streetmap.co.uk</a>, <a href=
+    "http://www.multimap.com/" target="_blank">Multimap</a>, <a href=
+    "http://www.mapblast.com/" target="_blank">Mapblast</a>, <a href=
+    "http://www.mapquest.com/" target="_blank">Mapquest</a></li>
+
+    <li> Airport taxi services
+<ul>
+<li> <a href="http://www.airportlynx.co.uk/" target="_blank">AirportLynx</a> (good, but parking and waiting may put up costs)
+<li> <a href="http://www.executivecarservicescambridge.co.uk/prices.html" target="_blank">ECS</a> (excellent: used by Computer Lab and MSR)
+<li> <a href="http://www.airports-anytime.co.uk" target="_blank">BATS taxis</a> (never tried, but may be cheap)
+</ul>
+
+<!--
+    <li><a href="Seville.html">Possibly useful stuff from our December 2005 trip to Seville Spain</a> (now a bit dated)
+-->
+
+    <li><a href="http://www.admin.cam.ac.uk/reporter/" target="_blank"><i>Cambridge
+    University Reporter</i></a></li>
+
+    <li><a href="http://www.cl.cam.ac.uk/local/arrivals/hosts/" target="_blank">Visitors</a></li>
+
+    <li><a href=
+    "http://www.cl.cam.ac.uk/UoCCL/teaching/lectlist/LectList.html" target="_blank">
+    Computer Science Lecture-List timetables</a></li>
+
+    <li><a href="http://www.cam.ac.uk/CambUniv/TermDates.html" target="_blank">Term
+    dates</a></li>
+
+    <li><a href="http://www.royalsoc.ac.uk/" target="_blank">The Royal Society</a>,
+    and its  <a href=
+    "http://royalsociety.org/about-us/fellowship/fellows/" target="_blank">Fellows</a></li>
+
+    <li><a href="http://ttvsi.gilith.com" target="_blank">TTVSI</a>
+
+<!-- <a href="http://www.royalsoc.ac.uk/view_fellow.cfm?FID=568&amp;N=g">
+     </a>
+-->
+    <li><a href="chair2.jpg" target="_blank">Seating posture</a> and <a href=
+    "chair1.jpg" target="_blank">adjustment</a> of my office chair</li>
+
+    <li><a href="http://www.firstpr.com.au/ergonomics/" target="_blank">In praise
+    of thumb-operated trackballs and the ergonomic problems of
+    mice</a></li>
+
+    <li>What has a <a href="lantern.html" target="_blank">snow watching lantern</a>
+    got to do with <a href=
+    "http://www.cl.cam.ac.uk/Research/HVG/HOL/HOL.html#documentation" target="_blank">
+    the HOL88 system</a>?</li>
+
+    <li>Avra Cohn's paper <i><a href=
+    "http://www.cl.cam.ac.uk/~mjcg/papers/AvraProofPaper.pdf" target="_blank">The
+    Notion of Proof in Hardware Verification</a></i> and her
+    unfinished paper <i><a href=
+    "http://www.cl.cam.ac.uk/~mjcg/papers/AvraAccountsPaper.pdf" target="_blank">
+    Proof Accounts in HOL</a></i></li>
+
+    <li> Good advice from <a href="http://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1110.PDF" target="_blank">Dijkstra</a> and 
+         <a href="http://vimeo.com/12325645" target="_blank">Hoare</a></li>
+
+    <li><a href="http://www.cl.cam.ac.uk/research/hvg/old/FTP/FTP.html#papers" target="_blank">
+    Automated Reasoning Group Old FTP Area for HOL</a></li>
+
+    <li><a href=
+    "http://www.cl.cam.ac.uk/users/mjcg/Applets/LEDSign/WWW/LED.html" target="_blank">
+    My first (and last) use of Java applets</a> (from 1996 -- may
+    crash your browser)</li>
+
+<!--
+    <li>Making slides using LaTeX [<a href="ColourDemo/">old
+    method</a> | <a href=
+    "http://latex-beamer.sourceforge.net/">Beamer</a>].<br>
+      Some other methods (I haven't tried most of these, so
+      feedback appreciated):
+
+      <ul>
+        <li><span class="c4"><a href=
+        "Prosper/Nov22Meeting/prospertalk/slides.pp4.pdf">Example
+        presentation</a> using <a href=
+        "http://www-sp.iti.informatik.tu-darmstadt.de/software/ppower4/">
+        PPower4</a>, an alternative to PowerPoint using
+        LaTeX.</span></li>
+
+        <li><a href="http://texpower.sourceforge.net/">TeXPower</a>
+        is another package for making dynamic online presentations
+        with LaTeX.</li>
+
+        <li><a href=
+        "http://prosper.sourceforge.net/screenshots-prosper.html">Prosper</a>
+        is a LaTeX class for writing transparencies. Here's
+        <a href="http://prosper.sourceforge.net/files/slides-cp2000.pdf.gz">
+        an example produced with it</a></li>
+
+        <li><a href=
+        "http://raw.cs.berkeley.edu/texpoint/index.htm">TexPoint</a>
+        is a Powerpoint add-in that enables the easy use of Latex
+        symbols and formulas in Powerpoint presentations</li>
+
+        <li><a href=
+        "http://www.phil.cam.ac.uk/teaching_staff/Smith/LaTeX/">LaTeX
+        for Logicians</a> by <a href=
+        "http://www.phil.cam.ac.uk/teaching_staff/Smith/">Peter
+        Smith</a></li>
+
+        <li><a href=
+        "http://www.meyerweb.com/eric/tools/s5/">S<sup>5</sup>: A
+        Simple Standards-Based Slide Show System</a></li>
+      </ul>
+    </li>
+-->
+    <li><a href=
+    "http://www.lib.cam.ac.uk/newton/" target="_blank">University of
+    Cambridge Library catalogues</a></li>
+
+    <li><a href="Melatonin.jpg" target="_blank">Melatonin for jetlag</a> (NYT,
+    April 30, 1997) and <a href="http://www.bodyclock.com/" target="_blank"> Jetlag Calculator</a></li>
+
+    <li><a href=
+    "http://www.techweb.com/encyclopedia" target="_blank">TechEncyclopedia</a></li>
+
+
+    <li><a href="http://www.htmlhelp.com/reference/html40/entities/symbols.html" target="_blank">HTML 4.0 symbols</a> </li>
+
+
+    <li><a href="grants" target="_blank">Recent projects</a> (needs updating)
+<!-- 
+(<a href="MagnusGrantStudentship.html">PhD studentship available</a>)
+-->
+</li>
+
+    <li><a href="http://www.cl.cam.ac.uk/Research/HVG/" target="_blank">Automated
+    reasoning group home page</a></li>
+
+
+    <li><a href=
+    "http://www.cl.cam.ac.uk/%7Emjcg/SourceForge.html" target="_blank">HOL at
+    SourceForge</a> (contains obsolete material) </li>
+    </li>
+
+
+<!--
+    <li><a href = "http://www.reubenjuggler.com/">Reuben's blog</a>
+-->
+  </ul>
+
+<!--
+<iframe
+src="http://www.raceforlifesponsorme.org/rss/GetFundraisingPage2.asp?eventgivinggroupid=810752
+" width="195px" height="322px" frameborder="0"
+scrolling="no"></iframe>
+-->
+
+</body>
+</html>

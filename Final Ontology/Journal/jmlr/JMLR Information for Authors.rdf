@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_youd_like_to_propose_a_special_topic,"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_computational_models_of_data_from_natural_learning_systems_at_the_behavioral_or_neural_level_or">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reviewing">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  </rdf:Description>
+  <base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_formalization_of_new_learning_tasks_e.g.,_in_the_context_of_new_applications_and_of_methods_for_assessing_performance_on_those_tasks">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Originality">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Overview">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  </rdf:Description>
+  <base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_development_of_new_analytical_frameworks_that_advance_theoretical_studies_of_practical_learning_methods">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain>
+  <ns1:_please_submit_a_short_proposal_outlining rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Topic_area_and_why_it_is_important">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_submit_a_short_proposal_outlining>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Publication">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_JMLR_Paper_Review_Process"/>
+  </rdf:Description>
+  <base:_Ensure_that_the_title_page_contains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Select_the_submit_manuscript_link_across_the_top_and_upload_your_manuscript_into_the_system.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ensure_that_the_title_page_contains>
+  <base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_new_principled_algorithms_with_sound_empirical_validation,_and_with_justification_of_theoretical,_psychological,_or_biological_nature">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain>
+  <base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_accounts_of_applications_of_existing_techniques_that_shed_light_on_the_strengths_and_weaknesses_of_the_methods">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Submission_procedure">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scope">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  </rdf:Description>
+  <base:_Go_to_http rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_jmlr.csail.mit.edumanudb,_register_and_log_in.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Go_to_http>
+  <base:_Annotated_sample_JMLR_paper rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__LaTeX_source,_BibTex_source,_PDF">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Annotated_sample_JMLR_paper>
+  <base:_Common_formatting_errors rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__http">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LyX_layout_files">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reviewers_guide">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Instructions_for_Formatting_JMLR_Articles">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+      </rdf:Description>
+    </rdf:type>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_LaTeX_style">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_Common_formatting_errors>
+  <ns1:_please_submit_a_short_proposal_outlining rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Plan_for_circulating_the_call_for_papers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_submit_a_short_proposal_outlining>
+  <base:_Special_issues_tend_to_have_somewhat_lower_quality_papers_than_regular_issues._This_may_be_because rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__its_a_somewhat_more_closed_community_that_is_reviewing_and_making_decisions_or_that_papers_are_often_invited_by_the_guest_editors,_who_then_find_it_difficult_to_reject_marginal_ones._In_any_case,_its_important_to_be_aware_of_this_phenomenon_and_try_to_keep_it_in_check.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Special_issues_tend_to_have_somewhat_lower_quality_papers_than_regular_issues._This_may_be_because>
+  <base:_Software_release_form rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__PDF_format._To_be_sent_along_with_the_permission_to_publish_form_if_any_executable_code_is_made_available_as_part_of_an_online_appendix.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Software_release_form>
+  <base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_experimental_andor_theoretical_studies_yielding_new_insight_into_the_design_and_behavior_of_learning_in_intelligent_systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain>
+  <base:_Permission_to_publish_form rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__plain_text_and_PDF_formats.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Permission_to_publish_form>
+  <base:_Content rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Papers_must_be_concise_and_complete_manuscripts_should_be_carefully_proofread_and_polished._Submissions_that_do_not_meet_these_criteria_may_be_returned_unreviewed.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Content>
+  <base:_Ensure_that_the_title_page_contains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_complete_name,_post_and_email_address_of_the_corresponding_author">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ensure_that_the_title_page_contains>
+  <base:_Caveats rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issues_almost_always_run_late._Sometimes_very_drastically_so._Guest_editors_almost_always_underestimate_the_amount_of_work_required_to_manage_the_issue_and_the_difficulty_of_extracting_reviews_from_even_the_bestintentioned_of_their_colleagues.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Caveats>
+  <ns1:_please_submit_a_short_proposal_outlining rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dates_for_submission,_acceptreject_decisions,_and_final_versions">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_submit_a_short_proposal_outlining>
+  <ns1:_please_submit_a_short_proposal_outlining rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Guest_editors_expertise_in_the_technical_area,_and_with_reviewing_and_editing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_submit_a_short_proposal_outlining>
+  <ns1:_please_submit_a_short_proposal_outlining rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Desired_number_of_pages">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_please_submit_a_short_proposal_outlining>
+  <base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_extremely_wellwritten_surveys_of_existing_work.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain>
+  <base:_Ensure_that_the_title_page_contains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_an_abstract_that_does_not_exceed_200_words">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ensure_that_the_title_page_contains>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Proposing_a_Special_Topic">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Topics"/>
+  </rdf:Description>
+  <base:_Content rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_All_claims_should_be_clearly_articulated_and_supported_either_by_empirical_experiments_or_theoretical_analyses._When_appropriate,_authors_are_encouraged_to_implement_their_work_and_to_demonstrate_its_utility_on_significant_problems_any_experiments_reported_should_be_reproducible._Papers_describing_systems_should_clearly_describe_the_contributions_or_the_principles_underlying_the_system._Papers_describing_theoretical_results_should_also_discuss_their_practical_utility._In_general,_it_should_be_clear_how_the_work_advances_the_current_state_of_understanding_and_why_the_advance_matters._Papers_should_report_on_what_was_learned_in_doing_the_work,_rather_than_merely_on_what_was_done.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Content>
+  <base:_Ensure_that_the_title_page_contains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_a_condensed_running_title_of_fifty_50_characters_or_less">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ensure_that_the_title_page_contains>
+  <base:_Content rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_must_clearly_acknowledge_the_contributions_of_their_predecessors._If_a_paper_introduces_new_terminology_or_techniques,_it_should_also_explain_why_current_terminology_or_techniques_are_insufficient.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Content>
+  <base:_Ensure_that_the_title_page_contains rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_a_list_of_five_keywords">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Ensure_that_the_title_page_contains>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Permission_to_publish_form">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_issues_tend_to_have_somewhat_lower_quality_papers_than_regular_issues._This_may_be_because">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Caveats">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Topics"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ensure_that_the_title_page_contains"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_If_youd_like_to_propose_a_special_topic,_please_submit_a_short_proposal_outlining">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Topics"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Go_to_http">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ensure_that_the_title_page_contains"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Common_formatting_errors">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Annotated_sample_JMLR_paper">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Content">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_seeks_previously_unpublished_papers_on_machine_learning_that_contain">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_JMLR_Information_for_Authors"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Software_release_form">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Authors_guide"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_JMLR_Paper_Review_Process"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Special_Topics"/>
+</rdf:RDF>

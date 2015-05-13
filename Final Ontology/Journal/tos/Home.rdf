@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Replication,_Backup,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,"
+  xmlns:ns3="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Storage_Systems_Architecture,_Design,"
+>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contributions_may_extend_original_work_published_in_conferences_and_workshops,_or_may_be_based_on_entirely_new_unpublished_work._Tutorial_and_survey_articles_that_provide_and_detailed_treatment_of_emerging_and_established_topics_are_welcome.">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_digital_libraries_Association_for_Computing_Machinery_ACM">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </owl:NamedIndividual>
+  <base:_Storage_Resource_Management rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__virtualization,_management,_discovery,_provisioning_of_storage_resources,_security,_reliability,_scalability,_policybased_management,_objectbased_storage_devices,_and_interoperability_support_for_heterogeneity_in_systems,_devices,_and_software.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Storage_Resource_Management>
+  <ns3:_and_Validation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__parallel,_distributed,_peertopeer,_and_GRID_storage_systems,_Storage_Area_Networks_SAN,_NetworkAttached_Storage_NAS,_performance_evaluation_and_monitoring,_predictive_and_adaptive_techniques,_support_for_multimedia_computing_applications,_mass_storage_systems,_formal_and_empirical_validation_methods.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns3:_and_Validation>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Protocols_for_networked_storage_systems,_storage_switch_and_fabric_design.">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Storage_Networking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <ns1:_and_Recovery rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__continuous_backup_methods,_realtime_and_policybased_recovery,_volume,_file,_and_applicationlevel_recovery,_disaster_tolerance.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_and_Recovery>
+  <base:_Storage_Media_and_Devices rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__optical,_magnetic,_acoustic,_MEMSbased_storage_devices,_MRAM,_BioNanostorage_devices,_device_abstractions,_and_IO_protocols.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Storage_Media_and_Devices>
+  <base:_Operating_System_and_Application_Support rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Caching,_file_systems,_interoperability,_and_design_of_application_programming_interfaces.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Operating_System_and_Application_Support>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ACM_Transactions_on_Storage"/>
+  <base:_Theory rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Algorithms_for_coding,_and_signalprocessing_techniques_for_high_data_rates,_densities,_and_low_power.">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Theory>
+  <base:_Information_Lifecycle_Management_ILM rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__management_of_data_based_on_configurable_policies_and_regulatory_compliance,_processes,_and_workflow_for_data_storage,_security,_and_storage_middleware_including_data_management_systems">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Information_Lifecycle_Management_ILM>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Information_Lifecycle_Management_ILM">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Storage_Media_and_Devices">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_System_and_Application_Support">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Storage_Systems_Architecture,_Design,_and_Validation">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Replication,_Backup,_and_Recovery">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Theory">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Storage_Resource_Management">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_scope_of_ACM_TOS_includes,_but_is_not_limited_to,_the_following_areas"/>
+  </rdf:Description>
+</rdf:RDF>

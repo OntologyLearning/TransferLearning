@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:base="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#"
+  xmlns:ns1="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_March_30,_2007_Berkshire_Hathaway_announced_TTI_Inc._to_be_part_of_the_Berkshire_Hathaway_Group._Headquartered_in_Fort_Worth,_Texas,_TTI,_Inc._is_the_largest_distributor_specialist_of_passive,"
+  xmlns:ns2="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,"
+>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_HomeServices_of_America_Related_articles">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2008,_Berkshire_purchased_preferred_stock_in_Wrigley,_Goldman_Sachs,_and_GE_totaling_14.5_billion">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fruit_of_the_Loom">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apparel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <base:_Total_assets rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_484.931_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Total_assets>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NetJets">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phillips_66_3.4">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_IBM_6.3">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Johns_Manville">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aviva">
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+      </rdf:Description>
+    </rdf:type>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Generali">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hannover_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Founded rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_States">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founded>
+  <base:_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_1977,_Berkshire_Hathaway_purchased_the_Buffalo_Evening_News_and_resumed_publication_of_a_Sunday_edition_of_the_paper_that_ceased_in_1914._After_the_morning_newspaper_Buffalo_CourierExpress_ceased_operation_in_1982,_the_paper_began_to_print_morning_and_evening_editions,_currently_printing_only_a_morning_edition._In_2006,_the_company_bought_Business_Wire,_a_U.S._press_release_agency">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Media>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CalEnergy_Generation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_1_History">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway_Homestate_Companies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3_Manufacturing,_service,_and_retailing_3.3.1_Clothing">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gen_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  </base:_Insurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Roanoke_Times">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NV_Energy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_New_York_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Hartford">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Northern_Powergrid">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Helzberg_Diamonds">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Notes"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_Berkshire_Hathaways_annual_shareholder_letter_dated_February_25,_2012,_Buffett_said_that_his_successor_as_CEO_had_been_chosen_internally_but_not_named_publicly._While_the_intent_of_this_message_was_to_bolster_confidence_in_the_leadership_of_a_Buffettless_Berkshire,_critics_have_noted_that_this_strategy_of_choosing_a_successor_without_a_concrete_exit_strategy_for_the_sitting_CEO_often_leaves_an_organization_with_fewer_long_term_options,_while_doing_little_to_calm_shareholder_fear._In_reaction_to_the_announcement,_Stephen_A._Miles,_a_leadership_consultant_who_specializes_in_CEO_succession,_noted,_You_see_this_more_often_with_successful_founder_CEOs._Because_theye_so_good,_they_want_to_take_the_lead_in_choosing_their_replacement,_but_most_boards_try_to_avoid_what_Buffett_did">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Succession_plans"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Munich_Re_11.2">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Old_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Seaworthy_Insurance_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Buffett_initially_maintained_Berkshires_core_business_of_textiles,_but_by_1967,_he_was_expanding_into_the_insurance_industry_and_other_investments._Berkshire_first_ventured_into_the_insurance_business_with_the_purchase_of_National_Indemnity_Company._In_the_late_1970s,_Berkshire_acquired_an_equity_stake_in_the_Government_Employees_Insurance_Company_GEICO,_which_forms_the_core_of_its_insurance_operations_today_and_is_a_major_source_of_capital_for_Berkshire_Hathaways_other_investments._In_1985,_the_last_textile_operations_Hathaways_historic_core_were_shut_down">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jackson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bristol_Herald_Courier">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Shaw_Industries">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_United_States_Liability_Insurance_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Clayton_Homes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_TTI">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <ns1:_interconnect_and_electromechanical_components._TTI_extensive_product_line_includes rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__resistors,_capacitors,_connectors,_potentiometers,_trimmers,_magnetic_and_circuit_protection_components,_wire_and_cable,_identification_products,_application_tools_and_electromechanical_devices">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </ns1:_interconnect_and_electromechanical_components._TTI_extensive_product_line_includes>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_May_2010,_Buffett,_months_away_from_his_80th_birthday,_said_he_would_be_succeeded_at_Berkshire_Hathaway_by_a_team_consisting_of_a_CEO_and_three_or_four_investment_managers_each_of_the_latter_would_be_responsible_for_a_significant_portion_of_Berkshires_investment_portfolio._Five_months_later,_Berkshire_announced_that_Todd_Combs,_manager_of_the_hedge_fund_Castle_Point_Capital,_would_join_them_as_an_investment_manager._On_September_12,_2011,_Berkshire_Hathaway_announced_that_50yearold_Ted_Weschler,_founder_of_Peninsula_Capital_Advisors,_will_join_Berkshire_in_early_2012_as_a_second_investment_manager">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Succession_plans"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bupa">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dothan_Eagle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Furniture rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nebraska_Furniture_Mart">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Furniture>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_directors">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_owns_1.74_million_shares_of_Gannett._The_company_also_holds_part_of_newspaper_publisher_Lee_Enterprises_after_buying_some_of_Lees_debt_after_its_bankruptcy_filing">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_National_Indemnity_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Investments"/>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Forest_River">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <base:_Clothing rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_clothing_businesses_include_manufacturers_and_distributors_of_a_variety_of_clothing_and_footwear._Businesses_engaged_in_the_manufacture_and_distribution_of_clothing_include_Union_Underwear_Corp._Fruit_of_the_Loom,_Garan,_Fechheimer_Brothers_and_Russell_Corporation._Berkshire_footwear_businesses_include_H.H._Brown_Shoe_Group,_Acme_Boots,_Brooks_Sports_and_Justin_Brands._Justin_Brands_is_made_up_of_Chippewa_Boots,_Justin_Boots,_Justin_Original_Workboots,_Nocona_Boots,_and_Tony_Lama_Boots._Berkshire_acquired_Fruit_of_the_Loom_on_April_29,_2002_for_835_million_in_cash._Fruit_of_the_Loom,_headquartered_in_Bowling_Green,_Kentucky,_is_a_vertically_integrated_manufacturer_of_basic_clothing._Berkshire_acquired_Russell_Corporation_on_August_2,_2006_for_600_million_or_18.00_per_share">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Clothing>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_028.796_billion_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_income"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.2_Utilities_and_energy_group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Northwestern_Mutual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_News_Virginian">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Standard_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Building_products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_August_2000,_Berkshire_entered_the_building_products_business_with_the_acquisition_of_Acme_Building_Brands._Acme,_headquartered_in_Fort_Worth,_Texas,_manufactures_and_distributes_clay_bricks_Acme_Brick,_concrete_block_Featherlite_and_cut_limestone_Texas_Quarries._It_expanded_its_building_products_business_in_December_2000,_when_it_acquired_Benjamin_Moore__Co._of_Montvale,_New_Jersey._Moore_formulates,_manufactures_and_sells_primarily_architectural_coatings_that_are_available_principally_in_the_United_States_and_Canada">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Building_products>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_August_26,_2011,_Berkshire_Hathaway_purchased_5_billion_of_preferred_shares_in_Bank_of_America._In_2007,_Buffett_had_also_bought_8.7_million_shares,_quickly_increasing_the_stake_to_9.1_million_shares_in_the_midst_of_the_subprime_crisis">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PacifiCorp">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Brooks_Sports">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apparel"/>
+  </owl:NamedIndividual>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Medical_Protective">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2003,_Pepsi_paid_Berkshire_10_million_to_insure_against_a_contest_Pepsi_held_which_had_a_potential_1_billion_prize._The_prize_had_a_very_small_chance_of_being_won_and_it_was_not_won_by_anyone">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ronald_Olson">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manulife_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_March_2013,_BH_Media_owned_28_daily_and_42_nondaily_newspapers">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AXA">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Holdings_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Susan_Decker">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_Other_noninsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MidAmerican_Energy_Holdings_Companys_HomeServices_of_America_is_a_residential_real_estate_brokerage_firm_based_in_Minneapolis,_Minnesota_and_founded_in_1998._HomeServices_has_operations_in_19_states_and_over_21,000_sales_associates._In_addition_to_brokerage_services,_these_real_estate_companies_provide_mortgage_loan_originations,_title_and_closing_services,_home_warranties,_property_and_casualty_insurance_and_other_related_services._By_the_end_of_2013_Berkshire_Hathaway_will_enter_the_residential_real_estate_brokerage_sector_under_the_name_of_Berkshire_Hathaway_HomeServices">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other_noninsurance>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.4_Finance_and_financial_products">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3.6_Other_noninsurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Statesville_Record__Landmark">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Manufacturing,_service,_and_retailing"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_American_Express_Co._14.2">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lubrizol">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_DIRECTV_4.2">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Omaha,_Nebraska,_United_States">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Eagle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_1996,_Berkshire_acquired_FlightSafety_International_Inc._FSI_corporate_headquarters_is_located_at_LaGuardia_Airport_in_Flushing,_New_York._FSI_engages_primarily_in_the_business_of_providing_high_technology_training_to_operators_of_aircraft_and_ships._FlightSafety_is_the_worlds_leading_provider_of_professional_aviation_training_services._Berkshire_acquired_NetJets_Inc._in_1998._NetJets_is_the_world_leading_provider_of_fractional_ownership_programs_for_general_aviation_aircraft._In_1986,_NetJets_created_the_fractional_ownership_of_aircraft_concept_and_introduced_its_NetJets_program_in_the_United_States_with_one_aircraft_type._In_2004,_the_NetJets_program_operated_15_aircraft_types">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Flight_services"/>
+  </owl:NamedIndividual>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Eden_Daily_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MidAmerican_Energy_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Samsung_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_H.H._Brown_Shoe_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apparel"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Farmers_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Insurance_group rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance_and_reinsurance_business_activities_are_conducted_through_approximately_70_domestic_and_foreignbased_insurance_companies._Berkshire_insurance_businesses_provide_insurance_and_reinsurance_of_property_and_casualty_risks_primarily_in_the_United_States._In_addition,_as_a_result_of_the_General_Re_acquisition_in_December_1998,_Berkshire_insurance_businesses_also_included_life,_accident_and_health_reinsurers,_as_well_as_internationally_based_property_and_casualty_reinsurers._Berkshire_insurance_companies_maintain_capital_strength_at_exceptionally_high_levels._This_strength_differentiates_Berkshire_insurance_companies_from_their_competitors._Collectively,_the_aggregate_statutory_surplus_of_Berkshire_U.S._based_insurers_was_approximately_48_billion_as_of_December_31,_2004._All_of_Berkshire_major_insurance_subsidiaries_are_rated_AAA_by_Standard__Poor_Corporation,_the_highest_Financial_Strength_Rating_assigned_by_Standard__Poor,_and_are_rated_A_superior_by_A._M._Best_with_respect_to_their_financial_condition_and_operating_performance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance_group>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_News_Herald">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sun_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_March_25,_2011,_Berkshire_Hathaway_made_its_first_foray_into_the_Indian_insurance_sector_with_its_nondirect_subsidiary_BerkshireInsurance.com_in_the_presence_of_Warren_Buffett_himself">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_GEICO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ben_Bridge_Jeweler">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lloyds_of_London">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Furniture rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_RC_Willey_Home_Furnishings">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Furniture>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_News__Advance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Warren_Buffett">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Industry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Conglomerate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Industry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_made_3.5_billion_on_its_investment_in_preferred_shares_of_Goldman_Sachs._Berkshire_and_Buffett_have_since_been_criticized_for_Buffetts_defense_of_Lloyd_Blankfeins_13.2_million_pay_package_while_they_owed_the_United_States_Department_of_Treasury_10_billion_in_Troubled_Asset_Relief_Program_money">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Culpeper_Star_Exponent">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Food rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Karmelkorn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Food>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_David_Gottesman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Official_website">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Businesses"/>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Precision_Steel_Warehouse">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_York_NewsTimes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Mouser_Electronics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_currently_holds_89.8_of_the_MidAmerican_Energy_Holdings_Company._At_the_time_of_purchase,_Berkshires_voting_interest_was_limited_to_10_of_the_companys_shares,_but_this_restriction_ended_when_the_Public_Utility_Holding_Company_Act_of_1935_was_repealed_in_2005._A_major_subsidiary_of_MidAmerican_is_CE_Electric_UK">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Utilities_and_energy_group"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sanofi_1.7">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Food rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_H._J._Heinz_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Food>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_World_Book_MidAmerican_Energy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.5_Investments_3.5.1_Equities_beneficial_ownership">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Retail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sees_Candies_produces_boxed_chocolates_and_other_confectionery_products_in_two_large_kitchens_in_California._See_revenues_are_highly_seasonal_with_approximately_50_of_total_annual_revenues_being_earned_in_the_months_of_November_and_December">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Retail>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Chairman,_President__CEO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Key_people>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_International_Metalworking_Companies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WalMart_1.8">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scottish_Widows">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_1962,_Warren_Buffett_began_buying_stock_in_Berkshire_Hathaway_after_noticing_a_pattern_in_the_price_direction_of_its_stock_whenever_the_company_closed_a_mill._Eventually,_Buffett_acknowledged_that_the_textile_business_was_waning_and_the_companys_financial_situation_was_not_going_to_improve._In_1964,_Stanton_made_an_oral_tender_offer_of_11_per_share_for_the_company_to_buy_back_Buffetts_shares._Buffett_agreed_to_the_deal._A_few_weeks_later,_Warren_Buffett_received_the_tender_offer_in_writing,_but_the_tender_offer_was_for_only_11._Buffett_later_admitted_that_this_lower,_undercutting_offer_made_him_angry._Instead_of_selling_at_the_slightly_lower_price,_Buffett_decided_to_buy_more_of_the_stock_to_take_control_of_the_company_and_fire_Stanton_which_he_did._However,_this_put_Buffett_in_a_situation_where_he_was_now_majority_owner_of_a_textile_business_that_was_failing">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <base:_Key_people rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Charlie_Munger">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type>
+      <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+      </rdf:Description>
+    </rdf:type>
+  </base:_Key_people>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Equities_beneficial_ownership"/>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ageas">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Reidsville_Review">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Employees rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_30_Dec_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Employees>
+  <base:_Area_served rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Worldwide">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Area_served>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway_Assurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Vienna_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NYSE_BRK.A">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <base:_Corporate_affairs rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hathaway_Mills,_New_Bedford,_Mass">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate_affairs>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Richline_Group_Scott_Fetzer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2010,_Buffett_claimed_that_purchasing_Berkshire_Hathaway_was_the_biggest_investment_mistake_he_had_ever_made,_and_claimed_that_it_had_denied_him_compounded_investment_returns_of_about_200_billion_over_the_subsequent_45_years._Buffett_claimed_that_had_he_invested_that_money_directly_in_insurance_businesses_instead_of_buying_out_Berkshire_Hathaway_due_to_what_he_perceived_as_a_slight_by_an_individual,_those_investments_would_have_paid_off_several_hundredfold">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Richmond_TimesDispatch">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Daily_Progress">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Oliver_Chace">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founders"/>
+  </owl:NamedIndividual>
+  <base:_Furniture rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jordans_Furniture">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Furniture>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Zurich_Insurance_Group">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3.3_Flight_services">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News__Messenger">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Omaha_WorldHerald">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_acquired_Clayton_Homes_a_maker_of_modular_homes,_storage_trailers,_chassis,_intermodal_piggyback_trailers_and_domestic_containers">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Finance_and_financial_products"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_February_14,_2013,_Berkshire_Hathaway_Inc_and_3G_Capital_announced_plans_to_purchase_H.J._Heinz_Co._for_72.50_per_share,_or_28_billion_including_debt">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_FlightSafety_International">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway_Life_Insurance_Company_of_Nebraska">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Insurance_group rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NRG_Nederlandse_Reassurantie_Groep_Berkshire_acquired_NRG,_a_Dutch_life_reinsurance_company,_from_ING_Group_in_December_2007">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance_group>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NetJets_Europe">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_May_1,_2010_at_the_Berkshire_shareholders_meeting,_Buffett_also_defended_Goldman_over_1_billion_in_collateralized_debt_obligation_fraud_allegations_saying_that_its_clients_made_a_calculated_risk">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Daiichi_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Founded rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_as_Valley_Falls_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founded>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AIA">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jackson_County_Floridan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_1955_Berkshire_Fine_Spinning_Associates_merged_with_the_Hathaway_Manufacturing_Company_which_was_founded_in_1888_in_New_Bedford,_Massachusetts_by_Horatio_Hathaway_with_profits_from_whaling_and_the_China_Trade._Hathaway_was_successful_in_its_first_decades,_but_it_suffered_during_a_general_decline_in_the_textile_industry_after_World_War_I._At_this_time,_Hathaway_was_run_by_Seabury_Stanton,_whose_investment_efforts_were_rewarded_with_renewed_profitability_after_the_Depression._After_the_merger_Berkshire_Hathaway_had_15_plants_employing_over_12,000_workers_with_over_120_million_in_revenue_and_was_headquartered_in_New_Bedford,_Massachusetts._However,_seven_of_those_locations_were_closed_by_the_end_of_the_decade,_accompanied_by_large_layoffs">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Goldman_Sachs_2.8">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Justin_Brands">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apparel"/>
+  </owl:NamedIndividual>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BoatUS">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Burlington_Northern_Santa_Fe_Corporation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <base:_Headquarters rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kiewit_Plaza">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Headquarters>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_5_Notes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sumitomo_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2_Corporate_affairs_2.1_Governance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Food rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dairy_Queen">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Food>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Howard_Graham_Buffett">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Enterprise_Ledger">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_PZU">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nippon_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aon">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_UnipolSai">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Insurance_group rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway_Assurance_Berkshire_created_a_government_bond_insurance_company_to_insure_municipal_and_state_bonds._These_type_bonds_are_issued_by_local_governments_to_finance_public_works_projects_such_as_schools,_hospitals,_roads,_and_sewer_systems._Few_companies_are_capable_of_competing_in_this_area">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance_group>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Taiping">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Other_noninsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_December_25,_2007,_Berkshire_Hathaway_acquired_Marmon_Holdings_Inc._Previously_it_was_a_privately_held_conglomerate_owned_by_the_Pritzker_family_for_over_fifty_years,_which_owned_and_operated_an_assortment_of_manufacturing_companies_that_produce_railroad_tank_cars,_shopping_carts,_plumbing_pipes,_metal_fasteners,_wiring_and_water_treatment_products_used_in_residential_construction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other_noninsurance>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Warren_Buffett_Chairman_and_CEO">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_SP_500_Component">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_224.485_billion_2013">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  </owl:NamedIndividual>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance_Group_of_America">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Moodys_Corporation,_owner_of_Moodys_Analytics_11.5">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Blue_Chip_Stamps">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Northern_Natural_Gas">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_company_began_its_BH_Media_Group_subsidiary_with_a_purchase_of_the_Omaha_WorldHerald_in_December_2011,_which_included_six_other_daily_newspapers_and_several_weeklies_across_Nebraska_and_southwest_Iowa._In_June_2012,_Berkshire_purchased_63_newspapers_from_Media_General_Inc._of_Richmond,_Va.,_including_the_Richmond_TimesDispatch_and_WinstonSalem_Journal,_for_142_million_in_cash">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Media>
+  <base:_Type rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Public">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Type>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kirby">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Munich_Re">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_Traded_as rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_NYSE_BRK.B">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Traded_as>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3.2_Building_products">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Phoenix_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wesco_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Retail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_November_2012,_Berkshire_announced_they_would_acquire_the_Oriental_Trading_Company,_a_direct_marketing_company_for_novelty_items,_small_toys,_and_party_items">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Retail>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ping_An_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Website rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BerkshireHathaway.com">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Website>
+  <base:_Products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Diversified_investments,_property_and_casualty_insurance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Products>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Borsheims_Fine_Jewelry">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Thomas_S._Murphy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Business_Wire">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Media>
+  <base:_Food rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CTB_International">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Food>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Walter_Scott,_Jr">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Independent_Tribune">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Revenue rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_182.150_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Revenue>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_OpelikaAuburn_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kearney_Hub">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_News__Record">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Russell">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apparel"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Allstate">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Other_noninsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2002,_Berkshire_acquired_Albecca_Inc._Albecca_is_headquartered_in_Norcross,_Georgia,_and_primarily_does_business_under_the_LarsonJuhl_name._Albecca_designs,_manufactures_and_distributes_custom_framing_products,_including_wood_and_metal_molding,_matboard,_foamboard,_glass,_equipment_and_other_framing_supplies._Berkshire_acquired_CTB_International_Corp._in_2002._CTB,_headquartered_in_Milford,_Indiana,_is_a_designer,_manufacturer_and_marketer_of_systems_used_in_the_grain_industry_and_in_the_production_of_poultry,_hogs,_and_eggs._Products_are_produced_in_the_United_States_and_Europe_and_are_sold_primarily_through_a_global_network_of_independent_dealers_and_distributors,_with_peak_sales_occurring_in_the_second_and_third_quarters">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other_noninsurance>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Ginsu">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Charlotte_Guyman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_List_of_subsidiaries">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LIC_India">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Donald_Keough">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_4_Assets">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_XTRA_Lease">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_plc">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_March_12,_2014,_it_was_announced_that_Graham_Holdings_Company_would_divest_its_Miami_television_station_WPLG_to_BH_Media_in_a_cash_and_stock_deal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Media>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Scor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Aegon">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Main_article rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__List_of_assets_owned_by_Berkshire_Hathaway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Main_article>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Great_Eastern">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Nelson_County_Times">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_November_3,_2009,_Berkshire_Hathaway_announced_that,_using_stock_and_cash_totaling_26_billion,_it_would_acquire_the_remaining_77.4_percent_of_the_Burlington_Northern_Santa_Fe_Corporation,_parent_of_BNSF_Railway,_that_it_did_not_already_own._This_was_the_largest_acquisition_todate_in_Berkshires_history">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Benjamin_Moore__Co">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Lincoln">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2006_Berkshire_Hathaway_Inc._acquired_Russell_Corporation_for_600_million,_in_fact_getting_most_shares_and_brands_in_many_sports_leagues__like_Spalding_NBA_official_basketballs,_BIKE_Athletic_Company_protections,_AAI_American_Athletic_Gymnastics_tables,_bars,_rings,_horses_or_Dudley_softball_balls_and_accessories">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Taikang_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Exxon_Mobil_Corp._0.9">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Fechheimer_Brothers">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apparel"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_U.S._Bancorp_5.3">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Other_noninsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_acquired_McLane_Company,_Inc._in_May_2003_from_WalMart_Stores,_Inc.,_which_brought_on_other_subsidiaries_such_as_Professional_Datasolutions,_Inc._and_Salado_Sales,_among_others._McLane_provides_wholesale_distribution_and_logistics_services_in_all_50_states_and_internationally_in_Brazil_to_customers_that_include_discount_retailers,_convenience_stores,_quick_service_restaurants,_drug_stores_and_movie_theatre_complexes._Scott_Fetzer_Companieshe_Scott_Fetzer_Companies_are_a_diversified_group_of_21_businesses_that_manufacture_and_distribute_a_wide_variety_of_products_for_residential,_industrial_and_institutional_use._The_three_most_significant_of_these_businesses_are_Kirby_home_cleaning_systems,_Wayne_Water_Systems_and_Campbell_Hausfeld_products._Scott_Fetzer_also_manufactures_Ginsu_Knives">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other_noninsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_National_Mutual_Insurance_Federation_of_Agricultural_Cooperatives">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3.4_Retail">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_March_14,_2011,_Berkshire_Hathaway_announced_that_it_would_acquire_the_Lubrizol_Corporation_for_9_billion_in_cash,_a_deal_that_was_described_as_one_of_the_largest_deals_ever_for_Berkshire_Hathaway">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Wells_Fargo_9.2">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_StarHerald">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_State_Farm_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Retail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2002,_Berkshire_acquired_The_Pampered_Chef,_Ltd.,_the_largest_direct_seller_of_kitchen_tools_in_the_United_States._Products_are_researched,_designed_and_tested_by_The_Pampered_Chef,_and_manufactured_by_third_party_suppliers._From_its_Addison,_Illinois_headquarters,_The_Pampered_Chef_utilizes_a_network_of_more_than_65,000_independent_sales_representatives_to_sell_its_products_through_homebased_party_demonstrations,_principally_in_the_United_States">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Retail>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__Applicable_FY201011_revenues_of_over_US3_billion">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Methodology"/>
+  </owl:NamedIndividual>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_McLane">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Meiji_Yasuda_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Building_products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_August_7,_2003,_Berkshire_acquired_Clayton_Homes,_Inc._Clayton,_headquartered_near_Knoxville,_Tennessee,_is_a_vertically_integrated_manufactured_housing_company._At_yearend_2004,_Clayton_operated_32_manufacturing_plants_in_12_states._Clayton_homes_are_marketed_in_48_states_through_a_network_of_1,540_retailers,_391_of_which_are_companyowned_sales_centers._On_May_1,_2008,_Mitek_acquired_Hohmann__Barnard_a_fabricator_of_anchors_and_reinforcement_systems_for_masonry_and_on_October_3_of_that_year,_Mitek_acquired_BlokLok,_Ltd._of_Toronto,_Canada._On_April_23,_2010,_Mitek_acquired_the_assets_of_DurOWal_from_Dayton_Superior_Corporation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Building_products>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Grand_Island_Independent">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Campbell_Hausfeld">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway_SEC_Filings">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  </owl:NamedIndividual>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Daily_Nonpareil">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Governance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_current_members_of_the_board_of_directors_of_Berkshire_Hathaway_are_Warren_Buffett,_Charlie_Munger,_Walter_Scott,_Jr.,_Thomas_S._Murphy,_Howard_Graham_Buffett,_Ronald_Olson,_Donald_Keough,_Charlotte_Guyman,_David_Gottesman,_Bill_Gates,_Steve_Burke,_Susan_Decker,_and_Meryl_Witmer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Governance>
+  <base:_Transportation rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marquis_Jet">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Transportation>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Legal__General">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Furniture rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_CORT_Business_Services">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Furniture>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Owned_assets__Category">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_Net_income rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_US_019.476_billion_2013">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Net_income>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_North_Platte_Telegraph">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Hickory_Daily_Record">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.3.5_Media">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_CocaCola_Company_9.1">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Marmon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_Other_noninsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Andin_International_designer_and_manufacturer_of_fine_jewelry,_founded_by_Ofer_and_Aya_Azrielant,_is_a_division_of_The_Richline_Group,_Inc.,_a_wholly_owned_subsidiary_of_Berkshire_Hathaway_formed_in_2007">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Other_noninsurance>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Garanimals">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Apparel"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Prudential_Financial">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.5.2_Bonds">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Founded rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Cumberland_Rhode_Island">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Founded>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Pacific_Insurance">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Claytons_finance_business,_loans_to_manufactured_home_owners,_earned_206_million_down_from_526_million_in_2007._Loan_losses_remain_3.6_up_from_2.9">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Finance_and_financial_products"/>
+  </owl:NamedIndividual>
+  <base:_Corporate rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bill_Gates">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Corporate>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_2.2_Succession_plans">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3_Businesses_3.1_Insurance_group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_AIG">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Food rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Sees_Candies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Food>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_As_of_2008,_Berkshire_owns_27_billion_in_fixed_income_securities,_mainly_foreign_government_bonds_and_corporate_bonds">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bonds"/>
+  </owl:NamedIndividual>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Acme_Brick">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_Food rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Pampered_Chef">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Food>
+  <base:_Reinsurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_XL_Group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Reinsurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Waco_TribuneHerald">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Retail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_May_2000,_Berkshire_purchased_Ben_Bridge_Jewelers._A_chain_of_jewellery_stores_established_in_1912_with_locations_primarily_in_the_western_United_States._This_joined_Berkshires_other_jeweler_acquisition,_Helzberg_Diamonds._Helzberg_is_a_chain_of_jewelry_stores_based_in_Kansas_City_that_began_in_1915_and_became_part_of_Berkshire_in_1995">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Retail>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#__construction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_Jewelry rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kern_River_Gas_Transmission_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Jewelry>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Press_of_Atlantic_City">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Food rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Orange_Julius">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Food>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Gateway_Underwriters_Agency">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Central_States_Indemnity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_China_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2012,_Berkshire_bought_Texas_dailies_The_Eagle_in_BryanCollege_Station_and_the_Waco_TribuneHerald._In_2013,_the_company_purchased_the_Tulsa_World,_the_Greensboro,_North_Carolinabased_News__Record_and_Virginias_Roanoke_Times">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tesco_plc_3.7">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Allianz">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Kansas_Bankers_Surety_Company">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Danville_Register__Bee">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_ING">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Composite"/>
+  </owl:NamedIndividual>
+  <base:_Insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Applied_Underwriters">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Insurance>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_3.5.3_Other">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Buffalo_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Media>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Swiss_Life">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <base:_Furniture rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_LarsonJuhl">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Furniture>
+  <base:_Retail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Dairy_Queen,_based_in_Edina,_Minnesota,_services_a_system_of_approximately_6,000_stores_operating_under_the_names_Dairy_Queen,_Orange_Julius_and_Karmelkorn_that_offer_various_dairy_desserts,_beverages,_prepared_foods,_blended_fruit_drinks,_popcorn_and_other_snack_foods">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Retail>
+  <base:_Contents rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_6_External_links">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Contents>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Tulsa_World">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_McDowell_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Materials_and rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MiTek">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Materials_and>
+  <base:_Retail rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_home_furnishings_businesses_are_the_Nebraska_Furniture_Mart,_RC_Willey_Home_Furnishings,_Star_Furniture_Company,_and_Jordan_Furniture,_Inc._CORT_Business_Services_Corporation_was_acquired_in_2000_by_an_80.1_owned_subsidiary_of_Berkshire_and_is_the_leading_national_provider_of_rental_furniture,_accessories_and_related_services_in_the_enttorentsegment_of_the_furniture_rental_industry">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Retail>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_WinstonSalem_Journal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <base:_Building_products rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_In_2001,_Berkshire_acquired_three_additional_building_products_companies._In_February,_it_purchased_Johns_Manville_which_was_established_in_1858_and_manufactures_fiber_glass_wool_insulation_products_for_homes_and_commercial_buildings,_as_well_as_pipe,_duct_and_equipment_insulation_products._In_July,_Berkshire_acquired_a_90_equity_interest_in_MiTek_Inc.,_which_makes_engineered_connector_products,_engineering_software_and_services,_and_manufacturing_machinery_for_the_truss_fabrication_segment_of_the_building_components_industry_and_is_headquartered_in_Chesterfield,_Missouri._Finally_in_2001,_Berkshire_acquired_87_percent_of_Dalton,_Georgiabased_Shaw_Industries,_Inc._Shaw_is_the_world_largest_carpet_manufacturer_based_on_both_revenue_and_volume_of_production_and_designs_and_manufactures_over_3,000_styles_of_tufted_and_woven_carpet_and_laminate_flooring_for_residential_and_commercial_use_under_approximately_30_brand_and_trade_names_and_under_certain_private_labels._In_2002,_Berkshire_Acquired_the_remaining_12.7_percent_of_Shaw">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Building_products>
+  <base:_BH_Media rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Morning_News">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_BH_Media>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_The_Procter__Gamble_Company_1.9">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  </owl:NamedIndividual>
+  <base:_Furniture rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Star_Furniture">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Furniture>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway_traces_its_roots_to_a_textile_manufacturing_company_established_by_Oliver_Chace_in_1839_as_the_Valley_Falls_Company_in_Valley_Falls,_Rhode_Island._Chace_had_previously_worked_for_Samuel_Slater,_the_founder_of_the_first_successful_textile_mill_in_America._Chace_founded_his_first_textile_mill_in_1806._In_1929_the_Valley_Falls_Company_merged_with_the_Berkshire_Cotton_Manufacturing_Company_established_in_1889,_in_Adams,_Massachusetts._The_combined_company_was_known_as_Berkshire_Fine_Spinning_Associates">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_April_28,_2008,_Berkshire_purchased_Wrigley_Company_with_Mars,_Incorporated_in_a_23_billion_deal,_resulting_in_Berkshire_having_an_undisclosed_piece_of_ownership_in_Mars">
+    <rdf:type rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  </owl:NamedIndividual>
+  <base:_Life_insurance rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_MetLife">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </base:_Life_insurance>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Media"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Main_article">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assets"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Finance_and_financial_products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Area_served"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Operating_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_On_March_30,_2007_Berkshire_Hathaway_announced_TTI_Inc._to_be_part_of_the_Berkshire_Hathaway_Group._Headquartered_in_Fort_Worth,_Texas,_TTI,_Inc._is_the_largest_distributor_specialist_of_passive,_interconnect_and_electromechanical_components._TTI_extensive_product_line_includes">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_noninsurance"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_History"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Key_people"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Traded_as"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Retail"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founded"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Net_income"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Governance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_BH_Media"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Flight_services"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Contents"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_assets"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Website"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Life_insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Type"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Headquarters"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Clothing"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Methodology"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Jewelry"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Total_equity"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Utilities_and_energy_group"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Bonds"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshires_fifteen_largest_stock_investments_by_market_value,_as_reported_in_the_2013_annual_report_are,_in_alphabetical_order"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Revenue"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Other_noninsurance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance_group"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Reinsurance"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Employees"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Transportation">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Building_products"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Industry"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Insurance">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Major_insurance_and_reinsurance_companies"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Furniture">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Founders"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_External_links"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Food">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Succession_plans"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Assets"/>
+  <rdf:Description rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Materials_and">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Berkshire_Hathaway"/>
+  </rdf:Description>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Subsidiaries"/>
+  <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2013/3/untitled-ontology-24#_Corporate_affairs"/>
+</rdf:RDF>

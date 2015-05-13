@@ -1,0 +1,1218 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Homepage of Christopher Re (Chris Re)</title>
+
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+  if (typeof String.prototype.startswith != 'function') {
+    String.prototype.startswith = function (str){
+      return this.indexOf(str) == 0;
+    };
+  }
+
+  $(document).ready(function() {
+    $('.proj-menu a').click(function(){
+      $('.proj-menu li').removeClass('current');
+      $(this).parent().parent().addClass('current');
+      var content = $($(this).attr('href')).html();
+      $('#content').html(content);
+      return true;
+    });
+
+    if (window.location.hash) {
+      $('#anc_' + window.location.hash.replace('#','')).click();
+    }
+
+    $('a').live('click', function(){
+      var aid = $(this).attr('id');
+      if ($(this).attr('href').startswith('#') && (typeof aid === 'undefined' || 
+                  ! aid.startswith('anc_'))) {
+        $('#anc_' + $(this).attr('href').replace('#','')).click();
+      }
+      return true;
+    });
+
+    });
+</script>
+</head>
+
+<body>
+<script type="text/javascript">
+   var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-42285902-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+
+  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script><div class="proj-menu-bar">
+  <ul class="proj-menu">
+  	<li><h2><a id='anc_about' href='#about'>About</a></h2></li>
+  	<li class='current'><h2><a id='anc_news' href='#news'>News!</a></h2></li>
+    <li><h2><a id='anc_students' href='#students'>Students</a></h2></li>
+  	<li><h2><a id='anc_papers' href='#papers'>Papers &amp; Talks</a></h2></li>
+  	<li><h2><a id='anc_projects' href='#projects'>Projects</a></h2></li>
+    <li><h2><a id='anc_support' href='#support'>Support</a></h2></li>
+  	<li><h2><a id='anc_courses' href='#courses'>Courses</a></h2></li>
+    <li><h2><a id='anc_bio' href='#bio'>Bio</a></h2></li>
+    <li><h2><a href='http://i.stanford.edu/hazy/'>Hazy</a></h2></li>
+  </ul>
+</div>
+
+<div id='header'>
+
+<div id='picture'>
+<img width=205 height=154 src="img/headshot_chris.png" />
+</div>
+
+<div id='contact1'>
+<span>Christopher Ré</span><br>
+<span>Email: chrismre at cs.stanford.edu </span><br>
+<span>Phone: (650) 725-3331</span><br>
+<span>Office 433</span></br>
+</div>
+
+<div id='contact2'>
+<span>Department of Computer Science</span><br>
+<span>Stanford University</span><br>
+<span>353 Serra Mall</span><br>
+   <span>Stanford, CA 94305-9025</span><br>
+</div>
+
+<div style='clear:both' /></div>
+
+
+<div id="content">
+
+<script>
+var arr = [ "code-part", "project-part", "upcoming-talks", "youtube-part" ];
+
+jQuery.each(arr, function(i, val) {
+    $("#" + val).click(function () {
+	$("#" + val + "-list").toggle('slow');
+	$("#" + val + "-down").toggle();
+	$("#" + val + "-up").toggle();
+      });
+
+    $("#" + val + "-list").toggle();
+    $("#" + val + "-up").toggle();
+  });
+</script>
+
+<ul style="list-style: none;">
+
+<li style="list-style: none;">
+<div>
+ <img width="75px" align="left" src="http://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_Stanford_University.png" style="vertical-align: middle; padding-right: 20px;"/>
+   
+<span>
+  I am teaching a course about databases systems implementation. It will cover traditional database internals, no-, new-, and not-yet-SQL systems, and analytic systems. We'll also have some exciting talks from industry. A course description is <a href="http://cs346.stanford.edu">here</a>. 
+</div><br></li>
+
+<li style="list-style: none;">
+<div>
+ <img width="250px" align="left" src="http://deepdive.stanford.edu/images/header_logo.png" style="vertical-align: middle; padding-right: 20px;"/>
+   
+<span> <a href="http://deepdive.stanford.edu">DeepDive</a> has been
+released, and more updates are coming soon! DeepDive is a generic
+probabilistic inference engine that uses a declarative language (SQL)
+to define factor graphs. DeepDive's most popular use case is
+knowledge base construction (KBC). Recently, some DeepDive-based KBC applications have exceeded the quality of humans in 
+  both precision and recall.  </div></li>
+
+
+
+
+
+
+<li style="list-style: none;">
+<div id="upcoming-talks">
+<img id="upcoming-talks-down" height="16px" src="img/arrow_down.png">
+<img id="upcoming-talks-up" height="16px" src="img/arrow_up.png"> 
+<b> Upcoming Meetings and Talks</b>
+</div>
+
+<div id="upcoming-talks-list"> <ul><ul> 
+
+ 
+<li> Big Data (NAE) Apr. 11.
+  <li> <a href="http://stonebraker70.com/">Stonebreaker @ 70</a>. Apr. 12.
+
+<li> Computer Forum talk. Apr. 15.
+
+<li> <a href="http://swank.stanford.edu/">SWANK Knowledge workshop</a> Apr. 17-18.
+
+<li> Norcal Database Day. Apr. 23.
+
+     <li> EPFL. Wow, will this be fun! A broad audience talk about DeepDive and joins. June 12.
+
+     <li> SIGMOD/PODS. Ce is giving a talk about feature selection, and I'll be talking about beyond worst-case analysis for joins. June 22-27.
+
+<li> MSR. Faculty Summit. July 14-16. 
+
+</ul>
+</ul>
+</div>
+
+ 
+<li style="list-style: none;">
+<div id="code-part">
+<img id="code-part-down" height="16px" src="img/arrow_down.png">
+<img id="code-part-up" height="16px" src="img/arrow_up.png"> 
+<b>Code</b> 
+</div>
+
+<div id="code-part-list">
+<ul><ul>
+     <li>  DeepDive is <a href="http://deepdive.stanford.edu">available</a>. Components have their own pages. <a href="http://i.stanford.edu/hazy/hazy/elementary/">Elementary</a>. Gibbs Sampling on Factor Graphs on TBs in files, Accumulo, or HBase! Now with BUGS support! <a href="http://i.stanford.edu/hazy/hazy/tuffy/">Tuffy</a> is updated, which uses an RDBMS to process Markov Logic. 
+
+  <li> <a href="http://i.stanford.edu/hazy/hazy/victor/Hogwild/">Hogwild!</a> SVMs, logistic regression, matrix factorization, and other convex goodness without locking. Specialized versions of trace-norm regularization called <a href="http://i.stanford.edu/hazy/hazy/victor/jellyfish/">Jellyfish</a> and non-negative matrix factorization called <a href="http://i.stanford.edu/hazy/hazy/victor/hotttopixx/">HottTopix</a>.
+
+  <li> Code for more projects are <a href="http://i.stanford.edu/hazy/">here</a> and in <a href="http://madlib.net/">MADlib</a>, a <a href="https://blogs.oracle.com/R/entry/low_rank_matrix_factorization_in">product from Oracle</a>, and in <a href="http://blog.cloudera.com/blog/2013/10/how-to-use-madlib-pre-built-analytic-functions-with-impala/">Cloudera's Impala</a>.
+</ul></ul>
+</div>
+
+<li style="list-style: none;">  
+<div id="project-part">
+<img id="project-part-down" height="16px" src="img/arrow_down.png">
+<img id="project-part-up" height="16px" src="img/arrow_up.png">
+<b>Selected Manuscript and Funding News</b>
+</div> 
+<div id="project-part-list">
+<ul> <ul>
+  <li> <a href="http://arxiv.org/abs/1404.0703">Our Tetris paper</a> describes a much nicer way of thinking about beyond worst case and worst case algorithms for joins via a new connection between geometry and DPLL resolution. We recover our old results in just a few lines!
+
+  <li> Thank you to Master's in Data Science for naming me a <a href="http://www.mastersindatascience.org/blog/21-thought-leader-professors-in-data-science/">thought leader</a>. It's humbling to be listed with such great people.
+
+  <li> DeepDive is mentioned in <a href="http://www.forbes.com/sites/oreillymedia/2014/02/12/big-data-solutions-through-the-combination-of-tools/">Forbes</a> and as a top tool for <a href="http://blog.profitbricks.com/top-45-big-data-tools-for-developers/">data science</a>. 
+
+  <li> Our paper with Michigan Econ (Shaprio and Levinson) and Michigan CS people (Antenucci and Cafarella) about using Twitter to predict economic indicators is <a href="http://www-personal.umich.edu/~shapiro/papers/LaborFlowsSocialMedia.pdf">out</a> and was picked up by <a href="http://www.economist.com/blogs/freeexchange/2014/04/big-data">The Economist's blog</a>, <a href="http://blogs.wsj.com/economics/2014/04/02/using-twitter-to-forecast-new-applications-for-unemployment/">Wall Street Journal</a>, <a href="http://www.boston.com/business/2014/04/03/can-twitter-predict-the-economy/wOIcVAQCKlx8wGwDEDz1DM/story.html">the Boston Globe</a>, and <a href="http://www.slate.com/blogs/moneybox/2014/04/04/twitter_economics_university_of_michigan_stanford_researchers_are_using.html">Slate</a>.
+ 
+<li> We've just releasd a description of our sampling and infence engine to Arxiv <a href="http://arxiv.org/abs/1403.7550">DimmWitted: A Study of Main-Memory Statistical Analytics.</a> Let us know what you think!
+
+<li> SIGMOD/PODS. Our papers are about joins and feature selection. 
+<ul><li><b>PODS</b>  <a href="papers/pods36-ngo.pdf">The Minesweeper</a> paper is our attempt to go beyond  worst-case analysis for join algorithms. We (with Dung Nguyen) develop a new algorithm that we call Minesweeper based on these ideas. The main theoretical idea is to formalize the amount of work any algorithm spends certifying (using a set of propositional statements) that the output set is complete (and not, say, a proper subset). We call this set of propositions the certificate. We manage to establish a dichotomy theorem for this stronger notion of complexity: if a query is what Ron Fagin calls beta-acyclic, then Minesweeper runs in time linear in the certificate; if a query is beta-cyclic than on some instance any algorithm takes time that is super linear in the certificate.  The results get sharper and more fun. Also, Dung is a superhero and has implemented a variant of this algorithm.
+
+
+  <li> <b>SIGMOD14</b> 
+<a href="papers/mod539-zhang.pdf">Materialization Optimizations for Feature Selection</a> shows that using a DSL and some novel optimizations, we can get order of magnitude performance wins for feature engineering in R.
+</ul>
+  <li> <b>Google</b> We want to thank Google for funding our research project, <i>Trust, but (Probabilistically) Verify: Toward Tail Extraction</i>. Should be a lot of fun!
+ 
+<li> <b>Toshiba</b> We want to thank Toshiba for funding our work on knowledge base construction. We are very excited that Toshiba engineers are using <a href="http://deepdive.stanford.edu">DeepDive</a>!
+
+  <li> <b>ONR</b> Thank you for funding my proposal <i>Foundations for Data-driven Systems; Join Algorithms and Random Network Theory </i>. The ONR continues to be one of the best supporters of pure theoretical work.
+
+<li> <b>DARPA</b>. Thank you to DARPA's XData for supporting my collaborative work on scalable analytics and join processing.
+ 						    
+  <li> <b>Joins!</b> New papers about one of my favorite topics, Joins. This is joint work with Hung Q Ngo and Atri Rudra. 
+<ul>
+  <li> Survey. We have posted a <a href="http://arxiv.org/abs/1310.3314">survey</a> for SIGMOD record about recent advances in join algorithms. Our goal is to give a high-level view of the results for practitioners and applied researchers. We also managed to  simplify the arguments.
+
+<li> A full version of our join algorithm with worst-case optimal running time is <a href="http://arxiv.org/abs/1203.1952">here</a>. 
+</ul>
+
+</ul></ul></div>
+<li style="list-style: none;">
+<div id="youtube-part">
+<img id="youtube-part-down" height="16px" src="img/arrow_down.png">
+<img id="youtube-part-up" height="16px" src="img/arrow_up.png"> 
+<b>Application Overview Videos</b> (See our YouTube channel, <a href="http://www.youtube.com/HazyResearch">HazyResearch</a>)
+</div> 
+
+<div id="youtube-part-list">
+<ul><ul style="margin-left: 20px;" > 
+
+<li style="margin-top: 20px; margin-bottom: 20px;"> <b>GeoDeepDive</b>
+With <a
+href="http://geoscience.wisc.edu/geoscience/people/faculty/shanan-peters/">Shanan
+Peters</a> (UW Geoscience) and Miron Livny (Condor), we are combining
+Macrostrat with DeepDive to (hopefully!) deliver value for
+Geoscientists.  One key challenge is extracting all the measurement
+information that is reported in the literature, that is buried in the
+<i>dark data</i> of text, graphs, and figures.  A <a
+href="http://www.youtube.com/watch?v=X8uhs28O3eA&feature=plcp">demo
+video</a> and a new video about <a
+href="http://www.youtube.com/watch?v=Cj2-dQ2nwoY">quality</a> that is
+higher than the volunteers who have been at this for the last
+decade. This is all powered by DeepDive. <i>Thank you to the National
+Science Foundation and Google for supporting this work.</i>
+
+<li style="margin-top: 20px; margin-bottom: 20px;"> <b>IceCube</b> Mark Wellons, Ben Recht,
+and I have done some work with the IceCube Neutrino Detector. Mark's
+code now runs in the detector on the South Pole and is used on over
+250 Million events per day. More details are in this <a
+href="http://www.youtube.com/watch?v=45SHzTmUzPw&feature=plcp">video</a>, this  <a
+href="http://www.youtube.com/watch?v=6znX_qgjv8o">video</a>, this
+  <a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-65570/icrc2013-0807.pdf">paper</a> at the <a href="http://www.cbpf.br/~icrc2013/">The International Cosmic Ray Conference 2013</a>, or this <a href="http://arxiv.org/abs/1308.5501">paper</a>. <i>Thank
+you to the IceCube Collaboration and UW Graduate School for their
+  support of our work!</i> and a most recent writeup accepted to <a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-67643/IcecubePaperNIMA.pdf">NIM A</a> and described <a href="http://icecube.wisc.edu/news/view/153">here</a>. IceCube (and Mark) got the cover of <a href="http://www.sciencemag.org/content/342/6161.cover-expansion">Science</a>! Awesome!
+
+  <li> There are also videos about some of the technical portions of these projects <a href="http://www.youtube.com/watch?v=xvsrgy1MJYw">Matrix Factorization</a>, 
+  <a href="http://www.youtube.com/watch?v=ETTlLvYqD3w">Seismic Data Interpolation</a>, and <a href="http://www.youtube.com/watch?v=W6gHzbOrJ8I">a nowcasting framework</a> (now called Ringtail).
+
+</ul></ul>
+</div>
+
+<li style="list-style: none;"> A messy, incomplete log of old updates is <a href="newsold.php">here</a>.<br><br>
+
+Talk Slides: <a href="talks/chrisre_joins_keynote_edbticdt.pptx">EDBT/ICDT keynote on Joins</a>
+</ul>
+
+</div>
+
+<div id='about' class='section'>
+<p>
+I am an assistant professor
+in Computer Science at Stanford University. My interests are theoretical and practical
+problems in data management. Details of my work can be found in
+my <a href="#papers">papers</a> and my project
+website, <a href="http://i.stanford.edu/hazy">Hazy</a>. I believe
+that the future of computing is in data management. If you agree,
+are an outstanding student, and are beginning graduate work, then
+please send me an
+email.
+</p> 
+
+<br/>
+</div>
+
+<div id='news' class='section'>
+
+<script>
+var arr = [ "code-part", "project-part", "upcoming-talks", "youtube-part" ];
+
+jQuery.each(arr, function(i, val) {
+    $("#" + val).click(function () {
+	$("#" + val + "-list").toggle('slow');
+	$("#" + val + "-down").toggle();
+	$("#" + val + "-up").toggle();
+      });
+
+    $("#" + val + "-list").toggle();
+    $("#" + val + "-up").toggle();
+  });
+</script>
+
+<ul style="list-style: none;">
+
+<li style="list-style: none;">
+<div>
+ <img width="75px" align="left" src="http://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_Stanford_University.png" style="vertical-align: middle; padding-right: 20px;"/>
+   
+<span>
+  I am teaching a course about databases systems implementation. It will cover traditional database internals, no-, new-, and not-yet-SQL systems, and analytic systems. We'll also have some exciting talks from industry. A course description is <a href="http://cs346.stanford.edu">here</a>. 
+</div><br></li>
+
+<li style="list-style: none;">
+<div>
+ <img width="250px" align="left" src="http://deepdive.stanford.edu/images/header_logo.png" style="vertical-align: middle; padding-right: 20px;"/>
+   
+<span> <a href="http://deepdive.stanford.edu">DeepDive</a> has been
+released, and more updates are coming soon! DeepDive is a generic
+probabilistic inference engine that uses a declarative language (SQL)
+to define factor graphs. DeepDive's most popular use case is
+knowledge base construction (KBC). Recently, some DeepDive-based KBC applications have exceeded the quality of humans in 
+  both precision and recall.  </div></li>
+
+
+
+
+
+
+<li style="list-style: none;">
+<div id="upcoming-talks">
+<img id="upcoming-talks-down" height="16px" src="img/arrow_down.png">
+<img id="upcoming-talks-up" height="16px" src="img/arrow_up.png"> 
+<b> Upcoming Meetings and Talks</b>
+</div>
+
+<div id="upcoming-talks-list"> <ul><ul> 
+
+ 
+<li> Big Data (NAE) Apr. 11.
+  <li> <a href="http://stonebraker70.com/">Stonebreaker @ 70</a>. Apr. 12.
+
+<li> Computer Forum talk. Apr. 15.
+
+<li> <a href="http://swank.stanford.edu/">SWANK Knowledge workshop</a> Apr. 17-18.
+
+<li> Norcal Database Day. Apr. 23.
+
+     <li> EPFL. Wow, will this be fun! A broad audience talk about DeepDive and joins. June 12.
+
+     <li> SIGMOD/PODS. Ce is giving a talk about feature selection, and I'll be talking about beyond worst-case analysis for joins. June 22-27.
+
+<li> MSR. Faculty Summit. July 14-16. 
+
+</ul>
+</ul>
+</div>
+
+ 
+<li style="list-style: none;">
+<div id="code-part">
+<img id="code-part-down" height="16px" src="img/arrow_down.png">
+<img id="code-part-up" height="16px" src="img/arrow_up.png"> 
+<b>Code</b> 
+</div>
+
+<div id="code-part-list">
+<ul><ul>
+     <li>  DeepDive is <a href="http://deepdive.stanford.edu">available</a>. Components have their own pages. <a href="http://i.stanford.edu/hazy/hazy/elementary/">Elementary</a>. Gibbs Sampling on Factor Graphs on TBs in files, Accumulo, or HBase! Now with BUGS support! <a href="http://i.stanford.edu/hazy/hazy/tuffy/">Tuffy</a> is updated, which uses an RDBMS to process Markov Logic. 
+
+  <li> <a href="http://i.stanford.edu/hazy/hazy/victor/Hogwild/">Hogwild!</a> SVMs, logistic regression, matrix factorization, and other convex goodness without locking. Specialized versions of trace-norm regularization called <a href="http://i.stanford.edu/hazy/hazy/victor/jellyfish/">Jellyfish</a> and non-negative matrix factorization called <a href="http://i.stanford.edu/hazy/hazy/victor/hotttopixx/">HottTopix</a>.
+
+  <li> Code for more projects are <a href="http://i.stanford.edu/hazy/">here</a> and in <a href="http://madlib.net/">MADlib</a>, a <a href="https://blogs.oracle.com/R/entry/low_rank_matrix_factorization_in">product from Oracle</a>, and in <a href="http://blog.cloudera.com/blog/2013/10/how-to-use-madlib-pre-built-analytic-functions-with-impala/">Cloudera's Impala</a>.
+</ul></ul>
+</div>
+
+<li style="list-style: none;">  
+<div id="project-part">
+<img id="project-part-down" height="16px" src="img/arrow_down.png">
+<img id="project-part-up" height="16px" src="img/arrow_up.png">
+<b>Selected Manuscript and Funding News</b>
+</div> 
+<div id="project-part-list">
+<ul> <ul>
+  <li> <a href="http://arxiv.org/abs/1404.0703">Our Tetris paper</a> describes a much nicer way of thinking about beyond worst case and worst case algorithms for joins via a new connection between geometry and DPLL resolution. We recover our old results in just a few lines!
+
+  <li> Thank you to Master's in Data Science for naming me a <a href="http://www.mastersindatascience.org/blog/21-thought-leader-professors-in-data-science/">thought leader</a>. It's humbling to be listed with such great people.
+
+  <li> DeepDive is mentioned in <a href="http://www.forbes.com/sites/oreillymedia/2014/02/12/big-data-solutions-through-the-combination-of-tools/">Forbes</a> and as a top tool for <a href="http://blog.profitbricks.com/top-45-big-data-tools-for-developers/">data science</a>. 
+
+  <li> Our paper with Michigan Econ (Shaprio and Levinson) and Michigan CS people (Antenucci and Cafarella) about using Twitter to predict economic indicators is <a href="http://www-personal.umich.edu/~shapiro/papers/LaborFlowsSocialMedia.pdf">out</a> and was picked up by <a href="http://www.economist.com/blogs/freeexchange/2014/04/big-data">The Economist's blog</a>, <a href="http://blogs.wsj.com/economics/2014/04/02/using-twitter-to-forecast-new-applications-for-unemployment/">Wall Street Journal</a>, <a href="http://www.boston.com/business/2014/04/03/can-twitter-predict-the-economy/wOIcVAQCKlx8wGwDEDz1DM/story.html">the Boston Globe</a>, and <a href="http://www.slate.com/blogs/moneybox/2014/04/04/twitter_economics_university_of_michigan_stanford_researchers_are_using.html">Slate</a>.
+ 
+<li> We've just releasd a description of our sampling and infence engine to Arxiv <a href="http://arxiv.org/abs/1403.7550">DimmWitted: A Study of Main-Memory Statistical Analytics.</a> Let us know what you think!
+
+<li> SIGMOD/PODS. Our papers are about joins and feature selection. 
+<ul><li><b>PODS</b>  <a href="papers/pods36-ngo.pdf">The Minesweeper</a> paper is our attempt to go beyond  worst-case analysis for join algorithms. We (with Dung Nguyen) develop a new algorithm that we call Minesweeper based on these ideas. The main theoretical idea is to formalize the amount of work any algorithm spends certifying (using a set of propositional statements) that the output set is complete (and not, say, a proper subset). We call this set of propositions the certificate. We manage to establish a dichotomy theorem for this stronger notion of complexity: if a query is what Ron Fagin calls beta-acyclic, then Minesweeper runs in time linear in the certificate; if a query is beta-cyclic than on some instance any algorithm takes time that is super linear in the certificate.  The results get sharper and more fun. Also, Dung is a superhero and has implemented a variant of this algorithm.
+
+
+  <li> <b>SIGMOD14</b> 
+<a href="papers/mod539-zhang.pdf">Materialization Optimizations for Feature Selection</a> shows that using a DSL and some novel optimizations, we can get order of magnitude performance wins for feature engineering in R.
+</ul>
+  <li> <b>Google</b> We want to thank Google for funding our research project, <i>Trust, but (Probabilistically) Verify: Toward Tail Extraction</i>. Should be a lot of fun!
+ 
+<li> <b>Toshiba</b> We want to thank Toshiba for funding our work on knowledge base construction. We are very excited that Toshiba engineers are using <a href="http://deepdive.stanford.edu">DeepDive</a>!
+
+  <li> <b>ONR</b> Thank you for funding my proposal <i>Foundations for Data-driven Systems; Join Algorithms and Random Network Theory </i>. The ONR continues to be one of the best supporters of pure theoretical work.
+
+<li> <b>DARPA</b>. Thank you to DARPA's XData for supporting my collaborative work on scalable analytics and join processing.
+ 						    
+  <li> <b>Joins!</b> New papers about one of my favorite topics, Joins. This is joint work with Hung Q Ngo and Atri Rudra. 
+<ul>
+  <li> Survey. We have posted a <a href="http://arxiv.org/abs/1310.3314">survey</a> for SIGMOD record about recent advances in join algorithms. Our goal is to give a high-level view of the results for practitioners and applied researchers. We also managed to  simplify the arguments.
+
+<li> A full version of our join algorithm with worst-case optimal running time is <a href="http://arxiv.org/abs/1203.1952">here</a>. 
+</ul>
+
+</ul></ul></div>
+<li style="list-style: none;">
+<div id="youtube-part">
+<img id="youtube-part-down" height="16px" src="img/arrow_down.png">
+<img id="youtube-part-up" height="16px" src="img/arrow_up.png"> 
+<b>Application Overview Videos</b> (See our YouTube channel, <a href="http://www.youtube.com/HazyResearch">HazyResearch</a>)
+</div> 
+
+<div id="youtube-part-list">
+<ul><ul style="margin-left: 20px;" > 
+
+<li style="margin-top: 20px; margin-bottom: 20px;"> <b>GeoDeepDive</b>
+With <a
+href="http://geoscience.wisc.edu/geoscience/people/faculty/shanan-peters/">Shanan
+Peters</a> (UW Geoscience) and Miron Livny (Condor), we are combining
+Macrostrat with DeepDive to (hopefully!) deliver value for
+Geoscientists.  One key challenge is extracting all the measurement
+information that is reported in the literature, that is buried in the
+<i>dark data</i> of text, graphs, and figures.  A <a
+href="http://www.youtube.com/watch?v=X8uhs28O3eA&feature=plcp">demo
+video</a> and a new video about <a
+href="http://www.youtube.com/watch?v=Cj2-dQ2nwoY">quality</a> that is
+higher than the volunteers who have been at this for the last
+decade. This is all powered by DeepDive. <i>Thank you to the National
+Science Foundation and Google for supporting this work.</i>
+
+<li style="margin-top: 20px; margin-bottom: 20px;"> <b>IceCube</b> Mark Wellons, Ben Recht,
+and I have done some work with the IceCube Neutrino Detector. Mark's
+code now runs in the detector on the South Pole and is used on over
+250 Million events per day. More details are in this <a
+href="http://www.youtube.com/watch?v=45SHzTmUzPw&feature=plcp">video</a>, this  <a
+href="http://www.youtube.com/watch?v=6znX_qgjv8o">video</a>, this
+  <a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-65570/icrc2013-0807.pdf">paper</a> at the <a href="http://www.cbpf.br/~icrc2013/">The International Cosmic Ray Conference 2013</a>, or this <a href="http://arxiv.org/abs/1308.5501">paper</a>. <i>Thank
+you to the IceCube Collaboration and UW Graduate School for their
+  support of our work!</i> and a most recent writeup accepted to <a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-67643/IcecubePaperNIMA.pdf">NIM A</a> and described <a href="http://icecube.wisc.edu/news/view/153">here</a>. IceCube (and Mark) got the cover of <a href="http://www.sciencemag.org/content/342/6161.cover-expansion">Science</a>! Awesome!
+
+  <li> There are also videos about some of the technical portions of these projects <a href="http://www.youtube.com/watch?v=xvsrgy1MJYw">Matrix Factorization</a>, 
+  <a href="http://www.youtube.com/watch?v=ETTlLvYqD3w">Seismic Data Interpolation</a>, and <a href="http://www.youtube.com/watch?v=W6gHzbOrJ8I">a nowcasting framework</a> (now called Ringtail).
+
+</ul></ul>
+</div>
+
+<li style="list-style: none;"> A messy, incomplete log of old updates is <a href="newsold.php">here</a>.<br><br>
+
+Talk Slides: <a href="talks/chrisre_joins_keynote_edbticdt.pptx">EDBT/ICDT keynote on Joins</a>
+</ul>
+
+</div>
+
+<div id='papers' class='section'>
+<script>
+var arr = [ "papers2014", "papers2013", "papers2012", "papers2011", "papers2010", "papers2009" ];
+jQuery.each(arr, function(i, val) {
+    $("#" + val).click(function () {
+	$("#" + val + "-list").toggle('slow');
+	$("#" + val + "-down").toggle();
+	$("#" + val + "-up").toggle();
+      });
+
+    $("#" + val + "-list").toggle();
+    $("#" + val + "-up").toggle();
+  });
+
+
+$("#expand-button").click(function() {
+    jQuery.each(arr, function(i, val) {
+	  $("#" + val + "-list").show("slow");
+	  $("#" + val + "-down").hide();
+	  $("#" + val + "-up").show();
+      });
+  });
+
+$("#min-all-button").click(function() {
+    jQuery.each(arr, function(i, val) {
+	  $("#" + val + "-list").hide("slow");
+	  $("#" + val + "-down").show();
+	  $("#" + val + "-up").hide();
+      });
+  });
+
+
+</script>
+
+<table border="3" style="width:200%;" cellpadding="1" cellspacing="1">
+<tr>
+<td align="left"><b>Index by year</b></td>
+<td align="right"><button id="expand-button">Expand All</button> <button id="min-all-button">Minimize</button></td>
+</tr>
+</table>
+
+<hr>
+<div id="papers2014">
+<img id="papers2014-down" height="12px" src="img/arrow_down.png">
+<img id="papers2014-up" height="12px" src="img/arrow_up.png"> 
+<strong><a id="2014">2014</a></strong>
+</div>
+<hr>
+<div id="papers2014-list">
+<ul> 
+
+  <li> <i> <a href="http://arxiv.org/abs/1404.0703">A Resolution-based Framework for Joins: Worst-case and Beyond.</a></i> Mahmoud Abo Khamis, Hung Ngo, C. Ré, Atri Rudra. 
+
+  <li> <i> <a href="http://arxiv.org/abs/1403.7550">DimmWitted: A Study of Main-Memory Statistical Analytics.</a> </i> Ce Zhang and C. Ré. 
+
+  <li> <i> <a href="papers/pods36-ngo.pdf">Beyond Worst-case Analysis for Joins using Minesweeper</a></i>. Hung Q. Ngo, Dung Nguyen, C. Ré, and Atri Rudra. PODS 2014. [<a href="http://arxiv.org/abs/1302.0914">Full</a>]
+  
+  <li> <i><a href="papers/mod539-zhang.pdf">Materialization Optimizations for Feature Selection</a></i>. Ce Zhang, Arun Kumar, and C. Ré. SIGMOD 2014.
+
+  <li> 
+  <i><a href="papers/zeta_graphs_icdt.pdf">The Theory of Zeta Graphs with an Application to Random Networks</a>.</i> C. Ré. ICDT 2014.
+
+  <li>
+  <i><a href="papers/convex_join.pdf">Links between Join Processing and Convex Geometry</a>, </i> C. Ré. ICDT 2014 (Invited Abstract for Keynote) [<a href="talks/chrisre_joins_keynote_edbticdt.pptx">slides</a>].
+
+  <li><i><a href="http://arxiv.org/abs/1310.3314">Skew Strikes Back: New Developments in the Theory of Join Algorithms</a>. </i> Hung Ngo, C. Ré, and Atri Rudra. SIGMOD Rec. 2013.
+  <li> <i> <a href="http://www-personal.umich.edu/~shapiro/papers/LaborFlowsSocialMedia.pdf">Using Social Media to Measure Labor Market Flow</a>
+  </i> Dolan Antenucci, Michael J. Cafarella, Margaret Levenstein,  C. Ré, and Matthew Shapiro. NBER Working Paper.
+
+</ul>
+
+</ul>
+</div>
+
+<div id="papers2013">
+<img id="papers2013-down" height="12px" src="img/arrow_down.png">
+<img id="papers2013-up" height="12px" src="img/arrow_up.png"> 
+<strong><a id="2013">2013</a></strong>
+</div>
+<hr>
+<div id="papers2013-list">
+<ul> 
+
+
+ <li>
+  <i><a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-67643/IcecubePaperNIMA.pdf">Improvement in Fast Particle Track Reconstruction with Robust Statistics</a></i> Mark Wellons, the IceCube Collaboration, Benjamin Recht, and C. Ré. Nuclear Inst. and Methods in Physics Research, A.
+
+<li> 
+<i><a href="http://www.cs.stanford.edu/people/chrismre/papers/elementary_sigmod.pdf">Towards High-Throughput Gibbs Sampling at Scale: A Study across Storage Managers</a>.</i> Ce Zhang and C. R&eacute;. SIGMOD 2013. 
+
+  <li>
+  <i><a href="http://arxiv.org/abs/1311.2661">An Approximate, Efficient LP Solver for LP Rounding</a></i>. Srikrishna Sridhar, Victor Bittorf, Ji Liu, Ce Zhang, C. Ré, and Stephen J. Wright. NIPS 2013
+
+<li> 
+<i><a href="http://www.cs.stanford.edu/people/chrismre/papers/mythical_man.pdf">Brainwash: A Data System for Feature Engineering</a></i>. Michael Anderson, Dolan Antenucci, Victor Bittorf, Matthew Burgess, Michael Cafarella, Arun Kumar, Feng Niu, Yongjoo Park, C. R&eacute;, and Ce Zhang. CIDR Conference 2013 (Vision Track)
+
+
+<li> <i><a href="http://cs.stanford.edu/people/chrismre/papers/jointable-acl.pdf">Understanding Tables in Context Using Standard NLP Toolkits</a></i> Vidhya Govindaraju, Ce Zhang, and C. Ré.
+	ACL 2013 (Short Paper)
+
+
+<li> <i><a href="http://queue.acm.org/detail.cfm?id=2431055">Hazy: Making it Easier to Build and Maintain Big-data Analytics</a></i>. Arun Kumar, Feng Niu, and C. R&eacute;  
+ACM Queue, 2013 (Invited to CACM March 2013)<br>
+</ul>
+
+<ul><li>	<i><a href="http://www.cs.stanford.edu/people/chrismre/papers/webdb_ringtail.pdf">Ringtail: Nowcasting Made Easy</a></i> Dolan Antenucci, Michael Cafarella, Margaret C. Levenstein, C. Ré, and Matthew Shapiro. WebDB 2013 with SIGMOD 2013
+</ul>
+
+ 	<li><i><a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-65570/icrc2013-0807.pdf">Robust Statistics in IceCube Initial Muon Reconstruction</a></i>. Mark Wellons, the IceCube Collaboration, Benjamin Recht, and C. Ré. International Cosmic Ray Conference 2013.
+
+ 	<li><a href="http://www.optimization-online.org/DB_FILE/2011/04/3012.pdf"><i>Parallel Stochastic Gradient Algorithms for Large-Scale Matrix Completion</i></a> Benjamin Recht and C. Ré. Mathematical Programming Computation, 2013. <i>Supercedes Optimization Online 2011 version</i>
+
+<li><i><a href="http://cs.stanford.edu/people/chrismre/papers/Ringtail-VLDB-demo.pdf">Ringtail: Nowcasting Made Easy</a>.</i> Dolan Antenucci, Erdong Li, Shaobo Liu, Michael J. Cafarella, and C. Ré. VLDB Demo 2013.
+
+<li> <i><a href="http://cs.stanford.edu/people/chrismre/papers/ColumbusDemo-VLDB.pdf">Feature Selection in Enterprise Analytics: A Demonstration using an R-based Data Analytics System</a></i> Pradap Konda, Arun Kumar,  C. Ré, and Vaishnavi Sashikanth. VLDB Demo 2013
+
+<li> 
+<i><a href="http://www.cs.stanford.edu/people/chrismre/papers/gdd_demo.pdf">
+GeoDeepDive: Statistical Inference using Familiar Data-Processing Languages.</a></i> Ce Zhang, Vidhya Govindaraju, Jackson Borchardt, Tim Foltz, C. R&eacute;, and Shanan Peters. SIGMOD 13 (demo). 
+
+
+
+<li><i><a href="http://trec.nist.gov/pubs/trec21/papers/KBA.OVERVIEW.pdf">Building an Entity-Centric Stream Filtering Test Collection for TREC 2102</a></i>. John R. Frank, Max Kleiman-Weiner, Daniel A. Roberts, Feng Niu, Ce Zhang, C. R&eacute;, and Ian Soboroff. TREC 2013
+</div>
+
+<div id="papers2012">
+<img id="papers2012-down" height="12px" src="img/arrow_down.png">
+<img id="papers2012-up" height="12px" src="img/arrow_up.png"> 
+<strong><a id="2012">2012</a></strong>
+</div>
+<hr>
+<div id="papers2012-list">
+
+<ul><li><i><a href="http://pages.cs.wisc.edu/~brecht/papers/12.Bit.EtAl.HOTT.pdf">Factoring nonnegative matrices with linear programs</a>.</i> Victor Bittorf, Benjamin Recht, C. R&eacute;, and Joel A. Tropp.  
+NIPS 2012. Revised, Complete <a href="http://arxiv.org/abs/1206.1270v2">Version</a>.
+</ul>
+
+<ul> <li>
+    <i><a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-38.html">The MADlib Analytics Library or MAD Skills, the SQL</a></i>. Joseph M. Hellerstein, C. Ré, Florian Schoppmann, Daisy Zhe Wang, Eugene
+Fratkin, Aleks Gorajek, Kee Siong Ng, Caleb Welton, Xixuan Feng, Kun
+Li, and Arun Kumar. PVLDB 2012
+</ul>
+
+<ul> <li> <a href="http://www.cs.stanford.edu/people/chrismre/papers/HazyOCR_VLDB2012.pdf"><i> Probabilistic Management of OCR using an RDBMS</i></a> Arun Kumar and C. Ré. PVLDB 2012. [<a href="http://www.cs.stanford.edu/people/chrismre/papers/HazyOCR_TR.pdf">Full Version</a>]<br></ul>
+
+<ul><li><a href="http://www.cs.stanford.edu/people/chrismre/papers/crflex-icde12.pdf"><i>Optimizing Statistical Information Extraction Programs Over Evolving Text</i></a> Fei Chen, Xixuan Feng, C. Ré, and Min Wang. ICDE. [<a href="http://www.cs.stanford.edu/people/chrismre/papers/crflex-tr.pdf">Full Version</a>]<br></ul>
+
+<ul><li> 	<a href="http://www.cs.stanford.edu/people/chrismre/papers/TODS_max_ent_models_CRC.pdf"><i>Understanding cardinality estimation using entropy maximization</i></a> C. Ré and Dan Suciu. ACM Trans. Database Syst. Volume 37.</ul>
+
+<ul><li> 	<a href="http://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf"><i>Towards a Unified Architecture for In-Database Analytics</i></a> Aaron Feng, Arun Kumar, Benjamin Recht, and C. Ré</li>
+	SIGMOD 2012. [<a href="http://www.cs.stanford.edu/people/chrismre/papers/bismarck-full.pdf">Full Version</a>]<br></ul>
+
+<ul><li> 	
+<a href="http://www.cs.stanford.edu/people/chrismre/papers/paper49.Ngo.pdf"><i>Worst-case Optimal Join Algorithms</i></a>
+Hung Q. Ngo, Ely Porat, C. Ré, and Atri Rudra. PODS, 2012. 
+<b>Best Paper Award</b><br></ul>
+
+<ul><li><a href="http://www.cs.stanford.edu/people/chrismre/papers/acl2012.pdf"><i>Big Data versus the Crowd: Looking for Relationships in All the Right Places</i></a> Ce Zhang, Feng Niu, C. Ré, and Jude Shavlik. ACL, 2012.
+</ul>
+
+<ul><li><i>Toward a noncommutative arithmetic-geometric mean inequality: conjectures, case-studies, and consequences</i>
+					    Benjamin Recht and C. Ré. COLT, 2012, 
+<br>[<a href="http://www.optimization-online.org/DB_HTML/2012/02/3367.html">Full Version</a>]<br></ul>
+
+
+
+<ul> <li>
+<i><a href="http://www.cs.stanford.edu/people/chrismre/papers/elementary_journal.pdf">Elementary: Large-scale Knowledge-base Construction via Machine Learning and Statistical Inference</a></i> Feng Niu, Ce Zhang, C. Ré, and Jude Shavlik.
+IJSWIS, Special Issue on Knowledge Extraction from the Web, 2012.
+</ul>
+
+<ul> <li><i><a href="http://www.cs.stanford.edu/people/chrismre/papers/deepdive_vlds.pdf">DeepDive: Web-scale Knowledge-base Construction using Statistical Learning and Inference</a></i>
+Feng Niu, Ce Zhang, C. Ré, and Jude Shavlik.
+VLDS, 2012.
+</ul>
+<ul> <li><i> Scaling Inference for Markov Logic via Dual Decomposition</i> (Short). Feng Niu, Ce Zhang, C. R&eacute;, and Jude Shavlik. ICDM, 2012. <br>
+</ul>
+
+</div>
+
+<div id="papers2011">
+<img id="papers2011-down" height="12px" src="img/arrow_down.png">
+<img id="papers2011-up" height="12px" src="img/arrow_up.png"> 
+<strong><a id="2011">2011</a></strong>
+</div>
+<hr>
+<div id="papers2011-list">
+<ul> 	<li><a href="http://www.morganclaypool.com/doi/pdfplus/10.2200/S00362ED1V01Y201105DTM016"><i>Probabilistic Databases</i></a>. Dan Suciu, Dan Olteanu, C. Ré, and Christoph Koch. Morgan Claypool's Synthesis Lectures, 2011
+</ul>
+<ul> 	<li><a href="http://www.cs.stanford.edu/people/chrismre/papers/hazy-classification-vldb11.pdf"><i>Incrementally maintaining classification using an RDBMS</i></a> Mehmet Levent Koc and C. Ré. PVLDB Volume 4, 2011, p. 302-313
+</ul>
+<ul> 	<li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/tuffy-vldb11.pdf"><i>Tuffy: Scaling up Statistical Inference in Markov Logic Networks using an RDBMS</i></a> Feng Niu, C. Ré, AnHai Doan, and Jude W. Shavlik. PVLDB Volume 4, 2011, p. 373-384 [<a href="http://www.cs.stanford.edu/people/chrismre/papers/tuffy-tr.pdf">Full Version</a>]
+</ul>
+
+<ul> 	<li>
+	<a href="http://www.vldb.org/pvldb/vol4/p385-jahani.pdf"><i>Automatic Optimization for MapReduce Programs</i></a>Eaman Jahani, Michael J. Cafarella, and C. Ré. PVLDB 2011.
+</ul>
+<ul> 	<li>
+	<a href="http://dx.doi.org/10.1016/j.jcss.2010.04.006"><i>Queries and materialized views on probabilistic databases</i>.</a> Nilesh N. Dalvi, C. Re, and Dan Suciu. JCSS 2011.
+</ul>
+<ul> 	<li>
+	<a href="http://www.optimization-online.org/DB_FILE/2011/04/3012.pdf"><i>Parallel Stochastic Gradient Algorithms for Large-Scale Matrix Completion</i></a> Benjamin Recht and  C. Ré. 2011.
+</ul>
+<ul> <li>	<i><a href="http://i.stanford.edu/hazy/papers/hogwild-nips.pdf">Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent</a></i> Feng Niu, Benjamin Recht, C. Ré, and Stephen J. Wright. NIPS, 2011. [<a href="http://www.optimization-online.org/DB_HTML/2011/06/3080.html">Full Version</a>]
+</ul>
+
+<ul><li> 	<a href="http://arxiv.org/pdf/1108.0294v1"><i>Felix: Scaling Inference for Markov Logic with an Operator-based Approach</i></a>. Feng Niu, Ce Zhang, C. Ré, and Jude Shavlik. 
+</ul>
+</ul>
+</div>
+
+<div id="papers2010">
+<img id="papers2010-down" height="12px" src="img/arrow_down.png">
+<img id="papers2010-up" height="12px" src="img/arrow_up.png"> 
+<strong><a id="2010">2010</a></strong>
+</div>
+<hr>
+<div id="papers2010-list">
+<ul> 	<li>Michael J. Cafarella and C. Ré</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/WebDB-Manimal.pdf"><i>Manimal: Relational Optimization for Data-Intensive Programs</i></a><br>
+	WebDB, 2010, 
+</ul>
+<ul> 	<li>Benny Kimelfeld and C. Ré</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/pods016-kimelfeld.pdf"><i>Transducing Markov Sequences</i></a><br>
+	PODS, 2010, 
+<br><b>Selected as one of the best papers in PODS 2010</b><br></ul>
+<ul> 	<li>C. Ré and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/pods024_re.pdf"><i>Understanding Cardinality Estimation using Entropy Maximization</i></a><br>
+	PODS, 2010, 
+<br><b>Selected as one of the best papers in PODS 2010</b><br></ul>
+<ul> 	<li>Julie Letchner, C. Ré, Magdalena Balazinska, and Matthai Philipose</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/letchner_icde10.pdf"><i>Approximation Trade-Offs in a Markovian Stream Warehouse: An Empirical Study (Short Paper)</i></a><br>
+	ICDE, 2010, 
+</div>
+
+<div id="papers2009">
+<img id="papers2009-down" height="12px" src="img/arrow_down.png">
+<img id="papers2009-up" height="12px" src="img/arrow_up.png"> 
+<strong><a id="2009">2009 and older</a></strong>
+</div>
+<hr>
+
+<div id="papers2009-list">
+<ul> 	<li>C. Ré</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/re_thesis.pdf"><i>Managing Large-Scale Probabilistic Databases</i></a><br>
+	University of Washington, Seattle, 2009<br>
+<b>Winner of SIGMOD Jim Gray Thesis Award</b><br></ul>
+<ul> 	<li>Raghav Kaushik, C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/em_stats_dbpl.pdf"><i>General Database Statistics Using Entropy Maximization</i></a><br>
+	DBPL, 2009, p. 84-99
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/DBPL09_Stats_talk.pptx">Talk</a>]<br></ul>
+<ul> 	<li>Katherine F. Moore, Vibhor Rastogi, C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/prob_query_containment.pdf"><i>Query Containment of Tier-2 Queries over a Probabilistic Database</i></a><br>
+	Management of Uncertain Databases (MUD), 2009, 
+</ul>
+<ul> 	<li>Julie Letchner, C. Ré, Magdalena Balazinska, and Matthai Philipose</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/IndexMethods_ICDE09.pdf"><i>Access Methods for Markovian Streams</i></a><br>
+	ICDE, 2009, p. 246-257
+</ul>
+<ul> 	<li>Arvind Arasu, C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/Arasu_ICDEResearchLong_Dedupalog.pdf"><i>Large-Scale Deduplication with Constraints Using Dedupalog</i></a><br>
+	ICDE, 2009, p. 952-963
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/Dedupalog_talk_icde09.pptx">Talk</a>]<br><b>Selected as one of the best papers in ICDE 2009</b><br></ul>
+<ul> 	<li>Nilesh N. Dalvi, C. Ré, and Dan Suciu</li>
+	<a href="http://doi.acm.org/10.1145/1538788.1538810"><i>Probabilistic databases: Diamonds in the dirt</i></a><br>
+	Commun. ACM Volume 52, 2009, p. 86-94
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/cacm-paper-full.pdf">Full Version</a>]<br></ul>
+<ul> 	<li>S. Manegold, I. Manolescu, L. Afanasiev, J. Feng, G. Gou, M. Hadjieleftheriou, S. Harizopoulos, P. Kalnis, K. Karanasos, D. Laurent, M. Lupu, N. Onose, C. Ré, V. Sans, P. Senellart, T. Wu, and D. Shasha</li>
+	<a href="http://www.sigmod.org/sigmod/record/issues/0909/p40.open.repeatability2009.pdf"><i>Repeatability & Workability Evaluation of SIGMOD 2009</i></a><br>
+	SIGMOD Record Volume 38, 2009, p. 40-43
+</ul>
+<ul> 	<li>Julie Letchner, C. Ré, Magdalena Balazinska, and Matthai Philipose</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/letchner_VLDB09_demo.pdf"><i>Lahar Demonstration: Warehousing Markovian Streams</i></a><br>
+	PVLDB Volume 2, 2009, p. 1610-1613
+</ul>
+<ul> 	<li>C. Ré and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/journal_having_queries.pdf"><i>The Trichotomy of HAVING Queries on a Probabilistic Database</i></a><br>
+	VLDB Journal 2009, 
+</ul>
+<ul> 	<li>C. Ré</li>
+	<i>Managing Probabilistic Data with Mystiq (Plenary Talk)</i><br>
+	 Daghstul Seminar 08421: Uncertainty Management in Information Systems, 2008, 
+</ul>
+<ul> 	<li>C. Ré, and Dan Suciu</li>
+	<i>Advances in Processing SQL Queries on Probabilistic Data</i><br>
+	Invited Abstract in INFORMS 2008, Simulation., 2008, 
+</ul>
+<ul> 	<li>Ting-You Wang, C. Ré, and Dan Suciu</li>
+	<a href="http://www.ctit.utwente.nl/library/proceedings/wp0914.pdf"><i>Implementing NOT EXISTS Predicates over a Probabilistic Database</i></a><br>
+	QDB/MUD, 2008, p. 73-86
+</ul>
+<ul> 	<li>Nodira Khoussainova, Evan Welbourne, Magdalena Balazinska, Gaetano Borriello, Garrett Cole, Julie Letchner, Yang Li, C. Ré, Dan Suciu, and Jordan Walke</li>
+	<i>A demonstration of Cascadia through a digital diary application</i><br>
+	SIGMOD Conference, 2008, p. 1319-1322
+</ul>
+<ul> 	<li>C. Ré, Julie Letchner, Magdalena Balazinska, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/fp350-re.pdf"><i>Event queries on correlated probabilistic streams</i></a><br>
+	SIGMOD Conference, 2008, p. 715-728
+</ul>
+<ul> 	<li>C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/SUM08_keynote.pdf"><i>Managing Probabilistic Data with MystiQ: The Can-Do, the Could-Do, and the Can't-Do</i></a><br>
+	SUM, 2008, p. 5-18
+</ul>
+<ul> 	<li>Julie Letchner, C. Ré, Magdalena Balazinska, and Matthai Philipose</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/Julie_Markovian_Challenges.pdf"><i>Challenges for Event Queries over Markovian Streams</i></a><br>
+	IEEE Internet Computing Volume 12, 2008, p. 30-36
+</ul>
+<ul> 	<li>C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/approx_lineage.pdf"><i>Approximate lineage for probabilistic databases</i></a><br>
+	PVLDB Volume 1, 2008, p. 797-808
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/approx_lineage_full.pdf">Full Version</a>][<a href="http://www.cs.stanford.edu/people/chrismre/papers/Apx_Lineage_Web.pptx">Talk</a>]<br> The version above corrects an error in the statement of lemma 3.7.<br></ul>
+<ul> 	<li>Magdalena Balazinska, C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/VLDB08_tutorial.pdf"><i>Systems aspects of probabilistic data management (Part I)</i></a><br>
+	PVLDB Volume 1, 2008, p. 1520-1521
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/VLDB08_Tutorial_I_Web.pptx">Talk</a>]<br></ul>
+<ul> 	<li>Magdalena Balazinska, C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/VLDB08_tutorial.pdf"><i>Systems aspects of probabilistic data management (Part II)</i></a><br>
+	PVLDB Volume 1, 2008, p. 1520-1521
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/VLDB08_Tutorial_II_Web.pptx">Talk</a>]<br></ul>
+<br>
+
+<ul> 	<li>Michael J. Cafarella, C. Ré, Dan Suciu, and Oren Etzioni</li>
+	<a href="http://www.cidrdb.org/cidr2007/papers/cidr07p25.pdf"><i>Structured Querying of Web Text Data: A Technical Challenge</i></a><br>
+	CIDR, 2007, p. 225-234
+</ul>
+<ul> 	<li>C. Re, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/cikm07.pdf"><i>Management of data with uncertainties</i></a><br>
+	CIKM, 2007, p. 3-8
+</ul>
+<ul> 	<li>C. Ré, Dan Suciu, and Val Tannen</li>
+	<i>Orderings on Annotated Collections</i><br>
+	Liber Amicorum in honor of Jan Paredaens 60th Birthday, 2007, 
+</ul>
+<ul> 	<li>C. Ré, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/having_queries.pdf"><i>Efficient Evaluation of HAVING Queries</i></a><br>
+	DBPL, 2007, p. 186-200
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/full_version_having_queries.pdf">Full Version</a>][<a href="http://www.cs.stanford.edu/people/chrismre/papers/having.pptx">Talk</a>]<br></ul>
+<ul> 	<li>C. Ré, Nilesh N. Dalvi, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/Multisimulation_ICDE07.pdf"><i>Efficient Top-k Query Evaluation on Probabilistic Data</i></a><br>
+	ICDE, 2007, p. 886-895
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/Multisimulation_TR.pdf">Full Version</a>][<a href="http://www.cs.stanford.edu/people/chrismre/talks/Multisim_Talk_Audio.pptx">Talk</a>]<br></ul>
+<ul> 	<li>C. Re and Dan Suciu</li>
+	<a href="http://www.vldb.org/conf/2007/papers/research/p51-re.pdf"><i>Materialized Views in Probabilistic Databases for Information Exchange and Query Optimization</i></a><br>
+	VLDB, 2007, p. 51-62
+<br>[<a href="http://www.cs.stanford.edu/people/chrismre/papers/prob_materialized_views_TR.pdf">Full Version</a>][<a href="http://www.cs.stanford.edu/people/chrismre/papers/materialized.pptx">Talk</a>]<br></ul>
+<ul> 	<li>C. Ré</li>
+	<i>Applications of Probabilistic Constraints (General Exam Paper)</i><br>
+	University of Washington TR#2007-03-03 2007, 
+</ul>
+<ul> 	<li>Eytan Adar and C. Ré</li>
+	<a href="http://www.cond.org/adar_re1.pdf"><i>Managing Uncertainty in Social Networks</i></a><br>
+	IEEE Data Eng. Bull. Volume 30, 2007, p. 15-22
+</ul>
+<br>
+
+<ul> 	<li>Giorgio Ghelli, C. Ré, and Jér^ome Sim'eon</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/XQueryBang.pdf"><i>XQuery!: An XML Query Language with Side Effects</i></a><br>
+	EDBT Workshops, 2006, p. 178-191
+</ul>
+<ul> 	<li>C. Re, Jér^ome Sim'eon, and Mary F. Fern'andez</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/ICDE06_compiler.pdf"><i>A Complete and Efficient Algebraic Compiler for XQuery</i></a><br>
+	ICDE, 2006, p. 14
+</ul>
+<ul> 	<li>C. Ré, Nilesh N. Dalvi, and Dan Suciu</li>
+	<a href="http://sites.computer.org/debull/A06mar/re.ps"><i>Query Evaluation on Probabilistic Databases</i></a><br>
+	IEEE Data Eng. Bull. Volume 29, 2006, p. 25-31
+</ul>
+
+<ul> 	<li>Chavdar Botev, Hubert Chao, Theodore Chao, Yim Cheng, Raymond Doyle, Sergey Grankin, Jon Guarino, Saikat Guha, Pei-Chen Lee, Dan Perry, C. Re, Ilya Rifkin, Tingyan Yuan, Dora Abdullah, Kathy Carpenter, David Gries, Dexter Kozen, Andrew C. Myers, David I. Schwartz, and Jayavel Shanmugasundaram</li>
+	<a href="http://doi.acm.org/10.1145/1047344.1047439"><i>Supporting workflow in a course management system</i></a><br>
+	SIGCSE, 2005, p. 262-266
+</ul>
+<ul> 	<li>Jihad Boulos, Nilesh N. Dalvi, Bhushan Mandhani, Shobhit Mathur, C. Ré, and Dan Suciu</li>
+	<a href="http://doi.acm.org/10.1145/1066157.1066277"><i>MYSTIQ: a system for finding more answers by using probabilities</i></a><br>
+	SIGMOD Conference, 2005, p. 891-893
+</ul>
+<ul> 	<li>Nathan Bales, James Brinkley, E. Sally Lee, Shobhit Mathur, C. Re, and Dan Suciu</li>
+	<a href="http://dx.doi.org/10.1007/11547273_15"><i>A Framework for XML-Based Integration of Data, Visualization and Analysis in a Biomedical Domain</i></a><br>
+	XSym, 2005, p. 207-221
+</ul>
+
+<ul> 	<li>C. Ré, Jim Brinkley, Kevin Hinshaw, and Dan Suciu</li>
+	<a href="http://www.cs.stanford.edu/people/chrismre/papers/paper-distributed-xquery-2004.pdf"><i>Distributed XQuery</i></a><br>
+	Workshop on Information Integration on the Web (IIWeb), 2004, p. 116-121
+</ul>
+
+<ul> 	<li>Werner Vogels and C. Ré</li>
+	<a href="http://www2003.org/cdrom/papers/alternate/P712/p712-vogels.html"><i>WS-Membership - Failure Management in a Web-Services World</i></a><br>
+	WWW (Alternate Paper Tracks), 2003, 
+</ul>
+
+<ul> 	<li>Werner Vogels, C. Ré, Robbert Renesse, and Kenneth P. Birman</li>
+	<a href="http://csdl.computer.org/comp/proceedings/icdcsw/2002/1588/00/15880655abs.htm"><i>A Collaborative Infrastructure for Scalable and Robust News Delivery</i></a><br>
+	ICDCS Workshops, 2002, p. 655-659
+</ul></div>
+
+<div id='bio' class='section'>
+<p>
+Christopher (Chris) Re is an assistant professor in the Department of Computer Science at Stanford University and a Robert N. Noyce Family Faculty Scholar. The goal of his work is to enable users and developers to build applications that more deeply understand and exploit data. Chris received his PhD from the University of Washington in Seattle under the supervision of Dan Suciu. For his PhD work in probabilistic data management, Chris received the SIGMOD 2010 Jim Gray Dissertation Award. He then spent four wonderful years on the faculty of the University of Wisconsin, Madison before moving to Stanford in 2013. In his time as a faculty member, he helped discover the first join algorithm with worst-case optimal running time, which won the best paper at PODS 2012, and develop the formal underpinnings of and architectures to support large-scale statistical analytics frameworks. In addition, work from his group has been incorporated into scientific efforts like the IceCube neutrino detector and PaleoDeepDive, and into products from Oracle, Pivotal, and Cloudera's Impala. He received an NSF CAREER Award in 2011 and an Alfred P. Sloan fellowship in 2013. 
+</p>
+<a href='bio.txt'>Download as text file</a>
+</div>
+
+<div id='support' class='section'>
+
+<div style="text-align:center;">
+  <a href="http://www.acq.osd.mil/chieftechnologist/index.html"><img height="100px" src="http://research.cs.wisc.edu/hazy/images/logos/asdre.jpg"></a>
+  <a href="http://www.darpa.mil"><img height="100px" src="http://research.cs.wisc.edu/hazy/images/logos/darpa.jpg" style="margin-left:30px; margin-right:15px;"></a>
+  <a href="http://www.nsf.gov"><img height="110px" src="http://research.cs.wisc.edu/hazy/images/logos/nsf.jpg" style="margin-left:15px; margin-right:30px;"></a>
+  <a href="http://www.onr.navy.mil"><img height="100px" src="http://research.cs.wisc.edu/hazy/images/logos/onr.png"></a>
+<br />
+  <a href="http://www.amfam.com/default.asp"><img height="50px" src="http://research.cs.wisc.edu/hazy/images/logos/amfam.jpeg" style="margin-bottom:15px;"></a>
+  <a href="http://www.google.com"><img height="60px" src="http://research.cs.wisc.edu/hazy/images/logos/google.png" style="margin-left:10px;"></a>
+  <a href="http://www.greenplum.com"><img height="40px" src="http://research.cs.wisc.edu/hazy/images/logos/greenplum.jpg" style="margin-bottom:15px;margin-left:10px;"></a>
+  <a href="http://www.johnsoncontrols.com"><img height="70px" src="http://research.cs.wisc.edu/hazy/images/logos/JCI.jpg" style="margin-left:10px;"></a>
+<br />
+  <a href="http://www.logicblox.com"><img width="180px" src="http://research.cs.wisc.edu/hazy/images/logos/lb-logo.png" style="margin-bottom:18px;"></a>
+  <a href="http://www.microsoft.com"><img height="40px" src="http://research.cs.wisc.edu/hazy/images/logos/ms.jpeg" style="margin-left:40px; margin-bottom:15px;"></a>
+  <a href="http://www.oracle.com"><img height="40px" src="http://research.cs.wisc.edu/hazy/images/logos/oracle.jpg" style="margin-left:40px; margin-bottom:15px;"></a>
+<br />
+<a href="http://www.raytheon.com/"><img height="32px" src="http://research.cs.wisc.edu/hazy/images/logos/raytheon.gif" style="margin-bottom:15px;"></a>
+  <a href="http://chtc.cs.wisc.edu"><img height="32px" src="http://research.cs.wisc.edu/hazy/images/logos/chtc.png" style="margin-left:40px; margin-bottom:15px;"></a>
+  <a href="http://research.cs.wisc.edu/condor/"><img height="43px" src="http://research.cs.wisc.edu/hazy/images/logos/condor.jpg" style="margin-left:40px; margin-bottom:15px;"></a>
+</div>
+<br />
+
+
+<ul> 
+   
+<li> <b>NSF.</b> 
+Thank you to the NSF for supporting <i>New Frontiers in Join Algorithms: Optimality, Noise, and Richer Languages</i> which is joint with Atri Rudra and Hung Ngo!
+
+<li> <b>AirForce</b>. Thank you to the Air Force for supporting Mathematical Foundations of Secure Computing Clouds; this is the hard work of Jordan Ellenberg (Math), Ben Recht (CS), Tom Ristenpart (CS), Rob Nowak (EE), and Steve Wright (CS).
+
+<li> <b>Oracle</b>. Thank you for continuing support to support the Hazy
+Research group! This gift will be used to continue our work on feature
+engineering for structured analytics.
+
+<li><b>ONR</b> Thank you to the Office of Naval Research for
+supporting Ben Recht, Steve Wright, and my proposal about <i> An
+Architecture for Integrating Information and Simplifying Large-scale
+Statistical Data Analysis</i> (Award No. N000141310129)
+
+<li><b>AmFam</b> Thank you to American Family Insurance for their
+generous support of the Hazy group's research. We're very excited
+about the collaboration.
+
+<li><b>DDR&amp;E</b> Thank you to DDR&amp;E, DARPA, and Raytheon for funding
+Ben Recht and my proposal about operator splitting for information
+fusion applications.
+
+<li><b>DARPA</b> Thank you to DARPA (DEFT) for funding Jude Shavlik,
+Sriraam Natarajan (Wake Forest), and my proposal <i>Creating Robust
+Relation Extractors and Anomaly Detectors via Probabilistic
+Logic-Based Reasoning and Learning</i>.
+
+<li><b>NSF</b>.  Thank you to the NSF for funding an EAGER to work on
+'extracting Dark Data' with Shanan Peters from UW Geoscience and Miron
+Livny from CS.
+
+<li><b>Google Research Award</b>.  Thank you to GOOGLE for
+supporting our proposal, <i>GeoDeepDive: Machine Reading of
+Measurements</i>. 
+
+<li><b>Oracle and Oracle Labs</b>. Thank you to the Oracle Labs and
+the Oracle Analytics team for their generous support of the Hazy
+group's work! We are really excited to learn what customers need from
+in-database analytics. This will help support Arun's work. He and I
+are both very excited!
+
+<li><b>Greenplum/EMC</b>. Thank you to Greenplum/EMC for their
+generous support of the Hazy group's work! We are really excited to
+learn from this collaboration -- and to push some of Aaron and Arun's
+stuff in to <a href="http://madlib.net">MADlib!</a>, an awesome
+open-source library for scalable in-database analytics.
+
+<li><b>Office of Naval Research</b>. 
+Thank you to the ONR for support of my work under award no. N000141210041! This funding will allow our group to embark on a theoretical investigation of the foundations of building a large-scale, easy-to-use data-analysis system. 
+
+<li> <b> NSF CAREER</b>. I recently received the NSF CAREER award
+(IIS-1054009). Thank you to the NSF for their generous support
+of <a href="http://www.cs.wisc.edu/hazy">Hazy</a>.
+
+<li> <b>IceCube</b>. The <a href="http://www.cs.wisc.edu/hazy/">Hazy
+group</a> is extremely excited to announce funding for an exploratory
+data analysis project. The goal of the project is to apply Hazy's
+ideas to the problem of detecting neutrinos from the Big Bang in
+collaboration with the <a href="http://icecube.wisc.edu">IceCube
+Neutrino Detector</a>
+and <a href="http://www.discovery.wisc.edu/">Wisconsin Institutes for
+Discovery</a>.
+
+<li><b>LogicBlox</b> The Hazy group is excited to collaborate
+with <a href="http://www.logicblox.com">LogicBlox</a>! Thank you,
+LogicBlox, for your generous research gift to support our ongoing work
+on Tuffy and Felix. <br>
+
+<li><b>DARPA</b> DARPA's Machine Reading Program has the goal of
+understanding information expressed as free-form text. We are building
+a scalable engine to process a probabilistic logic called Markov Logic
+to support this effort.
+
+<li> <b>Thank You!</b> The <a href="http://i.stanford.edu/hazy/">Hazy
+group</a> would like to thank our sponsors in the past and coming
+year: The Microsoft Jim Gray Lab, DARPA/AFOSR via SRI, the NSF,
+Google, Johnson Controls Inc., the University of Wisconsin-Madison,
+the Office of Naval Research, and Physical Layer Systems. In addition,
+we would like to thank our collaborators at the Wisconsin Institutes
+for Discovery, HP Labs-China, LogicBlox, Greenplum, Oracle and IBM. 
+
+</ul>
+</div>
+
+<div id='students' class='section'>
+
+
+<h2>Current Students</h2>
+<ul><ul>
+<li> Denny Britz (MS, CS)</li>
+<li> Zifei Shan (MS, CS)</li>
+<li> Feiran Wang (PhD, EE)</li>
+<li> Burak Yavuz (MS, ICME)</li>
+<li> Mikhail Sushkov (MS, CS)</li>
+<li> <a href="http://pages.cs.wisc.edu/~czhang/">Ce Zhang (PhD, Wisconsin CS)</a></li>
+</ul></ul>
+<br>
+<hr>
+
+<h2>Stanford students that I regularly harass:</h2> 
+<ul><ul>
+   <li> Chris Aberger (MS, CS) <i>Advisor: Kunle Olukotun</i>
+   <li> Gabor Angeli (PhD, CS) <i>Advisor: Chris Manning</i></li>
+   <li> Chris De Sa (PhD, EE)  <i>Advisor: Kunle Olukotun</i></li>
+   <li> Arun Chaganty (PhD, CS) <i>Advisor: Percy Liang</i></li>
+   <li> Emily Doughty (PhD, Biomedical Informatics) <i>Advisor: Russ Altman</i>
+   <li> Manas Joglekar (PhD, CS) <i>Advisor: Hector Garcia-Molina</i>
+   <li> Justin Johnson (PhD, CS) <i>Advisor: Fei-Fei Li</i>
+   <li> Ranjay Krishna (MS, CS)  <i>Advisor: Fei-Fei Li and Michael Bernstein</i></li>
+   <li> Semih Salihoglu (PhD, CS) <i>Advisor: Jennifer Widom</i>
+   <li> Jiyan Yang (PhD, ICME) <i>Advisor: Michael Saunders (ICME) and Michael Mahoney (Berkeley)</i>
+</ul></ul>
+<br/>
+
+<hr>
+   <h2>Alumni (Degree year, First Employment)</h2>
+<ul><ul>
+<li> <a href="http://pages.cs.wisc.edu/~bittorf/">Victor Bittorf</a> (MS 2014, Cloudera)</li>
+<li> Srikrishna Sridhar (PhD 2014, GraphLab)</li>
+<li> <a href="http://www.cs.wisc.edu/users/vidhya">Vidhya Govindaraju</a> (MS 2014, Oracle)</li>
+<li> <a href="http://pages.cs.wisc.edu/~mwellons/">Mark Wellons</a> (MS 2013, Amazon)</li>
+<li> <a href="http://pages.cs.wisc.edu/~arun/">Arun Kumar</a> (MS 2013, PhD at Wisconsin) 
+<li> Zach Thomae (undergrad)
+<li> <a href="http://pages.cs.wisc.edu/~leonn/">Feng Niu</a> (co-advised with <a href="http://pages.cs.wisc.edu/~anhai/">AnHai Doan</a>) (PhD 2012, first employment: Google)
+<li> <a href="http://pages.cs.wisc.edu/~xixi/">Xixi Luo</a> (MS in Industrial Engineering 2012, first employment: Oracle)
+<li> Vinod Ramachandran (MS 2011, first employment: Oracle)
+<li> M. Levent Koc (MS 2011, first employment: Google)
+<li> Balaji Gopalan (MS 2010, first employment: Google)
+</ul></ul>
+
+</div>
+
+<div id='projects' class='section'>
+
+<script>
+var arr = [ "geo-example", "analytics", "joins" ];
+
+jQuery.each(arr, function(i, val) {
+    $("#" + val).click(function () {
+	$("#" + val + "-list").toggle('slow');
+	$("#" + val + "-down").toggle();
+	$("#" + val + "-up").toggle();
+      });
+
+    $("#" + val + "-list").toggle();
+    $("#" + val + "-up").toggle();
+  });
+</script>
+
+We are working on three broad topics:
+
+<ul>
+<li style="list-style: none;">
+<b>(1) Building Knowledge Bases.</b> The world is full of
+interesting data and knowledge, but it's difficult to use.  Part of the challenge is that knowledge is buried
+in all kinds of crazy places, e.g., in the text, tables, and figures
+of scholarly articles, webpages, and government reports. We are
+building a trained system called DeepDive to help extract this
+knowledge. The system does everything from optical character
+recognition to natural language processing to object reconciliation to
+regression. A key goal is to demonstrate real value to end users with
+these systems, and we are working with scientists in several
+disciplines to understand this challenge. 
+
+<br><br>
+
+DeepDive is our attempt to understand a new type of database
+system. Our new approach can be summarized as follows: <i> the data,
+the output of various tools, the input from users &#8212; including
+the program the developer writes &#8212; are observations from which
+the system statistically infers the answer</i>.  This view is a
+radical departure from traditional data processing systems, which
+assume that the data is one-hundred percent correct. A key problem in
+DeepDive is that the system needs to consider many possible
+interpretations for each data item. In turn, we need to explore a huge
+number of combinations during probabilistic inference, which is one of
+the core technical challenges.
+
+<ul> <li style="list-style: none;">
+<div id="geo-example">
+<img id="geo-example-down" height="16px" src="img/arrow_down.png">
+<img id="geo-example-up" height="16px" src="img/arrow_up.png"> 
+<u>Demos, Examples, and Papers.</u>
+</div>
+<div id="geo-example-list">
+<ul> 
+With <a
+href="http://geoscience.wisc.edu/geoscience/people/faculty/shanan-peters/">Shanan
+Peters</a> (UW Geoscience) and Miron Livny (Condor), we are combining
+Macrostrat with DeepDive to (hopefully!) deliver value for
+Geoscientists.  One key challenge is extracting all the measurement
+information that is reported in the literature, that is buried in the
+<i>dark data</i> of text, graphs, and figures.  A <a
+href="http://www.youtube.com/watch?v=X8uhs28O3eA&feature=plcp">demo
+video</a> and a new video about <a
+href="http://www.youtube.com/watch?v=Cj2-dQ2nwoY">quality</a> that is
+higher than the volunteers who have been at this for the last
+decade. This is all powered by DeepDive. <i>Thank you to the National
+Science Foundation and Google for supporting this work.</i>
+
+<li> Portions of DeepDive are available. <a href="http://i.stanford.edu/hazy/hazy/elementary/">Elementary</a>. Gibbs Sampling on Factor Graphs on TBs in files, Accumulo, or HBase! Now with BUGS support! <a href="http://i.stanford.edu/hazy/hazy/tuffy/">Tuffy</a> is updated, which uses an RDBMS to process Markov Logic. The most recent version of DeepDive's engine is described in a recent SIGMOD <a href="http://www.cs.stanford.edu/people/chrismre/papers/elementary_sigmod.pdf">paper</a>. A new release is coming soon!
+</ul>
+</div></ul>
+</li>
+
+Our goal is to acquire more sources of data for DeepDive to understand more deeply to change the way that science and industry operate. <br>
+
+<li style="list-style: none;"> <b>(2) 
+Statistical Analytics in Data
+  Processing Systems</b>. 
+  Enabling users to understand their data more deeply can improve society, science, and business. The new generation of analysis tools are statistical and predictive, which require different low-level processing than traditional SQL-style analytics. Our group is interested in
+understanding how these analytics change
+traditional database systems. As a result, we work on both integrating statistical algorithms into existing data processing systems
+and building our own frameworks. We have built several tools now used
+in science and industry.
+
+<ul> <li style="list-style: none;">
+<div id="analytics">
+<img id="analytics-down" height="16px" src="img/arrow_down.png">
+<img id="analytics-up" height="16px" src="img/arrow_up.png"> 
+<u> Demos, Examples, and Papers.</u>
+<div>
+<div id="analytics-list">
+<ul>
+  <li> For integrating statistical analytics into a data processing system, we wrote these two papers <a href="http://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf">paper</a> or this <a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-38.html">one</a>. This work has been incorporated into <a href="http://madlib.net/">MADlib</a> (EMC/Greenplum/Pivotal), a product from Oracle, and in <a href="http://blog.cloudera.com/blog/2013/10/how-to-use-madlib-pre-built-analytic-functions-with-impala/">Cloudera's Impala</a>.
+ 
+<li> In scientific applications, Mark Wellons, Ben Recht,
+and I have worked with the IceCube Neutrino Detector. Mark's
+code now runs in the detector on the South Pole and is used on over
+250 Million events per day. More details are in this <a
+href="http://www.youtube.com/watch?v=45SHzTmUzPw&feature=plcp">video</a>, this  <a
+href="http://www.youtube.com/watch?v=6znX_qgjv8o">video</a>, this
+  <a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-65570/icrc2013-0807.pdf">paper</a> at the <a href="http://www.cbpf.br/~icrc2013/">The International Cosmic Ray Conference 2013</a>, or this <a href="http://arxiv.org/abs/1308.5501">paper</a>. A paper was accepted to <a href="https://docushare.icecube.wisc.edu/dsweb/Get/Document-67643/IcecubePaperNIMA.pdf">NIM A</a> and described <a href="http://icecube.wisc.edu/news/view/153">here</a>. IceCube (and Mark) got the cover of <a href="http://www.sciencemag.org/content/342/6161.cover-expansion">Science</a>! Awesome!
+
+<li> Code for our own engines are <a href="http://i.stanford.edu/hazy/">here</a> and <a href="http://i.stanford.edu/hazy/hazy/victor/Hogwild/">Hogwild!</a> for. These process things like SVMs, logistic regression, matrix factorization, and other convex goodness without locking. Specialized versions of trace-norm regularization called <a href="http://i.stanford.edu/hazy/hazy/victor/jellyfish/">Jellyfish</a> and non-negative matrix factorization called <a href="http://i.stanford.edu/hazy/hazy/victor/hotttopixx/">HottTopix</a>. Each of these is referenced in a paper of the same name. There are also videos about some of the technical portions of these projects <a href="http://www.youtube.com/watch?v=xvsrgy1MJYw">Matrix Factorization</a>, 
+  <a href="http://www.youtube.com/watch?v=ETTlLvYqD3w">Seismic Data Interpolation</a>, and <a href="http://www.youtube.com/watch?v=W6gHzbOrJ8I">a nowcasting framework</a> (now called Ringtail).
+
+<li> See some
+  recent thoughts about this problem including <a
+  href="http://cs.stanford.edu/people/chrismre/papers/mythical_man.pdf">Brainwash</a>
+  and a spate of recent demos such as <a
+  href="http://www.youtube.com/watch?v=W6gHzbOrJ8I">a nowcasting
+  framework</a>, Ringtail in <a
+  href="http://cs.stanford.edu/people/chrismre/papers/ColumbusDemo-VLDB.pdf">VLDB</a>
+  and <a
+  href="http://cs.stanford.edu/people/chrismre/papers/ColumbusDemo-VLDB.pdf">WebDB</a>;
+  and an enterprise feature-selection system with <a
+  href="http://cs.stanford.edu/people/chrismre/papers/ColumbusDemo-VLDB.pdf">Oracle</a>. I
+    am also interested in making analytic systems self-tuning.<br>
+</li>
+</div>
+</ul>
+
+ Our goal is to make analytics systems easier to build, maintain, and tune. 
+
+<li style="list-style: none;"> <b> (3) Fundamentals of Data
+    Processing.</b> 
+    Almost all data processing systems have their intellectual roots in first order logic. The most computationally expensive (and most interesting) operation in such systems is the relational join. Recently, I helped discover the first join algorithm with optimal worst-case running time. This result uses a novel connection between logic, combinatorics, and geometry. We are using this connection to develop new attacks on classical problems in listing patterns in graphs and in statistical inference. Two threads have emerged:
+
+<ul><ul>
+<li> 
+    The first theme is that these new worst-case-optimal algorithms are fundamentally different from the algorithms used in (most of) today's data processing systems. Although our algorithm is optimal in the
+worst case, commercial relational database engines have been tuned to
+work well on real data sets by smart people for about four
+decades. And so a difficult question is <i>how does one translate
+these insights into real data processing systems?</i></li>
+ 
+<li> The second theme is that we may need new techniques to get theoretical results strong enough to guide practice. As a result, I've started thinking about "beyond worst-case analysis" and things like conditioning for combinatorial problems to hopefully build theory that can inform practice to a greater extent. The first papers have just been posted.</li>
+</ul></ul>
+
+<ul><li style="list-style: none;"> <div id="joins">
+<img id="joins-down" height="16px" src="img/arrow_down.png">
+<img id="joins-up" height="16px" src="img/arrow_up.png"> 
+<u>Demos, Examples, and Papers.</u>
+</div>
+
+<div id="joins-list">
+<ul> 
+  <li> Worst-case Optimal Joins. We have posted a <a href="http://arxiv.org/abs/1310.3314">survey</a> for SIGMOD record about recent advances in join algorithms. Our goal is to give a high-level view of the results for practitioners and applied researchers. We also managed to  simplify the arguments. A full version of our join algorithm with worst-case optimal running time is <a href="http://arxiv.org/abs/1203.1952">here</a>. The LogicBlox guys have their own commercial worst-case optimal <a href="http://arxiv.org/abs/1210.0481">algorithm</a>.
+
+  <li> Beyond Worst-case Joins. This <a href="http://arxiv.org/abs/1302.0914">work</a> is our attempt to go beyond  worst-case analysis for join algorithms. We (with Dung Nguyen) develop a new algorithm that we call Minesweeper based on these ideas. The main theoretical idea is to formalize the amount of work any algorithm spends certifying (using a set of propositional statements) that the output set is complete (and not, say, a proper subset). We call this set of propositions the certificate. We manage to establish a dichotomy theorem for this stronger notion of complexity: if a query is what Ron Fagin calls beta-acyclic, then Minesweeper runs in time linear in the certificate; if a query is beta-cyclic than on some instance any algorithm takes time that is super linear in the certificate.  The results get sharper and more fun. Also, Dung is a superhero and has implemented a variant of this algorithm.
+ 
+<li> Almost to one algorithm to rule them all? We have a much better description of beyond worst-case optimality with a resolution framework and a host of new results for different indexing strategies. <a href="http://arxiv.org/abs/1404.0703">This paper</a> supercedes many of the results in Minesweeper and in a much nicer way!. We also hope to connect more of geometry and resolution... but we'll see!																																																																																		   <li> A first part of our attack on conditioning for combinatorial problems is <a href="http://arxiv.org/abs/1311.2661">in NIPS</a> and on <a href="http://arxiv.org/abs/1311.1873">Arxiv</a>.
+
+<li> It is not difficult to get me interested in a theory problem. Ask around the Infolab if you don't believe me.
+
+</ul>
+</div>
+
+</ul>
+Our goal is to understand the fundamentals of data processing systems. 
+</ul>
+
+
+</div>
+
+<div id='courses' class='section'>
+<ul><ul style="list-style: none;">
+<li style="list-style: none;"> <a href="cs346/index.html">Spring 14: CS346 Advanced Database Implementation</a>
+<li style="list-style: none;"> <a href="http://www.stanford.edu/class/cs345d-01/"> Winter 14: CS345 Advanced Database Systems</a>
+<li style="list-style: none;"> Fall 13: None. </li>
+</ul></ul>
+<hr> 
+<b>UW-Madison</b>
+
+<ul>
+<ul style="list-style: none;">
+<li style="list-style: none;"> Spring  13: CS764-1, Topics in Database Management Systems
+<li style="list-style: none;"> Fall   12: None.
+<li style="list-style: none;"> Spring 12: None.
+<li style="list-style: none;"> Fall 11: CS 564-1,Database Management Systems
+<li style="list-style: none;"> Spring 11: CS764-1, Topics in Database Management Systems
+<li style="list-style: none;"> Fall 10: CS 564-1, Database Management Systems
+<li style="list-style: none;"> Spring 10: CS 838-3, Probabilistic Data Management
+<li style="list-style: none;"> Spring 10: CS 900-1, Presentation Seminar for Database Students
+<li style="list-style: none;"> Fall 09: CS 564-2, Database Management Systems
+   </ul></ul></div>
+
+<div id='oldnews' class='section'>
+</div>
+
+</body>
+
+</html>
