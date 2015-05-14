@@ -1,0 +1,20 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'European Symposia on Algorithms,'1-1-2-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'General information,'1-1-2-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+"'The Symposium covers research in efficient algorithms and data structures in computer science, discrete applied mathematics, operations research and mathematical programming. Starting from 2002, the symposium has two tracks:",'1-1-2-2-1-2-1,1,0,0,1,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Design and Analysis Track,'1-1-2-2-1-2-2-1-1-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Design and mathematical analysis of algorithms,'1-1-2-2-1-2-2-1-1-2,0,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Engineering and Application Track,'1-1-2-2-1-2-2-1-2-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Real-world applications, engineering and experimental analysis of algorithms",'1-1-2-2-1-2-2-1-2-2,0,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'The creation of two tracks in ESA follows the incorporation of the annual Workshop on Algorithm Engineering (WAE) into ESA.,'1-1-2-2-1-2-2-2-1,1,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+"'Each track has its own program committee. Papers are submitted to a particular track, but the committees have the right to move papers between tracks.",'1-1-2-2-1-2-2-2-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,3,N
+'News,'1-1-2-2-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,1,1,1,3,C
+"'The 23rd Annual European Symposium on Algorithms (ESA 2015) will take place in Patras, Greece.",'1-1-2-2-2-2-1,1,1,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+"'The 22nd Annual European Symposium on Algorithms (ESA 2014) will take place in Wrocław, Poland, from September 08 to 10, 2014.",'1-1-2-2-2-2-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The 21th Annual European Symposium on Algorithms (ESA 2013) will take place in Sophia Antipolis, France, from September 02 to 04, 2013 (Call for papers).",'1-1-2-2-2-2-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The 20th Annual European Symposium on Algorithms (ESA 2012) took place in Ljubljana, Slovenia, from September 10 to 12, 2012.",'1-1-2-2-2-2-4,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The 19th Annual European Symposium on Algorithms (ESA 2011) took place in Saarbrücken, Germany, from September 5 to 9, 2011.",'1-1-2-2-2-2-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The 18th Annual European Symposium on Algorithms (ESA 2010) took place in Liverpool, United Kingdom, from September 6 to 8, 2010.",'1-1-2-2-2-2-6,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'The 17th Annual European Symposium on Algorithms (ESA 2009) took place in Copenhagen, Denmark, from September 7 to 9, 2009.",'1-1-2-2-2-2-7,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'As of ESA 2007, in addition to the best student paper award, ESA confers a best paper award. The prize acknowledges the best contributed ESA paper of that year, as judged by the program committee. The award is sponsored by EATCS.",'1-1-2-2-2-2-8,2,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'European Symposia on Algorithms · webmaster · valid XHTML 1.1 and CSS,'1-2,1,0,0,1,0,2,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,N

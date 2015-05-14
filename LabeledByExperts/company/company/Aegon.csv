@@ -1,0 +1,269 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Aegon,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'Aegon N.V.,'1-1-2-1-1-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Type,'1-1-2-1-1-2-2-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Naamloze vennootschap,'1-1-2-1-1-2-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-2-3-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Euronext: AGN, NYSE: AEG",'1-1-2-1-1-2-3-2,0,0,0,1,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Industry,'1-1-2-1-1-2-4-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Financial services,'1-1-2-1-1-2-4-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Founded,'1-1-2-1-1-2-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'1983,'1-1-2-1-1-2-5-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-2-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'The Hague, Netherlands",'1-1-2-1-1-2-6-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Area served,'1-1-2-1-1-2-7-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Worldwide,'1-1-2-1-1-2-7-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Key people,'1-1-2-1-1-2-8-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Alex Wynaendts,'1-1-2-1-1-2-8-2-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'(CEO),'1-1-2-1-1-2-8-2-2-1,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,2,N
+'Rob Routs,'1-1-2-1-1-2-8-2-2-2,0,0,0,1,0,2,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,3,I
+'(Chairman of the supervisory board),'1-1-2-1-1-2-8-2-2-3,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,2,N
+'Services,'1-1-2-1-1-2-9-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,3,C
+"'Life insurance, asset management, pensions",'1-1-2-1-1-2-9-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Revenue,'1-1-2-1-1-2-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'€29,937 million (2012)",'1-1-2-1-1-2-10-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Profit,'1-1-2-1-1-2-11-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'€1,571 million (2012)",'1-1-2-1-1-2-11-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-2-12-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'€366,118 million (end 2012)",'1-1-2-1-1-2-12-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-1-2-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'€29,700 million (end 2012)",'1-1-2-1-1-2-13-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-2-14-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'24,407 (end 2012)",'1-1-2-1-1-2-14-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Website,'1-1-2-1-1-2-15-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.aegon.com,'1-1-2-1-1-2-15-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'Aegon N.V. is a multinational life insurance, pensions and asset management company headquartered in The Hague, Netherlands. At the end of 2012, Aegon companies employed approximately 24,000 people worldwide, serving millions of customers.",'1-1-2-1-2-1-1-1,2,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Aegon has a primary listing on Euronext Amsterdam and is a constituent of the AEX index. It has a secondary listing on the New York Stock Exchange.,'1-1-2-1-2-1-1-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Contents,'1-1-2-1-2-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'1 History,'1-1-2-1-2-1-2-1-2-1,0,0,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,I
+"'2 Operations 2.1 Subsidiaries and divisions 2.1.1 North America
+2.1.2 Netherlands
+2.1.3 United Kingdom
+2.1.4 Other
+
+2.2 Joint ventures
+2.3 Shareholdings",'1-1-2-1-2-1-2-1-2-2,1,0,0,1,0,2,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'3 Sponsorships,'1-1-2-1-2-1-2-1-2-3,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+'4 References,'1-1-2-1-2-1-2-1-2-4,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'5 External links,'1-1-2-1-2-1-2-1-2-5,0,0,0,1,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+'Aegon was founded in 1983 from the merger of AGO Holding N.V. (created by the merger of three companies in 1968) and Ennia N.V. (formed by the merger of three companies in 1969).,'1-1-2-1-2-1-2-2-1-2-1,2,0,0,1,0,0,0,0,0,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'Aegon acquired Scottish Equitable in 1994. In 1998 it formed Stonebridge International Insurance Ltd to create and market a range of personal insurance products, providing accident, health and unemployment cover to its own customers and via business partners.",'1-1-2-1-2-1-2-2-1-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'In 1999 it acquired the life assurance business of Guardian Royal Exchange. That year it also bought Transamerica Corporation.,'1-1-2-1-2-1-2-2-1-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On August 13, 2007, Aegon and Merrill Lynch announced a strategic business partnership in the areas of life insurance and investment products. As part of the relationship, Aegon acquired two of Merrill Lynch's life insurance companies for US$1.3 billion.",'1-1-2-1-2-1-2-2-1-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'On April 23, 2008, Alex Wynaendts succeeded the retiring Donald J. Shepard as Chairman of the Executive Board and CEO of Aegon N.V. following the Group's Annual General Meeting of Shareholders: Donald Shepard announced his retirement in November 2007, after six years as Chairman.",'1-1-2-1-2-1-2-2-1-2-5,2,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On October 28, 2008, the Dutch government and De Nederlandsche Bank agreed to give Aegon a €3 billion capital injection to create a capital buffer in exchange for convertible bonds to ease the group through the financial crisis. On June 15, 2011, Aegon fulfilled its key objective of repurchasing all of the €3 billion core capital securities issued to the Dutch State. The total amount Aegon has paid to the Dutch State amounts to €4.1 billion. Of this amount, €3 billion covered the original issue of core capital securities, while an additional €1.1 billion was paid in premium and interest.",'1-1-2-1-2-1-2-2-1-2-6,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On August 3, 2011, Aegon USA announced that all its various businesses will be grouped under a single brand name: Transamerica. Transamerica’s key businesses are life insurance, investments and retirement. The group includes companies whose history goes back over 100 years and whose products and services have become well known throughout the US, including founding companies Life Investors Insurance Company of America and Monumental Life Insurance Company.",'1-1-2-1-2-1-2-2-1-2-7,2,0,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Operations,'1-1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,2,C
+"'Aegon's businesses focus on life insurance and pensions, savings and asset management products. The group is also active in accident and supplemental health insurance and general insurance, and has limited banking activities. Aegon has major operations in the United States (where it is heavily represented through World Financial Group and Transamerica), the Netherlands and the United Kingdom. In addition, the group is present in a number of other countries including Canada, Brazil, Mexico, Hungary, Poland, Romania, Slovakia, Czech Republic, Turkey, Spain, China, Japan and India. Aegon's world headquarters are in The Hague, Netherlands, and its U.S. headquarters are in Cedar Rapids, Iowa.",'1-1-2-1-2-1-2-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Subsidiaries and divisions,'1-1-2-1-2-1-2-2-3-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'North America,'1-1-2-1-2-1-2-2-3-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,1,0,0,0,1,1,1,1,C
+"'Aegon USA, LLC",'1-1-2-1-2-1-2-2-3-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+'Transamerica Corporation,'1-1-2-1-2-1-2-2-3-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+'Transamerica Advisors Life Insurance Company,'1-1-2-1-2-1-2-2-3-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Transamerica Advisors Life Insurance Company of New York,'1-1-2-1-2-1-2-2-3-2-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Monumental Life Insurance Company,'1-1-2-1-2-1-2-2-3-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Stonebridge Casualty Insurance Company,'1-1-2-1-2-1-2-2-3-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Stonebridge Life Insurance Company,'1-1-2-1-2-1-2-2-3-2-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Stonebridge Casualty Insurance Company,'1-1-2-1-2-1-2-2-3-2-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Transamerica Financial Life Insurance Company,'1-1-2-1-2-1-2-2-3-2-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Western Reserve Life Assurance Co. of Ohio,'1-1-2-1-2-1-2-2-3-2-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Transamerica Life Canada,'1-1-2-1-2-1-2-2-3-2-11,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Netherlands,'1-1-2-1-2-1-2-2-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1,1,1,2,C
+'Aegon Levensverzekering,'1-1-2-1-2-1-2-2-4-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Aegon Schadeverzekering,'1-1-2-1-2-1-2-2-4-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Aegon Bank,'1-1-2-1-2-1-2-2-4-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'OPTAS Pensioenen,'1-1-2-1-2-1-2-2-4-2-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Aegon Spaarkas,'1-1-2-1-2-1-2-2-4-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Unirobe Meeus Groep,'1-1-2-1-2-1-2-2-4-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'TKP Pensioen,'1-1-2-1-2-1-2-2-4-2-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Aegon Hypotheken,'1-1-2-1-2-1-2-2-4-2-8,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'United Kingdom,'1-1-2-1-2-1-2-2-5-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,1,0,0,0,1,1,1,2,C
+'Scottish Equitable plc (trading as Aegon UK),'1-1-2-1-2-1-2-2-5-2-1,0,1,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+'Origen Financial Services,'1-1-2-1-2-1-2-2-5-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Positive Solutions,'1-1-2-1-2-1-2-2-5-2-3,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Other,'1-1-2-1-2-1-2-2-6-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Aegon España S.A. (Spain),'1-1-2-1-2-1-2-2-6-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+'Aegon Magyarország Általános Biztositó Zrt. (Hungary),'1-1-2-1-2-1-2-2-6-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Aegon TU na Życie S.A. / Aegon Powszechne Towarzystwo Emerytalne S.A. (Poland),'1-1-2-1-2-1-2-2-6-2-3,1,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Joint ventures,'1-1-2-1-2-1-2-2-7-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Aegon-CNOOC Life Insurance Company (50% joint venture with CNOOC) (China),'1-1-2-1-2-1-2-2-7-2-1,1,1,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,0,1,1,0,0,1,I
+'Aegon Sony Life Insurance Cy (50% joint venture with Sony) (Japan),'1-1-2-1-2-1-2-2-7-2-2,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,1,0,0,0,2,I
+'Caja Badajoz Vida y Pensiones (Spain),'1-1-2-1-2-1-2-2-7-2-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Banca Civica joint venture partners: CAN Vida y Pensiones S.A. de Seguros (50% joint venture), Caja Burgos Vida (50%), CAN Seguros de Salud (50%) (Spain)",'1-1-2-1-2-1-2-2-7-2-4,1,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Cantabris Vida Y Pensiones (50%) (Spain),'1-1-2-1-2-1-2-2-7-2-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'Liberbank Vida y Pensiones (50%) (Spain),'1-1-2-1-2-1-2-2-7-2-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'Unnim Vida (50%) (50%) (Spain),'1-1-2-1-2-1-2-2-7-2-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'Aegon Industrial Fund Manangement Co. (49%) (China),'1-1-2-1-2-1-2-2-7-2-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'AMVEST Vastgoed B.V. (Netherlands),'1-1-2-1-2-1-2-2-7-2-9,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Shareholdings,'1-1-2-1-2-1-2-2-8-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'N.V. Levensverzekeringsmaatschappij ""De Hoop"" (33.3%) (Netherlands)",'1-1-2-1-2-1-2-2-8-2-1-1,0,1,0,1,0,2,0,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,1,I
+'Tenet Group Limited (22%) (United Kingdom),'1-1-2-1-2-1-2-2-8-2-1-2,0,1,0,1,0,2,0,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Seguros Argos (49%) (Mexico),'1-1-2-1-2-1-2-2-8-2-2,0,1,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Aegon Religare Life Insurance Company (26%) (India),'1-1-2-1-2-1-2-2-8-2-3,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'Aegon (50%) (Brasil),'1-1-2-1-2-1-2-2-8-2-4,0,1,0,1,0,2,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Sponsorships,'1-1-2-1-2-1-2-2-9-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,2,C
+"'In 2008, Aegon became the official sponsor of the Dutch football team AFC Ajax, in a deal which will last for seven years. Ajax's uniform now features the Aegon logo across the chest. Aegon becomes the third sponsor of Ajax (TDK sponsored Ajax in the 1980s, and ABN AMRO sponsored the team from 1990 till 2008). As of late 2008, Aegon also sponsor the Lawn Tennis Association. A sponsorship package was agreed with the LTA and Aegon's name will appear on all four pillars of British Tennis, including many professional tournaments, one of which is the AEGON Championships, an ATP grasscourt professional tennis tournament in June in London, taking over from Stella Artois, who had sponsored the event since 1979. Since 2004, Transamerica has been the primary sponsor of the American golfer Zach Johnson.",'1-1-2-1-2-1-2-2-9-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'External links,'1-1-2-1-2-1-2-2-10,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Aegon's world headquarters in The Hague,'1-1-2-1-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,3,N
+'Wikimedia Commons has media related to Aegon.,'1-1-2-2-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Official website,'1-1-2-2-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,1,0,0,0,0,1,1,1,3,N
+'Aegon companies grouped at OpenCorporates,'1-1-2-2-2-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,3,N
+'Companies portal,'1-1-2-2-3-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Financial services companies of the Netherlands,'1-1-2-2-4-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,1,1,3,C
+"'Bancassurance:
+
+ING Group
+Rabobank
+SNS Reaal",'1-1-2-2-4-1-2-1,0,1,0,1,1,2,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
+"'Banks:
+
+ABN Amro
+Alex
+ASN Bank
+Amsterdam Trade Bank
+Bank Nederlandse Gemeenten
+Binck
+De Lage Landen
+Direktbank
+ELQ Hypotheken
+Friesland Bank
+Nederlandse Waterschapsbank
+NIBC Bank
+Postbank
+SNS Bank
+Sparck
+Triodos Bank
+Van Lanschot Bankiers",'1-1-2-2-4-1-2-2,1,1,0,1,1,2,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Private banks & asset management
+
+Bank Insinger de Beaufort
+Kempen & Co
+MeesPierson
+Oyens & van Eeghen
+Robeco
+Schretlen & Co
+Staalbankiers
+Theodoor Gilissen Bankiers",'1-1-2-2-4-1-2-3,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
+"'Insurance:
+
+Aegon
+Achmea
+Ageas
+Allianz
+Atradius
+ASR Nederland
+AXA Nederland
+Cardif
+Centraal Beheer
+Conservatrix
+Delta Lloyd
+Eureko
+De Goudse Verzekeringen
+FBTO
+Interpolis
+Klaverblad Verzekeringen
+Monuta
+Nationale Nederlanden
+Ohra
+TVM
+Univé
+Uvit
+VVAA
+Zwitserleven",'1-1-2-2-4-1-2-4,0,1,0,1,1,2,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'Health insurance:,'1-1-2-2-4-1-2-5-1,0,0,0,1,1,2,0,2,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,C
+'Azivo,'1-1-2-2-4-1-2-5-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'AZVZ,'1-1-2-2-4-1-2-5-2-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'CZ Groep,'1-1-2-2-4-1-2-5-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'De Friesland,'1-1-2-2-4-1-2-5-2-4,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Menzis,'1-1-2-2-4-1-2-5-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'ONVZ Zorgverzekeringen,'1-1-2-2-4-1-2-5-2-6,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'PNO Ziektenkosten,'1-1-2-2-4-1-2-5-2-7,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Salland Verzekeringen,'1-1-2-2-4-1-2-5-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'DSW Zorgverzekeringen,'1-1-2-2-4-1-2-5-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Zorg en Zekerheid,'1-1-2-2-4-1-2-5-2-10,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'AEX companies of the Netherlands,'1-1-2-2-4-2-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Aegon,'1-1-2-2-4-2-1-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Ahold Air France-KLM Akzo Nobel Aperam ArcelorMittal ASML Boskalis Corio DSM Fugro Heineken ING KPN Philips PostNL Randstad Reed Elsevier Royal Dutch Shell SBM Offshore TNT Express Unibail-Rodamco Unilever Wolters Kluwer,'1-1-2-2-4-2-1-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Major insurance and reinsurance companies,'1-1-2-2-4-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'Insurance,'1-1-2-2-4-2-2-2-1-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,1,C
+'Composite,'1-1-2-2-4-2-2-2-1-1-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Aegon,'1-1-2-2-4-2-2-2-1-1-2-1-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Ageas,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'AIG,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Allianz,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Allstate,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Aon,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Aviva,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-6,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'AXA,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-7,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'China Pacific Insurance,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-8,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Taiping,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-9,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Generali,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-10,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'ING,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-11,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'National Mutual Insurance Federation of Agricultural Cooperatives,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-12,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Ping An Insurance,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-13,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Prudential plc,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-14,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'PZU,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-15,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'State Farm Insurance,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-16,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'The Hartford,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-17,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'UnipolSai,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-18,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Vienna Insurance Group,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-19,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
+'Zurich Insurance Group,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-20-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'Farmers Insurance Group,'1-1-2-2-4-2-2-2-1-1-2-1-2-2-20-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'General insurance,'1-1-2-2-4-2-2-2-1-1-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'BB Seguridade,'1-1-2-2-4-2-2-2-1-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Berkshire Hathaway,'1-1-2-2-4-2-2-2-1-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'BNP Paribas,'1-1-2-2-4-2-2-2-1-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Bradesco Seguros,'1-1-2-2-4-2-2-2-1-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'CNP Assurances,'1-1-2-2-4-2-2-2-1-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Hyundai Marine & Fire Insurance,'1-1-2-2-4-2-2-2-1-1-2-2-2-6-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'If P&C Insurance,'1-1-2-2-4-2-2-2-1-1-2-2-2-6-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Insurance Australia Group,'1-1-2-2-4-2-2-2-1-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,1,1,0,0,2,I
+'Liberty Mutual,'1-1-2-2-4-2-2-2-1-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Mapfre,'1-1-2-2-4-2-2-2-1-1-2-2-2-9,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Mitsui Sumitomo Insurance Group,'1-1-2-2-4-2-2-2-1-1-2-2-2-10,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'PICC,'1-1-2-2-4-2-2-2-1-1-2-2-2-11,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'QBE Insurance,'1-1-2-2-4-2-2-2-1-1-2-2-2-12,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'RSA Insurance Group,'1-1-2-2-4-2-2-2-1-1-2-2-2-13,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Samsung Fire & Marine Insurance,'1-1-2-2-4-2-2-2-1-1-2-2-2-14,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Sompo Japan,'1-1-2-2-4-2-2-2-1-1-2-2-2-15,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Tokio Marine,'1-1-2-2-4-2-2-2-1-1-2-2-2-16,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Travelers,'1-1-2-2-4-2-2-2-1-1-2-2-2-17,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'UIIC India,'1-1-2-2-4-2-2-2-1-1-2-2-2-18,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'XL Group,'1-1-2-2-4-2-2-2-1-1-2-2-2-19,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Life insurance,'1-1-2-2-4-2-2-2-1-1-2-3-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'AIA,'1-1-2-2-4-2-2-2-1-1-2-3-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Bupa,'1-1-2-2-4-2-2-2-1-1-2-3-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'China Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Dai-ichi Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Great Eastern,'1-1-2-2-4-2-2-2-1-1-2-3-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Jackson,'1-1-2-2-4-2-2-2-1-1-2-3-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Legal & General,'1-1-2-2-4-2-2-2-1-1-2-3-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'LIC India,'1-1-2-2-4-2-2-2-1-1-2-3-2-8,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Lincoln,'1-1-2-2-4-2-2-2-1-1-2-3-2-9,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Manulife Financial,'1-1-2-2-4-2-2-2-1-1-2-3-2-10,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Meiji Yasuda Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-11,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'MetLife,'1-1-2-2-4-2-2-2-1-1-2-3-2-12,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'New York Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-13,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Nippon Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-14,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Northwestern Mutual,'1-1-2-2-4-2-2-2-1-1-2-3-2-15,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Old Mutual,'1-1-2-2-4-2-2-2-1-1-2-3-2-16,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Phoenix Group,'1-1-2-2-4-2-2-2-1-1-2-3-2-17,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Prudential Financial,'1-1-2-2-4-2-2-2-1-1-2-3-2-18,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Samsung Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-19,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Scottish Widows,'1-1-2-2-4-2-2-2-1-1-2-3-2-20,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Standard Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-21,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sumitomo Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-22,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sun Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-23,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Swiss Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-24,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Taikang Life,'1-1-2-2-4-2-2-2-1-1-2-3-2-25,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Reinsurance,'1-1-2-2-4-2-2-2-1-2-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Gen Re,'1-1-2-2-4-2-2-2-1-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Hannover Re,'1-1-2-2-4-2-2-2-1-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Lloyd's of London,'1-1-2-2-4-2-2-2-1-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Munich Re,'1-1-2-2-4-2-2-2-1-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Reinsurance Group of America,'1-1-2-2-4-2-2-2-1-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Scor,'1-1-2-2-4-2-2-2-1-2-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Swiss Re,'1-1-2-2-4-2-2-2-1-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'XL Group,'1-1-2-2-4-2-2-2-1-2-2-8,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Methodology: Applicable FY2010/11 revenues of over US$3 billion,'1-1-2-2-4-2-2-2-2,0,0,0,1,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N

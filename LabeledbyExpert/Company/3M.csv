@@ -1,324 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'3M,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-"'For other uses, see 3M (disambiguation).",'1-1-2-1-1,0,0,0,1,0,2,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
-'3M Company,'1-1-2-1-2-1-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,3,C
-'Type,'1-1-2-1-2-1-2-2-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-'Public,'1-1-2-1-2-1-2-2-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Traded as,'1-1-2-1-2-1-2-3-1,0,0,0,1,1,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'NYSE MMM,'1-1-2-1-2-1-2-3-2-1-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Dow Jones Industrial Average Component,'1-1-2-1-2-1-2-3-2-1-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'S&P 500 Component,'1-1-2-1-2-1-2-3-2-2,0,0,0,1,0,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Industry,'1-1-2-1-2-1-2-4-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Conglomerate,'1-1-2-1-2-1-2-4-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Founded,'1-1-2-1-2-1-2-5-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-"'Two Harbors, Minnesota",'1-1-2-1-2-1-2-5-2-1,0,0,0,1,0,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'United States (1902,'1-1-2-1-2-1-2-5-2-2-1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
-'Founder(s),'1-1-2-1-2-1-2-6-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Dr. Danley Budd,'1-1-2-1-2-1-2-6-2-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Henry Bryan,'1-1-2-1-2-1-2-6-2-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Hermon Cable,'1-1-2-1-2-1-2-6-2-3,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'John Dwan,'1-1-2-1-2-1-2-6-2-4,0,0,0,1,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'William McGonagle,'1-1-2-1-2-1-2-6-2-5,0,0,0,1,0,2,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Headquarters,'1-1-2-1-2-1-2-7-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-"'Maplewood, Minnesota",'1-1-2-1-2-1-2-7-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'U.S.,'1-1-2-1-2-1-2-7-2-2,0,0,0,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Area served,'1-1-2-1-2-1-2-8-1,0,0,0,1,1,2,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Worldwide,'1-1-2-1-2-1-2-8-2,0,0,0,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Key people,'1-1-2-1-2-1-2-9-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Inge G. Thulin,'1-1-2-1-2-1-2-9-2-1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'(President & CEO),'1-1-2-1-2-1-2-9-2-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'Products,'1-1-2-1-2-1-2-10-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'List of 3M Company products,'1-1-2-1-2-1-2-10-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,1,0,0,0,1,1,0,0,1,I
-'Revenue,'1-1-2-1-2-1-2-11-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'$ 29.6 billion (FY 2012),'1-1-2-1-2-1-2-11-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operating income,'1-1-2-1-2-1-2-12-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'$ 6.1 billion (FY 2012),'1-1-2-1-2-1-2-12-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Net income,'1-1-2-1-2-1-2-13-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'$ 4.3 billion (FY 2012),'1-1-2-1-2-1-2-13-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total assets,'1-1-2-1-2-1-2-14-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'$ 31.6 billion (FY 2012),'1-1-2-1-2-1-2-14-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total equity,'1-1-2-1-2-1-2-15-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'$ 15.9 billion (FY 2012),'1-1-2-1-2-1-2-15-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-1-2-1-2-16-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'88,000 (August 2013)",'1-1-2-1-2-1-2-16-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,1,0,0,1,I
-'Website,'1-1-2-1-2-1-2-17-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'3M.com,'1-1-2-1-2-1-2-17-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'The 3M Company, formerly known as the Minnesota Mining and Manufacturing Company, is an American multinational conglomerate corporation based in St. Paul, Minnesota. 3M headquarters are in the St. Paul suburb of Maplewood, Minnesota.",'1-1-2-1-2-2-1-1,2,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'With $30 billion in sales, 3M employs 88,000 people worldwide and produces more than 55,000 products, including: adhesives, abrasives, laminates, passive fire protection, dental products, electronic materials, medical products, car-care products (sun films, polish, wax, car shampoo, treatment for the exterior, interior and the under chassis rust protection), electronic circuits, and optical films. 3M has operations in more than 65 countries including 29 international companies with manufacturing operations and 35 companies with laboratories. 3M products are available for purchase through distributors and retailers in more than 196 countries, and online directly from the company.",'1-1-2-1-2-2-1-2,2,0,0,1,0,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-1-2-2-2-2,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-'This article,'1-1-2-1-3-1-2-1,0,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,N
-'possibly contains original research,'1-1-2-1-3-1-2-2-1,0,0,0,1,1,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,N
-'Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research may be removed.,'1-1-2-1-3-1-2-2-2-2,1,0,0,1,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'(May 2010),'1-1-2-1-3-1-2-2-2-3,0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,3,N
-"'Five businessmen founded 3M in Two Harbors, Minnesota, in 1902. Originally a mining venture, the goal was to mine corundum, but this failed because the mine's mineral holdings were anorthosite, which had no commercial value. Co-founder John Dwan solicited funds in exchange for stock and Edgar Ober and Lucius Ordway took over the company in 1905. The company moved to Duluth and began research and producing sandpaper products. William L. McKnight, later a key executive, joined the company in 1907, and A. G. Bush joined in 1909. 3M finally became financially stable in 1916 and was able to pay dividends.",'1-1-2-1-3-2-1-1,2,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
-"'The company moved to St. Paul, where it remained for 52 years before outgrowing the campus and moving to its current headquarters at 3M Centre in Maplewood, Minnesota. The new Maplewood campus is 475 acres (1.92 km) and has over 50 buildings, including an Innovation Center that displays products 3M has taken to market.",'1-1-2-1-3-2-1-2,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'The company began by mining stone from quarries for use in grinding wheels. Struggling with quality and marketing of its products, management supported its workers to innovate and develop new products, which became its core business. Twelve years after its inception, 3M developed its first exclusive product: Three-M-ite cloth. Other innovations in this era included masking tape, waterproof sandpaper, and Scotch brand tapes. By 1929, 3M had made its first moves toward international expansion by forming Durex to conduct business in Europe. The same year, the company’s stock was first traded over the counter and in 1946 listed on the New York Stock Exchange (NYSE). The company is currently a component of the Dow Jones Industrial Average and of the S&P 500.",'1-1-2-1-3-2-1-3,2,0,0,1,0,0,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Founding,'1-1-2-1-3-2-2,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'This section,'1-1-2-1-4-1-2,0,0,0,1,0,2,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,N
-'needs additional citations for verification,'1-1-2-1-4-1-3-1,0,0,0,1,1,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-1-4-1-3-3,1,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'(May 2009),'1-1-2-1-4-1-3-4,0,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,1,0,1,0,0,3,N
-'The building in which the company was founded is now a museum,'1-1-2-1-4-2-1-2,1,0,0,1,0,0,1,0,1,2,0,0,0,1,1,0,0,0,1,1,0,0,3,N
-"'The founders original plan was to sell the mineral corundum to manufacturers in the East for making grinding wheels. After selling one load, on June 13, 1902, the five went to the Two Harbors office of company secretary John Dwan, which was on the shore of Lake Superior and is now part of the 3M National Museum, and signed papers making Minnesota Mining and Manufacturing a corporation. In reality, however, Dwan and his associates were not selling what they thought; they were really selling the worthless mineral anorthosite.",'1-1-2-1-4-2-2-1-1-1,2,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,I
-"'Failing to make sandpaper with the anorthosite, the founders decided to import minerals like Spanish garnet, after which sale of sandpapers grew. In 1914, customers complained that the garnet was falling off the paper. The founders discovered that the stones had traveled across the Atlantic Ocean packed near olive oil, and the oil had penetrated the stones. Unable to take the loss of selling expensive inventory, they roasted the stones over fire to remove the olive oil; this was the first instance of research and development at 3M.",'1-1-2-1-4-2-2-1-1-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Expansion,'1-1-2-1-4-2-2-1-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'The company's late innovations include waterproof sandpaper (1921) and masking tape (1925), as well as cellophane ""Scotch Tape"" and sound-deadening materials for cars.",'1-1-2-1-4-2-2-1-2-2-1,1,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'During the 1950s, the company expanded worldwide with operations in Canada, Mexico, France, Germany, Australia, and the United Kingdom in large part by Clarence Sampair. In 1951, international sales were approximately $20 million. 3M’s achievements were recognized by the American Institute of Management naming the company “one of the five best-managed companies in the United States"" and included it among the top 12 growth stocks (3M).",'1-1-2-1-4-2-2-1-2-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-"'In the late 1960s and early 1970s, 3M published a line of board games, largely under the ""3M bookshelf game series"" brand. These games were marketed to adults and sold through department stores, with easily learned simple rules but complex game play and depth and with uniformly high-quality components. As such, they are the ancestors of the German ""Eurogames"". The games covered a variety of topics, from business and sports simulations to word and abstract strategy games. They were a major publisher at the time for influential U.S. designers Sid Sackson and Alex Randolph. In the mid-1970s, the game line was taken over by Avalon Hill.",'1-1-2-1-4-2-2-1-2-2-3,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'3M's Mincom division introduced several models of magnetic tape recorders for instrumentation use and for studio sound recording. An example of the latter is the model M79 recorder, which still has a following today. 3M Mincom was also involved in designing and manufacturing video production equipment for the television and video post-production industries in the 1970s and 1980s, with such items as character generators and several different models of video switchers, from models of audio and video routers to video mixers for studio production work.",'1-1-2-1-4-2-2-1-2-2-4,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'3M Mincom was involved in some of the first digital audio recordings of the late 1970s to see commercial release when a prototype machine was brought to the Sound 80 studios in Minneapolis. After drawing on the experience of that prototype recorder, 3M later introduced in 1979 a commercially available digital audio recording system called the ""3M Digital Audio Mastering System"", which consisted of a 32-track digital audio tape recorder and a companion 4-track digital recorder for final mastering. 3M later designed and manufactured several other commercially available models of digital audio recorders used throughout the early to mid-1980s.",'1-1-2-1-4-2-2-1-2-2-5,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 1980, the company introduced Post-it notes. In 1996, the company's data storage and imaging divisions were spun off as the Imation Corporation. Imation has since sold its imaging and photographic film businesses to concentrate on storage.",'1-1-2-1-4-2-2-1-2-2-6,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Today, 3M is one of the 30 companies included in the Dow Jones Industrial Average (added on August 9, 1976), and is 97 on the 2011 Fortune 500 list. The company has 132 plants and over 67,000 employees worldwide, with sales offices in over 200 countries. The vast majority of the company's employees are local nationals, with few employees residing outside their home country. Its worldwide sales are over $20 billion, with international sales 58% of that total.",'1-1-2-1-4-2-2-1-2-2-7,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2002, 3M Co. agreed to acquire AiT Advanced Information Technologies Corp. for about $37.4-million in cash, after AiT had strongly hinted it had put itself on the auction block.",'1-1-2-1-4-2-2-1-2-2-8,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On December 20, 2005, 3M announced a major partnership with Roush-Fenway Racing, one of NASCAR's premier organizations. In 2008, the company will sponsor Greg Biffle in the NASCAR Sprint Cup Series as he drives the No. 16 Ford Fusion. In addition, on February 19, 2006, 3M announced that it would become the title sponsor of the 3M Performance 400 at Michigan International Speedway for at least the next three years.",'1-1-2-1-4-2-2-1-2-2-9,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On April 4, 2006, 3M announced its intention to sell its pharmaceutical non-core business. The pharmaceuticals businesses were sold off in three deals, in Europe, the Americas, and the remainder of the world. Another division of the Health Care business, Drug Delivery Systems, remains with 3M. The Drug Delivery System division continues to contract manufacture inhalants and transdermal drug-delivery systems, and has now taken on manufacture of the products whose licenses were sold during the divestiture of the pharmaceuticals business. On September 8, 2008, 3M announced an agreement to acquire Meguiar's, a car-care products company that was family-owned for over a century.",'1-1-2-1-4-2-2-1-2-2-10,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On August 30, 2010, 3M announced that they had acquired Cogent Systems for $943 million.",'1-1-2-1-4-2-2-1-2-2-11,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-"'On October 13, 2010, 3M completed acquisition of Arizant Inc. In December 2011, 3M completed the acquisition of the Winterthur Technology Group, a bonded abrasives company.",'1-1-2-1-4-2-2-1-2-2-12,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-"'3M follows a business model based on ""the ability to not only develop unique products, but also to manufacture them efficiently and consistently around the world (3M)"".",'1-1-2-1-4-2-2-1-2-2-13,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On January 3, 2012, it was announced that the Office and Consumer Products Division of Avery Dennison was being bought by 3M for $550 million.",'1-1-2-1-4-2-2-1-2-2-14,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Environmental record,'1-1-2-1-4-2-2-1-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'In 1999 the U.S. Environmental Protection Agency (EPA) began investigating perfluorinated chemicals (PFCs) after receiving data on the global distribution and toxicity of PFOS. 3M, the former primary producer of PFOS from the U.S., announced the phase-out of PFOS, PFOA, and PFOS-related product production in May 2000. PFCs produced by 3M were used in non-stick cookware and stain-resistant fabrics. The Cottage Grove facility manufactured PFCs from the 1940s to 2002. In response to PFC contamination of the Mississippi River and surrounding area, 3M states the area will be ""cleaned through a combination of groundwater pump-out wells and soil sediment excavation"". The restoration plan is to be based on an analysis of the company property and surrounding lands. The on-site water treatment facility that handles the plant's post-production water is not capable of removing the PFCs, which were released into the nearby Mississippi River. The clean-up cost estimate is $50 to $56 million, which will be funded from a $147 million environmental reserve set aside in 2006. The search area for PFCs in the Mississippi River now extends to five states, spanning approximately half of the river's total distance. Perfluorochemicals do not break down or degrade in the environment.",'1-1-2-1-4-2-2-1-3-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In 1983 the Oakdale Dump in Oakdale, Minnesota, was listed as an EPA Superfund site after significant groundwater and soil contamination by VOCs and heavy metals was uncovered. The Oakdale Dump was a 3M dumping site utilized through the 1940s and 1950s.",'1-1-2-1-4-2-2-1-3-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2002, 3M ranked 70th on the Political Economy Research Institute's (PERI) list of the top 100 corporations emitting airborne pollutants in the U.S. In March 2010, PER I ranked 3M at 98th place on the list.",'1-1-2-1-4-2-2-1-3-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2008, 3M created the Renewable Energy Division within 3M’s Industrial and Transportation Business to focus on Energy Generation and Energy Management.",'1-1-2-1-4-2-2-1-3-2-4,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In late 2010, the state of Minnesota sued 3M claiming they released PFCs, a very toxic chemical according to the EPA but unknown at the time of release, into local waterways.",'1-1-2-1-4-2-2-1-3-2-5,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2013, 3M's use of the Sustainable Forestry Initiative label was called into question by the conservation group ForestEthics. On October 7, 2013, two activists deployed a 1,600 square-foot banner over the Washington Avenue Bridge in Minneapolis, Minnesota, demanding that 3M drop the SFI label and commit to sustainable forestry practices.",'1-1-2-1-4-2-2-1-3-2-6,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Operating facilities,'1-1-2-1-4-2-2-1-4-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'3M’s general offices, corporate research laboratories, and certain division laboratories are located in Maplewood, Minnesota. In the United States, 3M has nine sales offices in eight states and operates 74 manufacturing facilities in 27 states. Internationally, 3M has 148 sales offices. The Company operates 93 manufacturing and converting facilities in 32 countries outside the United States.",'1-1-2-1-4-2-2-1-4-2-1,2,0,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,N
-"'3M owns substantially all of its physical properties. Because 3M is a global enterprise characterized by substantial intersegment cooperation, properties are often used by multiple business segments including Integrity Supply.",'1-1-2-1-4-2-2-1-4-2-2,2,0,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,I
-'Selected factory detail information:,'1-1-2-1-4-2-2-1-4-2-3,0,0,0,1,0,2,0,2,1,2,1,1,0,1,0,0,0,0,0,0,1,1,2,C
-"'Cynthiana, Kentucky, USA factory producing Post-It notes (672 SKU) and scotch tape (147 SKU). It has 539 employees and was established in 1969.",'1-1-2-1-4-2-2-1-4-2-4-1,1,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Newton Aycliffe, County Durham, UK factory producing respirators for workers safety, using laser technology. It has 370 employees and recently there was an investment of £4,5 million ($7 million).",'1-1-2-1-4-2-2-1-4-2-4-2,1,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Products,'1-1-2-1-4-2-2-1-5,0,0,0,1,1,1,0,0,1,2,1,1,0,0,1,0,0,0,0,1,0,0,2,C
-"'3M facility in St. Paul, Minnesota",'1-1-2-1-4-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'is incomplete,'1-1-2-1-5-1-2-1,0,0,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,N
-"'Please help to improve the section, or discuss the issue on the talk page.",'1-1-2-1-5-1-2-2-1,1,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
-'(June 2012),'1-1-2-1-5-1-2-2-2,0,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,1,0,1,0,0,3,N
-'3M High Visibility Signals,'1-1-2-1-5-2-1-1-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,1,1,3,I
-"'3M Library Systems 3M Cloud Library - an app that allows library patrons to browse and borrow e-books via 3M digital kiosks in the library or online
-3M e-Reader - a digital reading device that can be borrowed in the same fashion as a physical book
-3M Intelligent Return and Sorter System
-Touch-screen enabled kiosk for browsing titles",'1-1-2-1-5-2-1-1-2,2,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'3M Purification,'1-1-2-1-5-2-1-1-3,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'ACCR,'1-1-2-1-5-2-1-1-4,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Aearo,'1-1-2-1-5-2-1-1-5,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Avagard Hygiene Range,'1-1-2-1-5-2-1-1-6,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Bondo,'1-1-2-1-5-2-1-1-7,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Buf Puf,'1-1-2-1-5-2-1-1-8,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Cavilon,'1-1-2-1-5-2-1-1-9,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Cubitron II,'1-1-2-1-5-2-1-1-10,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Chrome & Metal Polish,'1-1-2-1-5-2-1-1-11,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Clarity,'1-1-2-1-5-2-1-1-12,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Coban,'1-1-2-1-5-2-1-1-13,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Command Adhesive,'1-1-2-1-5-2-1-1-14,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Comply Steam Indicators,'1-1-2-1-5-2-1-1-15,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Crimplok,'1-1-2-1-5-2-1-1-16,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'DI-NOC,'1-1-2-1-5-2-1-1-17,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Dobie,'1-1-2-1-5-2-1-1-18,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Durapore,'1-1-2-1-5-2-1-1-19,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Dynatel,'1-1-2-1-5-2-1-1-20,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'FastBond Adhesives,'1-1-2-1-5-2-1-1-21,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Fibrlok,'1-1-2-1-5-2-1-1-22,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Filtrete,'1-1-2-1-5-2-1-1-23,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Fluorinert,'1-1-2-1-5-2-1-1-24,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Gold Privacy Filter,'1-1-2-1-5-2-1-1-25,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Hockey-Fusion Grip Stick Tape,'1-1-2-1-5-2-1-1-26,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Hockey Gear Tape,'1-1-2-1-5-2-1-1-27,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Hockey Grip Tape,'1-1-2-1-5-2-1-1-28,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Hockey-Hyper Grip Stick Tape,'1-1-2-1-5-2-1-1-29,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Hockey-Liquid Flex Stick Coating,'1-1-2-1-5-2-1-1-30,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Hockey Stick Tape,'1-1-2-1-5-2-1-1-31,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Hookit sandpaper,'1-1-2-1-5-2-1-1-32,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Imiquimod,'1-1-2-1-5-2-1-1-33,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Littmann Stethoscopes,'1-1-2-1-5-2-1-1-34,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Medipore,'1-1-2-1-5-2-1-1-35,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Microfoam,'1-1-2-1-5-2-1-1-36,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Micropore Hypoallergenic Skin Tape,'1-1-2-1-5-2-1-1-37,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Microtouch Touch Screens,'1-1-2-1-5-2-1-1-38,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Motor Vehicle System Services Software Suite,'1-1-2-1-5-2-1-1-39,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
-'Multimedia Projectors,'1-1-2-1-5-2-1-1-40,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Natural View protection film,'1-1-2-1-5-2-1-1-41,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Nexcare,'1-1-2-1-5-2-1-1-42,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Novec 1230,'1-1-2-1-5-2-1-1-43,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'O-Cel-O,'1-1-2-1-5-2-1-1-44,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Pelt-or communication and hearing protection systems,'1-1-2-1-5-2-1-1-45,0,1,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Petrifilm,'1-1-2-1-5-2-1-1-46,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Post-it note,'1-1-2-1-5-2-1-1-47,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Quest Technologies,'1-1-2-1-5-2-1-1-48,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Reddot ECK Electrodes,'1-1-2-1-5-2-1-1-49,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Reston self-adhering foam,'1-1-2-1-5-2-1-1-50,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Roofing Granules,'1-1-2-1-5-2-1-1-51,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'SandBlaster,'1-1-2-1-5-2-1-1-52,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Scientific Anglers,'1-1-2-1-5-2-1-1-53,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Scotch-Brite,'1-1-2-1-5-2-1-1-54,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Scotch Tape,'1-1-2-1-5-2-1-1-55-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Scotch Magic Tape,'1-1-2-1-5-2-1-1-55-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,2,I
-'Scotchcal Film,'1-1-2-1-5-2-1-1-56,0,1,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Scotchcast Fibreglass casting,'1-1-2-1-5-2-1-1-57,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Scotchgard,'1-1-2-1-5-2-1-1-58,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Scotchlite,'1-1-2-1-5-2-1-1-59,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Scotchlok,'1-1-2-1-5-2-1-1-60,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Scotchprint Graphics,'1-1-2-1-5-2-1-1-61,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Scotch-Weld Adhesives,'1-1-2-1-5-2-1-1-62,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Steridrape SD9000,'1-1-2-1-5-2-1-1-63,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Steri-Strip,'1-1-2-1-5-2-1-1-64,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Stikit sandpaper,'1-1-2-1-5-2-1-1-65,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Super 77 Classic Spray Adhesive,'1-1-2-1-5-2-1-1-66,0,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Tartan,'1-1-2-1-5-2-1-1-67,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Tattle-Tape,'1-1-2-1-5-2-1-1-68,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Tegaderm,'1-1-2-1-5-2-1-1-69,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Thinsulate,'1-1-2-1-5-2-1-1-70,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Velostat,'1-1-2-1-5-2-1-1-71,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'VHB,'1-1-2-1-5-2-1-1-72,0,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Vikuiti,'1-1-2-1-5-2-1-1-73,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
-'Wetordry sandpaper,'1-1-2-1-5-2-1-1-74,0,1,0,1,0,2,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Corporate governance,'1-1-2-1-5-2-1-2-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-'Current officers,'1-1-2-1-5-2-1-2-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,1,0,0,1,1,1,1,C
-"'Inge G. Thulin – Chairman, President and Chief Executive Officer",'1-1-2-1-5-2-1-2-2-1,1,1,0,1,0,2,0,0,1,2,1,1,1,0,0,0,1,0,0,0,0,0,1,I
-'David Meline – Senior Vice President and Chief Financial Officer,'1-1-2-1-5-2-1-2-2-2,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'Marlene M. McGrath – Senior Vice President, Human Resources",'1-1-2-1-5-2-1-2-2-3,0,1,0,1,0,2,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-"'Joaquin Delgado – Executive Vice President, Health Care Business Group",'1-1-2-1-5-2-1-2-2-4-1,1,1,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'Michael A. Kelly – Executive Vice President, Electronics and Energy Business Group",'1-1-2-1-5-2-1-2-2-4-2,1,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
-"'Julie Bushman – Executive Vice President, Safety and Graphics Business Group",'1-1-2-1-5-2-1-2-2-5,1,1,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-"'Michael G. Vale - Executive Vice President, Consumer Business Group",'1-1-2-1-5-2-1-2-2-6,1,1,0,1,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'Brad T. Sauer – Executive Vice President, Industrial Business Group",'1-1-2-1-5-2-1-2-2-7,1,1,0,1,0,2,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-"'Jesse G. Singh – Senior Vice President, Marketing, Sales and Communications",'1-1-2-1-5-2-1-2-2-8-1,1,1,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'Frederick J. Palensky – Executive Vice President, Research and Development and Chief Technology Officer",'1-1-2-1-5-2-1-2-2-8-2,1,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'Chris Holmes – Senior Vice President, Supply Chain",'1-1-2-1-5-2-1-2-2-9,0,1,0,1,0,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
-"'Ivan K. Fong – Senior Vice President, Legal Affairs and General Counsel",'1-1-2-1-5-2-1-2-2-10-1,1,1,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'H.C. (Hak Cheol) Shin - Executive Vice President, International Operations",'1-1-2-1-5-2-1-2-2-10-2,1,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
-"'Michael F. Roman -Senior Vice President, Business Development",'1-1-2-1-5-2-1-2-2-11,0,1,0,1,0,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Presidents,'1-1-2-1-5-2-1-3-1,0,0,0,1,1,1,0,0,1,2,1,0,1,0,0,0,1,0,0,1,0,0,2,C
-'Chief executive officers,'1-1-2-1-5-2-1-3-2,0,0,0,1,1,2,0,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,1,C
-'Chairman of the board,'1-1-2-1-5-2-1-3-3,0,0,0,1,1,2,0,0,1,2,1,0,1,1,0,0,1,0,0,1,0,0,1,C
-'See also,'1-1-2-1-5-2-1-3-4,0,0,0,1,1,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,1,C
-'1902–1905,'1-1-2-1-5-2-2-1-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Henry S. Bryan,'1-1-2-1-5-2-2-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1905–1906,'1-1-2-1-5-2-2-2-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Edgar B. Ober,'1-1-2-1-5-2-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1906–1909,'1-1-2-1-5-2-2-3-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Lucius P. Ordway,'1-1-2-1-5-2-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1909–1929,'1-1-2-1-5-2-2-4-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Edgar B. Ober,'1-1-2-1-5-2-2-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1929–1949,'1-1-2-1-5-2-2-5-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'William L. McKnight,'1-1-2-1-5-2-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1949–1953,'1-1-2-1-5-2-2-6-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Richard P. Carlton,'1-1-2-1-5-2-2-6-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1953–1963,'1-1-2-1-5-2-2-7-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Herbert P. Buetow,'1-1-2-1-5-2-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1963–1966,'1-1-2-1-5-2-2-8-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Bert S. Cross,'1-1-2-1-5-2-2-8-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2005–2012,'1-1-2-1-5-2-2-9-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'George W. Buckley,'1-1-2-1-5-2-2-9-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2012–present,'1-1-2-1-5-2-2-10-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Inge G. Thulin,'1-1-2-1-5-2-2-10-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1966–1970,'1-1-2-1-5-2-3-1-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Bert S. Cross,'1-1-2-1-5-2-3-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1970–1974,'1-1-2-1-5-2-3-2-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Harry Heltzer,'1-1-2-1-5-2-3-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1974–1979,'1-1-2-1-5-2-3-3-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Raymond H. Herzog,'1-1-2-1-5-2-3-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1979–1986,'1-1-2-1-5-2-3-4-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Lewis W. Lehr,'1-1-2-1-5-2-3-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1986–1991,'1-1-2-1-5-2-3-5-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Allen F. Jacobson,'1-1-2-1-5-2-3-5-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1991–2001,'1-1-2-1-5-2-3-6-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'L. D. DeSimone,'1-1-2-1-5-2-3-6-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2001–2005,'1-1-2-1-5-2-3-7-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'W. James McNerney, Jr.",'1-1-2-1-5-2-3-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2005,'1-1-2-1-5-2-3-8-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Robert S. Morrison (interim),'1-1-2-1-5-2-3-8-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2005–2012,'1-1-2-1-5-2-3-9-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'George W. Buckley,'1-1-2-1-5-2-3-9-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2012–present,'1-1-2-1-5-2-3-10-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Inge G. Thulin,'1-1-2-1-5-2-3-10-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1949–1966,'1-1-2-1-5-2-4-1-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'William L. McKnight,'1-1-2-1-5-2-4-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1966–1970,'1-1-2-1-5-2-4-2-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Bert S. Cross,'1-1-2-1-5-2-4-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1970–1975,'1-1-2-1-5-2-4-3-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Harry Heltzer,'1-1-2-1-5-2-4-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1975–1980,'1-1-2-1-5-2-4-4-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Raymond H. Herzog,'1-1-2-1-5-2-4-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1980–1986,'1-1-2-1-5-2-4-5-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Lewis W. Lehr,'1-1-2-1-5-2-4-5-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1986–1991,'1-1-2-1-5-2-4-6-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Allen F. Jacobson,'1-1-2-1-5-2-4-6-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'1991–2001,'1-1-2-1-5-2-4-7-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'L. D. DeSimone,'1-1-2-1-5-2-4-7-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2001–2005,'1-1-2-1-5-2-4-8-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'W. James McNerney, Jr.",'1-1-2-1-5-2-4-8-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2005–2012,'1-1-2-1-5-2-4-9-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'George W. Buckley,'1-1-2-1-5-2-4-9-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'2012–present,'1-1-2-1-5-2-4-10-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Inge G. Thulin,'1-1-2-1-5-2-4-10-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Minnesota portal,'1-1-2-1-6-1-1-1,0,0,0,1,1,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,N
-'Companies portal,'1-1-2-1-6-1-1-2,0,0,0,1,1,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,3,N
-'Oakdale Dump,'1-1-2-1-6-1-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
-'External links,'1-1-2-1-6-1-2-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Wikimedia Commons has media related to 3M.,'1-1-2-1-6-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'3M Worldwide,'1-1-2-1-6-2-2-1-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'Yahoo! – 3M Company Profile,'1-1-2-1-6-2-2-1-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,3,N
-'Google Local's satellite image of 3M head office campus,'1-1-2-1-6-2-2-1-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'3M Global Company Profile from Transnationale.org,'1-1-2-1-6-2-2-1-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,3,N
-'Minnesota Department of Health on the Oakdale Dump Superfund Site,'1-1-2-1-6-2-2-1-5,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,1,1,3,N
-'The historical records of the 3M Company are available for research use at the Minnesota Historical Society.,'1-1-2-1-6-2-2-2,1,1,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,1,0,0,0,3,N
-'Links to related articles,'1-1-2-2-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
-'3M Company,'1-1-2-2-2-1-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,3,C
-'Corporate directors,'1-1-2-2-2-1-2-1,0,0,0,2,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Linda G. Alvarado,'1-1-2-2-2-1-2-2-1,0,0,0,2,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Edward A. Brennan,'1-1-2-2-2-1-2-2-2-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Vance D. Coffman,'1-1-2-2-2-1-2-2-2-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Michael L. Eskew,'1-1-2-2-2-1-2-2-3,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Edward M. Liddy,'1-1-2-2-2-1-2-2-4,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,1,1,2,I
-'Robert S. Morrison,'1-1-2-2-2-1-2-2-5-1,0,1,0,2,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Aulana L. Peters,'1-1-2-2-2-1-2-2-5-2,0,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Rozanne L. Ridgway,'1-1-2-2-2-1-2-2-6,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Kevin W. Sharer,'1-1-2-2-2-1-2-2-7,0,0,0,2,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Louis W. Sullivan,'1-1-2-2-2-1-2-2-8,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Components of the Dow Jones Industrial Average,'1-1-2-2-2-2-1-1,0,0,0,2,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'3M,'1-1-2-2-2-2-1-2-1,0,0,0,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'American Express AT&T Boeing Caterpillar Chevron Cisco Systems The Coca-Cola Company DuPont ExxonMobil General Electric Goldman Sachs The Home Depot Intel IBM Johnson & Johnson JPMorgan Chase McDonald's Merck & Co. Microsoft Nike Pfizer Procter & Gamble Travelers UnitedHealth Group United Technologies Verizon Communications Visa Walmart The Walt Disney Company,'1-1-2-2-2-2-1-2-2,2,0,0,2,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Minnesota-based corporations,'1-1-2-2-2-2-2-1,0,0,0,2,1,2,1,0,2,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-"'Fortune 500 Corporations (by size)
-
-UnitedHealth Group
-Target
-Best Buy
-SuperValu
-CHS
-3M
-U.S. Bancorp
-Medtronic
-General Mills
-Xcel Energy
-Ameriprise Financial
-C. H. Robinson Worldwide
-Mosaic
-Hormel
-Thrivent Financial for Lutherans
-Ecolab
-St. Jude Medical
-Nash Finch",'1-1-2-2-2-2-2-2-1,1,1,0,2,1,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,C
-"'Other public companies
-
-Companies listed above, plus: Pentair
-Valspar
-Patterson Companies
-Securian Financial Group
-Regis
-Polaris Industries
-Toro
-Deluxe
-Donaldson
-Fastenal
-Federated Mutual Insurance Company
-MTS Systems Corporation",'1-1-2-2-2-2-2-2-2,1,1,0,2,1,2,1,1,2,2,1,1,0,1,0,0,0,0,1,0,0,0,1,C
-'Major non-public corporations (alphabetically),'1-1-2-2-2-2-2-2-3-1,0,0,0,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Andersen,'1-1-2-2-2-2-2-2-3-2-1,0,0,0,2,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-'Cargill,'1-1-2-2-2-2-2-2-3-2-2,0,0,0,2,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Carlson,'1-1-2-2-2-2-2-2-3-2-3,0,0,0,2,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Holiday Stationstores,'1-1-2-2-2-2-2-2-3-2-4-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Land O'Lakes,'1-1-2-2-2-2-2-2-3-2-4-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Schwan Food Company,'1-1-2-2-2-2-2-2-3-2-5,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
-'Securian Financial Group,'1-1-2-2-2-2-2-2-3-2-6,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I

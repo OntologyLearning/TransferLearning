@@ -1,0 +1,55 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'CALL FOR WORKSHOP PROPOSALS,'1-1-1-1,0,0,0,2,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'ACL HLT 2011 & EMNLP 2011,'1-1-1-2,0,0,0,2,1,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'The Association for Computational Linguistics (ACL) and the ACL Special Interest Group on Linguistic Data and Corpus-Based Approaches to NLP (SIGDAT) invite proposals for workshops to be held in conjunction with either the ACL HLT or EMNLP conferences in the summer of 2011. We solicit proposals on any topic of interest to the ACL and EMNLP communities. Workshops will be held at one of the following conference venues:,'1-1-2-1,2,0,0,1,0,2,0,2,0,2,1,1,0,0,0,0,0,0,0,0,0,1,1,1,C
+"'ACL HLT 2011 is the 49th Annual meeting of the Association for Computational Linguistics. It will be held in Portland, Oregon, June 19-24, 2011. The dates for the ACL HLT workshops will be June 23-24. The webpage for ACL HLT 2011 is: http://www.acl2011.org/.",'1-1-2-2-1,2,1,0,1,0,2,1,1,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,I
+"'EMNLP 2011 is the conference organized by SIGDAT. It will be held in Edinburgh, Scotland, July 27-31, 2011. The EMNLP workshops will be held July 30-31.",'1-1-2-2-2,1,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,2,I
+'jointly,'1-1-2-3,0,0,0,1,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'SUBMISSION INFORMATION,'1-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,1,0,0,0,1,0,0,3,C
+"'Similar to 2010, the submission and reviewing of workshop proposals for ACL HLT and EMNLP will be coordinated.",'1-2-2-1,1,0,0,1,0,2,0,0,1,2,1,1,1,0,0,0,1,0,0,0,0,0,0,1,N
+'Proposals for workshops should contain:,'1-2-2-2,0,0,0,1,0,2,0,2,1,2,1,1,0,1,0,0,0,0,0,0,0,1,1,3,C
+'A title and brief (2-page max) description of the workshop topic and content.,'1-2-2-3-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'The desired workshop length (one or two days), and an estimate of the number of attendees.",'1-2-2-3-2,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'The names, postal addresses, phone numbers, and email addresses of the organizers, with one-paragraph statements of their research interests and areas of expertise.",'1-2-2-3-3,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'A list of potential members of the program committee, with an indication of which members have already agreed.",'1-2-2-3-4,1,1,0,1,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'A description of any shared tasks associated with the workshop.,'1-2-2-3-5,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'A description of special requirements for technical needs.,'1-2-2-3-6,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'A note specifying which venue(s) (ACL HLT versus EMNLP) would be acceptable to you; if both are acceptable, you may express preference for one or the other.",'1-2-2-3-7,1,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'There will be a single workshop committee, coordinated by the two sets of workshop chairs. This single committee will review the quality of the workshop proposals. Once the reviews are complete, the workshop chairs will work together to assign workshops to each of the two conferences, taking into account the location preferences given by the proposers.",'1-2-2-4-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,2,N
+'http://www.cis.udel.edu/~carberry/ACL/Workshops/workshop-support-general-policy.html http://www.cis.udel.edu/~carberry/ACL/Workshops/workshop-conf-financial-policy.html http://www.cis.udel.edu/~carberry/ACL/Workshops/workshops-Sig-financial-policy.html,'1-2-2-4-2,0,0,0,1,0,0,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'Please submit proposals in plain text in the body of an email to the workshop organizers no later than November 15, 2010, 23:59:59 UTC/GMT (which is 18:59:59 EST, 15:59:59 PST, and 08:59:59 JST on Nov 16).",'1-2-2-4-3,2,0,0,1,1,0,1,1,1,2,1,0,0,1,0,0,0,0,1,0,0,0,0,3,N
+"'Notification of acceptance of workshop proposals will occur no later than December 5, 2010. Since the two conferences will occur at different times, the timescales for the submission and reviewing of workshop papers, and the preparation of camera-ready copies, will be different for each conference. Suggested timescales for each of the conferences are given below. Workshop organizers should not deviate from this schedule unless absolutely necessary.",'1-2-2-5,2,0,0,1,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,N
+'TIMELINES FOR 2011 WORKSHOPS,'1-3-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'SHARED DATES,'1-3-2-1-1,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+"'Nov 15, 2010*",'1-3-2-1-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Workshop proposal deadline,'1-3-2-1-2-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+"'Dec 05, 2010",'1-3-2-1-3-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,2,I
+'Notification of acceptance,'1-3-2-1-3-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+'ACL HLT 2011,'1-3-2-1-4,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+"'Dec 18, 2010",'1-3-2-1-5-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Proposed workshop CFP,'1-3-2-1-5-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Mar 18, 2011",'1-3-2-1-6-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Proposed paper due date,'1-3-2-1-6-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'Apr 15, 2011",'1-3-2-1-7-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Proposed notification of acceptance,'1-3-2-1-7-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'Apr 22, 2011",'1-3-2-1-8-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Camera-ready deadline,'1-3-2-1-8-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'Jun 23-24, 2011",'1-3-2-1-9-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Workshops,'1-3-2-1-9-2,0,0,0,1,0,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'EMNLP 2011,'1-3-2-1-10,0,0,0,1,1,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+"'Jan 22, 2011",'1-3-2-1-11-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Proposed workshop CFP,'1-3-2-1-11-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Apr 22, 2011",'1-3-2-1-12-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Proposed paper due date,'1-3-2-1-12-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'May 20, 2011",'1-3-2-1-13-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Proposed notification of acceptance,'1-3-2-1-13-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,2,C
+"'Jun 03, 2011",'1-3-2-1-14-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Camera-ready deadline,'1-3-2-1-14-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'Jul 30-31, 2011",'1-3-2-1-15-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,I
+'Workshops,'1-3-2-1-15-2,0,0,0,1,0,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'* Deadline is 23:59:59 UTC/GMT for workshop proposals (18:59:59 EST, 15:59:59 PST, and 08:59:59 JST on Nov 16). We suggest that workshop organizers adopt the same time deadlines for their individual workshops.",'1-3-2-2,2,0,0,1,0,2,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,N
+'WORKSHOP CO-CHAIRS,'1-4-1,0,0,1,2,1,2,0,0,2,1,0,1,0,0,1,0,0,0,0,0,1,1,1,3,C
+"'Marie Candito, EMNLP; Université Paris Diderot, Alpage",'1-4-2-1-1,0,1,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'John Carroll, ACL HLT; University of Sussex",'1-4-2-1-2,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Hal Daumé III, ACL HLT; University of Maryland, College Park",'1-4-2-1-3,1,1,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'For inquiries, send email to the workshop organizers.",'1-4-2-2,0,0,0,1,0,0,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N

@@ -1,0 +1,86 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Phil Blunsom,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Phil Blunsom,'1-2-1-2-1-1-1-2-1,0,0,0,1,0,2,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'University Lecturer,'1-2-1-2-1-1-1-2-2-1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'EPSRC Early Career Fellow,'1-2-1-2-1-1-1-2-2-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Tutorial Fellow, St Hugh's College",'1-2-1-2-1-1-1-2-3,0,0,0,1,0,2,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Interests,'1-2-1-2-1-1-2-1-1-1,0,0,1,2,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'My research interests lie at the intersection of machine learning and computational linguistics. I apply machine learning techniques, such as graphical models, to a range of problems relating to the understanding, learning and manipulation of language. Recently I have focused on structural induction problems such as grammar induction and learning statistical machine translation models.",'1-2-1-2-1-1-2-1-1-2,2,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Biography,'1-2-1-2-1-1-2-1-2-1,0,0,1,2,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Previously I was a Research Fellow in the School of Informatics at the University of Edinburgh, and part of the Machine Translation research group. There I worked on the application of machine learning techniques to machine translation with Miles Osborne. Before that I completed my PhD at the University of Melbourne, Australia, under the supervision of Timothy Baldwin, Steven Bird and James Curran.",'1-2-1-2-1-1-2-1-2-2,2,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Links,'1-2-1-2-1-1-2-1-3-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Google Scholar Profile,'1-2-1-2-1-1-2-1-3-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Computational Linguistics Group,'1-2-1-2-1-1-2-1-3-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Selected Publications,'1-2-1-2-1-1-2-1-4-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'View all,'1-2-1-2-1-1-2-1-4-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-1-2-1-4-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Recurrent Continuous Translation Models,'1-2-1-2-1-1-2-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Nal Kalchbrenner and Phil Blunsom,'1-2-1-2-1-1-2-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Seattle. October, 2013. Association for Computational Linguistics.",'1-2-1-2-1-1-2-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+'Details | BibTeX,'1-2-1-2-1-1-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Adaptor Grammars for Learning Non−Concatenative Morphology,'1-2-1-2-1-1-2-3-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Jan A. Botha and Phil Blunsom,'1-2-1-2-1-1-2-3-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+"'In Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing. Pages 345−356. Seattle‚ Washington‚ USA. October, 2013. Association for Computational Linguistics.",'1-2-1-2-1-1-2-3-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | Download (pdf),'1-2-1-2-1-1-2-3-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'The Role of Syntax in Vector Space Models of Compositional Semantics,'1-2-1-2-1-1-2-4-1,1,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Karl Moritz Hermann and Phil Blunsom,'1-2-1-2-1-1-2-4-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Pages 894–904. Sofia‚ Bulgaria. August, 2013. Association for Computational Linguistics.",'1-2-1-2-1-1-2-4-3,1,0,0,1,0,2,0,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | Download (pdf),'1-2-1-2-1-1-2-4-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Info,'1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Information Systems,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Computational Linguistics  | Machine Learning,'1-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Current Students,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Paul Baltescu,'1-2-1-2-1-2-2-3-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Jan Botha,'1-2-1-2-1-2-2-3-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,0,2,I
+'Jan Buys,'1-2-1-2-1-2-2-3-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,0,2,I
+'Gregory Dubbin,'1-2-1-2-1-2-2-3-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Karl Moritz Hermann,'1-2-1-2-1-2-2-3-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Nal Kalchbrenner,'1-2-1-2-1-2-2-3-2-6-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tomas Kocisky,'1-2-1-2-1-2-2-3-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Julie Makelberge,'1-2-1-2-1-2-2-3-2-8,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Yishu Miao,'1-2-1-2-1-2-2-3-2-9-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Pengyu Wang,'1-2-1-2-1-2-2-3-2-10-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Alex Wilson,'1-2-1-2-1-2-2-3-2-11-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'In This Section,'1-2-2-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Google Scholar Profile,'1-2-2-2-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Computational Linguistics Group,'1-2-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-3-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-3-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-3-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-3-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-3-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-3-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-3-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-3-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-3-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-3-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-3-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-3-1-3-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-3-1-3-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-3-1-3-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-3-1-4,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Seminars & timetables,'1-2-2-3-1-5-1,0,0,0,1,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Seminars & timetables,'1-2-2-3-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-3-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-3-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-3-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-3-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-3-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-3-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-3-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-3-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

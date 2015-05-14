@@ -1,444 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'Bayer,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-"'This article is about the chemical and pharmaceutical company. For other uses, see Bayer (disambiguation).",'1-1-2-1-1-1,1,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,N
-'Not to be confused with Beyer (disambiguation).,'1-1-2-1-1-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Bayer AG,'1-1-2-1-2-1-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
-'Type,'1-1-2-1-2-1-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'Aktiengesellschaft,'1-1-2-1-2-1-3-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Traded as,'1-1-2-1-2-1-4-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'FWB: BAYN,'1-1-2-1-2-1-4-2,0,0,0,1,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Industry,'1-1-2-1-2-1-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Pharmaceuticals, chemicals",'1-1-2-1-2-1-5-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Founded,'1-1-2-1-2-1-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'August 1, 1863",'1-1-2-1-2-1-6-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,I
-'Founder(s),'1-1-2-1-2-1-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Friedrich Bayer, Johann Friedrich Weskott",'1-1-2-1-2-1-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-1-2-1-8-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Leverkusen, Germany",'1-1-2-1-2-1-8-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
-'Key people,'1-1-2-1-2-1-9-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Marijn Dekkers (CEO), Werner Wenning (Chairman of the supervisory board)",'1-1-2-1-2-1-9-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,I
-'Products,'1-1-2-1-2-1-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Veterinary drugs, diagnostic imaging, general and specialty medicines, women's health products, over-the-counter drugs, diabetes care, pesticides, plant biotechnology, polymers, coatings, adhesives",'1-1-2-1-2-1-10-2,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Revenue,'1-1-2-1-2-1-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€39.76 billion (2012),'1-1-2-1-2-1-11-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operating income,'1-1-2-1-2-1-12-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€3.960 billion (2012),'1-1-2-1-2-1-12-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Profit,'1-1-2-1-2-1-13-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€2.446 billion (2012),'1-1-2-1-2-1-13-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total assets,'1-1-2-1-2-1-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'€51.34 billion (end 2012),'1-1-2-1-2-1-14-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total equity,'1-1-2-1-2-1-15-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€18.57 billion (end 2012),'1-1-2-1-2-1-15-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-1-2-1-16-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'110,500 (FTE, 2012)",'1-1-2-1-2-1-16-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Subsidiaries,'1-1-2-1-2-1-17-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Bayer MaterialScience, Bayer USA, Bayer Schering Pharma, Bayer HealthCare Pharmaceuticals, Bayer CropScience",'1-1-2-1-2-1-17-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Website,'1-1-2-1-2-1-18-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'www.bayer.com,'1-1-2-1-2-1-18-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Bayer AG,'1-1-2-1-2-2-1-1-1-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,N
-'/ˈbaɪər/,'1-1-2-1-2-2-1-1-1-2-1,0,0,0,1,0,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
-'German pronunciation: [ˈbaɪ̯ɐ] German chemical pharmaceutical company Barmen Wuppertal Leverkusen North Rhine-Westphalia aspirin heroin,'1-1-2-1-2-2-1-1-1-2-2,1,0,0,1,0,2,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Contents,'1-1-2-1-2-2-1-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'1 History,'1-1-2-1-2-2-1-1-2-1-2-1-1,0,0,0,1,0,1,1,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,1,I
-'1.1 Logo,'1-1-2-1-2-2-1-1-2-1-2-1-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'2 Operations 2.1 Locations
-2.2 Subgroups and service companies 2.2.1 Bayer CropScience
-2.2.2 Bayer Bioscience
-2.2.3 Bayer HealthCare 2.2.3.1 Bayer Pharma
-2.2.3.2 Bayer Consumer Care
-2.2.3.3 Bayer Animal Health
-2.2.3.4 Bayer Diabetes Care
-
-2.2.4 Bayer Material Science
-2.2.5 Bayer Business Services
-2.2.6 Bayer Technology Services
-2.2.7 Currenta",'1-1-2-1-2-2-1-1-2-1-2-2-1,2,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'3 Bayer 04 Leverkusen,'1-1-2-1-2-2-1-1-2-1-2-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'4 Controversies 4.1 Aspirin discoverer
-4.2 Nazi chairman
-4.3 HIV infected blood products
-4.4 Baycol
-4.5 Medicaid reimbursement
-4.6 Methyl parathion poisoning case
-4.7 Liberty Link rice
-4.8 2006 Trasylol safety advisory
-4.9 Prostate cancer claims
-4.10 Yasmin / Yaz birth control pills
-4.11 Neonicotinoid pesticides 4.11.1 Clothianidin
-4.11.2 Imidacloprid
-
-4.12 Nexavar claims",'1-1-2-1-2-2-1-1-2-1-2-3,2,0,0,1,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'5 Chemical accidents,'1-1-2-1-2-2-1-1-2-1-2-4,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'6 Awards and recognition,'1-1-2-1-2-2-1-1-2-1-2-5,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'7 See also,'1-1-2-1-2-2-1-1-2-1-2-6,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'8 References,'1-1-2-1-2-2-1-1-2-1-2-7,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'9 Further reading,'1-1-2-1-2-2-1-1-2-1-2-8,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'10 External links,'1-1-2-1-2-2-1-1-2-1-2-9,0,0,0,1,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-1-2-2-1-1-2-2-1-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'Bayer AG was founded in Barmen (today a part of Wuppertal), Germany in 1863 by Friedrich Bayer and his partner, Johann Friedrich Weskott.",'1-1-2-1-2-2-1-1-2-2-1-2-1,1,0,0,1,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-"'Bayer's first major product was acetylsalicylic acid (originally discovered by French chemist Charles Frederic Gerhardt in 1853), a modification of salicylic acid or salicin, a folk remedy found in the bark of the willow plant. By 1899, Bayer's trademark Aspirin was registered worldwide for Bayer's brand of acetylsalicylic acid, but because of the confiscation of Bayer's US assets and trademarks during World War I by the United States – and the subsequent widespread usage of the word to describe all brands of the compound —, ""Aspirin"" lost its trademark status in the United States, France, and the United Kingdom. It is now widely used in the US, UK, and France for all brands of the drug. However in over 80 other countries, such as Canada, Mexico, Germany, and Switzerland, it is still a registered trademark of Bayer.",'1-1-2-1-2-2-1-1-2-2-1-2-2,2,0,0,1,0,2,1,0,0,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-"'In 1904, the Bayer company introduced the Bayer cross as its corporate logo. Because Bayer's aspirin was sold through pharmacists and doctors only, and the company could not put its own packaging on the drug, the Bayer cross was imprinted on the actual tablets, so that customers would associate Bayer with its aspirin.",'1-1-2-1-2-2-1-1-2-2-1-2-3,2,0,0,1,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'As part of the reparations after World War I, Bayer assets, including the rights to its name and trademarks, were confiscated in the United States, Canada, and several other countries. In the United States and Canada, Bayer's assets and trademarks were acquired by Sterling Drug, a predecessor of Sterling Winthrop.",'1-1-2-1-2-2-1-1-2-2-1-2-4,2,0,0,1,0,2,1,0,0,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-"'The Bayer company then became part of IG Farben, a German chemical company conglomerate. During World War II, the IG Farben used slave labor in factories attached to large slave labor camps, notably I.G. Auschwitz, and the sub-camps of the Mauthausen-Gusen concentration camp. IG Farben owned 42.5% of the company that manufactured Zyklon B, a chemical used in the gas chambers of Auschwitz and other extermination camps. After World War II, the Allies broke up IG Farben and Bayer reappeared as an individual business. The Bayer executive Fritz ter Meer, sentenced to seven years in prison during the IG Farben Military Tribunal at Nuremberg, was made head of the supervisory board of Bayer in 1956, after his release.",'1-1-2-1-2-2-1-1-2-2-1-2-5,2,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 1978, Bayer purchased Miles Laboratories and its subsidiaries Miles Canada and Cutter Laboratories (along with a product line including Alka-Seltzer, Flintstones vitamins and One-A-Day vitamins, and Cutter insect repellent). In 1994, Bayer AG purchased Sterling Winthrop's over-the-counter drug business from SmithKline Beecham and merged it with Miles Laboratories, thereby reacquiring the U.S. and Canadian trademark rights to ""Bayer"" and the Bayer cross, as well as the ownership of the Aspirin trademark in Canada.",'1-1-2-1-2-2-1-1-2-2-1-2-6,2,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'On 2 November 2010, Bayer AG signed an agreement to buy Auckland-based animal health company Bomac Group.",'1-1-2-1-2-2-1-1-2-2-1-2-7,1,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'Bayer has discovered, among others:",'1-1-2-1-2-2-1-1-2-2-1-2-8,0,0,0,1,0,2,0,2,1,2,1,1,0,1,0,0,0,0,0,0,1,1,2,C
-"'Aspirin, an analgesic, antipyretic, and anticoagulant medicine, arguably was the most commercially successful drug ever.",'1-1-2-1-2-2-1-1-2-2-1-2-9-1,1,1,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Heroin (diacetylmorphine), a now illegal addictive drug, was originally sold as a cough treatment. Heroin was a Bayer trademark, until World War I.",'1-1-2-1-2-2-1-1-2-2-1-2-9-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Prontosil, the first sulfonamide.",'1-1-2-1-2-2-1-1-2-2-1-2-9-3,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Ciprofloxacin, an antibiotic used to treat anthrax and urinary tract infections.",'1-1-2-1-2-2-1-1-2-2-1-2-9-4,1,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Levitra, a treatment for erectile dysfunction.",'1-1-2-1-2-2-1-1-2-2-1-2-9-5,0,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Polyurethane, a very versatile polymer used for a wide variety of applications",'1-1-2-1-2-2-1-1-2-2-1-2-9-6,1,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Polycarbonate, a thermoplastic used in electronics, data storage, and construction (Makrolon).",'1-1-2-1-2-2-1-1-2-2-1-2-9-7,1,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-'Suramin,'1-1-2-1-2-2-1-1-2-2-1-2-9-8,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
-"'Parathion, insecticide",'1-1-2-1-2-2-1-1-2-2-1-2-9-9,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Propoxur, insecticide",'1-1-2-1-2-2-1-1-2-2-1-2-9-10,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Primodos, hormone pregnancy testing",'1-1-2-1-2-2-1-1-2-2-1-2-9-11,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Logo,'1-1-2-1-2-2-1-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'The company's corporate logo, the Bayer cross, was introduced in 1904. It consists of the horizontal word ""BAYER"" crossed with the vertical word ""BAYER"", both words sharing the ""Y"", and enclosed in a circle. An illuminated version of the logo lights up the skyline of Leverkusen, where Bayer is headquartered. Installed in 1958, this is the largest illuminated advertisement in the world.",'1-1-2-1-2-2-1-1-2-2-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operations,'1-1-2-1-2-2-1-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'To separate operational and strategic managements, Bayer AG was reorganized into a holding company in December 2003. The group's core businesses were transformed into limited companies, each controlled by Bayer AG. These companies are: Bayer CropScience AG; Bayer HealthCare AG; Bayer MaterialScience AG and Bayer Chemicals AG, and the three service limited companies Bayer Technology Services GmbH, Bayer Business Services GmbH and Bayer Industry Services GmbH & Co. OHG. Bayer AG shares are listed on the Frankfurt Stock Exchange, the London Stock Exchange and previously on the New York Stock Exchange.",'1-1-2-1-2-2-1-1-2-2-3-2-1,2,0,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
-"'Following the reorganization, its chemicals activities (with the exception of H.C. Starck and Wolff Walsrode) were combined with certain components of the polymers segment to form the new company Lanxess on 1 July 2004. Lanxess was listed on the Frankfurt Stock Exchange in early 2005. Bayer HealthCare's Diagnostics Division was acquired by Siemens Medical Solutions in January 2007.",'1-1-2-1-2-2-1-1-2-2-3-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2004, Bayer HealthCare AG acquired the over-the-counter (OTC) Pharmaceutical Division of Roche Pharmaceuticals.",'1-1-2-1-2-2-1-1-2-2-3-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On 13 March 2006, Merck KGaA announced a €14.6bn bid for Schering AG. Merck's takeover bid was surpassed by Bayer's $19.5bn bid on 23 March 2006.",'1-1-2-1-2-2-1-1-2-2-3-2-4,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-"'On 11 March 2008, Bayer HealthCare announced an agreement to acquire the portfolio and OTC division of privately owned Sagmel, Inc., a US-based company that markets OTC medications in most of the Commonwealth of Independent States countries such as Russia, Ukraine, Kazakhstan, Belarus, and others.",'1-1-2-1-2-2-1-1-2-2-3-2-5,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Locations,'1-1-2-1-2-2-1-1-2-2-4-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-"'Germany – headquarters of the holding company, as well as the subsidiary companies Bayer CropScience, Bayer MaterialScience and Bayer HealthCare",'1-1-2-1-2-2-1-1-2-2-4-2-1,1,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
-'Belgium – including production facilities for Makrolon and polyurethanes (in Antwerp),'1-1-2-1-2-2-1-1-2-2-4-2-2,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
-'Canada – Toronto headquarters and offices in Montreal and Calgary,'1-1-2-1-2-2-1-1-2-2-4-2-3,1,1,0,1,0,2,0,0,1,2,1,0,1,1,1,1,0,0,0,0,0,0,2,I
-'Finland – Nordic Headquarters in Espoo including one of the largest Bayern research facilities and production facility in Turku,'1-1-2-1-2-2-1-1-2-2-4-2-4,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'France – including European headquarters of Bayer CropScience (in Lyon),'1-1-2-1-2-2-1-1-2-2-4-2-5,1,1,0,1,0,2,0,0,1,2,1,0,1,1,1,1,0,0,0,0,0,0,2,I
-"'Indonesia – including production of Canesten, Autan and Baygon",'1-1-2-1-2-2-1-1-2-2-4-2-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Italy – including five production facilities,'1-1-2-1-2-2-1-1-2-2-4-2-7,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
-"'The Netherlands – including eight facilities and subsidiaries with 600 employees in three different sectors; Marketing and Sales, Production and Research.",'1-1-2-1-2-2-1-1-2-2-4-2-8,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'United States – Bayer USA (Bayer Corporation) operates a suburban Pittsburgh regional corporate headquarters and research center,'1-1-2-1-2-2-1-1-2-2-4-2-9,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-'United Kingdom – Newbury Berkshire,'1-1-2-1-2-2-1-1-2-2-4-2-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-'Spain - Asturias produce the acetylsalicylic acid.,'1-1-2-1-2-2-1-1-2-2-4-2-11,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,2,I
-'Werner Wenning (Chairman of the Board of Management until October 2010),'1-1-2-1-2-2-1-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,1,1,0,0,1,1,2,I
-'Australia,'1-1-2-1-2-2-2-1-1,0,1,0,1,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,2,I
-'Argentina,'1-1-2-1-2-2-2-1-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Aruba,'1-1-2-1-2-2-2-1-3,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bahamas,'1-1-2-1-2-2-2-1-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Barbados,'1-1-2-1-2-2-2-1-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bolivia,'1-1-2-1-2-2-2-1-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Brazil,'1-1-2-1-2-2-2-1-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Cambodia,'1-1-2-1-2-2-2-1-8,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Chile,'1-1-2-1-2-2-2-1-9,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,2,I
-'China,'1-1-2-1-2-2-2-1-10,0,1,0,1,0,1,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Colombia,'1-1-2-1-2-2-2-1-11,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Costa Rica,'1-1-2-1-2-2-2-1-12,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Cuba,'1-1-2-1-2-2-2-1-13,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Curaçao,'1-1-2-1-2-2-2-1-14,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Dominican Republic,'1-1-2-1-2-2-2-1-15,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Ecuador,'1-1-2-1-2-2-2-1-16,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'El Salvador,'1-1-2-1-2-2-2-1-17,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Finland,'1-1-2-1-2-2-2-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,2,I
-'Guatemala,'1-1-2-1-2-2-2-2-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Honduras,'1-1-2-1-2-2-2-2-3,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Hong Kong SAR,'1-1-2-1-2-2-2-2-4,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-'Hungary,'1-1-2-1-2-2-2-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'India,'1-1-2-1-2-2-2-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Israel,'1-1-2-1-2-2-2-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Jamaica,'1-1-2-1-2-2-2-2-8,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,2,I
-'Japan,'1-1-2-1-2-2-2-2-9,0,1,0,1,0,1,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Jordan,'1-1-2-1-2-2-2-2-10,0,1,0,1,0,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Kazakhstan,'1-1-2-1-2-2-2-2-11,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Laos,'1-1-2-1-2-2-2-2-12,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Mexico,'1-1-2-1-2-2-2-2-13,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Myanmar,'1-1-2-1-2-2-2-2-14,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'New Zealand,'1-1-2-1-2-2-2-2-15,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Nicaragua,'1-1-2-1-2-2-2-2-16,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Pakistan,'1-1-2-1-2-2-2-2-17,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Paraguay,'1-1-2-1-2-2-2-2-18,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Peru,'1-1-2-1-2-2-2-2-19,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Philippines,'1-1-2-1-2-2-2-2-20,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Panama,'1-1-2-1-2-2-2-3-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Poland,'1-1-2-1-2-2-2-3-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Serbia,'1-1-2-1-2-2-2-3-3,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Singapore,'1-1-2-1-2-2-2-3-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,1,1,2,I
-'South Africa,'1-1-2-1-2-2-2-3-5,0,1,0,1,0,2,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'South Korea,'1-1-2-1-2-2-2-3-6,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Switzerland,'1-1-2-1-2-2-2-3-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Taiwan,'1-1-2-1-2-2-2-3-8,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Thailand,'1-1-2-1-2-2-2-3-9,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Trinidad and Tobago,'1-1-2-1-2-2-2-3-10,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Turkey,'1-1-2-1-2-2-2-3-11,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,1,1,2,I
-'United Kingdom,'1-1-2-1-2-2-2-3-12,0,1,0,1,0,2,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Uruguay,'1-1-2-1-2-2-2-3-13,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Venezuela,'1-1-2-1-2-2-2-3-14,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Vietnam,'1-1-2-1-2-2-2-3-15,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'Bayer factory in Leverkusen, Germany",'1-1-2-1-2-2-3-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,2,I
-'Subgroups and service companies,'1-1-2-1-2-2-4-1-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,C
-"'Bayer AG comprises three subgroups and three services companies. The subgroups and service companies operate independently, led by the management holding company.",'1-1-2-1-2-2-4-1-1-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Bayer CropScience,'1-1-2-1-2-2-4-1-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Bayer CropScience has products in crop protection and nonagricultural pest control. It also has activities in seeds and plant traits.,'1-1-2-1-2-2-4-1-2-2-1,1,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In 2002, Bayer AG acquired Aventis (now part of Sanofi) CropScience and fused it with their own agrochemicals division (Bayer Pflanzenschutz or ""Crop Protection"") to form Bayer CropScience. The company is now one of the world's leading innovative crop science companies in the areas of crop protection (i.e. pesticides), nonagricultural pest control, seeds and plant biotechnology. In addition to conventional agrochemical business, it is involved in genetic engineering of food. The Belgian biotech company Plant Genetic Systems became part of the company by the acquisition of Aventis CropScience.",'1-1-2-1-2-2-4-1-2-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bayer Bioscience is a research center which is a component of Bayer CropScience.,'1-1-2-1-2-2-4-1-2-2-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Also in 2002, Bayer AG acquired the Dutch seed company Nunhems.",'1-1-2-1-2-2-4-1-2-2-4,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'In 2006, the U.S. Department of Agriculture announced that Bayer CropScience's LibertyLink genetically modified rice had contaminated the U.S. rice supply. Shortly after the public learned of the contamination, the E.U. banned imports of U.S. long-grain rice and the futures price plunged. In April 2010, a Lonoke County, Arkansas jury awarded a dozen farmers $48 million. The case is currently on appeal to the Arkansas Supreme Court. On 1 July 2011 Bayer CropScience agreed to a global settlement for up to $750 million. In a statement to the media Bayer said: ""Although Bayer CropScience believes it acted responsibly in the handling of its biotech rice, the company considers it important to resolve the litigation so that it can move forward focused on its fundamental mission of providing innovative solutions to modern agriculture.""",'1-1-2-1-2-2-4-1-2-2-5,2,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bayer CropScience is involved in a joint project with Archer Daniels Midland Company and Daimler AG to develop jatropha as a biofuel.,'1-1-2-1-2-2-4-1-2-2-6,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Bayer Bioscience,'1-1-2-1-2-2-4-1-3-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Bayer BioScience, headquartered in Hyderabad, India has about 400 employees, and has research, production and an extensive sales network spread across India.",'1-1-2-1-2-2-4-1-3-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
-'Bayer HealthCare,'1-1-2-1-2-2-4-1-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Bayer HealthCare is Bayer's pharmaceutical and medical products subgroup. It is involved in the research, development, manufacture and marketing of products that aim to improve the health of people and animals. Bayer HealthCare comprises a further four subdivisions: Bayer Schering Pharma, Bayer Consumer Care, Bayer Animal Health and Bayer Medical Care.",'1-1-2-1-2-2-4-1-4-2,2,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Bayer Pharma,'1-1-2-1-2-2-4-1-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'In 2007, Bayer took over Schering AG and formed Bayer Schering Pharma. The acquisition of Schering was the largest take-over in Bayer's history. The name was changed to Bayer Pharma in 2011.",'1-1-2-1-2-2-4-1-5-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Bayer Healthcare Pharmaceuticals is divided into two business units – General Medicine and Specialty Medicine.,'1-1-2-1-2-2-4-1-5-2-2,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Women's healthcare is an example of a General Medicine business unit. Bayer Pharma produces the birth control pills Yaz and Yasmin. Both pills use a newer type of progesterone hormone called drospirenone in combination with estrogen. Yaz is advertised as a treatment for premenstrual dysphoric disorder (PMDD) and moderate acne. Other key products include the cancer drug Nexavar, the multiple sclerosis drug betaferon/betaseron and the blood-clotting drug, Kogenate.",'1-1-2-1-2-2-4-1-5-2-3,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'An example of a Specialty Medicine Business Unit is Diagnostic Imaging. Contrast agents from this unit helps play a crucial role in precise and early diagnosis and the selection of optimal treatment. Diagnostic imaging techniques such as computed tomography (CT), magnetic resonance imaging (MRI) and ultrasound are used to make tissues and organs visible in their natural position inside the body along with contrast. Work is also focused on the development of tracers for positron emission tomography (PET). The PET tracer florbetaben F18 in Bayer's pipeline makes it possible to recognize beta amyloid, one of the pathological hallmarks of Alzheimer's disease, with high accuracy very early on and while the patient is still alive.",'1-1-2-1-2-2-4-1-5-2-4,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Bayer Consumer Care,'1-1-2-1-2-2-4-1-6-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Bayer Consumer Care manages Bayer's OTC medicines portfolio. Key products include analgesics such as Bayer Aspirin and Aleve, food supplements Redoxon and Berocca, and skincare products Bepanthen and Bepanthol.",'1-1-2-1-2-2-4-1-6-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Bayer Animal Health,'1-1-2-1-2-2-4-1-7-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Bayer HealthCare's Animal Health Division is the maker of Advantage Multi (imidacloprid + moxidectin) Topical Solution for dogs and cats, Advantage flea control for cats and dogs and K9 Advantix, a flea, tick, and mosquito control product for dogs. Advantage Multi, K9 Advantix and Advantage are trademarks of Bayer. The division specializes in parasite control and prescription pharmaceuticals for dogs, cats, horses, and cattle. North American operation for the Animal Health Division are headquartered in Shawnee, Kansas. Bayer Animal Health is a division of Bayer HealthCare LLC, one of the world's leading healthcare companies.",'1-1-2-1-2-2-4-1-7-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Bayer Diabetes Care,'1-1-2-1-2-2-4-1-8-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Bayer Diabetes Care manages Bayer's medical devices portfolio. Key products include the blood glucose monitors Contour Next EZ (XT), Contour, Contour USB and Breeze 2 used in the management of diabetes.",'1-1-2-1-2-2-4-1-8-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Bayer Material Science,'1-1-2-1-2-2-4-1-9-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Bayer MaterialScience is a supplier of high-tech ­polymers, and develops solutions for a broad range of applications relevant to everyday life.",'1-1-2-1-2-2-4-1-9-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Bayer Business Services,'1-1-2-1-2-2-4-1-10-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,C
-"'Located at the Bayer USA Headquarters in Robinson Township, Pennsylvania, a suburb of Pittsburgh, Bayer Business Services handles the information technology infrastructure and technical support aspect of Bayer USA and Bayer Canada. This is also the headquarters of the North American Service Desk, the central IT Help Desk for all of Bayer USA and Bayer Canada.",'1-1-2-1-2-2-4-1-10-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
-'Bayer Technology Services,'1-1-2-1-2-2-4-1-11-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,C
-"'Bayer Technology Services is engaged in process development and in process and plant engineering, construction and optimization.",'1-1-2-1-2-2-4-1-11-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Currenta,'1-1-2-1-2-2-4-1-12-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Currenta offers services for the chemical industry, including utility supply, waste management, infrastructure, safety, security, analytics and vocational training.",'1-1-2-1-2-2-4-1-12-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Bayer 04 Leverkusen,'1-1-2-1-2-2-4-1-13-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Main article: Bayer 04 Leverkusen,'1-1-2-1-2-2-4-1-13-2-1,0,0,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In 1904, the company founded the sports club TuS 04 (""Turn- und Spielverein der Farbenfabriken vorm. Friedr. Bayer & Co.""), later SV Bayer 04 (""Sportvereinigung Bayer 04 Leverkusen""), finally becoming TSV Bayer 04 Leverkusen (""Turn- und Sportverein"") in 1984, generally, however, known simply as Bayer 04 Leverkusen. The club is best known for its football team, but has been involved in many other sports, including athletics, fencing, team handball, volleyball, boxing, and basketball. TSV Bayer 04 Leverkusen is one of the largest sports clubs in Germany. The company also supports similar clubs at other company sites, including Dormagen (particularly handball), Wuppertal (particularly volleyball), and Krefeld-Uerdingen (featuring another former Bundesliga football club, SC Bayer 05 Uerdingen, now KFC Uerdingen 05).",'1-1-2-1-2-2-4-1-13-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Controversies,'1-1-2-1-2-2-4-1-14-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Aspirin discoverer,'1-1-2-1-2-2-4-1-14-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-"'Arthur Eichengrün, a Bayer chemist, claimed to be the first to discover an aspirin formulation which did not have the unpleasant side effects of nausea and gastric pain. Eichengrün also claimed he invented the name aspirin and was the first person to use the new formulation to test its safety and efficacy. Bayer contends aspirin was discovered by Felix Hoffman to alleviate the sufferings of his father, who had arthritis. Various sources support the conflicting claims. Most mainstream historians attribute the invention of aspirin to Felix Hoffman and/or Arthur Eichengrün.",'1-1-2-1-2-2-4-1-14-2,2,0,0,1,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Nazi chairman,'1-1-2-1-2-2-4-1-15-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-"'In 1956 Fritz ter Meer became chairman of Bayer's supervisory board. He was convicted at the Nuremberg trials for his part in carrying out experiments on human subjects at Auschwitz. He was found ""guilty of count two, plunder and spoliation, and count three, slavery and mass murder"" and sentenced to seven years imprisonment and served five years.",'1-1-2-1-2-2-4-1-15-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'HIV infected blood products,'1-1-2-1-2-2-4-1-16-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,2,C
-'Main article: Contaminated haemophilia blood products,'1-1-2-1-2-2-4-1-16-2-1,0,0,0,1,0,2,1,1,1,2,1,0,1,0,1,0,0,0,0,0,0,0,1,I
-"'A cite from http://www.haemophilia-litigation.com/, access date 31 May 2006:",'1-1-2-1-2-2-4-1-16-2-2,0,0,0,1,0,2,1,2,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,C
-"'""After 1978, there were four major companies in the United States engaged in the manufacture, production and sale of Factor VIII and IX: Armour Pharmaceutical Company, Bayer Corporation and its Cutter Biological division, Baxter Healthcare and its Hyland Pharmaceutical division and Alpha Therapeutic Corporation, which have been or are defendants in certain lawsuits.",'1-1-2-1-2-2-4-1-16-2-3,2,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,1,I
-"'The plaintiffs allege that the companies manufactured and sold blood factor products as beneficial ""medicines"" that were, in fact of likely to be contaminated with HIV and/or HCV. This resulted in the mass infection and/or deaths of thousands of haemophiliacs worldwide.",'1-1-2-1-2-2-4-1-16-2-4,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Baycol,'1-1-2-1-2-2-4-1-17-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'After 52 deaths were blamed on an alleged side effect of Bayer's anticholesterol drug Baycol, its manufacture and sale were discontinued in 2001. The side effect was rhabdomyolysis, causing renal failure, which occurred with a tenfold greater frequency in patients treated with Baycol in comparison to those prescribed alternate medications of the statin class.",'1-1-2-1-2-2-4-1-17-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Medicaid reimbursement,'1-1-2-1-2-2-4-1-18-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'In January 2001, Bayer agreed to pay $14 million to the United States and 45 states to settle allegations under the federal False Claims Act that the company caused physicians and other health care providers to submit fraudulently inflated reimbursement claims to Medicaid.",'1-1-2-1-2-2-4-1-18-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Methyl parathion poisoning case,'1-1-2-1-2-2-4-1-19-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'In October 2001, Bayer was taken to court after 24 children in the remote Andean village of Tauccamarca, Peru were killed and 18 severely poisoned when they drank a powdered milk substitute contaminated with the insecticide methyl parathion. A Peruvian Congressional Subcommittee found significant evidence of criminal responsibility by Bayer and the Peruvian Ministry of Agriculture.",'1-1-2-1-2-2-4-1-19-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Liberty Link rice,'1-1-2-1-2-2-4-1-20-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'In August 2006, it became apparent that the United States rice crop had been contaminated with unapproved genetically engineered Bayer CropScience rice. The genetically engineered rice has an herbicide-resistance trait. These forms of rice are commonly referred to among US rice growers as ""Liberty Link rice 601"" or ""LL 601"". Approximately 100 varieties of rice are produced primarily in Arkansas, Texas, Louisiana, Mississippi, Missouri, and California.",'1-1-2-1-2-2-4-1-20-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'2006 Trasylol safety advisory,'1-1-2-1-2-2-4-1-21-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'In September 2006, Bayer was faulted by the FDA for not revealing during testimony the existence of a commissioned retrospective study of 67,000 patients, 30,000 of whom received Trasylol and the rest other antifibrinolytics. The study concluded Trasylol carried greater risks. The FDA was alerted to the study by one of the researchers involved. Although the FDA issued a statement of concern, they did not change their recommendation that the drug may benefit certain patients. In a Public Health Advisory Update dated 3 October 2006, the FDA recommended ""physicians consider limiting Trasylol use to those situations in which the clinical benefit of reduced blood loss is necessary to medical management and outweighs the potential risks"" and carefully monitor patients. The FDA took Trasylol off the market on 5 November 2007.",'1-1-2-1-2-2-4-1-21-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Prostate cancer claims,'1-1-2-1-2-2-4-1-22-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'In October 2009, the Center for Science in the Public Interest sued Bayer for ""falsely claiming that the selenium in Men's One-A-Day multivitamins might reduce the risk of prostate cancer.""",'1-1-2-1-2-2-4-1-22-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Yasmin / Yaz birth control pills,'1-1-2-1-2-2-4-1-23-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'The FDA has warned Bayer for misstating the benefits of Yasmin (also known as Yaz) while understating its risks. In 2011, the FDA's panel of experts voted 15 to 11 that the benefits of Yasmin and related oral contraceptives outweighed the risks, and voted 21-5 that the labeling on Yaz was inadequate and needed more information about the potential risk of blood clots in the legs and lungs. In April 2012, the FDA ordered Bayer to change its U.S. labeling to reference the increased risk for blood clots. Subsequently, a meta analysis suggested that birth control pills of the class Yasmin belongs to raise the risk of blood clots to a greater extent than some other classes of birth control pills.",'1-1-2-1-2-2-4-1-23-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Neonicotinoid pesticides,'1-1-2-1-2-2-4-1-24-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'The European Commission has restricted the use of both of Bayer's neonicotinoids. Bayer is challenging the restrictions.,'1-1-2-1-2-2-4-1-24-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
-'Clothianidin,'1-1-2-1-2-2-4-1-25-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'In December 2010, a leaked memo from the EPA's Environmental Fate and Effects Division asserted ""Clothianidin's (Bayer's neonicotinoid pesticide) major risk concern is to non-target insects (that is, honey bees). Exposure through contaminated pollen and nectar and potential toxic effects therefore remain an uncertainty for pollinators.""",'1-1-2-1-2-2-4-1-25-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Imidacloprid,'1-1-2-1-2-2-4-1-26-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Main article: Imidacloprid effects on bee population,'1-1-2-1-2-2-4-1-26-2-1,0,0,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'French and Nova Scotian beekeepers claim Bayer's seed treatment imidacloprid kills honeybees. France has since issued a provisional ban on the use of imidacloprid for corn seed treatment pending further action. A consortium of U.S. beekeepers filed a civil suit against Bayer CropScience for alleged losses.,'1-1-2-1-2-2-4-1-26-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Nexavar claims,'1-1-2-1-2-2-4-1-27-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Awards and recognition,'1-1-2-1-2-2-4-1-29-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-"'In October 2008, Bayer's Canadian division was named one of ""Canada's Top 100 Employers"" by Mediacorp Canada Inc. The Canadian division was named one of Greater Toronto's Top Employers by the Toronto Star newspaper. Bayer USA was given a score of 85 (out of 100) in the Human Rights Campaign's 2011 Corporate Equality Index, a measure of gay and lesbian workplace equality.",'1-1-2-1-2-2-4-1-29-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'See also,'1-1-2-1-2-2-4-1-30-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'List of German companies,'1-1-2-1-2-2-4-1-30-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
-'List of pharmaceutical companies,'1-1-2-1-2-2-4-1-30-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-'Medical technologist,'1-1-2-1-2-2-4-1-30-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Further reading,'1-1-2-1-2-2-4-1-31-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-"'Blaschke, Stefan (1999). Unternehmen und Gemeinde: Das Bayerwerk im Raum Leverkusen 1891–1914. Cologne: SH-Verlag, ISBN 3-89498-068-0",'1-1-2-1-2-2-4-1-31-2-1,1,1,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Tenfelde, Klaus (2007). Stimmt die Chemie? : Mitbestimmung und Sozialpolitik in der Geschichte des Bayer-Konzerns. Essen: Klartext, ISBN 978-3-89861-888-5",'1-1-2-1-2-2-4-1-31-2-2,1,1,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'External links,'1-1-2-1-2-2-4-1-32-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Official website,'1-1-2-1-2-2-4-1-32-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,1,0,0,0,0,1,1,1,1,I
-'http://www.cbgnetwork.org/index2.html Coalition against BAYER-Dangers,'1-1-2-1-2-2-4-1-32-2-2,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'http://www.wonderdrug.com/ The original Bayer Asprin,'1-1-2-1-2-2-4-1-32-2-3,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'2008 Q&A with Bayer USA CEO Greg Babe,'1-1-2-1-2-2-4-1-32-2-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,1,0,0,0,2,I
-'Germany portal,'1-1-2-1-2-2-4-2-1-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'Medicine portal,'1-1-2-1-2-2-4-2-2,0,0,0,0,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Companies portal,'1-1-2-1-2-2-4-2-3-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'Euro Stoxx 50 companies of Europe,'1-1-2-2-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
-'Air Liquide Allianz Anheuser-Busch InBev ArcelorMittal ASML Holding AXA Banco Santander BASF,'1-1-2-2-1-2-1,1,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Bayer,'1-1-2-2-1-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'BMW BBVA BNP Paribas Carrefour CRH Daimler Danone Deutsche Bank Deutsche Telekom E.ON Enel Essilor GDF Suez Generali Iberdrola Inditex Intesa Sanpaolo L'Oréal LVMH Munich Re Nokia Orange Philips Repsol RWE Saint-Gobain Sanofi SAP Schneider Electric Siemens Société Générale Telefónica Total Unibail-Rodamco UniCredit Unilever Vinci Vivendi Volkswagen,'1-1-2-2-1-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'DAX companies of Germany,'1-1-2-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
-'Adidas,'1-1-2-2-2-2-1-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Allianz,'1-1-2-2-2-2-1-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'BASF,'1-1-2-2-2-2-1-3,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bayer,'1-1-2-2-2-2-1-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Beiersdorf,'1-1-2-2-2-2-1-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'BMW,'1-1-2-2-2-2-1-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Commerzbank,'1-1-2-2-2-2-1-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Continental,'1-1-2-2-2-2-1-8,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Daimler,'1-1-2-2-2-2-1-9,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Deutsche Bank,'1-1-2-2-2-2-1-10,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Deutsche Börse,'1-1-2-2-2-2-1-11,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Deutsche Post,'1-1-2-2-2-2-1-12,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Deutsche Telekom,'1-1-2-2-2-2-1-13,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'E.ON,'1-1-2-2-2-2-1-14,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Fresenius,'1-1-2-2-2-2-1-15,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Fresenius Medical Care,'1-1-2-2-2-2-1-16,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'HeidelbergCement,'1-1-2-2-2-2-1-17,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Henkel,'1-1-2-2-2-2-1-18,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Infineon Technologies,'1-1-2-2-2-2-1-19,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'K+S,'1-1-2-2-2-2-1-20,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Linde,'1-1-2-2-2-2-1-21,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Lanxess,'1-1-2-2-2-2-1-22,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Lufthansa,'1-1-2-2-2-2-1-23,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Merck,'1-1-2-2-2-2-1-24,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Munich Re,'1-1-2-2-2-2-1-25,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'RWE,'1-1-2-2-2-2-1-26,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'SAP,'1-1-2-2-2-2-1-27,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Siemens,'1-1-2-2-2-2-1-28,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'ThyssenKrupp,'1-1-2-2-2-2-1-29,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Volkswagen,'1-1-2-2-2-2-1-30,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'(24. September 2012),'1-1-2-2-2-2-2,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,2,N
-'IG Farben,'1-1-2-2-3-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,3,C
-"'Predecessors
-
-AGFA
-BASF
-Bayer
-Cassella
-Chemische Fabrik Griesheim-Elektron
-Chemische Fabrik vorm. Weiler Ter Meer
-Chemische Fabrik Kalle
-Hoechst",'1-1-2-2-3-2-1-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
-"'Successors
-
-BASF
-Bayer
-Hoechst",'1-1-2-2-3-2-1-2,0,1,0,1,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
-'Products,'1-1-2-2-3-2-1-3-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,1,C
-'Synthetic dyes,'1-1-2-2-3-2-1-3-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Nitrile rubber,'1-1-2-2-3-2-1-3-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Polyurethane,'1-1-2-2-3-2-1-3-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Prontosil,'1-1-2-2-3-2-1-3-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Resochin,'1-1-2-2-3-2-1-3-2-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Zyklon B,'1-1-2-2-3-2-1-3-2-6,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'People,'1-1-2-2-3-2-2-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Industrialists,'1-1-2-2-3-2-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Chief executive officers,'1-1-2-2-3-2-2-2-1-2-1-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,1,0,0,0,1,1,1,C
-'Carl Bosch (1925 – 1935),'1-1-2-2-3-2-2-2-1-2-1-2-1,0,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Hermann Schmitz (1935 – 1945),'1-1-2-2-3-2-2-2-1-2-1-2-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Non-executive directors,'1-1-2-2-3-2-2-2-1-2-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-'Carl Duisberg (1925 – 1935),'1-1-2-2-3-2-2-2-1-2-2-2-1,0,1,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Carl Bosch (1935 – 1940),'1-1-2-2-3-2-2-2-1-2-2-2-2-1,0,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Carl Krauch (1940 – 1945),'1-1-2-2-3-2-2-2-1-2-2-2-2-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Other,'1-1-2-2-3-2-2-2-1-2-3-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Fritz Gajewski,'1-1-2-2-3-2-2-2-1-2-3-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-'Heinrich Gattineau,'1-1-2-2-3-2-2-2-1-2-3-2-2,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Max Ilgner,'1-1-2-2-3-2-2-2-1-2-3-2-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Wilhelm Rudolf Mann,'1-1-2-2-3-2-2-2-1-2-3-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Georg von Schnitzler,'1-1-2-2-3-2-2-2-1-2-3-2-4,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Chemists,'1-1-2-2-3-2-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Otto Ambros,'1-1-2-2-3-2-2-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Heinrich Bütefisch,'1-1-2-2-3-2-2-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Hans Kühne,'1-1-2-2-3-2-2-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Carl Lautenschläger,'1-1-2-2-3-2-2-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Fritz ter Meer,'1-1-2-2-3-2-2-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Heinrich Oster,'1-1-2-2-3-2-2-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Christian Schneider,'1-1-2-2-3-2-2-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Carl Wurster,'1-1-2-2-3-2-2-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Other,'1-1-2-2-3-2-3-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'American IG,'1-1-2-2-3-2-3-1-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Buna Werke,'1-1-2-2-3-2-3-1-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'IG Farben Building,'1-1-2-2-3-2-3-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'IG Farben Trial,'1-1-2-2-3-2-3-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Monowitz concentration camp,'1-1-2-2-3-2-3-1-2-5,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Category,'1-1-2-2-3-2-3-2-1,0,0,0,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
-'Commons,'1-1-2-2-3-2-3-2-2,0,0,0,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Genetic engineering,'1-1-2-2-4-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Genetically,'1-1-2-2-4-2-1-1-1-1,0,0,0,1,1,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,C
-'modified,'1-1-2-2-4-2-1-1-1-2,0,0,0,1,1,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,1,N
-'organisms,'1-1-2-2-4-2-1-1-1-3,0,0,0,1,1,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Crops,'1-1-2-2-4-2-1-1-2-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Maize,'1-1-2-2-4-2-1-1-2-1-2-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'MON 810,'1-1-2-2-4-2-1-1-2-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'MON 863,'1-1-2-2-4-2-1-1-2-1-2-1-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'List of varieties of genetically modified maize,'1-1-2-2-4-2-1-1-2-1-2-1-2-3,0,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Potato,'1-1-2-2-4-2-1-1-2-1-2-2-1,0,0,0,1,1,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
-'Amflora,'1-1-2-2-4-2-1-1-2-1-2-2-2,0,1,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Rice,'1-1-2-2-4-2-1-1-2-1-2-3-1,0,0,0,1,1,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
-'Golden rice,'1-1-2-2-4-2-1-1-2-1-2-3-2,0,1,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Soybean,'1-1-2-2-4-2-1-1-2-1-2-4-1,0,0,0,1,1,1,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Roundup ready soybean,'1-1-2-2-4-2-1-1-2-1-2-4-2-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Vistive gold,'1-1-2-2-4-2-1-1-2-1-2-4-2-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Tomato,'1-1-2-2-4-2-1-1-2-1-2-5-1,0,0,0,1,1,1,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Fish tomato,'1-1-2-2-4-2-1-1-2-1-2-5-2-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Flavr savr,'1-1-2-2-4-2-1-1-2-1-2-5-2-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Cotton,'1-1-2-2-4-2-1-1-2-1-2-6-1,0,0,0,1,1,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
-'Bt cotton,'1-1-2-2-4-2-1-1-2-1-2-6-2,0,1,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Other,'1-1-2-2-4-2-1-1-2-1-2-7-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Tobacco,'1-1-2-2-4-2-1-1-2-1-2-7-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Arabidopsis,'1-1-2-2-4-2-1-1-2-1-2-7-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Canola,'1-1-2-2-4-2-1-1-2-1-2-7-2-3,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Brinjal,'1-1-2-2-4-2-1-1-2-1-2-7-2-4,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Rose,'1-1-2-2-4-2-1-1-2-1-2-7-2-5,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Wheat,'1-1-2-2-4-2-1-1-2-1-2-7-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'SmartStax,'1-1-2-2-4-2-1-1-2-1-2-7-2-7,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Tree,'1-1-2-2-4-2-1-1-2-1-2-7-2-8,0,0,0,1,0,1,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Mammals,'1-1-2-2-4-2-1-1-2-2-1-1,0,0,0,1,1,1,1,0,2,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-"'Mouse Knockout mouse
-Oncomouse",'1-1-2-2-4-2-1-1-2-2-1-2-1,0,1,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Enviropig,'1-1-2-2-4-2-1-1-2-2-1-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Herman the Bull,'1-1-2-2-4-2-1-1-2-2-1-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Knockout rat,'1-1-2-2-4-2-1-1-2-2-1-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Other animals,'1-1-2-2-4-2-1-1-2-2-2-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Insects,'1-1-2-2-4-2-1-1-2-2-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,1,1,1,I
-"'Fish Glofish
-Salmon",'1-1-2-2-4-2-1-1-2-2-2-2-2,0,1,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Bacteria,'1-1-2-2-4-2-1-1-2-2-3-1-1,0,0,0,1,1,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'viruses,'1-1-2-2-4-2-1-1-2-2-3-1-2,0,0,0,1,1,0,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Ice-minus bacteria,'1-1-2-2-4-2-1-1-2-2-3-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
-'Hepatitis B vaccine,'1-1-2-2-4-2-1-1-2-2-3-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Oncolytic virus,'1-1-2-2-4-2-1-1-2-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Processes,'1-1-2-2-4-2-1-2-1,0,0,0,1,1,1,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Inserting DNA,'1-1-2-2-4-2-1-2-2-1-1,0,0,0,1,1,2,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Biolistics,'1-1-2-2-4-2-1-2-2-1-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Agrobacteria,'1-1-2-2-4-2-1-2-2-1-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Transfection,'1-1-2-2-4-2-1-2-2-1-2-3,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Electroporation,'1-1-2-2-4-2-1-2-2-1-2-4,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Microinjection,'1-1-2-2-4-2-1-2-2-1-2-5,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Viral transformation,'1-1-2-2-4-2-1-2-2-1-2-6,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Lipofection,'1-1-2-2-4-2-1-2-2-1-2-7,0,0,0,1,0,1,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Types,'1-1-2-2-4-2-1-2-2-2-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Recombinant DNA,'1-1-2-2-4-2-1-2-2-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Transgenesis,'1-1-2-2-4-2-1-2-2-2-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Cisgenesis,'1-1-2-2-4-2-1-2-2-2-2-3,0,0,0,1,0,1,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Uses,'1-1-2-2-4-2-1-3-1,0,0,0,1,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'In agriculture,'1-1-2-2-4-2-1-3-2-1-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Genetically modified food,'1-1-2-2-4-2-1-3-2-1-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Genetically modified food controversies,'1-1-2-2-4-2-1-3-2-1-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Pharming,'1-1-2-2-4-2-1-3-2-1-2-3,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
-"'Companies BASF
-Bayer
-Dow AgroSciences
-DuPont Pioneer
-Monsanto
-Syngenta",'1-1-2-2-4-2-1-3-2-1-2-4,0,1,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,1,0,0,0,2,C
-'humans,'1-1-2-2-4-2-1-3-2-2-1-1,0,0,0,1,1,0,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-'diagnostics,'1-1-2-2-4-2-1-3-2-2-1-2,0,0,0,1,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Gene therapy,'1-1-2-2-4-2-1-3-2-2-2-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,3,I
-'Genetic enhancement,'1-1-2-2-4-2-1-3-2-2-2-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'In research,'1-1-2-2-4-2-1-3-2-3-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Gene knockout,'1-1-2-2-4-2-1-3-2-3-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Gene knockdown,'1-1-2-2-4-2-1-3-2-3-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Gene targeting,'1-1-2-2-4-2-1-3-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,1,1,2,I
-"'Related
- articles
-
-Transgene
-Detection of genetically modified organisms
-Genetic pollution
-Genetic engineering in fiction
-Reverse transfection",'1-1-2-2-4-2-1-4-1,1,1,0,1,1,2,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,C
-"'Regulation
-
-Regulation of the release of GMOs
-Regulation of GMOs in the European Union
-Regulation of GMOs in Switzerland
-Cartagena Protocol on Biosafety",'1-1-2-2-4-2-1-4-2,1,1,0,1,1,2,1,0,2,1,1,1,0,1,0,1,0,0,0,0,0,0,1,C
-'Similar fields,'1-1-2-2-4-2-1-4-3-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Synthetic biology,'1-1-2-2-4-2-1-4-3-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Cloning,'1-1-2-2-4-2-1-4-3-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Stem cell research,'1-1-2-2-4-2-1-4-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Biology,'1-1-2-2-4-2-2-1,0,0,0,1,0,1,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,2,N
-'Genetics,'1-1-2-2-4-2-2-2,0,0,0,1,0,1,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Biotechnology,'1-1-2-2-4-2-2-3,0,0,0,1,0,1,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Bioethics,'1-1-2-2-4-2-2-4,0,0,0,1,0,1,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N

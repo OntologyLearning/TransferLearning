@@ -1,0 +1,19 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Sixteenth International Conference on,'1-1-2-1-1-1,0,0,0,2,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'Architectural Support for Programming Languages and Operating Systems (ASPLOS 2011),'1-1-2-1-1-2,1,0,0,2,1,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+"'Newport Beach, California,  March 5 ~ 11,  2011",'1-1-2-1-2-2,1,0,0,2,1,2,0,0,1,2,0,0,0,1,0,1,0,0,1,0,1,0,0,1,I
+'Call for Posters PDF version,'1-1-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'A student poster session will be held with the reception on the Sunday before the conference (March 6). The student poster session is an excellent venue for graduate and undergraduate students to present and discuss their ongoing research work. The poster session features informal one-on-one interactions between presenters and other conference participants. The goal of the poster session is to help students obtain early feedback on their research projects and establish contacts with other researchers with similar interests.,'1-1-2-2-2-1-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Submissions and Evaluations,'1-1-2-2-2-1-2,0,0,0,2,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+"'Students who intend to present a poster must send the following information to Iulian Neamtiu () by Friday, Jan 28, 2011:",'1-1-2-2-2-2-1,1,0,0,1,0,2,1,2,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,1,C
+"'Title, author names, and affiliations.",'1-1-2-2-2-2-2-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'One-page abstract in PDF format of the proposed presentation, prepared using the ACM SIGPLAN format.",'1-1-2-2-2-2-2-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Name and email address of the student presenter.,'1-1-2-2-2-2-2-3,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Please include ""ASPLOS poster submission"" in the email title.",'1-1-2-2-2-2-2-4,1,1,0,1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,2,I
+"'Selected student presenters will be notified via email starting February 15, 2011.",'1-1-2-2-2-2-3-1,1,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,2,N
+'Philip Brisk Brian Demsky Iulian Neamtiu,'1-1-2-2-2-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Funding,'1-1-2-2-2-3-1,0,0,0,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Student authors/presenters are encouraged to apply for travel support.,'1-1-2-2-2-3-2-1,1,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'PDF version of Call for Posters,'1-1-2-2-2-3-2-2,0,0,0,1,1,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,N
+'Student Posters,'1-1-2-2-2-3-2-3,0,0,0,1,1,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Please contact Min Feng for any questions/issues with this website.,'1-2,1,0,0,1,0,2,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,N

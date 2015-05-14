@@ -1,42 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
-"'E-mail: Jon.Crowcroft a la cl dot cam diddy ac dot uk dot, and no attachments 
-Addr: Post Tel: +44 (0)1223 763633 Fax: +44 (0)1223 334678
-Locn: Room: FN13 WGB  
-Cal: my agenda
-Pix: pro pix
-CV: bio + a typical week
-PGP: not yet; Vitals N, S
-Web: wayback",'1-3-1-2,2,0,0,0,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,I
-"'I am the Marconi Professor of Communications Systems in the Computer Lab, at the University of Cambridge, almost exactly 100 years after Marconi's ""groundbreaking"" first transatlantic wireless call, and i am a fellow of Wolfson College; a decade ago&more, i was a professor in the Department of Computer Science University College London. i graduated in Physics from Trinity College, Cambridge University in 1979. i got an MSc in Computing in 1981, and PhD in 1993 both from UCL. (before that i even went to primary and 2ndary school once). i'm a fellow of the Royal Society, the ACM, the British Computer Society, the IET the Royal Academy of Engineering and the IEEE. I'm a member of UCU and have been (or its equivalent) since 1979. Technical advisory boards i am on include MPI SWS, THLab, Netronome, IMDEA Networks, KAIST, Onelab & the Foundation for Information Policy Research Advisory Council. I'm also on the REF sub-panel for Computing and Informatics for my sins. My recommended reading lists + chic geek movies + misc advice. on tech. writing and speaking + role models. Family and other namesakes, e.g. John Crowcroft is not me, but is related, and does some fine art. Joss Crowcroft is also not me, but has done some cool software.",'1-3-2,2,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
-'input,'1-4-1,0,0,0,2,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
-'Principles of Communications,'1-4-2-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Network Architecture,'1-4-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,2,I
-'Part II projects+good advice on experimental evaluation,'1-4-2-3,0,1,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'MPhil projects,'1-4-2-4,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
-'Cambridge University Computing and Technology Society (CUCATS),'1-4-2-5,0,0,0,1,0,2,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,1,1,2,I
-'Some original Raspberry Pi Projects & plus Computing with People suggestions for CAS activities,'1-4-2-6,1,1,0,1,0,2,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,2,I
-'research,'1-5-1-1,0,0,0,2,1,0,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
-'current phd students,'1-5-1-2-1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,I
-"'The HAT (EPSRC, started june) + User Centric Networking EU work + Centre for Smart Infrastructure and Construction + interknot + various hats + Prezi",'1-5-1-2-2-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-"'EPSRC's Rigorous Engineering of Mainstream Systems, including Networks as a Service (NaaS) and Big Data",'1-5-1-2-2-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Liquid Computing and User Centric Networking from the EU,'1-5-1-2-2-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
-'OcamlLabs +digital life fn+dagstuhl workshop on principles,'1-5-1-2-2-4,0,1,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'EPSRC's Horizon project +LCD Net +PAWS +public access wifi service +Cambridge +UK,'1-5-1-2-2-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-"'Intelligent Energy aware Nets + intro + my , CL + Cambridge energy use",'1-5-1-2-2-6,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,0,0,2,I
-"'EU Internet Science Network: survey & Dagstuhl reports on Decentralized Privacy, Future Internet, Publication Culture & failure machines@diy nets.",'1-5-1-2-2-7,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-"'Security, + Cyber + Science and Policy",'1-5-1-2-2-8,0,1,0,1,0,2,1,0,1,2,1,0,0,1,1,0,0,0,0,0,0,0,0,2,I
-'future phd students Metrics,'1-5-2-1-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,C
-'output,'1-5-2-1-2,0,0,0,2,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-'papers talks projects,'1-5-2-2-1-1,0,0,0,1,0,0,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,1,1,1,I
-"'Past gadgets + papers & talks + ware (books/code) + tabs (cure) + names xen (x), & Zen), & raspberry pi (r)+ conjectures",'1-5-2-2-1-2-1,1,1,0,1,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
-"'Blogs clog: my course blog, syslog: srg's blog, net ideas blog, & sermonizing: with strong personal views",'1-5-2-2-1-2-2-1,1,1,0,1,0,0,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'music that i was involved in playing,'1-5-2-2-1-2-2-2,0,1,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'past students, work and whereabouts, and advisor family tree",'1-5-2-2-2,1,0,0,1,0,0,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,2,I
-'conferences + deadlines,'1-6-1-1,0,0,1,2,1,0,1,0,1,1,0,0,1,0,0,1,0,0,0,1,0,1,1,2,C
-"'ACM e-energy, jun 11-13 2014, Cambridge, England",'1-6-1-2,0,1,0,1,0,2,1,0,2,1,0,0,0,1,0,0,1,0,1,1,1,0,0,1,I
-'journals,'1-6-2-1,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
-'IEEE/Transactions on Networks editor at large,'1-6-2-2-1,0,1,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Communications of the ACM research highlights,'1-6-2-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,0,1,1,0,0,1,0,0,0,2,I
-'IEEE Communications Surveys and Tutorials,'1-6-2-2-3,0,0,0,1,0,2,1,0,2,1,1,0,1,1,0,0,1,0,0,0,0,0,0,2,I
-'IEEE Network Magazine,'1-6-2-2-4,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,2,I
-"'Powered by Web 0.9 Technology. Last touched, 28/3/14",'1-7,0,0,0,0,0,2,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,N

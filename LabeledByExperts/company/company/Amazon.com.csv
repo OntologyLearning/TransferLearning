@@ -1,0 +1,904 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Amazon.com,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'The examples and perspective in this article,'1-1-2-1-1-1-1-2,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+'(April 2014),'1-1-2-1-1-1-1-3,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,1,0,0,2,N
+'deal primarily with the United States and do not represent a worldwide view of the subject,'1-1-2-1-1-1-1-4-1,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,3,N
+'Please improve this article and discuss the issue on the talk page.,'1-1-2-1-1-1-1-4-3,1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
+"'Amazon.com, Inc.",'1-1-2-1-1-1-2-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Type,'1-1-2-1-1-1-2-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Public,'1-1-2-1-1-1-2-3-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-1-2-4-1,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'NASDAQ AMZN,'1-1-2-1-1-1-2-4-2-1,0,0,0,1,0,2,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'NASDAQ-100,'1-1-2-1-1-1-2-4-2-2,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'S&P 500,'1-1-2-1-1-1-2-4-2-3,0,0,0,1,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Foundation date,'1-1-2-1-1-1-2-5-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'1994 (1994),'1-1-2-1-1-1-2-5-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-1-2-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Seattle, Washington, United States",'1-1-2-1-1-1-2-6-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Area served,'1-1-2-1-1-1-2-7-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Worldwide,'1-1-2-1-1-1-2-7-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Founder(s),'1-1-2-1-1-1-2-8-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Jeff Bezos,'1-1-2-1-1-1-2-8-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Key people,'1-1-2-1-1-1-2-9-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Jeff Bezos,'1-1-2-1-1-1-2-9-2-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'(Chairman, President and CEO)",'1-1-2-1-1-1-2-9-2-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,2,C
+'Industry,'1-1-2-1-1-1-2-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
+"'Internet, online retailing",'1-1-2-1-1-1-2-10-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Products,'1-1-2-1-1-1-2-11-1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Appstore LoveFilm The Book Depository Game Studios Instant Video Instant Video UK Instant Video German Kindle Lab126 Studios Woot,'1-1-2-1-1-1-2-11-2-1,1,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Askville,'1-1-2-1-1-1-2-11-2-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Revenue,'1-1-2-1-1-1-2-12-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 74.45 billion (2013),'1-1-2-1-1-1-2-12-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operating income,'1-1-2-1-1-1-2-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 745 million (2013),'1-1-2-1-1-1-2-13-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Net income,'1-1-2-1-1-1-2-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 274 million (2013),'1-1-2-1-1-1-2-14-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-1-2-15-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'US$ 40.159 billion (2013),'1-1-2-1-1-1-2-15-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-1-1-2-16-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 9.746 billion (2013),'1-1-2-1-1-1-2-16-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-1-2-17-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'117,300 (January 2014)",'1-1-2-1-1-1-2-17-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,I
+'Subsidiaries,'1-1-2-1-1-1-2-18-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'a2z, A9.com, Amazon Web Services, Alexa Internet, Audible.com, Digital Photography Review, Goodreads, Internet Movie Database, Junglee.com, Zappos",'1-1-2-1-1-1-2-18-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Website,'1-1-2-1-1-1-2-19-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'amazon.com,'1-1-2-1-1-1-2-19-2-1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'various national sites,'1-1-2-1-1-1-2-19-2-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Written in,'1-1-2-1-1-1-2-20-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'C++, Perl and Java",'1-1-2-1-1-1-2-20-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Alexa rank,'1-1-2-1-1-1-2-21-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'12 (April 2014),'1-1-2-1-1-1-2-21-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,I
+'Type of site,'1-1-2-1-1-1-2-22-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'E-commerce,'1-1-2-1-1-1-2-22-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Advertising,'1-1-2-1-1-1-2-23-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Web banners, videos",'1-1-2-1-1-1-2-23-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Available in,'1-1-2-1-1-1-2-24-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'English, French, German, Spanish, Italian, Japanese, Chinese, Brazilian Portuguese",'1-1-2-1-1-1-2-24-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Launched,'1-1-2-1-1-1-2-25-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'1995,'1-1-2-1-1-1-2-25-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'Amazon.com, Inc.",'1-1-2-1-1-2-1-1-1-1-1-1-1,0,0,0,1,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'/ˈæməzɒn/,'1-1-2-1-1-2-1-1-1-1-1-1-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
+'American electronic commerce Seattle Washington world's largest online retailer bookstore DVDs VHSs CDs video MP3 software video games electronics consumer electronics Amazon Kindle e-book reader Kindle Fire tablet computer cloud computing,'1-1-2-1-1-2-1-1-1-1-1-2,2,0,0,1,0,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+"'Jeff Bezos incorporated the company (as Cadabra) in July 1994 and the site went online as Amazon.com in 1995. The company was renamed after the Amazon River, one of the largest rivers in the world, which in turn was named after the Amazons, the legendary nation of female warriors in Greek mythology.",'1-1-2-1-1-2-1-1-1-1-2-1,2,0,0,1,0,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+"'Amazon has separate retail websites for United States, United Kingdom, France, Canada, Germany, Italy, Spain, Australia, Brazil, Japan, China, India and Mexico, with international shipping to certain other countries for some of its products. In 2011, it had professed an intention to launch its websites in Poland, Netherlands, and Sweden, as well. An Austrian website operates as part of the German website.",'1-1-2-1-1-2-1-1-1-1-2-2,2,0,0,1,0,2,1,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,3,N
+'Contents,'1-1-2-1-1-2-1-1-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+"'1 History 1.1 Acquisitions and investments
+1.2 Investment
+1.3 Subsidiaries",'1-1-2-1-1-2-1-1-1-2-1-2-1-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,1,I
+'2 Merchant partnerships,'1-1-2-1-1-2-1-1-1-2-1-2-1-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'3 Locations 3.1 Headquarters
+3.2 Software development centers
+3.3 Customer Service Centers
+3.4 Fulfillment and warehousing
+3.5 Other
+3.6 Closed fulfillment, warehousing and customer service locations",'1-1-2-1-1-2-1-1-1-2-1-2-2,1,0,0,1,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'4 Products and services 4.1 Retail goods
+4.2 Consumer electronics
+4.3 Digital content 4.3.1 Amazon Games
+
+4.4 Amazon Art
+4.5 Amazon Instant Video
+4.6 Amazon Prime
+4.7 Private labels and exclusive marketing arrangements
+4.8 Computing services
+4.9 Content production
+4.10 Donations
+4.11 Amazon Local
+4.12 AmazonWireless
+4.13 AmazonFresh
+4.14 Amazon Prime Air
+4.15 Other services",'1-1-2-1-1-2-1-1-1-2-1-2-3,2,0,0,1,0,2,1,0,0,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+'5 Companies,'1-1-2-1-1-2-1-1-1-2-1-2-4-1,0,0,0,1,0,1,1,0,0,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'5.1 Brilliance Audio,'1-1-2-1-1-2-1-1-1-2-1-2-4-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'6 Website 6.1 Reviews
+6.2 Content search
+6.3 Third-party sellers",'1-1-2-1-1-2-1-1-1-2-1-2-5-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+'7 Amazon sales rank,'1-1-2-1-1-2-1-1-1-2-1-2-5-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'8 Amazon technology,'1-1-2-1-1-2-1-1-1-2-1-2-6,0,0,0,1,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'9 Multi-level sales strategy,'1-1-2-1-1-2-1-1-1-2-1-2-7,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'10 Revenue,'1-1-2-1-1-2-1-1-1-2-1-2-8,0,0,0,1,0,1,1,0,0,2,1,1,1,1,1,0,0,0,0,1,0,0,2,I
+"'11 Controversies 11.1 Sales and use taxes
+11.2 Poor working conditions",'1-1-2-1-1-2-1-1-1-2-1-2-9,1,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'12 Lobbying,'1-1-2-1-1-2-1-1-1-2-1-2-10,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'13 Notable businesses founded by former employees,'1-1-2-1-1-2-1-1-1-2-1-2-11,0,0,0,1,0,0,1,0,0,2,1,1,1,1,1,0,0,0,0,1,0,0,2,I
+'14 See also,'1-1-2-1-1-2-1-1-1-2-1-2-12,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'15 References,'1-1-2-1-1-2-1-1-1-2-1-2-13,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'16 Further reading,'1-1-2-1-1-2-1-1-1-2-1-2-14,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'17 External links,'1-1-2-1-1-2-1-1-1-2-1-2-15,0,0,0,1,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-1-1-2-1-1-1-2-2-1-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'The company was founded in 1994, spurred by what Bezos called his ""regret minimization framework"", which described his efforts to fend off any regrets for not participating sooner in the Internet business boom during that time. In 1994, Bezos left his employment as vice-president of D. E. Shaw & Co., a Wall Street firm, and moved to Seattle. He began to work on a business plan for what would eventually become Amazon.com.",'1-1-2-1-1-2-1-1-1-2-2-1-2-1,2,0,0,1,0,0,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'After reading a report about the future of the Internet which projected annual Web commerce growth at 2,300%, Bezos created a list of 20 products which could be marketed online. He narrowed the list to what he felt were the five most promising products which included: compact discs, computer hardware, computer software, videos, and books. Bezos finally decided that his new business would sell books online, due to the large world-wide demand for literature, the low price points for books, along with the huge number of titles available in print. Amazon was originally founded in Bezos' garage in Bellevue, Washington.",'1-1-2-1-1-2-1-1-1-2-2-1-2-2,2,0,0,1,0,0,0,1,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The company began as an online bookstore, an idea spurred off with discussion with John Ingram of Ingram Book (now called Ingram Content Group), along with Keyur Patel who still holds a stake in Amazon. In the first two months of business, Amazon sold to all 50 states and over 45 countries. Within two months, Amazon's sales were up to $20,000/week. While the largest brick and mortar bookstores and mail order catalogs might offer 200,000 titles, an online bookstore could ""carry"" several times more, since they had an almost unlimited virtual (not actual) warehouse: those of the actual product makers/suppliers.",'1-1-2-1-1-2-1-1-1-2-2-1-2-3,2,0,0,1,0,0,1,1,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Bezos wanted a name for his company that began with ""A"" so that it would appear early in alphabetic order. He began looking through the dictionary and settled on ""Amazon"" because it was a place that was ""exotic and different"" just as he planned for his store to be, and he believed it was the biggest river in the world, and he planned to make his store the biggest in the world. Bezos placed a premium on his head start in building a brand, telling a reporter, ""There's nothing about our model that can't be copied over time. But you know, McDonald's got copied. And it still built a huge, multibillion-dollar company. A lot of it comes down to the brand name. Brand names are more important online than they are in the physical world.""",'1-1-2-1-1-2-1-1-1-2-2-1-2-4,2,0,0,1,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Since 2000, Amazon's logotype has featured a curved arrow leading from A to Z, representing that they carry every product from A to Z, with the arrow shaped like a smile.",'1-1-2-1-1-2-1-1-1-2-2-1-2-5,2,0,0,1,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon was incorporated in 1994, in the state of Washington. In July 1995, the company began service and sold its first book on Amazon.com: Douglas Hofstadter's Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought. In October 1995, the company announced itself to the public. In 1996, it was reincorporated in Delaware. Amazon issued its initial public offering of stock on May 15, 1997, trading under the NASDAQ stock exchange symbol AMZN, at a price of US$18.00 per share ($1.50 after three stock splits in the late 1990s).",'1-1-2-1-1-2-1-1-1-2-2-1-2-6,2,0,0,1,0,2,1,1,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon's initial business plan was unusual; it did not expect to make a profit for four to five years. This ""slow"" growth caused stockholders to complain about the company not reaching profitability fast enough to justify investing in, or to even survive in the long-term. When the dot-com bubble burst at the start of the 21st Century, destroying many e-companies in the process, Amazon survived, and grew on past the bubble burst to become a huge player in online sales. It finally turned its first profit in the fourth quarter of 2001: $5 million (i.e., 1¢ per share), on revenues of more than $1 billion. This profit margin, though extremely modest, proved to skeptics that Bezos' unconventional business model could succeed. In 1999, Time magazine named Bezos the Person of the Year, recognizing the company's success in popularizing online shopping.",'1-1-2-1-1-2-1-1-1-2-2-1-2-7,2,0,0,1,0,0,1,1,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Barnes & Noble sued Amazon on May 12, 1997, alleging that Amazon's claim to be ""the world's largest bookstore"" was false. Barnes and Noble asserted, ""[It] isn't a bookstore at all. It's a book broker."" The suit was later settled out of court, and Amazon continued to make the same claim."" Walmart sued Amazon on October 16, 1998, alleging that Amazon had stolen their trade secrets by hiring former Walmart executives. Although this suit was also settled out of court, it caused Amazon to implement internal restrictions and the re-assignment of the former Walmart executives.",'1-1-2-1-1-2-1-1-1-2-2-1-2-8,2,0,0,1,0,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Acquisitions and investments,'1-1-2-1-1-2-1-1-1-2-2-2-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'This list is incomplete; you can help by expanding it.,'1-1-2-1-1-2-1-1-1-2-2-2-2-1,1,0,0,1,0,0,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,1,N
+'Source:,'1-1-2-1-1-2-1-1-1-2-2-2-2-2,0,0,0,1,0,1,0,2,0,2,1,1,0,1,0,0,0,0,0,0,1,1,3,C
+"'1998: PlanetAll, a reminder service based in Cambridge, Massachusetts; Junglee, an XML-based data mining startup based in Sunnyvale; Bookpages.co.uk, a UK online book retailer, which became Amazon UK on October 15, 1998; Telebook (www.telebuch.de) was Germany's leading online bookstore, it became Amazon's German online store; Internet Movie Database (IMDb).",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-1,2,1,0,1,0,2,1,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+"'1999: Alexa Internet a database company; Accept.com a financial services company; Drugstore.com 40% investment in 1999, increased stake in 2000, sold stake to Wallgreens in 2011 for a 90% loss; GeoWorks, a wireless communications company, acquisition of a minority interest; Pets.com, purchased a 54 percent stake; LiveBid.com, which produced Internet-based auction software; e-Niche Incorporated comprising Exchange.com, Bibliofind.com (hard-to-find book titles), and Musicfile.com (hard to find music titles); HomeGrocer.com, a 35 percent stake in the online grocer; Gear.com, 49 percent stake (the company was purchased by Overstock.com in 2000); Tool Crib of the North, acquired the online and catalog sales division of the company in October 1999, selling a very wide variety of tools and home improvement items; Convergence Corporation, software to connect wireless devices to the Internet; MindCorps Incorporated, applications for web sites including online chats to web based databases; Della.com, gift registry, expert advice, and personalized gift suggestions, Amazon purchased a 20% stake (in April, 2000, the company merged with WeddingChannel.com); Back to Basics Toys, catalog toy store (sold to Scholastic in 2003); Ashford.com, retailer of luxury products, Amazon acquired a 16.6 percent ownership; Leep Technology Inc., developer of on-line database query tools;",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-2,2,1,0,1,0,0,1,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'2003: Online music retailer CDNow. By 2011, the website cdnow.com was defunct and in use by a different company.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-3,1,1,0,1,0,0,1,1,0,2,1,1,1,1,1,0,0,0,1,0,0,0,2,I
+"'2004: Joyo.com, a Chinese e-commerce website.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-4,0,1,0,1,0,2,1,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,2,I
+"'2005: BookSurge, a print on demand company, and Mobipocket.com, an e-Book software company. CreateSpace.com (formerly CustomFlix), a distributor of on-demand DVDs, based in Scotts Valley, California. CreateSpace has since expanded to include print on-demand books (POD), CDs, and video.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-5,2,1,0,1,0,2,1,1,0,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+"'2006: Shopbop, a retailer of designer clothing and accessories for women, based in Madison, Wisconsin.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-6-1,1,1,0,1,0,2,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'2007: dpreview.com, a digital photography review website based in London; Brilliance Audio, the largest independent publisher of audiobooks in the United States.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-6-2,1,1,0,1,0,2,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'2008: Audible.com; Fabric.com; Box Office Mojo; AbeBooks; Shelfari; (including a 40% stake in LibraryThing and whole ownership of BookFinder.com, Gojaba.com, and FillZ); Reflexive Entertainment, a casual video game development company.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-7,2,1,0,1,0,2,1,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'2009: Zappos, an online shoe and apparel retailer Lexcycle, SnapTell, an image matching startup, Stanza, a rival e-book reader to Amazon's Kindle.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-8,1,1,0,1,0,2,1,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'2010: Touchco., Woot, Quidsi, BuyVIP, Amie Street.",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-9,0,1,0,1,0,2,1,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'2010: Toby Press,'1-1-2-1-1-2-1-1-1-2-2-2-2-3-10,0,1,0,1,0,2,0,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'2011: LoveFilm, The Book Depository, Pushbutton Yap,",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-11,0,1,0,1,0,2,1,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'2012: Kiva Systems, Teachstreet Evi",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-12,0,1,0,1,0,2,1,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'2013: IVONA Software, GoodReads Liquavista",'1-1-2-1-1-2-1-1-1-2-2-2-2-3-13,0,1,0,1,0,2,1,1,0,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'2014: Double Helix Games,'1-1-2-1-1-2-1-1-1-2-2-2-2-3-14,0,1,0,1,0,2,1,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Investment,'1-1-2-1-1-2-1-1-1-2-2-3-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'2008: Engine Yard, a Ruby-on-Rails platform as a service (PaaS) company.",'1-1-2-1-1-2-1-1-1-2-2-3-2-1,1,1,0,1,0,2,1,1,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'2010: LivingSocial, a local deal site.",'1-1-2-1-1-2-1-1-1-2-2-3-2-2,0,1,0,1,0,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Subsidiaries,'1-1-2-1-1-2-1-1-1-2-2-4-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'2004: A9.com, a company focused on researching and building innovative technology.",'1-1-2-1-1-2-1-1-1-2-2-4-2-1,1,1,0,1,0,0,1,1,0,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'2004: Lab126, developers of integrated consumer electronics such as the Kindle.",'1-1-2-1-1-2-1-1-1-2-2-4-2-2,1,1,0,1,0,0,1,1,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'2007: Endless.com, an e-commerce brand focusing on shoes.",'1-1-2-1-1-2-1-1-1-2-2-4-2-3,0,1,0,1,0,0,0,1,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'2007: Brilliance Audio, the largest independent audiobook producer in the US.",'1-1-2-1-1-2-1-1-1-2-2-4-2-4,1,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Merchant partnerships,'1-1-2-1-1-2-1-1-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Until June 30, 2006, typing ToysRUs.com into a browser would bring up Amazon.com's ""Toys & Games"" tab; however, this relationship was terminated due to a lawsuit. Amazon also hosted and managed the website for Borders bookstores but this ceased in 2008. From 2001 until August 2011, Amazon hosted the retail website for Target. Benefit Cosmetics, another merchant partner of Amazon, has also launched a major E-Commerce platform of their own based on Hybris and arvato systems NA, in the US, EU and China.",'1-1-2-1-1-2-1-1-1-2-2-5-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Amazon.com operates retail websites for Sears Canada, bebe Stores, Marks & Spencer, Mothercare, and Lacoste. For a growing number of enterprise clients, currently including the UK merchants Marks & Spencer, Benefit Cosmetics' UK entity, edeals.com, and Mothercare, Amazon provides a unified multichannel platform where a customer can interact with some people they call the retail website, standalone in-store terminals, or phone-based customer service agents. Amazon Web Services also powers AOL's Shop@AOL.",'1-1-2-1-1-2-1-1-1-2-2-5-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On October 18, 2011, Amazon.com announced a partnership with DC Comics for the exclusive digital rights to many popular comics, including Superman, Batman, Green Lantern, The Sandman, and Watchmen. The partnership has caused well-known bookstores like Barnes & Noble to remove these titles from their shelves.",'1-1-2-1-1-2-1-1-1-2-2-5-2-3,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In November 2013, Amazon.com announced a partnership with the United States Postal Service to begin delivering orders on Sundays. The service, included with Amazon’s standard shipping rates, initiated in metropolitan areas of Los Angeles and New York, with plans to expand into Dallas, Houston, New Orleans, and Phoenix by 2014.",'1-1-2-1-1-2-1-1-1-2-2-5-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Locations,'1-1-2-1-1-2-1-1-1-2-2-6-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon has offices, fulfillment centers, warehouses, customer service centers and software development centers across North America, Latin America, Europe, Africa, and Asia.",'1-1-2-1-1-2-1-1-1-2-2-6-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-2-1-1-1-2-2-7-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'The company's global headquarters are in 14 buildings in Seattle's South Lake Union neighborhood. The European headquarters are in Luxembourg's capital, Luxembourg City. In Seattle, as of 2013, a 3-tower headquarters near Amazon's existing buildings with a capacity of 12,000 employees was under construction.",'1-1-2-1-1-2-1-1-1-2-2-7-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,1,I
+'Software development centers,'1-1-2-1-1-2-1-1-1-2-2-8-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+"'While much of Amazon's software development occurs in Seattle, the company employs software developers in centers across the globe. Some of these sites are run by an Amazon subsidiary called A2Z Development.",'1-1-2-1-1-2-1-1-1-2-2-8-2-1,2,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,1,0,1,1,1,I
+"'North America USA: Cambridge, MA; Irvine, CA;Charleston, SC; Cupertino, CA; Orange County, CA; San Francisco, CA; San Luis Obispo, CA; Seattle, WA; New York, NY and Tempe, AZ
+Canada: Vancouver, British Columbia, Toronto downtown and Mississauga, Ontario",'1-1-2-1-1-2-1-1-1-2-2-8-2-2-1,2,1,0,1,0,2,1,1,1,2,1,1,1,0,0,1,0,0,0,0,0,0,2,I
+"'Europe Ireland: Dublin
+Germany: Berlin and Dresden
+Netherlands: Rijswijk
+Romania: Iași
+UK: Slough (England), London (England) Dunfermline (Scotland) and Edinburgh (Scotland)",'1-1-2-1-1-2-1-1-1-2-2-8-2-2-2,1,1,0,1,0,2,1,1,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
+"'Asia India: Hyderabad, Bangalore and Chennai
+Japan: Meguro (Tokyo)
+China: Beijing",'1-1-2-1-1-2-1-1-1-2-2-8-2-2-3-1,0,1,0,1,0,2,1,1,1,2,0,1,0,0,0,1,0,0,0,0,0,0,2,I
+'Africa,'1-1-2-1-1-2-1-1-1-2-2-8-2-2-3-2-1,0,0,0,1,0,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,1,1,2,C
+'South Africa: Cape Town,'1-1-2-1-1-2-1-1-1-2-2-8-2-2-3-2-2,0,1,0,1,0,2,1,1,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Customer Service Centers,'1-1-2-1-1-2-1-1-1-2-2-9-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'United States: Kennewick, WA; Huntington, WV; Grand Forks, ND; Winchester, KY",'1-1-2-1-1-2-1-1-1-2-2-9-2-1,1,1,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'India: Hyderabad, Chennai, Bangalore",'1-1-2-1-1-2-1-1-1-2-2-9-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'South Africa: Cape Town,'1-1-2-1-1-2-1-1-1-2-2-9-2-3,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Philippines: Convergys Cebu, Convergys Bacolod",'1-1-2-1-1-2-1-1-1-2-2-9-2-4,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'China: Chengdu,'1-1-2-1-1-2-1-1-1-2-2-9-2-5,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Germany: Berlin,'1-1-2-1-1-2-1-1-1-2-2-9-2-6,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Ireland: Cork,'1-1-2-1-1-2-1-1-1-2-2-9-2-7,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Morocco: Sala al Jadida,'1-1-2-1-1-2-1-1-1-2-2-9-2-8,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'UK: Edinburgh, Scotland",'1-1-2-1-1-2-1-1-1-2-2-9-2-9,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Japan: Sapporo,'1-1-2-1-1-2-1-1-1-2-2-9-2-10,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Costa Rica: Heredia and San Jose,'1-1-2-1-1-2-1-1-1-2-2-9-2-11,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Uruguay: Montevideo,'1-1-2-1-1-2-1-1-1-2-2-9-2-12,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Italy: Cagliari,'1-1-2-1-1-2-1-1-1-2-2-9-2-13,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Jamaica: Kingston,'1-1-2-1-1-2-1-1-1-2-2-9-2-14,0,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Fulfillment and warehousing,'1-1-2-1-1-2-1-1-1-2-2-10-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Fulfillment centers are located in the following cities, often near airports. These centers also provide warehousing and order-fulfillment for third-party sellers:",'1-1-2-1-1-2-1-1-1-2-2-10-2-1,1,0,0,1,0,0,0,2,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+"'Warehouses are large and each has hundreds of employees. Employees are responsible for four basic tasks: unpacking and inspecting incoming goods; placing goods in storage and recording their location; picking goods from their computer recorded locations to make up an individual shipment; and shipping. A central computer which records the location of goods and maps out routes for pickers plays a central role; employees carry hand-held computers which communicate with the central computer and monitor their rate of progress. A picker with their cart may walk 10 or more miles a day. In the United Kingdom initial staffing was provided by Randstad Holding and other temporary employment agencies. Some workers are accepted as Amazon employees and granted pension and shares of stock; others are dismissed. ""When we have permanent positions available, we look to the top performing temporary associates to fill them."" Development of a high level of automation is anticipated in the future following Amazon's 2012 acquisition of Kiva Systems, a warehouse automation company.",'1-1-2-1-1-2-1-1-1-2-2-10-2-2,2,0,0,1,0,0,1,1,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
+"'North America USA Goodyear, AZ
+Phoenix, AZ
+Patterson, CA
+San Bernardino, CA
+Tracy, CA (opening 2014)
+Windsor Locks, CT
+Middletown, DE
+New Castle, DE
+Jeffersonville, IN
+Plainfield, IN
+Whitestown, IN
+Coffeyville, KS
+Campbellsville, KY
+Hebron, KY (near Cincinnati, OH)
+Lexington, KY
+Louisville, KY
+Baltimore, MD (opening Fall 2014)
+Robbinsville, NJ (opening early 2014)
+Fernley, NV
+North Las Vegas, NV
+Nashua, NH
+Breinigsville, PA
+Carlisle, PA
+Hazleton, PA
+Lewisberry, PA
+Lexington, SC
+Spartanburg, SC;
+Chattanooga, TN
+Lebanon, TN
+Murfreesboro, TN
+Irving, TX (between Dallas and Fort Worth)
+Schertz, TX (near San Antonio)
+Chester, VA
+Dinwiddie, VA (near Richmond, VA)
+Sterling, VA
+Bellevue, WA
+DuPont, WA (opening Fall 2013)
+Sumner, WA.
+Huntington, West Virginia
+
+Canada Mississauga, Ontario
+Annacis Island a part of Delta, British Columbia",'1-1-2-1-1-2-1-1-1-2-2-10-2-3,2,1,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Europe United Kingdom, as of 2013, 7 in operation with 3 more planned. England Marston Gate (near Brogborough)
+Rugeley, Staffordshire
+Peterborough
+Doncaster
+Hemel Hempstead
+
+Scotland Gourock (Inverclyde)
+Dunfermline (Fife)
+
+Wales Crymlyn Burrows
+Swansea (near Jersey Marine)
+
+
+France Boigny-sur-Bionne (2000)
+Saran (2007)
+Montélimar (2010)
+Sevrey (Autumn 2012)
+Lauwin-Planque (October 2013)
+
+Germany Bad Hersfeld (1996 and 2010) (Hessen)
+Leipzig (2006) (Saxony)
+Werne (2010) (North Rhine-Westphalia)
+Rheinberg (2011) (North Rhine-Westphalia)
+Graben (2011) (Bavaria)
+Koblenz (2012) (Rhineland-Palatinate)
+Pforzheim (2012) (Baden-Württemberg)
+
+Netherlands Amsterdam
+
+Italy Castel San Giovanni (2011 and 2013) (Emilia-Romagna)
+
+Slovakia: Bratislava (2011)
+Spain San Fernando de Henares (Madrid)",'1-1-2-1-1-2-1-1-1-2-2-10-2-4-1,2,1,0,1,0,2,1,1,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
+"'Asia Japan Ichikawa
+Yachiyo
+Chiba
+Sakai
+Daito
+Osaka
+Kawagoe
+Saitama
+
+China Guangzhou
+Suzhou
+Beijing
+Chengdu
+
+India Mumbai
+Bangalore (Feb 2014)",'1-1-2-1-1-2-1-1-1-2-2-10-2-4-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Other,'1-1-2-1-1-2-1-1-1-2-2-11-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Audible.com (subsidiary) Headquarters at 1 Washington Park in Newark, NJ.",'1-1-2-1-1-2-1-1-1-2-2-11-2-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,1,I
+"'Zappos.com Headquarters in Las Vegas, Nevada.",'1-1-2-1-1-2-1-1-1-2-2-11-2-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,2,I
+"'Woot Headquarters in Carrollton, Texas.",'1-1-2-1-1-2-1-1-1-2-2-11-2-3,0,1,0,1,0,2,1,0,1,2,1,0,0,1,1,0,0,0,0,0,0,0,2,I
+"'Closed fulfillment, warehousing and customer service locations",'1-1-2-1-1-2-1-1-1-2-2-12-1,0,0,0,1,1,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'These US distribution centers have been closed: SDC Seattle Distribution Center, located in Georgetown, just south of downtown Seattle; Red Rock, Nevada; Chambersburg, Pennsylvania; Munster, Indiana; and McDonough, Georgia. From 2000 until February 2001, there was an Amazon customer service based in The Hague, Netherlands.",'1-1-2-1-1-2-1-1-1-2-2-12-2,2,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Products and services,'1-1-2-1-1-2-1-1-1-2-2-13-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,1,0,0,0,1,1,0,0,2,C
+'Retail goods,'1-1-2-1-1-2-1-1-1-2-2-13-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+"'Amazon product lines include media - books, DVDs, music CDs, software, videotapes, and software - apparel, baby products, consumer electronics, beauty products, gourmet food, groceries, health and personal-care items, industrial & scientific supplies, kitchen items, jewelry and watches, lawn and garden items, musical instruments, sporting goods, tools, and toys & games.",'1-1-2-1-1-2-1-1-1-2-2-13-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'The company launched amazon.com Auctions, a web auctions service, in March 1999. However, it failed to chip away at the large market share of the industry pioneer, eBay. Later, the company launched a fixed-price marketplace business, zShops, in September 1999, and the now defunct partnership with Sotheby's, called Sothebys.amazon.com, in November. Auctions and zShops evolved into Amazon Marketplace, a service launched in November 2000 that let customers sell used books, CDs, DVDs, and other products alongside new items. Today, Amazon Marketplace's main rival is eBay's Half.com service.",'1-1-2-1-1-2-1-1-1-2-2-13-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In August 2007, Amazon announced AmazonFresh, a grocery service offering perishable and nonperishable foods. Customers can have orders delivered to their homes at dawn or during a specified daytime window. Delivery was initially restricted to residents of Mercer Island, Washington, and was later expanded to several ZIP codes in Seattle proper. AmazonFresh also operated pick-up locations in the suburbs of Bellevue and Kirkland from summer 2007 through early 2008.",'1-1-2-1-1-2-1-1-1-2-2-13-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2012, Amazon announced the launch of Vine.com for buying green products, including groceries, household items, and apparel. It is part of Quidsi, the company that Amazon bought in 2010 that also runs the sites Diapers.com (baby), Wag.com (pets), and YoYo.com (toys). Amazon also owns other e-commerce sites like Shopbop.com, Woot.com, and Zappos.com.",'1-1-2-1-1-2-1-1-1-2-2-13-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon's Subscribe & Save program offers a discounted price on an item (usually sold in bulk), free shipping on every Subscribe & Save shipment, and automatic shipment of the item every one, two, three, or six months.",'1-1-2-1-1-2-1-1-1-2-2-13-2-5,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2013, Amazon launched its site in India, amazon.in. It has started with electronic goods and plans to expand into fashion apparel, beauty, home essentials, and healthcare categories by the end of 2013.",'1-1-2-1-1-2-1-1-1-2-2-13-2-6,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Consumer electronics,'1-1-2-1-1-2-1-1-1-2-2-14-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+"'In November 2007, Amazon launched Amazon Kindle, an e-book reader which downloads content over ""Whispernet"", via Sprint's EV-DO wireless network. The screen uses E Ink technology to reduce battery consumption and to provide a more legible display. As of March 2011, the stated library numbers over 850,000 titles.",'1-1-2-1-1-2-1-1-1-2-2-14-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In September 2011, Amazon announced its entry into the tablet computer market by introducing the Kindle Fire, which runs a customized version of the operating system Android. The exceedingly low pricing of Fire ($199 USD) was widely perceived as a strategy backed by Amazon's revenue from its content sales, to be stimulated by sales of the Fire.",'1-1-2-1-1-2-1-1-1-2-2-14-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In September 2012, Amazon unveiled the second generation tablet, called the Kindle Fire HD. On September 25, 2013, Amazon.com unveiled its third generation tablet, called Kindle Fire HDX. In October 2013, the sixth generation Kindle was released.",'1-1-2-1-1-2-1-1-1-2-2-14-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'In April 2014, Amazon announced its Amazon Fire TV set-top box system, a device targeted to compete with such systems like Apple TV or Google's Chromecast device. The Amazon set-top box allows for streaming videos from sites like Amazon's own streaming service as well as others such as Netflix or Hulu. The device will also support gaming. It was announced to retail for $99 in the US.",'1-1-2-1-1-2-1-1-1-2-2-14-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Digital content,'1-1-2-1-1-2-1-1-1-2-2-15-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon's Honor System was launched in 2001 to allow customers to make donations or buy digital content, with Amazon collecting a percentage of the payment plus a fee; however, the service was discontinued in 2008 and replaced by Amazon Payments.",'1-1-2-1-1-2-1-1-1-2-2-15-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Amazon MP3, its own online music store, launched in the US on September 25, 2007, selling downloads exclusively in MP3 format without digital rights management. (In addition to copyright law, Amazon's terms of use agreements restrict use of the MP3s, but Amazon does not use digital rights management (DRM) to enforce those terms.) In addition to independent music labels, Amazon MP3 primarily sells music from the ""Big 4"" record labels: EMI, Universal, Warner Bros. Records, and Sony Music. Prior to the launch of this service, Amazon made an investment in Amie Street, a music store with a variable pricing model based on demand. Amazon MP3 was the first online offering of DRM-free music from all four major record companies.",'1-1-2-1-1-2-1-1-1-2-2-15-2-2,2,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In January 2008, Amazon began distributing its MP3 service to subsidiary websites worldwide and, in December 2008, Amazon MP3 was made available in the UK. At the launch of Amazon MP3 in the UK, over 3 million Digital Rights Management (DRM)-free songs were made available to consumers, with prices that started at 59p, compared to Apple's 79p starting price.",'1-1-2-1-1-2-1-1-1-2-2-15-2-3,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In July 2010, Amazon announced that e-book sales for its Kindle reader outnumbered sales of hardcover books for the first time ever during the second quarter of 2010. Amazon claims that, during that period, 143 e-books were sold for every 100 hardcover books, including hardcovers for which there is no digital edition; and during late June and early July, sales rose to 180 digital books for every 100 hardcovers.",'1-1-2-1-1-2-1-1-1-2-2-15-2-4,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On March 22, 2011, Amazon launched the Amazon Appstore for Android devices and the service was made available in over 200 countries. Also in 2011, Amazon announced that it was releasing a Mac download store to offer dozens of games and hundreds of pieces of software for Apple computers.",'1-1-2-1-1-2-1-1-1-2-2-15-2-5,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In January 2013, Amazon launched AutoRip, a digital music service. The service allows customers to receive a free MP3 copy of select CDs purchased through Amazon. Amazon announced in September 2013 that they would launch Kindle MatchBook in October 2013, a similar service for books allowing customers who buy books from Amazon to acquire an e-book copy for free, or at a discounted price of US$3 or less. MatchBook was launched on the company's site on October 29, 2013.",'1-1-2-1-1-2-1-1-1-2-2-15-2-6,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Amazon Games,'1-1-2-1-1-2-1-1-1-2-2-16-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In August 2012, Amazon announced it would be adding a gaming department to its company titled Amazon Game Studios. Amazon stated that they will introduce ""innovative, fun and well-crafted games"" to consumers. According to the Amazon Game Studios website, the last game that was launched by the department was Amazon's first ever mobile game Air Patriots, released on November 1, 2012.",'1-1-2-1-1-2-1-1-1-2-2-16-2-1,2,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'On February 6, 2014, Amazon confirmed the acquisition of the gaming company Double Helix Games without any indication of the financial terms. The 75 Double Helix employees will become Amazon employees and their Orange County, California headquarters remain their operating base. Amazon informed the TechCrunch media company that it ""acquired Double Helix as part of our [Amazon's] ongoing commitment to build innovative games for customers"" and confirmed that Double Helix's current game roster and other future developments will receive support following the acquisition.",'1-1-2-1-1-2-1-1-1-2-2-16-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Amazon Art,'1-1-2-1-1-2-1-1-1-2-2-17-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In August 2013 Amazon launched Amazon Art as an online marketplace selling original and limited edition fine art from selected galleries. The initial 40000 items listed for sale included Norman Rockwell's painting “Willie Gillis: Package from Home” priced at $4.85 million, ""L'Enfant a la tasse"" by Claude Monet for $1.45 million and Andy Warhol's ""Sachiko"" for $45 000.",'1-1-2-1-1-2-1-1-1-2-2-17-2,2,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Amazon Instant Video,'1-1-2-1-1-2-1-1-1-2-2-18-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Main articles: Amazon Instant Video, Amazon Instant Video UK, and Amazon Instant Video German",'1-1-2-1-1-2-1-1-1-2-2-18-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Amazon Prime,'1-1-2-1-1-2-1-1-1-2-2-19-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon Prime is a service of free two-day shipping on all eligible purchases, for a flat annual fee, as well as discounted one-day shipping rates. Amazon launched the program in the contiguous United States in 2005, in Japan, the United Kingdom and Germany in 2007, in France (as ""Amazon Premium"") in 2008, in Italy in 2011 and in Canada in 2013.",'1-1-2-1-1-2-1-1-1-2-2-19-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+"'Amazon Prime membership in the United States, United Kingdom and Germany also provides Amazon Instant Video, the instant streaming of selected movies and TV shows at no additional cost. In November 2011, it was announced that Prime members have access to the Kindle Owners’ Lending Library, which allows users to borrow certain popular titles for free reading on Kindle hardware, up to one book a month, with no due date.",'1-1-2-1-1-2-1-1-1-2-2-19-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In March 2014, Amazon announced an increase in the annual membership fee for Amazon Prime, from $79 to $99.",'1-1-2-1-1-2-1-1-1-2-2-19-2-3,1,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,1,0,0,0,0,2,I
+'Private labels and exclusive marketing arrangements,'1-1-2-1-1-2-1-1-1-2-2-20-1,0,0,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'In August 2005, Amazon began selling products under its own private label, ""Pinzon""; the trademark applications indicated that the label would be used for textiles, kitchen utensils, and other household goods. In March 2007, the company applied to expand the trademark to cover a more diverse list of goods and to register a new design consisting of the ""word PINZON in stylized letters with a notched letter ""O"" which appears at the ""one o'clock"" position"". Coverage by the trademark grew to include items such as paints, carpets, wallpaper, hair accessories, clothing, footwear, headgear, cleaning products, and jewelry. In September 2008, Amazon filed to have the name registered. USPTO has finished its review of the application, but Amazon has yet to receive an official registration for the name.",'1-1-2-1-1-2-1-1-1-2-2-20-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'AmazonBasics is a private-label consumer electronics product line. It sells AV cables, blank DVD media and other electronics products under the AmazonBasics product label. The line was launched in 2009.",'1-1-2-1-1-2-1-1-1-2-2-20-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'An Amazon.com exclusive is a product, usually a DVD, that is available exclusively on Amazon.com. Some DVDs are produced by the owner of the film/product, while others are produced by Amazon.com itself. The DVDs produced by Amazon are made using their ""CreateSpace"" program, in which DVDs are created, upon ordering, using DVD-R technology. The DVDs are then shipped about two days later. Some DVDs (such as the Jersey Shore Season 1 or The Unusuals Season 1) first release their DVD on Amazon as an Amazon.com Exclusive for a limited time before being released elsewhere. On May 23, 2011, Amazon.com allowed customers to download Lady Gaga's Born This Way album for $0.99, resulting in some downloads being delayed, due to an extremely high volume of downloads.",'1-1-2-1-1-2-1-1-1-2-2-20-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon self publishing services through one of its companies, CreateSpace, a member of the Amazon group of companies.",'1-1-2-1-1-2-1-1-1-2-2-20-2-4,1,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Computing services,'1-1-2-1-1-2-1-1-1-2-2-21-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+"'Amazon launched Amazon Web Services (AWS) in 2002, which provides programmatic access to latent features on its website. Amazon Web Services (AWS) was first launched as a public beta of Amazon Elastic Compute Cloud running Microsoft Windows Server and Microsoft SQL Server. This was later expanded to several operating systems, including various flavors of Linux and OpenSolaris.",'1-1-2-1-1-2-1-1-1-2-2-21-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In November 2005, amazon.com began testing Amazon Mechanical Turk, an application programming interface (API) allowing programs to dispatch tasks to human processors.",'1-1-2-1-1-2-1-1-1-2-2-21-2-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In March 2006, Amazon launched an online storage service called Amazon Simple Storage Service (Amazon S3). An unlimited number of data objects, from 1 byte to 5 terabytes in size, can be stored in S3 and distributed via HTTP or BitTorrent. The service charges monthly fees for data stored and transferred. In 2006, Amazon introduced Amazon Simple Queue Service (Amazon SQS), a distributed queue messaging service, and product wikis (later folded into Amapedia) and discussion forums for certain products using guidelines that follow standard message board conventions. Also in 2006, Amazon introduced Amazon Elastic Compute Cloud (Amazon EC2), a virtual site farm, allowing users to use the Amazon infrastructure to run applications ranging from running simulations to web hosting. In 2008, Amazon improved the service by adding Elastic Block Store (EBS), offering persistent storage for Amazon EC2 instances and Elastic IP addresses, and offering static IP addresses designed for dynamic cloud computing. Amazon introduced SimpleDB, a database system, allowing users of its other infrastructure to utilize a high-reliability, high-performance database system.",'1-1-2-1-1-2-1-1-1-2-2-21-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon continues to refine and add services to AWS, adding such services as Scalable DNS service (Amazon Route 53), payment handling, and AWS specific APIs for their Mechanical Turk service.",'1-1-2-1-1-2-1-1-1-2-2-21-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In August 2012, Amazon announced Amazon Glacier, a low-cost online file storage web service that provides reliable data archiving, storage, and backup.",'1-1-2-1-1-2-1-1-1-2-2-21-2-5,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In November 2012 at AWS' web developer conference in Las Vegas it announced it was targeting large companies as cloud storage clients. It will further cut its S3 prices to customers with long-term contracts in its ""Redshift"" storage service launching in 2013.",'1-1-2-1-1-2-1-1-1-2-2-21-2-6,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'In March 2013 Amazon announced its Mobile Ads API for developers. The new Ads API can be used on apps distributed on any Android platform as long as the app is also available on Amazon’s Appstore.,'1-1-2-1-1-2-1-1-1-2-2-21-2-7,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Content production,'1-1-2-1-1-2-1-1-1-2-2-22-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon Publishing is Amazon's publishing unit. It is composed of AmazonEncore, AmazonCrossing, Montlake Romance, Thomas & Mercer, 47 North, and Powered by Amazon. Additional imprints are planned.",'1-1-2-1-1-2-1-1-1-2-2-22-2-1,1,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Launched in 2005, Amazon Shorts offered exclusive short stories and non-fiction pieces from best-selling authors for immediate download. By June 2007, the program had over 1,700 pieces and was adding about 50 new pieces per week. The program was discontinued on June 1, 2010.",'1-1-2-1-1-2-1-1-1-2-2-22-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2008, Amazon expanded into film production, producing the film The Stolen Child with 20th Century Fox.",'1-1-2-1-1-2-1-1-1-2-2-22-2-3,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Donations,'1-1-2-1-1-2-1-1-1-2-2-23-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon also created ""channels"" to benefit certain causes. In 2004, Amazon allowed customers to donate $5 to $200 to the campaigns of 2004 US presidential hopefuls, providing links that raised $300,000 for the candidates. Amazon has periodically reactivated a Red Cross donation channel after crises such as Hurricane Sandy, Hurricane Katrina, and the 2004 earthquake and tsunami in the Indian Ocean. By January 2005, nearly 200,000 people had donated over $15.7 million in the US.",'1-1-2-1-1-2-1-1-1-2-2-23-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Amazon Local,'1-1-2-1-1-2-1-1-1-2-2-24-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon Local is a daily deal service launched in June 2011 in Boise, Idaho. As of 2013, Amazon Local offers daily deals to over 100 regions in 36 U.S. states. Amazon Local also acts as a deal aggregator; some of the deals are actually offered through LivingSocial, a firm in which Amazon has heavily invested.",'1-1-2-1-1-2-1-1-1-2-2-24-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'AmazonWireless,'1-1-2-1-1-2-1-1-1-2-2-25-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In July 2009, Amazon.com launched their AmazonWireless website, which offers cellular devices and service plans for Verizon Wireless, AT&T, Sprint Nextel and T-Mobile in the US.",'1-1-2-1-1-2-1-1-1-2-2-25-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'AmazonFresh,'1-1-2-1-1-2-1-1-1-2-2-26-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Main article: AmazonFresh,'1-1-2-1-1-2-1-1-1-2-2-26-2,0,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Amazon Prime Air,'1-1-2-1-1-2-1-1-1-2-2-27-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'60 Minutes announced on December 1, 2013 that Amazon Prime Air is a possible future delivery service expected to be many more years in development. In concept, the process would use drones to deliver small packages (less than five pounds) within 30 minutes by flying short distances (10–20 km) from local Amazon Fulfillment Centers. The project will require the FAA (Federal Aviation Administration) to approve commercial use of unmanned drones. Although such approval could be in place as early as 2015, the project is still expected to be a few years off.",'1-1-2-1-1-2-1-1-1-2-2-27-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Other services,'1-1-2-1-1-2-1-1-1-2-2-28-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+"'In 2007, Amazon launched Amapedia, a now-defunct wiki for user-generated content to replace ProductWiki, and the video on demand service Amazon Unbox.",'1-1-2-1-1-2-1-1-1-2-2-28-2-1,1,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Also in 2007, Amazon launched Amazon Vine, which allows reviewers free access to pre-release products from vendors in return for posting a review, as well as a payment service specifically targeted at developers, Amazon FPS.",'1-1-2-1-1-2-1-1-1-2-2-28-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'IMDb and Amazon launched a website called SoundUnwound for browsing music metadata with wiki-like user contribution in September 2007; this data was also used for Amazon's Artist Pages. Soundunwound ceased existence on June 18, 2012, and the site redirected to Amazon.",'1-1-2-1-1-2-1-1-1-2-2-28-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Amazon Connect enables authors to post remarks on their book pages to customers.,'1-1-2-1-1-2-1-1-1-2-2-28-2-4,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon Webstore allows businesses to create custom e-commerce websites using Amazon technology. Sellers pay a commission of 1-2%, plus credit-card processing fees and fraud protection, and a subscription fee which ranges from $0 to $39.99 per month depending on the bundle option for an unlimited number of listings. Amazon has chosen very few companies to become their implementation solution provider, and they are 4C Media, Absolute Webstores, atmosol, eCatalog, Explore Consulting, GoWebBaby, Kaushalam, KLoc Technologies, Luxor Design, SynapseIndia, and V Group. These companies ecourages traders to have their own webstore with easy guidance and solutions.",'1-1-2-1-1-2-1-1-1-2-2-28-2-5,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Companies,'1-1-2-1-1-2-1-1-1-2-2-29-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,C
+'Companies owned by Amazon that operate under their own brand.,'1-1-2-1-1-2-1-1-1-2-2-29-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,C
+'Brilliance Audio,'1-1-2-1-1-2-1-1-1-2-2-30-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Brilliance Audio is an audiobook publisher founded in 1984 by Michael Snodgrass in Grand Haven, Michigan. The company produced its first 8 audio titles in 1985. The company was purchased by Amazon in 2007 for an undisclosed amount. At the time of the acquisition Brilliance was producing 12-15 new titles a month. It operates as an independent company within Amazon.",'1-1-2-1-1-2-1-1-1-2-2-30-2-1,2,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+"'In 1984, Brilliance Audio invented a technique for recording twice as much on the same cassette. The technique involved recording on each of the two channels of each stereo track. It has been credited with revolutionizing the burgeoning audiobook market in the mid-1980s since it made unabridged books affordable.",'1-1-2-1-1-2-1-1-1-2-2-30-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Website,'1-1-2-1-1-2-1-1-1-2-2-31-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+"'The domain amazon.com attracted at least 615 million visitors annually by 2008, twice the number of Walmart. Amazon attracts approximately 65 million customers to its US website per month. The company has also invested heavily on a massive amount of server capacity for its website, especially to handle the excessive traffic during the December Christmas holiday season. In addition to amazon.com, there are different versions of Amazon for several different countries, each varying in assortment and prices. As of December 2013, in alphabetical order by region, these are:",'1-1-2-1-1-2-1-1-1-2-2-31-2-1,2,0,0,1,0,0,1,2,1,2,1,0,1,0,0,0,0,0,0,0,1,1,1,I
+"'Asia: amazon.cn or z.cn (China), amazon.in (India), amazon.co.jp (Japan).
+Europe: amazon.de (Germany), amazon.es (Spain), amazon.fr (France), amazon.it (Italy), amazon.co.uk (UK).
+North America: amazon.ca (Canada), amazon.com.mx (Mexico).
+Oceania: amazon.com.au (Australia).
+South America: amazon.com.br (Brazil).",'1-1-2-1-1-2-1-1-1-2-2-31-2-2,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'Results generated by Amazon's search engine are partly determined by promotional fees.,'1-1-2-1-1-2-1-1-1-2-2-31-2-3,1,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Reviews,'1-1-2-1-1-2-1-1-1-2-2-32-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'See also: Amazon.com controversies#Amazon reviews,'1-1-2-1-1-2-1-1-1-2-2-32-2-1,0,0,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Amazon allows users to submit reviews to the web page of each product. Reviewers must rate the product on a rating scale from one to five stars. Amazon provides a badging option for reviewers which indicate the real name of the reviewer (based on confirmation of a credit card account) or which indicate that the reviewer is one of the top reviewers by popularity. Customers may comment or vote on the reviews, indicating whether or not they found it helpful to them. If a review is given enough ""helpful"" hits, it appears on the front page of the product. In 2010, Amazon was reported as being the largest single source of Internet consumer reviews.",'1-1-2-1-1-2-1-1-1-2-2-32-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'When publishers asked Bezos why Amazon would publish negative reviews, he defended the practice by claiming that amazon.com was ""taking a different approach...we want to make every book available – the good, the bad, and the ugly...to let truth loose"".",'1-1-2-1-1-2-1-1-1-2-2-32-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Although reviews are attributed to the credit-card name of the reviewer, there have been cases of positive reviews being written and posted by a public relations company on behalf of its clients, and writers employing pseudonyms to leave negative reviews of their rivals' work.",'1-1-2-1-1-2-1-1-1-2-2-32-2-4,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Following listing for sale of Untouchable: The Strange Life and Tragic Death of Michael Jackson a disparaging biography of Michael Jackson by Randall Sullivan his fans, organized via social media as ""Michael Jackson’s Rapid Response Team to Media Attacks"" bombarded Amazon with negative reviews and negative ratings of positive reviews.",'1-1-2-1-1-2-1-1-1-2-2-32-2-5,2,0,0,1,0,2,1,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Content search,'1-1-2-1-1-2-1-1-1-2-2-33-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'""Search Inside the Book"" is a feature which allows customers to search for keywords in the full text of many books in the catalog. The feature started with 120,000 titles (or 33 million pages of text) on October 23, 2003. There are currently about 300,000 books in the program. Amazon has cooperated with around 130 publishers to allow users to perform these searches.",'1-1-2-1-1-2-1-1-1-2-2-33-2-1,2,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'To avoid copyright violations, amazon.com does not return the computer-readable text of the book. Instead, it returns a picture of the matching page, instructs the web browser to disable printing, and puts limits on the number of pages in a book a single user can access. Additionally, customers can purchase online access to some of the same books via the ""Amazon Upgrade"" program.",'1-1-2-1-1-2-1-1-1-2-2-33-2-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Third-party sellers,'1-1-2-1-1-2-1-1-1-2-2-34-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon derives about 40% of its sales from affiliate marketing called ""Amazon Associates"" and third-party sellers who sell products on Amazon. Associates receive a commission for referring customers to Amazon by placing links on their websites to Amazon, if the referral results in a sale. Worldwide, Amazon has ""over 900,000 members"" in its affiliate programs. Amazon reported over 1.3 million sellers sold products through Amazon's websites in 2007. Unlike eBay, Amazon sellers do not have to maintain separate payment accounts; all payments are handled by Amazon.",'1-1-2-1-1-2-1-1-1-2-2-34-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Associates can access the Amazon catalog directly on their websites by using the Amazon Web Services (AWS) XML service. A new affiliate product, aStore, allows Associates to embed a subset of Amazon products within another website, or linked to another website. In June 2010, Amazon Seller Product Suggestions was launched (rumored to be internally called ""Project Genesis"") to provide more transparency to sellers by recommending specific products to third-party sellers to sell on Amazon. Products suggested are based on customers' browsing history.",'1-1-2-1-1-2-1-1-1-2-2-34-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'A January 2010 survey of third-party sellers by Auctionbytes.com found that Amazon was 4th overall. Amazon.com placed second in ""Profitability"". Its lowest rating, but still above average, was in ""Ease of Use"". Sellers felt it had clearly defined rules, provided a steady stream of traffic to their listings, and put less emphasis on a community component. Amazon came in second in the Recommended Selling Venue category.",'1-1-2-1-1-2-1-1-1-2-2-34-2-3,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Amazon sales rank,'1-1-2-1-1-2-1-1-1-2-2-35-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'The Amazon sales rank (ASR) provides an indication of the popularity of a product sold on any Amazon locale. It is a relative indicator of popularity that is updated hourly. Effectively, it is a ""best sellers list"" for the millions of products stocked by Amazon. While the ASR has no direct effect on the sales of a product, it is used by Amazon to determine which products to include in their best sellers lists. Products that appear in these lists enjoy additional exposure on the Amazon website, and this may lead to an increase in sales. In particular, products that experience large jumps (up or down) in their sales ranks may be included within Amazon's lists of ""movers and shakers,"" and this also provides additional exposure that may lead to an increase in sales. For competitive reasons, Amazon does not release actual sales figures to the public. However, Amazon has now begun to release point of sale data via the Nielsen BookScan service to verified authors. While the ASR has been the source of much speculation by publishers, manufacturers and marketers, Amazon itself does not release the details of its sales rank calculation algorithm. In addition, it states:",'1-1-2-1-1-2-1-1-1-2-2-35-2,2,0,0,1,0,0,1,2,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'AWS Summit 2013 event in NYC.,'1-1-2-1-1-2-1-1-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Please keep in mind that our sales rank figures are simply meant to be a guide of general interest for the customer and not definitive sales information for publishers - we assume you have this information regularly from your distribution sources,'1-1-2-1-1-2-1-2-1,2,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'—Amazon.com Help,",'1-1-2-1-1-2-1-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Amazon technology,'1-1-2-1-1-2-1-3-1-1-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Customer Relationship Management (CRM) and Information Management (IM) support Amazon’s business strategy. The core technology that keeps Amazon running is Linux-based. As of 2005, Amazon had the world’s three largest Linux databases, with capacities of 7.8 TB, 18.5 TB, and 24.7 TB. The central data warehouse of Amazon is made of 28 Hewlett Packard servers with four CPUs per node running Oracle database software. Amazon’s technology architecture handles millions of back-end operations every day, as well as queries from more than half a million third-party sellers. With hundreds of thousands of people sending their credit card numbers to Amazon’s servers everyday, security becomes a major concern. Amazon employs Netscape Secure Commerce Server using the Secure Socket Layer protocol which stores all credit card details in a separate database. The company also records data on customer buyer behavior which enables them to offer or recommend to an individual specific item, or bundles of items based upon preferences demonstrated through purchases or items visited.",'1-1-2-1-1-2-1-3-1-1-2-1,2,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'On January 31, 2013 Amazon experienced an outage that lasted approximately 49 minutes, leaving its site inaccessible to some customers.",'1-1-2-1-1-2-1-3-1-1-2-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Multi-level sales strategy,'1-1-2-1-1-2-1-3-1-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon employs a multi-level e-commerce strategy. Amazon started off by focusing on Business-to-Consumer relationships between itself and its customers, and Business-to-Business relationships between itself and its suppliers but it then moved to incorporate Customer-to-Business transactions as it realized the value of customer reviews as part of the product descriptions. It now also facilitates customer to customer with the provision of the Amazon marketplace which act as an intermediary to facilitate consumer to consumer transactions. The company lets almost anyone sell almost anything using its platform. In addition to affiliate program that lets anybody post Amazon links and earn a commission on click through sales, there is now a program which let those affiliates build entire websites based on Amazon’s platform.",'1-1-2-1-1-2-1-3-1-2-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Some other large e-commerce sellers use Amazon to sell their products in addition to selling them through their own websites. The sales are processed through Amazon.com and end up at individual sellers for processing and order fulfillment and Amazon leases space for these retailers. Small sellers of used and new goods go to Amazon Marketplace to offer goods at a fixed price. Amazon also employs the use of drop shippers or meta sellers. These are members or entities that advertise goods on Amazon who order these goods direct from other competing websites but usually from other Amazon members. These meta sellers may have millions of products listed, have large transaction numbers and are grouped alongside other less prolific members giving them credibility as just someone who has been in business for a long time. Markup is anywhere from 50% to 100% and sometimes more, these sellers maintain that items are in stock when the opposite is true. As Amazon increases their dominance in the marketplace these drop shippers have become more and more commonplace in recent years. The resulting damage to a supply and demand marketplace remains to be seen but advertising contracts with large search engines eliminating smaller websites from overall exposure these practices should have a negative effect on the industry on the whole.",'1-1-2-1-1-2-1-3-1-2-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Revenue,'1-1-2-1-1-2-1-3-1-3-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Over the last decade, Amazon has developed a customer base of around 30 million people. Amazon.com is primarily a retail site with a sales revenue model. Amazon makes its money by taking a small percentage of the sale price of each item that is sold through its website. Amazon also allows companies to advertise their products by paying to be listed as featured products.",'1-1-2-1-1-2-1-3-1-3-2,2,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,I
+'Controversies,'1-1-2-1-1-2-1-3-1-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Main article: Amazon.com controversies,'1-1-2-1-1-2-1-3-1-4-2-1,0,0,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Since its founding, the company has attracted criticism and controversy from multiple sources over its actions. These include: luring customers away from the site's brick and mortar competitors, poor warehouse conditions for workers; anti-unionization efforts; Amazon Kindle remote content removal; taking public subsidies; its ""1-Click patent"" claims; anti-competitive actions; price discrimination; various decisions over whether to censor or publish content such as the WikiLeaks website; LGBT book sales rank;, and works containing libel, facilitating dogfight, cockfight, or pedophile activities. In December 2011, Amazon faced backlash from small businesses for running a one-day deal to promote its new Price Check app. Shoppers who used the app to check prices in a brick-and-mortar store were offered a 5% discount to purchase the same item from Amazon. Companies like Groupon, eBay, and Taap.it countered Amazon's promotion by offering $10 off from their products. The company has also faced accusations of putting undue pressure on suppliers to maintain and extend its profitability. One effort to squeeze the most vulnerable book publishers was known within the company as the Gazelle Project, after Bezos suggested, according to Brad Stone, ""that Amazon should approach these small publishers the way a cheetah would pursue a sickly gazelle.""",'1-1-2-1-1-2-1-3-1-4-2-2,2,0,0,1,0,0,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sales and use taxes,'1-1-2-1-1-2-1-3-1-5-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Main article: Amazon tax,'1-1-2-1-1-2-1-3-1-5-2,0,0,0,1,0,2,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Poor working conditions,'1-1-2-1-1-2-1-3-1-6-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon has attracted widespread criticism by both current and former employees, as well as the media and politicians for poor working conditions. In fall 2011 it was publicized that at the Breinigsville, Pennsylvania warehouse, workers had to carry out work in 100 °F (38 °C) heat, resulting in employees becoming extremely uncomfortable and suffering from dehydration and collapse. Loading-bay doors were not opened to allow in fresh air as ""managers were worried about theft"". Amazon's initial response was to pay for an ambulance to sit outside on call to cart away overheated employees.",'1-1-2-1-1-2-1-3-1-6-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Some workers, ""pickers"", who travel the building with a trolley and a handheld scanner ""picking"" customer orders can walk up to 15 miles a day back and forward, and if they fall behind on their targets, they can be reprimanded. The handheld scanners feed back to the employee real time information on how fast or slowly they are going, and also serve to allow Team Leads and Area Managers to track the specific locations of employees and how much ""idle time"" they gain when not working. In a German television report broadcast in February 2013, journalists Diana Löbl and Peter Onneken conducted a covert investigation at the distribution center of Amazon in the town of Bad Hersfeld in the German state of Hesse. The report highlights the behavior of some of the security guards, themselves being employed by a third party company, who apparently either had a Neo-nazi background or deliberately dressed in Neo-Nazi apparel, and who were intimidating foreign and temporary female workers at its distribution centres. The third party security company involved was delisted by Amazon as a business contact shortly after that report.",'1-1-2-1-1-2-1-3-1-6-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Lobbying,'1-1-2-1-1-2-1-3-1-7-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Amazon.com lobbies the United States federal government and state governments on issues such as the enforcement of sales taxes on online sales, transportation safety, privacy and data protection, and intellectual property. According to regulatory filings, Amazon.com focuses its lobbying on the US Congress, the Federal Communications Commission, and the Federal Reserve. Amazon.com spent $500,000 on lobbying in the second quarter of 2010, $630,000 in the first quarter of 2011, and $450,000 in the second quarter of that year.",'1-1-2-1-1-2-1-3-1-7-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Amazon.com was a corporate member of the American Legislative Exchange Council (ALEC) until it dropped membership following protests at its shareholders' meeting May 24, 2012.",'1-1-2-1-1-2-1-3-1-7-2-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The initiative Choice in eCommerce was founded on May 8, 2013 by several online retailers in Berlin, Germany. The cause was, in the view of the initiative, sales bans and online restrictions by individual manufacturers. The dealers felt cut off from their main sales channel and thus deprived them the opportunity to use online platforms like Amazon, eBay or Rakuten in a competitive market for the benefit of their customers.",'1-1-2-1-1-2-1-3-1-7-2-3,2,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Notable businesses founded by former employees,'1-1-2-1-1-2-1-3-1-8-1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'A number of companies have been started and founded by former Amazon employees.,'1-1-2-1-1-2-1-3-1-8-2-1,1,0,0,1,0,0,0,0,1,2,0,1,0,0,1,0,0,0,1,1,1,1,1,I
+'Findory was founded by Greg Linden,'1-1-2-1-1-2-1-3-1-8-2-2-1,0,1,0,1,0,2,1,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,2,I
+'Flipkart was founded by Sachin Bansal and Binny Bansal,'1-1-2-1-1-2-1-3-1-8-2-2-2,0,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,2,I
+'Foodista was founded by Barnaby Dorfman,'1-1-2-1-1-2-1-3-1-8-2-2-3,0,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,2,I
+"'Hulu was led by Jason Kilar, a former SVP",'1-1-2-1-1-2-1-3-1-8-2-2-4,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Infibeam was founded by Vishal Mehta,'1-1-2-1-1-2-1-3-1-8-2-2-5,0,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,2,I
+'Jambool/SocialGold was co-founded by Vikas Gupta and Reza Hussein,'1-1-2-1-1-2-1-3-1-8-2-2-6,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Nimbula was co-founded by Chris Pinkham, a former VP, and Willem Van Biljon, a former Product Manager",'1-1-2-1-1-2-1-3-1-8-2-2-7,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Opscode was co-founded by Jesse Robbins, a former engineer and manager",'1-1-2-1-1-2-1-3-1-8-2-2-8,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Pelago was co-founded by Jeff Holden, a former SVP, and Darren Vengroff, a former Principal Engineer",'1-1-2-1-1-2-1-3-1-8-2-2-9,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Quora was co-founded by engineer Charlie Cheever,'1-1-2-1-1-2-1-3-1-8-2-2-10,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'TeachStreet was founded by Dave Schappell, an early product manager",'1-1-2-1-1-2-1-3-1-8-2-2-11,1,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,2,I
+'The Book Depository was founded by Andrew Crawford; acquired by Amazon in 2011.,'1-1-2-1-1-2-1-3-1-8-2-2-12,1,1,0,1,0,2,1,0,1,2,1,1,0,1,1,0,0,0,0,0,0,0,2,I
+"'Trusera was founded by Keith Schorsch, an early Amazonian",'1-1-2-1-1-2-1-3-1-8-2-2-13-1,0,1,0,1,0,2,1,0,1,2,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+"'Twilio was founded by Jeff Lawson, a former Technical Product Manager",'1-1-2-1-1-2-1-3-1-8-2-2-13-2,1,1,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,2,I
+'Vittana was founded by Kushal Chakrabarti and Brett Witt,'1-1-2-1-1-2-1-3-1-8-2-2-14,0,1,0,1,0,2,1,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,2,I
+'Wikinvest was founded by Michael Sha,'1-1-2-1-1-2-1-3-1-8-2-2-15,0,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,2,I
+'Yellowleg.com was founded by Aashish Gupta,'1-1-2-1-1-2-1-3-1-8-2-2-16,0,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,2,I
+"'Zeitgeist Research was founded by Manfred Bluemel, former head of market research worldwide",'1-1-2-1-1-2-1-3-1-8-2-2-17,1,1,0,1,0,2,1,0,1,2,1,1,0,1,1,0,0,0,0,0,0,0,2,I
+'See also,'1-1-2-1-1-2-1-3-1-9-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Amazon Breakthrough Novel Award,'1-1-2-1-1-2-1-3-1-9-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Amazon Marketplace,'1-1-2-1-1-2-1-3-1-9-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+'Amazon Standard Identification Number (ASIN),'1-1-2-1-1-2-1-3-1-9-2-3,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'List of book distributors,'1-1-2-1-1-2-1-3-1-9-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+'Statistically Improbable Phrases: amazon.com's phrase extraction technique for indexing books.,'1-1-2-1-1-2-1-3-1-9-2-5,1,1,0,1,0,2,1,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Further reading,'1-1-2-1-1-2-1-3-1-10-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Brandt, Richard L. (2011). One Click: Jeff Bezos and the Rise of Amazon.com. New York: Portfolio. ISBN 978-1-59184-375-7.",'1-1-2-1-1-2-1-3-1-10-2-1,1,1,0,1,0,2,1,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Daisey, Mike (2002). 21 Dog Years. Free Press. ISBN 0-7432-2580-5.",'1-1-2-1-1-2-1-3-1-10-2-2-1,1,1,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Friedman, Mara (2004).",'1-1-2-1-1-2-1-3-1-10-2-2-2-1,0,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Amazon.com for Dummies,'1-1-2-1-1-2-1-3-1-10-2-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Wiley Publishing ISBN 0-7645-5840-4,'1-1-2-1-1-2-1-3-1-10-2-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,2,I
+"'Marcus, James (2004). Amazonia: Five Years at the Epicenter of the Dot.Com Juggernaut. W. W. Norton. ISBN 1-56584-870-5.",'1-1-2-1-1-2-1-3-1-10-2-3,1,1,0,1,0,2,1,1,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Spector, Robert (2000). Amazon.com – Get Big Fast: Inside the Revolutionary Business Model That Changed the World. HarperCollins Publishers. ISBN 0-06-662041-4.",'1-1-2-1-1-2-1-3-1-10-2-4,1,1,0,1,0,2,1,1,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Stone, Brad (2013). The Everything Store: Jeff Bezos and the Age of Amazon. New York: Little Brown and Co. ISBN 9780316219266. OCLC 856249407.",'1-1-2-1-1-2-1-3-1-10-2-5,1,1,0,1,0,2,1,1,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'External links,'1-1-2-1-1-2-1-3-1-11,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Seattle portal,'1-1-2-1-1-2-1-3-2-1-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Internet portal,'1-1-2-1-1-2-1-3-2-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Wikimedia Commons has media related to Amazon.com.,'1-1-2-1-1-2-2-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Official website,'1-1-2-1-1-2-2-2-1-1,0,0,0,1,0,2,1,0,1,1,1,1,0,0,1,0,0,0,0,1,0,0,2,I
+"'""Inside An Amazon Warehouse"". IB Times",'1-1-2-1-1-2-2-2-1-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,I
+'Amazon.com companies grouped at OpenCorporates,'1-1-2-1-1-2-2-2-1-3,0,1,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'""Amazon's human robots: They trek 15 miles a day around a warehouse, their every move dictated by computers checking their work. Is this the future of the British workplace?"". The Daily Mail (Rugeley). February 28, 2013 .",'1-1-2-1-1-2-2-2-1-4,2,1,0,1,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Business data,'1-1-2-1-1-2-2-2-2,0,0,0,1,0,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'Amazon.com, Inc. at Google Finance",'1-1-2-1-1-2-2-2-3-1,0,1,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Amazon.com, Inc. at Yahoo! Finance",'1-1-2-1-1-2-2-2-3-2,0,1,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon.com, Inc. at Reuters",'1-1-2-1-1-2-2-2-3-3,0,1,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Amazon.com, Inc. SEC filings at the Securities and Exchange Commission",'1-1-2-1-1-2-2-2-3-4,1,1,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Amazon.com,'1-1-2-1-2-1,0,0,0,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'People,'1-1-2-1-2-2-1-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Jeff Bezos,'1-1-2-1-2-2-1-2-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Tony Hsieh,'1-1-2-1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Tom Szkutak,'1-1-2-1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Brian Valentine,'1-1-2-1-2-2-1-2-4,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Werner Vogels,'1-1-2-1-2-2-1-2-5,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+'Gregg Zehr,'1-1-2-1-2-2-1-2-6,0,1,0,1,0,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Former: Rick Dalzell,'1-1-2-1-2-2-1-2-7,0,1,0,1,0,2,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Brian Krueger,'1-1-2-1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Brian McBride,'1-1-2-1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'David Risher,'1-1-2-1-2-2-1-2-10,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Ram Shriram,'1-1-2-1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Products and services,'1-1-2-1-2-2-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,1,0,0,0,1,1,0,0,2,C
+'Websites,'1-1-2-1-2-2-2-2-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'A9.com,'1-1-2-1-2-2-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'AbeBooks,'1-1-2-1-2-2-2-2-1-2-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Alexa Internet,'1-1-2-1-2-2-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Amapedia,'1-1-2-1-2-2-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Askville,'1-1-2-1-2-2-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'CDNOW,'1-1-2-1-2-2-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'China,'1-1-2-1-2-2-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'The Book Depository,'1-1-2-1-2-2-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Diapers.com,'1-1-2-1-2-2-2-2-1-2-9,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Digital Photography Review,'1-1-2-1-2-2-2-2-1-2-10,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Endless.com,'1-1-2-1-2-2-2-2-1-2-11,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Fresh,'1-1-2-1-2-2-2-2-1-2-12,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+"'Internet Movie Database Box Office Mojo
+Withoutabox",'1-1-2-1-2-2-2-2-1-2-13,0,1,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Junglee.com,'1-1-2-1-2-2-2-2-1-2-14,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Marketplace,'1-1-2-1-2-2-2-2-1-2-15,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Payments,'1-1-2-1-2-2-2-2-1-2-16,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'PlanetAll,'1-1-2-1-2-2-2-2-1-2-17,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Shelfari,'1-1-2-1-2-2-2-2-1-2-18,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Local,'1-1-2-1-2-2-2-2-1-2-19,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Wireless,'1-1-2-1-2-2-2-2-1-2-20,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Woot.com,'1-1-2-1-2-2-2-2-1-2-21,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Zappos,'1-1-2-1-2-2-2-2-1-2-22,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Web services,'1-1-2-1-2-2-2-2-2-1,0,0,0,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'AMI,'1-1-2-1-2-2-2-2-2-2-1-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'CloudFront,'1-1-2-1-2-2-2-2-2-2-1-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'DynamoDB,'1-1-2-1-2-2-2-2-2-2-1-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'EBS,'1-1-2-1-2-2-2-2-2-2-1-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'EC2,'1-1-2-1-2-2-2-2-2-2-1-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'FPS,'1-1-2-1-2-2-2-2-2-2-1-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'MTurk,'1-1-2-1-2-2-2-2-2-2-1-7,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Product Advertising API,'1-1-2-1-2-2-2-2-2-2-1-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'RDS,'1-1-2-1-2-2-2-2-2-2-1-9,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'SES,'1-1-2-1-2-2-2-2-2-2-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'SimpleDB,'1-1-2-1-2-2-2-2-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'SQS,'1-1-2-1-2-2-2-2-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'VPC,'1-1-2-1-2-2-2-2-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Amazon Silk,'1-1-2-1-2-2-2-2-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Amazon Glacier,'1-1-2-1-2-2-2-2-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Digital,'1-1-2-1-2-2-2-2-3-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Appstore,'1-1-2-1-2-2-2-2-3-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Audible.com,'1-1-2-1-2-2-2-2-3-2-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Cloud Drive,'1-1-2-1-2-2-2-2-3-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Instant Video,'1-1-2-1-2-2-2-2-3-2-4,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1,2,I
+"'Kindle (Fire, Fire HD, Fire HDX)",'1-1-2-1-2-2-2-2-3-2-5,0,1,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Fire TV,'1-1-2-1-2-2-2-2-3-2-6,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Lexcycle,'1-1-2-1-2-2-2-2-3-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'LoveFilm,'1-1-2-1-2-2-2-2-3-2-8,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Mobipocket,'1-1-2-1-2-2-2-2-3-2-9,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'MP3,'1-1-2-1-2-2-2-2-3-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Reflexive Entertainment,'1-1-2-1-2-2-2-2-3-2-11,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Fire OS,'1-1-2-1-2-2-2-2-3-2-12,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Amazon Digital Game Store,'1-1-2-1-2-2-2-2-3-2-13,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Technology,'1-1-2-1-2-2-2-2-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'1-Click,'1-1-2-1-2-2-2-2-4-2-1,0,0,0,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Carbonado,'1-1-2-1-2-2-2-2-4-2-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Dynamo,'1-1-2-1-2-2-2-2-4-2-3,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Gurupa,'1-1-2-1-2-2-2-2-4-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Lab126,'1-1-2-1-2-2-2-2-4-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Double Helix Games,'1-1-2-1-2-2-2-2-4-2-6,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Obidos,'1-1-2-1-2-2-2-2-4-2-7,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Publishing,'1-1-2-1-2-2-2-2-5-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Amazon Publishing,'1-1-2-1-2-2-2-2-5-2-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Amazon Studios,'1-1-2-1-2-2-2-2-5-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Breakthrough Novel Award,'1-1-2-1-2-2-2-2-5-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Best Books of the Year,'1-1-2-1-2-2-2-2-5-2-4,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Investments,'1-1-2-1-2-2-2-2-6-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'43 Things,'1-1-2-1-2-2-2-2-6-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,I
+'Amie Street (Songza),'1-1-2-1-2-2-2-2-6-2-2,0,1,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'LibraryThing,'1-1-2-1-2-2-2-2-6-2-3,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'LivingSocial,'1-1-2-1-2-2-2-2-6-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sellaband,'1-1-2-1-2-2-2-2-6-2-5,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Other,'1-1-2-1-2-2-2-2-7-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Amazon Light,'1-1-2-1-2-2-2-2-7-2-1,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'ASIN,'1-1-2-1-2-2-2-2-7-2-2,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,2,I
+'Controversies (tax),'1-1-2-1-2-2-2-2-7-2-3,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Fishbowl,'1-1-2-1-2-2-2-2-7-2-4,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Locker,'1-1-2-1-2-2-2-2-7-2-5,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Perfect 10, Inc. v. Amazon.com, Inc.",'1-1-2-1-2-2-2-2-7-2-6,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Statistically Improbable Phrases,'1-1-2-1-2-2-2-2-7-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Vine,'1-1-2-1-2-2-2-2-7-2-7-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Links to related articles,'1-1-2-2-1,0,0,0,2,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Companies of the NASDAQ-100 index,'1-1-2-2-2-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,3,C
+'21st Century Fox,'1-1-2-2-2-1-2-1-1,0,0,0,2,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Activision Blizzard Adobe,'1-1-2-2-2-1-2-1-2,0,0,0,2,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Akamai,'1-1-2-2-2-1-2-1-3,0,0,0,2,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Alexion Pharmaceuticals,'1-1-2-2-2-1-2-1-4,0,0,0,2,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Altera,'1-1-2-2-2-1-2-1-5-1,0,0,0,2,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Amazon.com,'1-1-2-2-2-1-2-1-5-2,0,0,0,2,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Amgen Analog Devices Apple Applied Materials Autodesk ADP Avago Baidu Bed Bath & Beyond Biogen Idec Broadcom Catamaran Corporation C.H. Robinson CA Technologies Celgene Cerner Charter Communications Check Point Cisco Citrix Cognizant Comcast Costco DirecTV Discovery Communications Dish Network Dollar Tree eBay Equinix Expedia Expeditors International Express Scripts F5 Networks Facebook Fastenal Fiserv Garmin Gilead Sciences Google Henry Schein Illumina Intel Intuit Intuitive Surgical KLA Tencor Kraft Foods Keurig Green Mountain Liberty Global Liberty Interactive Liberty Media Linear Technology Marriott International Mattel Maxim Integrated Micron Technology Microsoft Mondelēz International Monster Beverage Mylan NetApp Netflix Nvidia NXP Semiconductors O'Reilly Auto Parts Paccar Paychex Priceline.com Qualcomm Regeneron Pharmaceuticals Ross Stores SanDisk SBA Communications Seagate Sigma-Aldrich Sirius XM Radio Staples Starbucks Stericycle Symantec Tesla Motors Texas Instruments Tractor Supply TripAdvisor Verisk Analytics Vertex Pharmaceuticals Viacom VimpelCom Vodafone Western Digital Whole Foods Market Wynn Resorts Xilinx Yahoo!,'1-1-2-2-2-1-2-2,2,0,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Seattle-based Corporations,'1-1-2-2-2-2-1-1,0,0,0,2,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'(within the Seattle metropolitan area),'1-1-2-2-2-2-1-2,0,0,0,1,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,1,N
+"'Seattle and SeaTac-based Fortune 1000 corporations
+
+Alaska Airlines
+Amazon.com (#49)
+Expeditors International (#428)
+Nordstrom (#227)
+Starbucks (#208)",'1-1-2-2-2-2-2-1,1,1,0,2,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,3,C
+"'Puget Sound-based Fortune 1000 corporations
+
+Companies listed above, plus: Costco Wholesale (#22)
+Expedia
+Microsoft (#35)
+Paccar (#168)
+Puget Sound Energy
+Weyerhaeuser (#363)",'1-1-2-2-2-2-2-2,1,1,0,2,1,2,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'Seattle Puget Sound,'1-1-2-2-2-2-2-3-1-1,0,0,0,2,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'or externally owned corporations,'1-1-2-2-2-2-2-3-1-2,0,0,0,2,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Big Fish Games,'1-1-2-2-2-2-2-3-2-1,0,0,0,2,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,3,I
+'Boeing (#30),'1-1-2-2-2-2-2-3-2-2,0,1,0,2,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Darigold,'1-1-2-2-2-2-2-3-2-3-1,0,0,0,2,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Eddie Bauer,'1-1-2-2-2-2-2-3-2-3-2,0,0,0,2,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Jones Soda,'1-1-2-2-2-2-2-3-2-4,0,0,0,2,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Nintendo of America,'1-1-2-2-2-2-2-3-2-5,0,0,0,2,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'QFC,'1-1-2-2-2-2-2-3-2-6,0,0,0,2,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'REI,'1-1-2-2-2-2-2-3-2-7-1,0,0,0,2,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Safeco,'1-1-2-2-2-2-2-3-2-7-2,0,0,0,2,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'T-Mobile US,'1-1-2-2-2-2-2-3-2-8,0,0,0,2,0,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Major information technology companies,'1-1-2-2-2-3-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+'Largest IT companies,'1-1-2-2-2-3-2-1-1-1,0,0,0,2,0,2,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,I
+'Largest Internet companies,'1-1-2-2-2-3-2-1-1-2-1,0,0,0,2,0,2,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Largest software companies,'1-1-2-2-2-3-2-1-1-2-2,0,0,0,2,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Semiconductor sales leaders by year,'1-1-2-2-2-3-2-1-1-3,0,0,0,2,0,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,2,I
+"'Consulting and
+ outsourcing
+
+Accenture
+Atos
+Booz Allen Hamilton
+BT
+CACI
+Capgemini
+CGI Group
+Cognizant
+CSC
+Deloitte
+Dell Services
+Digital China
+Fujitsu
+HCL Technologies
+Hitachi Consulting
+HP
+IBM
+Indra
+Infosys
+NEC
+NTT Data
+Orange Business Services
+TCS
+T-Systems
+Unisys
+Wipro",'1-1-2-2-2-3-2-1-2-1-1,1,1,0,2,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,C
+"'Imaging
+
+Canon
+HP
+Kodak
+Konica Minolta
+Kyocera
+Lexmark
+Nikon
+Olympus
+Ricoh
+Samsung
+Seiko Epson
+Sharp
+Sony
+Toshiba
+Xerox",'1-1-2-2-2-3-2-1-2-1-2,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+"'Information storage
+
+Dell
+EMC
+Fujitsu
+Hitachi Data Systems
+HP
+IBM
+NetApp
+Oracle
+Samsung
+Seagate
+Western Digital",'1-1-2-2-2-3-2-1-2-1-3,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,C
+"'Internet
+
+Alibaba
+Amazon.com
+AOL
+Baidu
+eBay
+Facebook
+Google
+Groupon
+IAC
+JD.com
+Microsoft
+NHN
+NetEase
+Rakuten
+Salesforce.com
+Tencent
+Yahoo!",'1-1-2-2-2-3-2-1-2-1-4,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Mainframes
+
+Fujitsu
+IBM",'1-1-2-2-2-3-2-1-2-1-5,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Mobile devices
+
+Acer
+Apple
+Asus
+BlackBerry
+HTC
+Huawei
+Lenovo
+LG
+Motorola Mobility
+Nokia
+Samsung
+Sony
+TCL (Alcatel)
+ZTE",'1-1-2-2-2-3-2-1-2-1-6,0,1,0,2,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Networking equipment
+
+Alcatel-Lucent
+Avaya
+Cisco
+Ericsson
+Fujitsu
+HP
+Huawei
+Juniper
+Mitsubishi Electric
+Motorola Solutions
+NEC
+Nokia Solutions and Networks
+Samsung
+ZTE",'1-1-2-2-2-3-2-1-2-1-7,0,1,0,2,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'OEMs,'1-1-2-2-2-3-2-1-2-1-8-1,0,0,0,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Celestica,'1-1-2-2-2-3-2-1-2-1-8-2-1,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Compal Electronics,'1-1-2-2-2-3-2-1-2-1-8-2-2,0,0,0,2,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
+'Flextronics,'1-1-2-2-2-3-2-1-2-1-8-2-3-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Foxconn,'1-1-2-2-2-3-2-1-2-1-8-2-3-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Jabil,'1-1-2-2-2-3-2-1-2-1-8-2-4,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Pegatron,'1-1-2-2-2-3-2-1-2-1-8-2-5,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Quanta,'1-1-2-2-2-3-2-1-2-1-8-2-6-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Sanmina-SCI,'1-1-2-2-2-3-2-1-2-1-8-2-6-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'TPV Technology,'1-1-2-2-2-3-2-1-2-1-8-2-7,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Wistron,'1-1-2-2-2-3-2-1-2-1-8-2-8,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Personal computers,'1-1-2-2-2-3-2-1-2-2-1-1,0,0,0,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'and servers,'1-1-2-2-2-3-2-1-2-2-1-2,0,0,0,2,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Acer,'1-1-2-2-2-3-2-1-2-2-2-1-1-1,0,0,0,2,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Apple,'1-1-2-2-2-3-2-1-2-2-2-1-1-2-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Asus,'1-1-2-2-2-3-2-1-2-2-2-1-1-2-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Dell,'1-1-2-2-2-3-2-1-2-2-2-1-1-3,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Fujitsu,'1-1-2-2-2-3-2-1-2-2-2-1-1-4,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Lenovo,'1-1-2-2-2-3-2-1-2-2-2-1-2,0,0,0,2,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'NEC,'1-1-2-2-2-3-2-1-2-2-2-1-3-1,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Samsung,'1-1-2-2-2-3-2-1-2-2-2-1-3-2,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Sony,'1-1-2-2-2-3-2-1-2-2-2-1-3-3-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Toshiba,'1-1-2-2-2-3-2-1-2-2-2-1-3-3-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Servers only,'1-1-2-2-2-3-2-1-2-2-2-2-1,0,0,0,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Cisco,'1-1-2-2-2-3-2-1-2-2-2-2-2-1,0,0,0,2,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'IBM,'1-1-2-2-2-3-2-1-2-2-2-2-2-2,0,0,0,2,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Oracle,'1-1-2-2-2-3-2-1-2-2-2-2-2-3,0,0,0,2,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Point of sale,'1-1-2-2-2-3-2-1-2-3-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'NCR,'1-1-2-2-2-3-2-1-2-3-2-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Toshiba,'1-1-2-2-2-3-2-1-2-3-2-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Semiconductors,'1-1-2-2-2-3-2-1-2-4-1,0,0,0,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Advanced Micro Devices,'1-1-2-2-2-3-2-1-2-4-2-1-1-1,0,0,0,2,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Broadcom,'1-1-2-2-2-3-2-1-2-4-2-1-1-2,0,0,0,2,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Freescale Semiconductor,'1-1-2-2-2-3-2-1-2-4-2-1-1-3,0,0,0,2,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Fujitsu,'1-1-2-2-2-3-2-1-2-4-2-1-1-4,0,0,0,2,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Infineon Technologies,'1-1-2-2-2-3-2-1-2-4-2-1-2-1,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Intel,'1-1-2-2-2-3-2-1-2-4-2-1-2-2,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Marvell Technology Group,'1-1-2-2-2-3-2-1-2-4-2-1-2-3-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'MediaTek,'1-1-2-2-2-3-2-1-2-4-2-1-2-3-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Micron Technology,'1-1-2-2-2-3-2-1-2-4-2-1-2-4,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Nvidia,'1-1-2-2-2-3-2-1-2-4-2-1-2-5,0,0,0,2,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'NXP,'1-1-2-2-2-3-2-1-2-4-2-1-2-6,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Panasonic,'1-1-2-2-2-3-2-1-2-4-2-1-2-7-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Qualcomm,'1-1-2-2-2-3-2-1-2-4-2-1-2-7-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Renesas Electronics,'1-1-2-2-2-3-2-1-2-4-2-1-2-8,0,0,0,2,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,1,0,0,2,I
+'Samsung,'1-1-2-2-2-3-2-1-2-4-2-1-2-9,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'SK Hynix,'1-1-2-2-2-3-2-1-2-4-2-1-2-10-1,0,0,0,2,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Sony,'1-1-2-2-2-3-2-1-2-4-2-1-2-10-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'STMicroelectronics,'1-1-2-2-2-3-2-1-2-4-2-1-2-11,0,0,0,2,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Texas Instruments,'1-1-2-2-2-3-2-1-2-4-2-1-2-12,0,0,0,2,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Toshiba,'1-1-2-2-2-3-2-1-2-4-2-1-2-13,0,0,0,2,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Foundries,'1-1-2-2-2-3-2-1-2-4-2-2-1,0,0,0,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'GlobalFoundries,'1-1-2-2-2-3-2-1-2-4-2-2-2-1-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'TSMC,'1-1-2-2-2-3-2-1-2-4-2-2-2-1-2,0,0,0,2,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'UMC,'1-1-2-2-2-3-2-1-2-4-2-2-2-2,0,0,0,2,0,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Software,'1-1-2-2-2-3-2-1-2-5-1-1,0,0,0,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'Adobe,'1-1-2-2-2-3-2-1-2-5-1-2-1-1,0,0,0,2,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Apple,'1-1-2-2-2-3-2-1-2-5-1-2-1-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Google,'1-1-2-2-2-3-2-1-2-5-1-2-2,0,0,0,2,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'IBM,'1-1-2-2-2-3-2-1-2-5-1-2-3-1,0,0,0,2,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Intuit,'1-1-2-2-2-3-2-1-2-5-1-2-3-2-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Microsoft,'1-1-2-2-2-3-2-1-2-5-1-2-3-2-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Oracle,'1-1-2-2-2-3-2-1-2-5-1-2-3-3,0,0,0,2,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'SAP,'1-1-2-2-2-3-2-1-2-5-1-2-3-4,0,0,0,2,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Symantec,'1-1-2-2-2-3-2-1-2-5-1-2-3-5,0,0,0,2,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'VMware,'1-1-2-2-2-3-2-1-2-5-1-2-3-6,0,0,0,2,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Telecommunications,'1-1-2-2-2-3-2-1-2-5-2-1-1,0,0,0,2,1,1,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'services,'1-1-2-2-2-3-2-1-2-5-2-1-2,0,0,0,2,1,0,0,0,2,2,0,0,0,1,0,0,0,0,1,1,0,0,1,N
+'América Móvil,'1-1-2-2-2-3-2-1-2-5-2-2-1-1,0,0,0,2,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
+'AT&T,'1-1-2-2-2-3-2-1-2-5-2-2-1-2,0,0,0,2,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Bell Canada,'1-1-2-2-2-3-2-1-2-5-2-2-1-3,0,0,0,2,0,2,1,0,2,2,1,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Bharti Airtel,'1-1-2-2-2-3-2-1-2-5-2-2-2-1,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'CenturyLink,'1-1-2-2-2-3-2-1-2-5-2-2-2-2,0,0,0,2,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'China Mobile,'1-1-2-2-2-3-2-1-2-5-2-2-2-3,0,0,0,2,0,2,1,0,2,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'China Telecom,'1-1-2-2-2-3-2-1-2-5-2-2-2-4,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'China Unicom,'1-1-2-2-2-3-2-1-2-5-2-2-2-5-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Comcast,'1-1-2-2-2-3-2-1-2-5-2-2-2-5-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Deutsche Telekom,'1-1-2-2-2-3-2-1-2-5-2-2-2-6,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Hutchison,'1-1-2-2-2-3-2-1-2-5-2-2-2-7,0,0,0,2,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'KDDI,'1-1-2-2-2-3-2-1-2-5-2-2-2-8-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'KPN,'1-1-2-2-2-3-2-1-2-5-2-2-2-8-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'MTN,'1-1-2-2-2-3-2-1-2-5-2-2-3-1,0,0,0,2,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'MTS,'1-1-2-2-2-3-2-1-2-5-2-2-3-2-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'NTT,'1-1-2-2-2-3-2-1-2-5-2-2-3-2-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'NTT DoCoMo,'1-1-2-2-2-3-2-1-2-5-2-2-3-3,0,0,0,2,0,2,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Orange,'1-1-2-2-2-3-2-1-2-5-2-2-4,0,0,0,2,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Rogers,'1-1-2-2-2-3-2-1-2-5-2-2-5-1,0,0,0,2,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Saudi Telecom,'1-1-2-2-2-3-2-1-2-5-2-2-5-2,0,0,0,2,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'SingTel,'1-1-2-2-2-3-2-1-2-5-2-2-5-3,0,0,0,2,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'SK Telecom,'1-1-2-2-2-3-2-1-2-5-2-2-5-4-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'SoftBank Mobile,'1-1-2-2-2-3-2-1-2-5-2-2-5-4-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sprint Corporation,'1-1-2-2-2-3-2-1-2-5-2-2-5-5,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Swisscom,'1-1-2-2-2-3-2-1-2-5-2-2-5-6,0,0,0,2,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Telenor,'1-1-2-2-2-3-2-1-2-5-2-2-5-7,0,0,0,2,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Telecom Italia,'1-1-2-2-2-3-2-1-2-5-2-2-5-8-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Telefónica,'1-1-2-2-2-3-2-1-2-5-2-2-5-8-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'TeliaSonera,'1-1-2-2-2-3-2-1-2-5-2-2-5-9,0,0,0,2,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Verizon,'1-1-2-2-2-3-2-1-2-5-2-2-5-10,0,0,0,2,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'VimpelCom,'1-1-2-2-2-3-2-1-2-5-2-2-5-11-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Vivendi,'1-1-2-2-2-3-2-1-2-5-2-2-5-11-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Vodafone,'1-1-2-2-2-3-2-1-2-5-2-2-5-12,0,0,0,2,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Methodology: FY2012/13 applicable revenues of over: group 1-3, 6-12 - US$3 billion; group 4 - US$2 billion; group 5 - US$1 billion; group 13 - US$10 billion",'1-1-2-2-2-3-2-2,1,0,0,1,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Electronic books,'1-1-2-2-2-4-1,0,0,0,2,1,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Formats,'1-1-2-2-2-4-2-1,0,0,0,2,1,1,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,C
+'XML-based,'1-1-2-2-2-4-2-2-1-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'ePub,'1-1-2-2-2-4-2-2-1-2-1,0,0,0,2,0,0,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'FictionBook,'1-1-2-2-2-4-2-2-1-2-2,0,0,0,2,0,1,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'XHTML,'1-1-2-2-2-4-2-2-1-2-3-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'XMDF,'1-1-2-2-2-4-2-2-1-2-3-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Other,'1-1-2-2-2-4-2-2-2-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'BBeB,'1-1-2-2-2-4-2-2-2-2-1,0,0,0,2,0,1,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'CBR\CBZ,'1-1-2-2-2-4-2-2-2-2-2,0,0,0,2,0,1,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'LIT,'1-1-2-2-2-4-2-2-2-2-3,0,0,0,2,0,1,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Mobipocket/Kindle,'1-1-2-2-2-4-2-2-2-2-4-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'PDF,'1-1-2-2-2-4-2-2-2-2-4-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Plain text,'1-1-2-2-2-4-2-2-2-2-5,0,0,0,2,0,2,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Reading,'1-1-2-2-2-4-2-4-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Devices,'1-1-2-2-2-4-2-4-2-1-1,0,0,0,2,1,1,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Acer Iconia Tab,'1-1-2-2-2-4-2-4-2-1-2-1,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Alex eReader,'1-1-2-2-2-4-2-4-2-1-2-2,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Amazon Kindle,'1-1-2-2-2-4-2-4-2-1-2-3-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Apple iPad,'1-1-2-2-2-4-2-4-2-1-2-3-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Barnes & Noble Nook,'1-1-2-2-2-4-2-4-2-1-2-4,0,0,0,2,0,2,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Bookeen Cybook,'1-1-2-2-2-4-2-4-2-1-2-5-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Condor Oyo (4FFF N618),'1-1-2-2-2-4-2-4-2-1-2-5-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'COOL-ER,'1-1-2-2-2-4-2-4-2-1-2-6,0,0,0,2,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Elonex ebook,'1-1-2-2-2-4-2-4-2-1-2-7-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'enTourage eDGe,'1-1-2-2-2-4-2-4-2-1-2-7-2,0,0,0,2,0,0,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'enTourage pocket eDGe,'1-1-2-2-2-4-2-4-2-1-2-8-1,0,0,0,2,0,0,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Foxit eSlick,'1-1-2-2-2-4-2-4-2-1-2-8-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Fujitsu FLEPia,'1-1-2-2-2-4-2-4-2-1-2-9,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Google Nexus,'1-1-2-2-2-4-2-4-2-1-2-10,0,0,0,2,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Hanlin eReader,'1-1-2-2-2-4-2-4-2-1-2-11,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'iRex Digital Reader 1000,'1-1-2-2-2-4-2-4-2-1-2-12-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'iRex iLiad,'1-1-2-2-2-4-2-4-2-1-2-12-2,0,0,0,2,0,0,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'iriver Story,'1-1-2-2-2-4-2-4-2-1-2-13,0,0,0,2,0,2,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Kobo eReader,'1-1-2-2-2-4-2-4-2-1-2-14-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'LG G Pad,'1-1-2-2-2-4-2-4-2-1-2-14-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'LG Optimus Pad,'1-1-2-2-2-4-2-4-2-1-2-15,0,0,0,2,0,2,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'LG Optimus Pad LTE,'1-1-2-2-2-4-2-4-2-1-2-16-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Motorola Xoom,'1-1-2-2-2-4-2-4-2-1-2-16-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Onyx Boox,'1-1-2-2-2-4-2-4-2-1-2-17,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Plastic Logic Reader,'1-1-2-2-2-4-2-4-2-1-2-18,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'PocketBook eReader,'1-1-2-2-2-4-2-4-2-1-2-19-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Qisda ES900,'1-1-2-2-2-4-2-4-2-1-2-19-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Samsung Galaxy Note,'1-1-2-2-2-4-2-4-2-1-2-20-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Samsung Galaxy Tab,'1-1-2-2-2-4-2-4-2-1-2-20-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Samsung Papyrus,'1-1-2-2-2-4-2-4-2-1-2-21-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Smartphones,'1-1-2-2-2-4-2-4-2-1-2-21-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'SoftBook,'1-1-2-2-2-4-2-4-2-1-2-22,0,0,0,2,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Sony Reader,'1-1-2-2-2-4-2-4-2-1-2-23,0,0,0,2,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Tablet computers,'1-1-2-2-2-4-2-4-2-1-2-24,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Software,'1-1-2-2-2-4-2-4-2-2-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'Adobe Acrobat,'1-1-2-2-2-4-2-4-2-2-2-1,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Adobe Digital Editions,'1-1-2-2-2-4-2-4-2-2-2-2,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Aldiko,'1-1-2-2-2-4-2-4-2-2-2-3-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Blio,'1-1-2-2-2-4-2-4-2-2-2-3-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bluefire Reader,'1-1-2-2-2-4-2-4-2-2-2-4,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Bookglutton,'1-1-2-2-2-4-2-4-2-2-2-5,0,0,0,2,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Calibre,'1-1-2-2-2-4-2-4-2-2-2-6,0,0,0,2,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'FBReader,'1-1-2-2-2-4-2-4-2-2-2-7-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Foxit Reader,'1-1-2-2-2-4-2-4-2-2-2-7-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'iBooks,'1-1-2-2-2-4-2-4-2-2-2-8,0,0,0,2,0,0,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Lexcycle Stanza,'1-1-2-2-2-4-2-4-2-2-2-9,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'OverDrive Media Console,'1-1-2-2-2-4-2-4-2-2-2-10-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Sony Reader Library,'1-1-2-2-2-4-2-4-2-2-2-10-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'STDU Viewer,'1-1-2-2-2-4-2-4-2-2-2-11,0,0,0,2,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Sumatra PDF,'1-1-2-2-2-4-2-4-2-2-2-12,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Editing,'1-1-2-2-2-4-2-5-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Adobe InDesign,'1-1-2-2-2-4-2-5-2-1,0,0,0,2,0,2,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Aquafadas,'1-1-2-2-2-4-2-5-2-2,0,0,0,2,0,1,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Atlantis Word Processor,'1-1-2-2-2-4-2-5-2-3,0,0,0,2,0,2,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Calligra Author,'1-1-2-2-2-4-2-5-2-4-1,0,0,0,2,0,2,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Feedbooks,'1-1-2-2-2-4-2-5-2-4-2,0,0,0,2,0,1,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'iBooks Author,'1-1-2-2-2-4-2-5-2-5,0,0,0,2,0,2,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'LaTeX,'1-1-2-2-2-4-2-5-2-6,0,0,0,2,0,1,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Sigil,'1-1-2-2-2-4-2-5-2-7,0,0,0,2,0,1,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Sources,'1-1-2-2-2-4-2-6-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Free,'1-1-2-2-2-4-2-6-2-1-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Aozora Bunko,'1-1-2-2-2-4-2-6-2-1-2-1-1,0,0,0,2,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Baen Free Library,'1-1-2-2-2-4-2-6-2-1-2-1-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bookglutton,'1-1-2-2-2-4-2-6-2-1-2-2,0,0,0,2,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Feedbooks,'1-1-2-2-2-4-2-6-2-1-2-3,0,0,0,2,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Google Books,'1-1-2-2-2-4-2-6-2-1-2-4,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'HathiTrust,'1-1-2-2-2-4-2-6-2-1-2-5-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internet Archive,'1-1-2-2-2-4-2-6-2-1-2-5-2,0,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Issuu,'1-1-2-2-2-4-2-6-2-1-2-6,0,0,0,2,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project Gutenberg,'1-1-2-2-2-4-2-6-2-1-2-7,0,0,0,2,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Smashwords,'1-1-2-2-2-4-2-6-2-1-2-8-1,0,0,0,2,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Wikibooks,'1-1-2-2-2-4-2-6-2-1-2-8-2,0,0,0,2,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Wikisource,'1-1-2-2-2-4-2-6-2-1-2-9,0,0,0,2,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Paid,'1-1-2-2-2-4-2-6-2-2-1,0,0,0,2,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Amazon.com,'1-1-2-2-2-4-2-6-2-2-2-1,0,0,0,2,1,1,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Barnes & Noble BooksOnBoard Booktrack Borders Feedbooks Fictionwise Google Books iBookstore Kobo Bookstore Smashwords Sony Reader Store,'1-1-2-2-2-4-2-6-2-2-2-2,1,0,0,2,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Related,'1-1-2-2-2-4-2-7-1-1,0,0,0,2,1,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'topics,'1-1-2-2-2-4-2-7-1-2,0,0,0,2,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,C
+'Academic journal publishing reform,'1-1-2-2-2-4-2-7-2-1,0,0,0,2,0,2,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Braille e-book,'1-1-2-2-2-4-2-7-2-2,0,0,0,2,0,2,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Comparison of e-book readers,'1-1-2-2-2-4-2-7-2-3-1,0,0,0,2,0,2,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Comparison of iOS e-book reader software,'1-1-2-2-2-4-2-7-2-3-2,0,0,0,2,0,0,1,0,2,1,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'e-book lending,'1-1-2-2-2-4-2-7-2-4,0,0,0,2,0,0,1,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Electronic publishing,'1-1-2-2-2-4-2-7-2-5,0,0,0,2,0,2,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'International Digital Publishing Forum,'1-1-2-2-2-4-2-7-2-6-1,0,0,0,2,0,2,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Kindle single,'1-1-2-2-2-4-2-7-2-6-2,0,0,0,2,0,2,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Mojo books,'1-1-2-2-2-4-2-7-2-7,0,0,0,2,0,2,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'OPDS,'1-1-2-2-2-4-2-7-2-8-1,0,0,0,2,0,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Reflowable document,'1-1-2-2-2-4-2-7-2-8-2,0,0,0,2,0,2,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Semantic publishing,'1-1-2-2-2-4-2-7-2-9,0,0,0,2,0,2,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I

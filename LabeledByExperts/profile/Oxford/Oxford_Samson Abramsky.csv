@@ -1,0 +1,107 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Samson Abramsky,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Professor Samson Abramsky FRS,'1-2-1-2-1-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,1,I
+'Christopher Strachey Professor of Computing,'1-2-1-2-1-1-1-2-1-2,0,0,0,1,0,2,0,0,0,2,1,0,1,1,1,0,0,0,0,1,0,0,0,2,I
+"'Fellow, Wolfson College",'1-2-1-2-1-1-1-2-1-3,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'samson.abramsky@cs.ox.ac.uk,'1-2-1-2-1-1-1-2-1-4,0,0,0,1,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'01865 283558,'1-2-1-2-1-1-1-2-1-5,0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Room 206, Wolfson Building, Parks Road, Oxford OX1 3QD",'1-2-1-2-1-1-1-2-2,1,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,I
+'Interests,'1-2-1-2-1-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'I have worked in a wide range of areas in the semantics and logic of computation, including concurrency, domain theory (especially domain theory in logical form), lambda calculus, semantics of programming languages, and abstract interpretation and program analysis. I have played a leading role in the development of game semantics and its applications to the semantics of programming languages, in interaction categories, and in geometry of interaction, and connections with traced monoidal categories and realizability. Over the past decade, I have become increasingly interested in connections between computer science and other scientific disciplines. I believe that the distinctive methods of computer science, above all compositional semantics and logic, have much to offer across a broad sweep of the physical and biological sciences, and to the modelling of complex systems. My first detailed venture into this new territory has been in the field of quantum information and computation.",'1-2-1-2-1-1-2-1-2,2,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'I have been working on high-level methods for quantum computation and information. I pioneered categorical quantum mechanics with Bob Coecke. More recently, I have been working on a unified sheaf-theoretic approach to non-locality and contextuality. This has led to a number of developments, including a novel classification of mulitpartite entangled states, cohomological characterizations of non-locality and contextuality, a novel characterization of no-signalling involving signed measures (negative probabilities), and a unifying principle for Bell inequalities. There are also striking connections with a number of topics in computer science, including relational database theory, computational complexity and dependence logic. This is ongoing work, with a number of collaborators including Adam Brandenburger, Lucien Hardy, Shane Mansfield, Rui Soares Barbosa, Ray Lal, Phokion Kolaitis, Georg Gottlob, and Jouko Vaananen.",'1-2-1-2-1-1-2-2,2,0,0,1,0,2,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Biography,'1-2-1-2-1-1-2-3-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'Samson Abramsky is Christopher Strachey Professor of Computing and a Fellow of Wolfson College, Oxford University. Previously he held chairs at the Imperial College of Science, Technology and Medicine, and at the University of Edinburgh.",'1-2-1-2-1-1-2-3-1-2-1,2,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'He holds MA degrees from Cambridge and Oxford, and a PhD from the University of London.",'1-2-1-2-1-1-2-3-1-2-2,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,1,0,0,2,I
+"'He is a Fellow of the Royal Society (2004), a Fellow of the Royal Society of Edinburgh (2000), and a Member of Academia Europaea (1993). He is a member of the Editorial Boards of the North Holland Studies in Logic and the Foundations of Mathematics, and of the Cambridge Tracts in Theoretical Computer Science. He was General Chair of LiCS 2000-2003, and is currently a member of the LiCS Organizing Committee.",'1-2-1-2-1-1-2-3-1-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'His paper ``Domain theory in Logical Form'' won the LiCS Test-of-Time award (a 20-year retrospective) for 1987. The award was presented at LiCS 2007. He was awarded an EPSRC Senior Research Fellowship on Foundational Structures and Methods for Quantum Informatics in 2007.,'1-2-1-2-1-1-2-3-1-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'He was the Clifford Lecturer  at Tulane University in 2008.,'1-2-1-2-1-1-2-3-1-2-5,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'He was awarded the BCS Lovelace Medal  in 2013.,'1-2-1-2-1-1-2-3-1-2-6,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'He has played a leading role in the development of game semantics, and its applications to the semantics of programming languages. Other notable contributions include his work on domain theory in logical form, the lazy lambda calculus, strictness analysis, concurrency theory, interaction categories, and geometry of interaction. More recently, he has been working on high-level methods for quantum computation and information.",'1-2-1-2-1-1-2-3-1-2-7,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Links,'1-2-1-2-1-1-2-3-2-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Personal web pages with links,'1-2-1-2-1-1-2-3-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Selected Publications,'1-2-1-2-1-1-2-3-3-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,3,C
+'View all,'1-2-1-2-1-1-2-3-3-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-1-2-3-3-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Robust Constraint Satisfaction and Local Hidden Variables in Quantum Mechanics,'1-2-1-2-1-1-2-4-1,1,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'S. Abramsky‚ G. Gottlob and P. Kolaitis,'1-2-1-2-1-1-2-4-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Artificial Intelligence (IJCAI '13)‚ 2013 23rd International Joint Conference on. Pages 440−446. AAAI Press. 2013.,'1-2-1-2-1-1-2-4-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,2,I
+'Details | BibTeX | Download (pdf),'1-2-1-2-1-1-2-4-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Logical Bell Inequalities,'1-2-1-2-1-1-2-5-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Samson Abramsky and Lucien Hardy,'1-2-1-2-1-1-2-5-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In Physical Review A. Vol. 85. No. ARTN 062114. Pages 1−11. 2012.,'1-2-1-2-1-1-2-5-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1103/PhysRevA.85.062114) | Link,'1-2-1-2-1-1-2-5-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'The Sheaf−Theoretic Structure of Non−Locality and Contextuality,'1-2-1-2-1-1-2-6-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'S. Abramsky and A. Brandenburger,'1-2-1-2-1-1-2-6-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'In New Journal of Physics. Vol. 13. Pages 113036−113075. 2011.,'1-2-1-2-1-1-2-6-3,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1088/1367-2630/13/11/113036) | Link,'1-2-1-2-1-1-2-6-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Info,'1-2-1-2-1-2-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Foundations, Logic and Structures  | Information Systems",'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Quantum Group,'1-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Projects,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'Structures at the Interface of Physics and Computer Science,'1-2-1-2-1-2-2-3-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Completed Projects,'1-2-1-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'Information Flow: Foundations and Applications to Security |,'1-2-1-2-1-2-2-4-2,0,0,0,1,0,2,1,1,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Current Students,'1-2-1-2-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'John-Mark Allen,'1-2-1-2-1-2-2-5-2-1,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Philip Atzemoglou,'1-2-1-2-1-2-2-5-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Miriam Backens,'1-2-1-2-1-2-2-5-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Krzysztof Bar,'1-2-1-2-1-2-2-5-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Carmen Constantin,'1-2-1-2-1-2-2-5-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Abhishek Dasgupta,'1-2-1-2-1-2-2-5-2-6-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Nadish de Silva,'1-2-1-2-1-2-2-5-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Alex Kavvos,'1-2-1-2-1-2-2-5-2-8-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Raymond Lal,'1-2-1-2-1-2-2-5-2-9-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Dan Marsden,'1-2-1-2-1-2-2-5-2-10-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Yoshihiro Maruyama,'1-2-1-2-1-2-2-5-2-11-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Hugo Nava Kopp,'1-2-1-2-1-2-2-5-2-12-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Rui Soares Barbosa,'1-2-1-2-1-2-2-5-2-13-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Matthijs Vákár,'1-2-1-2-1-2-2-5-2-14-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Norihiro Yamada,'1-2-1-2-1-2-2-5-2-15-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Vladimir Zamdzhiev,'1-2-1-2-1-2-2-5-2-16,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Past Students,'1-2-1-2-1-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Alex Merry,'1-2-1-2-1-2-2-6-2-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Karl Paulsson,'1-2-1-2-1-2-2-6-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Roman Priebe,'1-2-1-2-1-2-2-6-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Colin Stephen,'1-2-1-2-1-2-2-6-2-4,0,0,0,1,0,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'In This Section,'1-2-2-2-1,0,0,1,2,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Personal web pages with links,'1-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'RSS Feeds,'1-2-2-3-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-3-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-3-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-3-1-2-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-3-1-2-2-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-3-1-2-2-2-3,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-3-1-2-2-2-4,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-3-1-2-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-3-1-2-2-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-3-1-2-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-3-1-3-1,0,0,0,1,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-3-1-3-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-3-1-3-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-3-1-3-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-3-1-4,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-3-1-5-1,0,0,0,1,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-3-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-3-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-3-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-3-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-3-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-3-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-3-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-3-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-3-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

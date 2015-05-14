@@ -1,211 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'Beijing Automotive Group,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-"'Beijing Automotive Industry Holding Co., Ltd.",'1-1-2-1-1-1-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,N
-'北京汽车工业控股有限责任公司,'1-1-2-1-1-1-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Type,'1-1-2-1-1-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'State-owned enterprise,'1-1-2-1-1-3-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Industry,'1-1-2-1-1-4-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Automotive,'1-1-2-1-1-4-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Founded,'1-1-2-1-1-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'1958,'1-1-2-1-1-5-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-1-1-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Beijing, China",'1-1-2-1-1-6-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
-'Area served,'1-1-2-1-1-7-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Worldwide,'1-1-2-1-1-7-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Products,'1-1-2-1-1-8-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Commercial and passenger vehicles,'1-1-2-1-1-8-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Divisions,'1-1-2-1-1-9-1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Beijing Auto,'1-1-2-1-1-9-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'­Weiwang,'1-1-2-1-1-9-2-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Subsidiaries,'1-1-2-1-1-10-1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'BAIC Motor,'1-1-2-1-1-10-2-1,0,0,0,1,0,2,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-'Beijing Automobile Works,'1-1-2-1-1-10-2-2,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Beiqi Foton Motor,'1-1-2-1-1-10-2-3,0,0,0,1,0,2,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Beijing Hyundai,'1-1-2-1-1-10-2-4-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Beijing Benz,'1-1-2-1-1-10-2-4-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Beijing Foton Daimler Automobile (50%),'1-1-2-1-1-10-2-5,0,0,0,1,0,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Website,'1-1-2-1-1-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Beijing Automotive Group,'1-1-2-1-1-11-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Beijing Automotive Group,'1-1-2-1-2-1,0,0,0,2,0,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Simplified Chinese,'1-1-2-1-2-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-'北京汽车工业控股有限责任公司,'1-1-2-1-2-2-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Transcriptions,'1-1-2-1-2-3-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Mandarin,'1-1-2-1-2-3-2-1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
-'Hanyu Pinyin,'1-1-2-1-2-3-2-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
-'Běijīng qìchēgōngyè jìnchūkǒu gōngsī,'1-1-2-1-2-3-2-2-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-"'Beijing Automotive Group (officially Beijing Automotive Industry Holding Co., Ltd., also known as BAIC Group or Beiqi) is a state-owned enterprise and holding company of several Chinese automobile and machine manufacturers. Its principal subsidiaries include the passenger car maker BAIC Motor, the military vehicle and SUV maker BAW and the truck, bus and agricultural equipment maker Foton Motor. BAIC's parent is the Beijing State-owned Assets Management Co (Chinese: 北京市国有资产经营有限公司).",'1-1-2-1-3-1-1-1,2,0,0,1,0,2,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-"'BAIC is considered the fifth-largest domestic Chinese automaker, and remained so in 2012, which saw the company make 1.7 million whole vehicles; 30% of production was classified for commercial or heavy-duty use. It is difficult to determine the percentage of its manufacturing mix dedicated to consumer offerings; the number of cars counted as passenger vehicles by CAAM, a Chinese auto industry association, conflates consumer offerings and light commercial trucks and vans.",'1-1-2-1-3-1-1-2,2,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-"'Located in Beijing, Beiqi makes Hyundai and Mercedes-branded autos for sale on the Chinese market.",'1-1-2-1-3-1-1-3,1,0,0,1,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Contents,'1-1-2-1-3-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-"'1 History 1.1 Saab technology transfer
-1.2 Southern China expansion
-1.3 Electric vehicles",'1-1-2-1-3-1-2-1-2-1,1,0,0,1,0,2,1,0,0,2,1,0,1,0,0,1,1,0,0,0,0,0,1,I
-'2 Products,'1-1-2-1-3-1-2-1-2-2,0,0,0,1,0,1,1,0,0,2,1,0,1,1,1,0,0,0,0,1,0,0,2,I
-"'3 Operations 3.1 Current subsidiaries 3.1.1 BAIC Motor
-3.1.2 BAW
-3.1.3 Foton Motor
-
-3.2 Former subsidiaries 3.2.1 BLAC",'1-1-2-1-3-1-2-1-2-3,1,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
-"'4 Joint ventures 4.1 Current joint ventures 4.1.1 Beijing Hyundai
-4.1.2 Beijing Benz
-4.1.3 Beijing Foton Daimler
-
-4.2 Former joint ventures 4.2.1 Beijing Jeep",'1-1-2-1-3-1-2-1-2-4,1,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'5 References,'1-1-2-1-3-1-2-1-2-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'6 External links,'1-1-2-1-3-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-1-3-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'Founded in 1958, Beiqi companies build with Daimler AG and Hyundai.",'1-1-2-1-3-1-2-2-1-2-1,1,0,0,1,0,2,1,0,1,2,0,0,1,0,1,0,0,0,1,0,0,0,1,I
-'Beiqi was one of the top ten most-productive Chinese automakers in 2010. This may be due to subsidiary Beijing Automobile Works and a sustained surge of popularity for Beijing Hyundai products. It reached fifth place by selling nearly 1.5 millions units garnering a market share of more than 8%. 2011 production of 1.5 million whole vehicles made Beiqi the fifth largest vehicle-maker in China that year in terms of units manufactured.,'1-1-2-1-3-1-2-2-1-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Saab technology transfer,'1-1-2-1-3-1-2-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'After several unsuccessful attempts to buy struggling European automakers in 2009, such as Saab, Volvo, and Opel as well as technology from the American Chrysler, Beiqi fulfilled its aim of obtaining valuable Western technology that same year purchasing technology from a former unit of General Motors, Saab Automobile. This allows it to produce older Saab models (but not brand them as Saabs) for sale in China.",'1-1-2-1-3-1-2-2-2-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'The intellectual property bought by Beiqi includes the rights to three overall vehicle platforms, Saab 9-3 and Saab 9-5 technologies, two engine technologies, and two transmission systems.",'1-1-2-1-3-1-2-2-2-2-2,1,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Cars with Saab technology were expected to go on sale in 2012 but didn't debut until May 2013. The first Saab-based model on sale is the C70 or 绅宝 (Shenbao), which may be translated as ""gentleman's treasure"", although it is sold as the ""Senova"" in English.",'1-1-2-1-3-1-2-2-2-2-3,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Southern China expansion,'1-1-2-1-3-1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,1,0,0,1,0,0,2,C
-'BAIC aims to expand in Southern China and will purchase Guangzhou Baolong (SSE: 600988) for this purpose gaining a Southern production base and planning construction of two more.,'1-1-2-1-3-1-2-2-3-2,1,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Electric vehicles,'1-1-2-1-3-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'A trial production run of 30 electric vehicles using Saab and self-developed platforms occurred in late 2010. China subsidies oil (an incentive for the State to encourage use and manufacture of electric cars), and Chinese automakers see opportunities in less mature electric vehicles because Western companies have yet to develop much of a lead in the technology.",'1-1-2-1-3-1-2-2-4-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Products,'1-1-2-1-3-1-2-2-5-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-"'BAIC has a wide product line that includes more than the buses that are its traditional manufacture. Offerings encompass many kinds of commercial vehicles, including: agricultural machinery, construction machinery, light trucks, and military vehicles, etc. As of 2010 commercial vehicle production capacity is estimated to be around 700,000 units per year. Production capacity figures may consider engines and vehicles as discrete.",'1-1-2-1-3-1-2-2-5-2-1,2,0,0,1,0,0,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'The company sells self-branded consumer products, which makes it an outlier among Chinese car manufacturers. Based on purchased Saab platforms, the cars were first offered in 2013 although sales had been expected to start in both 2012 and 2010. While it also make cars with foreign partners, its self-branded vehicles were developed without oversight from a major Western car manufacturer although Western assistance is evident. To support its own brand, in 2012 Beiqi hired as a consultant former Ferrari designer Leonardo Fioravanti, and a concept car designed by him was on display at the 2012 Beijing Auto Show.",'1-1-2-1-3-1-2-2-5-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'BAIC-branded military and civilian light trucks have also been produced.,'1-1-2-1-3-1-2-2-5-2-3,1,0,0,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Operations,'1-1-2-1-3-1-2-2-6-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'Along with several other production bases, four of which are in eastern China, Beiqi controls the former Guangzhou Baolong base in Southern China (most probably in Zengcheng city, Guangzhou, Guangdong province). Plans exist to build two more southern production bases–one in Guangzhou, Guangdong province by 2012 and another in Chongqing.",'1-1-2-1-3-1-2-2-6-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'A planned production base will produce own-brand autos using Saab technology. It may be located in Zhuzhou, Hunan province, or at Sanxiang town, Zhongshan city, Guangdong province, and could become operational in June 2011.",'1-1-2-1-3-1-2-2-6-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The company claims production bases in at least 26 Chinese cities. This count most likely includes component manufacturers as well.,'1-1-2-1-3-1-2-2-6-2-3,1,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Current subsidiaries,'1-1-2-1-3-1-2-2-7-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'BAIC Motor,'1-1-2-1-3-1-2-2-7-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-'Main article: BAIC Motor,'1-1-2-1-3-1-2-2-7-2-1,0,0,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'BAIC Motor Co., Ltd. is a subsidiary of BAIC which manufactures passenger cars and microvans sold under the Beijing and Weiwang marques, respectively. Founded in 2010 and based in Beijing, Daimler AG acquired a 12% stake in BAIC Motor in November 2013.",'1-1-2-1-3-1-2-2-7-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'The BAIC C51X,'1-1-2-1-3-2-1-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'The BAIC Concept 900,'1-1-2-1-3-2-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'BAW,'1-1-2-2-1-1-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Main article: BAW,'1-1-2-2-1-1-1-2-1,0,0,0,1,0,2,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Beijing Automobile Works Co., Ltd. (BAW) is a subsidiary of BAIC based in Beijing which produces light off-road vehicles, trucks and military vehicles.",'1-1-2-2-1-1-1-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Foton Motor,'1-1-2-2-1-1-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Main article: Foton Motor,'1-1-2-2-1-1-2-2-1,0,0,0,1,0,2,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Beiqi Foton Motor Co., Ltd. (Foton Motor) is a subsidiary of BAIC which designs and manufactures trucks, buses, sport utility vehicles and agricultural machinery. It is headquartered in Changping, Beijing.",'1-1-2-2-1-1-2-2-2,2,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Foton makes commercial trucks in a joint venture with Daimler AG, called Beijing Foton Daimler Automobile Co., Ltd., which sells its products under the ""Auman"" brand name.",'1-1-2-2-1-1-2-2-3,1,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'A BJ2022 truck produced by BAW,'1-1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'A Foton bus,'1-1-2-2-2-1-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'A Foton bus,'1-1-2-2-2-1-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'A Foton truck,'1-1-2-2-2-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Former subsidiaries,'1-1-2-3-1-1-1-1-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'BLAC,'1-1-2-3-1-1-1-1-2,0,0,0,1,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-"'The Beijing Light Automobile Company (BLAC), which until 1988 had been known as the Beijing Automobile factory No. 2, started in late 1960s when production of the independently developed BJ130 began. Its introduction was slowed down considerably by the upheavals of the Cultural revolution. In 1984 assembly of the Isuzu Elf/NHR began (originally as the BJ136, later as the BJ1030/1040/1050 series). In 1988 a new plant for these trucks was built with aid from the Japanese, where petrol and diesel light truck engines were also produced. BLAC went bankrupt in 2002.",'1-1-2-3-1-1-1-2,2,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Joint ventures,'1-1-2-3-1-1-2-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'BAIC has several joint ventures with foreign automakers, including two with Daimler AG.",'1-1-2-3-1-1-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Current joint ventures,'1-1-2-3-1-1-3-1-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Beijing Hyundai,'1-1-2-3-1-1-3-1-2,0,0,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-'Main article: Beijing Hyundai,'1-1-2-3-1-1-3-2-1,0,0,0,1,0,2,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Beijing Hyundai Motor Co., Ltd. is an automobile manufacturing company headquartered in Beijing, China, and is a 50:50 joint-venture between BAIC and Hyundai Motor Company. Established in 2002, it manufactures in Shunyi District, a satellite city of Beijing, producing Hyundai-branded automobiles for the Chinese market. New models designed for the Chinese market are due to appear.",'1-1-2-3-1-1-3-2-2,2,0,0,1,0,2,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,C
-'A BLAC truck,'1-1-2-3-1-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'A Hyundai ix35 produced by Beijing Hyundai,'1-1-2-3-2-1-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'A Hyundai Sonata produced by Beijing Hyundai,'1-1-2-3-2-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Beijing Benz,'1-1-2-4-1-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Main article: Beijing Benz,'1-1-2-4-1-2-1,0,0,0,1,0,2,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'As of 2010 Beijing Benz, a BAIC joint venture with German automaker Daimler AG, makes the Mercedes-Benz C-Class and E-Class models for sale in China and seeks to make more of the models it sells in China locally.",'1-1-2-4-1-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'A Mercedes C-Class produced by Beijing Benz,'1-1-2-4-2-1-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'A Mercedes E-Class produced by Beijing Benz,'1-1-2-4-2-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Beijing Foton Daimler,'1-1-2-5-1-1-1-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Beijing Foton Daimler Automobile Co., Ltd. is a joint venture between Daimler and BAIC subsidiary, Foton Motor which makes commercial trucks.",'1-1-2-5-1-1-1-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Former joint ventures,'1-1-2-5-1-1-2-1-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Beijing Jeep,'1-1-2-5-1-1-2-1-2,0,0,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-'Beijing Jeep Corporation became China's first Sino-western automotive joint venture when it was established in 1984 with American Motors Corporation. Beijing Jeep subsequently became Beijing Benz-DaimlerChrysler Automotive Co Ltd and then Beijing Benz Automotive Co Ltd.,'1-1-2-5-1-1-2-2,2,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'External links,'1-1-2-5-1-1-3-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-'BAIC Official Website (Chinese),'1-1-2-5-1-1-3-2-1,0,1,0,1,0,2,1,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,I
-'BAIC Official Website (English),'1-1-2-5-1-1-3-2-2,0,1,0,1,0,2,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,2,I
-'(BAIEC) Beijing Automotive Import & Export Corporation,'1-1-2-5-1-1-3-2-3,0,1,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,N
-'A Beijing BJ2021 produced by Beijing Jeep,'1-1-2-5-1-2-2,0,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Automotive industry in China,'1-1-2-5-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,1,1,0,0,0,1,0,0,3,C
-'Automotive industry,'1-1-2-5-2-2-1-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,N
-'Economy of China,'1-1-2-5-2-2-1-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,3,N
-'Transport in China,'1-1-2-5-2-2-1-3,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,0,3,N
-'Chinese vehicle,'1-1-2-5-2-2-2-1-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,C
-'manufacturers,'1-1-2-5-2-2-2-1-1-2,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Current,'1-1-2-5-2-2-2-1-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Ankai,'1-1-2-5-2-2-2-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,1,I
-"'BAIC BAW
-Beijing Auto
-Foton
-Weiwang",'1-1-2-5-2-2-2-1-2-1-2-2-1,0,1,0,1,1,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'BeiBen Brilliance Jinbei BYD Chang'an Changhe
-Hafei Chery CNJ Dadi Dayun Group Dayang
-Dayun Dongfeng Dongfeng Automobile Company
-Dongfeng Liuzhou
-Fengshen Etsong FAW Besturn
-FAW Bus and Coach
-FAW Car Company
-FAW Jie Fang
-FAW Jilin
-FAW Tianjin
-Hongqi Foday Fujian Motors GAC Changfeng
-Denway
-Gonow
-Trumpchi Geely Emgrand
-Englon
-Gleagle Great Wall Haval Green Field Haima Hawtai Heibao Hengtian Group Bonluck Bus
-Hengtian Auto JAC JMC Jonway Kandi King Long Golden Dragon
-Higer Bus Landwind Lifan Lishan Bus Mudan Auto Polarsun Qingling SAIC Maxus
-MG
-Roewe SG Changzhou Changjiang Bus
-China Flxible
-Huanghai Bus Shaanxi Shandong Huoyun Shuanghuan Red Star Sinotruk Sinotruk (Hong Kong) Soar Soueast Sunlong Bus Tengzhong Wuling Wuzhoulong Xinkai Yangtse Yaxing Yema Youngman Yutong Zhongtong Zotye ZX Auto",'1-1-2-5-2-2-2-1-2-1-2-2-2,2,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Former,'1-1-2-5-2-2-2-1-2-2-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Huayang,'1-1-2-5-2-2-2-1-2-2-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Nanjing,'1-1-2-5-2-2-2-1-2-2-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Shanghai Maple,'1-1-2-5-2-2-2-1-2-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Sino-foreign,'1-1-2-5-2-2-2-2-1-1,0,0,0,1,1,1,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,2,C
-'joint venture vehicle,'1-1-2-5-2-2-2-2-1-2,0,0,0,1,1,0,0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,1,N
-'manufacturers,'1-1-2-5-2-2-2-2-1-3,0,0,0,1,1,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Current,'1-1-2-5-2-2-2-2-2-1-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Beijing Benz,'1-1-2-5-2-2-2-2-2-1-2-1,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-'Beijing Hyundai,'1-1-2-5-2-2-2-2-2-1-2-2,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'BMW Brilliance,'1-1-2-5-2-2-2-2-2-1-2-3,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Changan Ford,'1-1-2-5-2-2-2-2-2-1-2-4,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Changan Mazda,'1-1-2-5-2-2-2-2-2-1-2-5,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Changan PSA,'1-1-2-5-2-2-2-2-2-1-2-6,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Changan Suzuki,'1-1-2-5-2-2-2-2-2-1-2-7,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Chery Jaguar Land Rover,'1-1-2-5-2-2-2-2-2-1-2-8,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Denza,'1-1-2-5-2-2-2-2-2-1-2-9,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Dongfeng Honda,'1-1-2-5-2-2-2-2-2-1-2-10-1-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Ciimo,'1-1-2-5-2-2-2-2-2-1-2-10-1-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Dongfeng Motor Company,'1-1-2-5-2-2-2-2-2-1-2-10-2-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,1,0,0,0,2,I
-'Venucia,'1-1-2-5-2-2-2-2-2-1-2-10-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Dongfeng Nissan-Diesel Company,'1-1-2-5-2-2-2-2-2-1-2-11,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
-'Dongfeng Peugeot-Citroën,'1-1-2-5-2-2-2-2-2-1-2-12,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Dongfeng Renault,'1-1-2-5-2-2-2-2-2-1-2-13,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Dongfeng Yueda Kia,'1-1-2-5-2-2-2-2-2-1-2-14,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Dongfeng Yulon,'1-1-2-5-2-2-2-2-2-1-2-15,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'FAW-GM,'1-1-2-5-2-2-2-2-2-1-2-16,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'FAW-Volkswagen,'1-1-2-5-2-2-2-2-2-1-2-17,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Fujian Benz,'1-1-2-5-2-2-2-2-2-1-2-18,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'GAC Fiat,'1-1-2-5-2-2-2-2-2-1-2-19,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'GAC Mitsubishi,'1-1-2-5-2-2-2-2-2-1-2-20,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'GAC Toyota,'1-1-2-5-2-2-2-2-2-1-2-21,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Guangqi Honda,'1-1-2-5-2-2-2-2-2-1-2-22-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Everus,'1-1-2-5-2-2-2-2-2-1-2-22-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Qoros,'1-1-2-5-2-2-2-2-2-1-2-23,0,0,0,1,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
-'SAIC-GM-Wuling,'1-1-2-5-2-2-2-2-2-1-2-24-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Baojun,'1-1-2-5-2-2-2-2-2-1-2-24-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Shanghai GM,'1-1-2-5-2-2-2-2-2-1-2-25,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Shanghai Volkswagen,'1-1-2-5-2-2-2-2-2-1-2-26,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Sichuan FAW Toyota Motor,'1-1-2-5-2-2-2-2-2-1-2-27-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Ranz,'1-1-2-5-2-2-2-2-2-1-2-27-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Former,'1-1-2-5-2-2-2-2-2-2-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Changan Ford Mazda,'1-1-2-5-2-2-2-2-2-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Guangzhou Peugeot,'1-1-2-5-2-2-2-2-2-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Nanjing Fiat,'1-1-2-5-2-2-2-2-2-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,1,1,2,I
-"'Subsidiaries of
- foreign companies
-
-Honda Automobile (China) Company
-Volkswagen Group China Other
-
-Auto China
-Auto Guangzhou
-Auto Shanghai
-China Association of Automobile Manufacturers
-TJ Innova
-Wanxiang
-Weichai Power
-Zhongsheng  Category",'1-1-2-5-2-2-2-3,1,1,0,1,1,2,1,0,2,1,1,1,0,0,0,1,0,0,0,0,0,0,2,C

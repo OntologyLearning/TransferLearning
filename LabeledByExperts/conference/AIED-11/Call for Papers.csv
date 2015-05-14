@@ -1,0 +1,74 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'AIED 2011 Call for Papers,'1-1-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,C
+"'Download this as a PDF (A4, letter) or as plain text.",'1-1-2-1-2-1-1-1,1,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'The Call for Papers is now closed,'1-1-2-1-2-1-1-2,0,0,0,2,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,3,N
+'Final Call for Papers,'1-1-2-1-2-1-2-1,0,0,1,2,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,3,C
+'Artificial Intelligence in Education 2011,'1-1-2-1-2-1-2-2-1-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+'www.aied2011.canterbury.ac.nz,'1-1-2-1-2-1-2-2-1-2-1-2,0,0,0,1,1,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'The 15th International Conference on Artificial Intelligence in Education (AIED 2011) is the next in a longstanding series of biennial international conferences for high quality research in intelligent systems and cognitive science for education and training applications. The conference provides opportunities for the cross-fertilization of approaches, techniques and ideas from the many areas that make up this interdisciplinary research field, including: agent technologies, artificial intelligence, computer science, cognitive and learning sciences, education, educational technologies, game design, psychology, philosophy, sociology, anthropology, linguistics, and the many domain-specific areas for which AIED systems have been designed, deployed and evaluated.",'1-1-2-1-2-1-2-2-1-2-2,2,0,0,1,0,0,0,1,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,N
+"'To reflect these broad interests that combine advanced technology with advanced understanding of learners, learning, and the context of learning, the theme of AIED 2011 is ""Next Generation Learning Environments: Supporting Cognitive, Metacognitive, Social and Affective Aspects of Learning"".",'1-1-2-1-2-1-2-2-1-2-3,2,0,0,1,0,2,0,1,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'We invite submissions to the AIED 2011 conference, which will be held 28 June - 2 July 2011, in Auckland, New Zealand.",'1-1-2-1-2-1-2-2-1-2-4,1,0,0,1,0,2,0,0,1,2,1,1,0,1,0,1,0,0,1,0,0,0,0,3,N
+'Topics,'1-1-2-1-2-1-2-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,1,1,0,0,3,C
+'1. Modelling and Representation,'1-1-2-1-2-1-2-2-2-2-1-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,1,C
+"'Models of learners, facilitators, tasks and problem-solving processes",'1-1-2-1-2-1-2-2-2-2-1-2-1,0,1,0,0,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Models of groups and communities for learning,'1-1-2-1-2-1-2-2-2-2-1-2-2,0,1,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Modelling learning contexts,'1-1-2-1-2-1-2-2-2-2-1-2-3,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Modelling motivation, metacognition, and affective aspects of learning",'1-1-2-1-2-1-2-2-2-2-1-2-4,0,1,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Ontological modelling,'1-1-2-1-2-1-2-2-2-2-1-2-5,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Dealing with learner dynamics,'1-1-2-1-2-1-2-2-2-2-1-2-6,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Handling uncertainty and multiple perspectives,'1-1-2-1-2-1-2-2-2-2-1-2-7,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Representing and analysing discourse during learning,'1-1-2-1-2-1-2-2-2-2-1-2-8,0,1,0,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'2. Models of Learning,'1-1-2-1-2-1-2-2-2-2-2-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Intelligent tutoring and scaffolding,'1-1-2-1-2-1-2-2-2-2-2-2-1,0,1,0,0,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Intelligent games for learning,'1-1-2-1-2-1-2-2-2-2-2-2-2,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Motivational diagnosis and feedback,'1-1-2-1-2-1-2-2-2-2-2-2-3,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Interactive pedagogical agents and learning companions,'1-1-2-1-2-1-2-2-2-2-2-2-4,0,1,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Agents that promote metacognition, motivation and affect",'1-1-2-1-2-1-2-2-2-2-2-2-5,0,1,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Adaptive question-answering,'1-1-2-1-2-1-2-2-2-2-2-2-6,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Multi-agent architectures,'1-1-2-1-2-1-2-2-2-2-2-2-7,0,1,0,0,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'3. Intelligent Technologies,'1-1-2-1-2-1-2-2-2-2-3-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Natural language processing,'1-1-2-1-2-1-2-2-2-2-3-2-1,0,1,0,0,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Data mining and machine learning,'1-1-2-1-2-1-2-2-2-2-3-2-2,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Knowledge representation and reasoning,'1-1-2-1-2-1-2-2-2-2-3-2-3,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Semantic web technologies and standards,'1-1-2-1-2-1-2-2-2-2-3-2-4,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Social recommendations,'1-1-2-1-2-1-2-2-2-2-3-2-5,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Social networks,'1-1-2-1-2-1-2-2-2-2-3-2-6,0,1,0,0,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'4. Pedagogical Models,'1-1-2-1-2-1-2-2-2-2-4-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Inquiry learning,'1-1-2-1-2-1-2-2-2-2-4-2-1,0,1,0,0,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Social dimensions of learning,'1-1-2-1-2-1-2-2-2-2-4-2-2,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Social-historical-cultural contexts,'1-1-2-1-2-1-2-2-2-2-4-2-3,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Informal learning environments,'1-1-2-1-2-1-2-2-2-2-4-2-4,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Communities of practice,'1-1-2-1-2-1-2-2-2-2-4-2-5,0,1,0,0,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'5. Learning Contexts and Domains,'1-1-2-1-2-1-2-2-2-2-5-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Learning in open web environments,'1-1-2-1-2-1-2-2-2-2-5-2-1,0,1,0,0,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Collaborative and group learning,'1-1-2-1-2-1-2-2-2-2-5-2-2,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Simulation-based learning,'1-1-2-1-2-1-2-2-2-2-5-2-3,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Ubiquitous learning environments,'1-1-2-1-2-1-2-2-2-2-5-2-4,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Learning grid,'1-1-2-1-2-1-2-2-2-2-5-2-5,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Lifelong and workplace learning,'1-1-2-1-2-1-2-2-2-2-5-2-6,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Domain-specific learning applications (e.g. language, mathematics, science, medicine, military, industry).",'1-1-2-1-2-1-2-2-2-2-5-2-7,1,1,0,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'6. Evaluation,'1-1-2-1-2-1-2-2-2-2-6-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Human-computer interaction,'1-1-2-1-2-1-2-2-2-2-6-2-1,0,1,0,0,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Evaluation methodologies,'1-1-2-1-2-1-2-2-2-2-6-2-2,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Experiences and lessons learned,'1-1-2-1-2-1-2-2-2-2-6-2-3,0,1,0,0,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Submission Categories,'1-1-2-1-2-1-2-2-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,1,1,1,2,C
+'Full papers (8 pages) - All submissions should describe original and unpublished work.,'1-1-2-1-2-1-2-2-3-2-1-1,1,1,0,0,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,1,0,0,0,1,I
+"'Posters (3 pages) - Authors are encouraged to submit reports on work-in-progress including, where possible, early results.",'1-1-2-1-2-1-2-2-3-2-1-2,1,1,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Young researcher's track / Doctoral consortium (YRT/DC) (3 pages) - The YRT/DC is for work-in progress by graduate/postgraduate students and other young/new researchers.,'1-1-2-1-2-1-2-2-3-2-1-3,1,1,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Interactive events (1-2 pages) - To showcase interactive demonstrations of AIED systems.,'1-1-2-1-2-1-2-2-3-2-1-4,1,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Workshop proposals (2-4 pages) – Proposals for workshops on ""hot"" topics in AIED.",'1-1-2-1-2-1-2-2-3-2-1-5,1,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Tutorial proposals (2-4 pages) – Proposals for tutorials on important AIED topics.,'1-1-2-1-2-1-2-2-3-2-1-6,1,1,0,0,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+'Submissions will be through EasyChair. The required page format and full details for all submissions are available on the conference website.,'1-1-2-1-2-1-2-2-3-2-2,1,0,0,1,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Submission Dates,'1-1-2-1-2-1-2-2-4-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,1,1,1,3,C
+'Interactive Events: 19 Jan 2011 (23:59 GMT),'1-1-2-1-2-1-2-2-4-2-1,0,1,0,0,0,2,0,1,1,2,1,0,1,0,0,0,0,0,1,0,0,0,0,1,I
+'Workshop Proposals: 19 Jan 2011 (23:59 GMT),'1-1-2-1-2-1-2-2-4-2-2,0,1,0,0,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+'Young Researcher's Track papers: 21 Jan 2011 (23:59 GMT),'1-1-2-1-2-1-2-2-4-2-3,1,1,0,0,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,1,0,0,0,2,I
+"'Full Papers, Posters: 21 Jan 2011 (23:59 GMT)",'1-1-2-1-2-1-2-2-4-2-4,0,1,0,0,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,1,0,0,0,2,I
+'Tutorial Proposals: 11 Feb 2011 (23:59 GMT),'1-1-2-1-2-1-2-2-4-2-5,0,1,0,0,0,2,0,1,1,2,1,0,0,1,0,0,0,0,1,0,0,0,0,2,I
+'Conference Organisation,'1-1-2-1-2-1-2-2-5-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Organising Committee,'1-1-2-1-2-1-2-2-5-2-1,0,0,0,0,1,2,1,0,2,2,0,0,1,0,1,0,0,0,0,0,1,0,0,1,I
+'Senior Programme Committee,'1-1-2-1-2-1-2-2-5-2-2,0,0,0,0,1,2,1,0,2,2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'The proceedings of the AIED 2011 conference will be published in the Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence.,'1-1-2-1-2-2,1,0,1,1,1,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Disclaimer,'1-1-2-2-2-1,0,0,0,1,1,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'IAIED©2010,'1-1-2-2-2-2,0,0,0,1,1,1,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Developed and maintained by ICTG,'1-2,0,0,0,0,0,2,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,N

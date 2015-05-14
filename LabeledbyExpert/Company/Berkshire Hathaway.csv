@@ -1,383 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'Berkshire Hathaway,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-'Berkshire Hathaway Inc.,'1-1-2-1-1-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
-'Type,'1-1-2-1-1-2-2-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'Public,'1-1-2-1-1-2-2-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Traded as,'1-1-2-1-1-2-3-1,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'NYSE BRK.A,'1-1-2-1-1-2-3-2-1-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'NYSE BRK.B,'1-1-2-1-1-2-3-2-1-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'S&P 500 Component,'1-1-2-1-1-2-3-2-2,0,0,0,1,0,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Industry,'1-1-2-1-1-2-4-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Conglomerate,'1-1-2-1-1-2-4-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Founded,'1-1-2-1-1-2-5-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Cumberland Rhode Island,'1-1-2-1-1-2-5-2-1-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'United States,'1-1-2-1-1-2-5-2-1-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'as Valley Falls Company),'1-1-2-1-1-2-5-2-2,0,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,2,I
-'Founder(s),'1-1-2-1-1-2-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Oliver Chace,'1-1-2-1-1-2-6-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-1-1-2-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Kiewit Plaza
-Omaha, Nebraska, United States",'1-1-2-1-1-2-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,I
-'Area served,'1-1-2-1-1-2-8-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Worldwide,'1-1-2-1-1-2-8-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Key people,'1-1-2-1-1-2-9-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Warren Buffett,'1-1-2-1-1-2-9-2-1,0,0,0,1,0,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-"'(Chairman, President & CEO)",'1-1-2-1-1-2-9-2-2-1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,0,0,1,0,1,1,0,0,2,I
-'Charlie Munger,'1-1-2-1-1-2-9-2-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Products,'1-1-2-1-1-2-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Diversified investments, property and casualty insurance",'1-1-2-1-1-2-10-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Revenue,'1-1-2-1-1-2-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 182.150 billion (2013),'1-1-2-1-1-2-11-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operating income,'1-1-2-1-1-2-12-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 028.796 billion (2013),'1-1-2-1-1-2-12-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Net income,'1-1-2-1-1-2-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 019.476 billion (2013),'1-1-2-1-1-2-13-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total assets,'1-1-2-1-1-2-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'US$ 484.931 billion (2013),'1-1-2-1-1-2-14-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total equity,'1-1-2-1-1-2-15-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 224.485 billion (2013),'1-1-2-1-1-2-15-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-1-1-2-16-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'30 (Dec 2013),'1-1-2-1-1-2-16-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,I
-'Subsidiaries,'1-1-2-1-1-2-17-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'List of subsidiaries,'1-1-2-1-1-2-17-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Website,'1-1-2-1-1-2-18-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'BerkshireHathaway.com,'1-1-2-1-1-2-18-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States, that oversees and manages a number of subsidiary companies. The company wholly owns GEICO, BNSF, Lubrizol, Dairy Queen, Fruit of the Loom, Helzberg Diamonds and NetJets, owns half of Heinz and an undisclosed percentage of Mars, Incorporated and has significant minority holdings in American Express, The Coca-Cola Company, Wells Fargo, and IBM. Berkshire Hathaway averaged an annual growth in book value of 19.7% to its shareholders for the last 48 years (compared to 9.4% from S&P 500 with dividends included for the same period), while employing large amounts of capital, and minimal debt.",'1-1-2-1-2-1-1-1,2,0,0,1,0,2,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,2,N
-"'The company is known for its control by investor Warren Buffett, who is the company's chairman, president and CEO, and Charlie Munger, the company's vice-chairman. Buffett has used the ""float"" provided by Berkshire Hathaway's insurance operations (paid premiums which are not held in reserves for reported claims and may be invested) to finance his investments. In the early part of his career at Berkshire, he focused on long-term investments in publicly quoted stocks, but more recently he has turned to buying whole companies. Berkshire now owns a diverse range of businesses including confectionery, retail, railroad, home furnishings, encyclopedias, manufacturers of vacuum cleaners, jewelry sales; newspaper publishing; manufacture and distribution of uniforms; as well as several regional electric and gas utilities.",'1-1-2-1-2-1-1-2,2,0,0,1,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'According to the Forbes Global 2000 list and formula Berkshire Hathaway is the ninth largest public company in the world.,'1-1-2-1-2-1-1-3,1,0,0,1,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Contents,'1-1-2-1-2-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'1 History,'1-1-2-1-2-1-2-1-2-1,0,0,0,1,0,1,1,0,0,2,1,0,1,0,0,0,1,0,0,1,0,0,1,I
-"'2 Corporate affairs 2.1 Governance
-2.2 Succession plans",'1-1-2-1-2-1-2-1-2-2,0,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
-"'3 Businesses 3.1 Insurance group
-3.2 Utilities and energy group
-3.3 Manufacturing, service, and retailing 3.3.1 Clothing
-3.3.2 Building products
-3.3.3 Flight services
-3.3.4 Retail
-3.3.5 Media
-3.3.6 Other non-insurance
-
-3.4 Finance and financial products
-3.5 Investments 3.5.1 Equities – beneficial ownership
-3.5.2 Bonds
-3.5.3 Other",'1-1-2-1-2-1-2-1-2-3,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-'4 Assets,'1-1-2-1-2-1-2-1-2-4,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'5 Notes,'1-1-2-1-2-1-2-1-2-5,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'6 External links,'1-1-2-1-2-1-2-1-2-6,0,0,0,1,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'Berkshire Hathaway traces its roots to a textile manufacturing company established by Oliver Chace in 1839 as the Valley Falls Company in Valley Falls, Rhode Island. Chace had previously worked for Samuel Slater, the founder of the first successful textile mill in America. Chace founded his first textile mill in 1806. In 1929 the Valley Falls Company merged with the Berkshire Cotton Manufacturing Company established in 1889, in Adams, Massachusetts. The combined company was known as Berkshire Fine Spinning Associates.",'1-1-2-1-2-1-2-2-1-2-1,2,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
-"'In 1955 Berkshire Fine Spinning Associates merged with the Hathaway Manufacturing Company which was founded in 1888 in New Bedford, Massachusetts by Horatio Hathaway with profits from whaling and the China Trade. Hathaway was successful in its first decades, but it suffered during a general decline in the textile industry after World War I. At this time, Hathaway was run by Seabury Stanton, whose investment efforts were rewarded with renewed profitability after the Depression. After the merger Berkshire Hathaway had 15 plants employing over 12,000 workers with over $120 million in revenue and was headquartered in New Bedford, Massachusetts. However, seven of those locations were closed by the end of the decade, accompanied by large layoffs.",'1-1-2-1-2-1-2-2-1-2-2,2,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 1962, Warren Buffett began buying stock in Berkshire Hathaway after noticing a pattern in the price direction of its stock whenever the company closed a mill. Eventually, Buffett acknowledged that the textile business was waning and the company's financial situation was not going to improve. In 1964, Stanton made an oral tender offer of $11⁄2 per share for the company to buy back Buffett's shares. Buffett agreed to the deal. A few weeks later, Warren Buffett received the tender offer in writing, but the tender offer was for only $11⁄8. Buffett later admitted that this lower, undercutting offer made him angry. Instead of selling at the slightly lower price, Buffett decided to buy more of the stock to take control of the company and fire Stanton (which he did). However, this put Buffett in a situation where he was now majority owner of a textile business that was failing.",'1-1-2-1-2-1-2-2-1-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Buffett initially maintained Berkshire's core business of textiles, but by 1967, he was expanding into the insurance industry and other investments. Berkshire first ventured into the insurance business with the purchase of National Indemnity Company. In the late 1970s, Berkshire acquired an equity stake in the Government Employees Insurance Company (GEICO), which forms the core of its insurance operations today (and is a major source of capital for Berkshire Hathaway's other investments). In 1985, the last textile operations (Hathaway's historic core) were shut down.",'1-1-2-1-2-1-2-2-1-2-4,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'In 2010, Buffett claimed that purchasing Berkshire Hathaway was the biggest investment mistake he had ever made, and claimed that it had denied him compounded investment returns of about $200 billion over the subsequent 45 years. Buffett claimed that had he invested that money directly in insurance businesses instead of buying out Berkshire Hathaway (due to what he perceived as a slight by an individual), those investments would have paid off several hundredfold.",'1-1-2-1-2-1-2-2-1-2-5,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Corporate affairs,'1-1-2-1-2-1-2-2-2,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'Hathaway Mills, New Bedford, Mass.",'1-1-2-1-2-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'This section's,'1-1-2-2-1-2-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'factual accuracy may be compromised due to out-of-date information,'1-1-2-2-1-2-2-1,0,0,0,1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,2,I
-'Please update this article to reflect recent events or newly available information. (May 2013),'1-1-2-2-1-2-2-2,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,2,I
-"'Kiewit Tower, the location of Berkshire's corporate offices in Omaha, Nebraska",'1-1-2-2-2-1-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'Berkshire's class A shares sold for $165,265 as of February 3, 2014, making them the highest-priced shares on the New York Stock Exchange, in part because they have never had a stock split and have only paid a dividend once since Warren Buffett took over, retaining corporate earnings on its balance sheet in a manner that is impermissible for private investors and mutual funds. Shares closed over $100,000 for the first time on October 23, 2006. Despite its size, Berkshire has not been included in broad stock market indices such as the S&P 500 due to the lack of liquidity in its shares; however, following a 50-to-1 split of Berkshire's class B shares in January 2010, and Berkshire's announcement that it would acquire the Burlington Northern Santa Fe Corporation, parent of BNSF Railway, Berkshire replaced BNSF in the S&P 500 on February 16, 2010.",'1-1-2-2-2-2-1-1-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Berkshire's CEO is Warren Buffett. His annual chairman's letters are widely read and quoted. Barron's Magazine named Berkshire the most respected company in the world in 2007 based on a survey of American money managers.,'1-1-2-2-2-2-1-1-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2008, Berkshire invested in preferred shares of Goldman Sachs as part of a recapitalization of the investment bank. Buffett defended Goldman CEO Lloyd Blankfein's $13.2 million pay package when the company had taken and not yet paid back $10 billion in Troubled Asset Relief Program (TARP) money from the United States Department of Treasury.",'1-1-2-2-2-2-1-1-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'As of July 1, 2010, Buffett owned 32.4% aggregate voting power of Berkshire's shares outstanding and 23.3% of the economic value of those shares. Berkshire's vice-chairman, Charlie Munger, also holds a stake big enough to make him a billionaire, and early investments in Berkshire by David Gottesman and Franklin Otis Booth, Jr. resulted in their becoming billionaires as well. Bill Gates' Cascade Investments LLC is the second largest shareholder of Berkshire and owns more than 5% of class B shares.",'1-1-2-2-2-2-1-1-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Berkshire Hathaway is notable in that it has never split its Class A shares, which not only contributed to their high per-share price but also significantly reduced the liquidity of the stock. This refusal to split the stock reflects the management's desire to attract long-term investors as opposed to short-term speculators. However, Berkshire Hathaway has created a Class B stock, with a per-share value originally kept (by specific management rules) close to ⁄30 of that of the original shares (now Class A) and ⁄200 of the per-share voting rights, and after the January 2010 split, at ⁄1,500 the price and ⁄10,000 the voting rights of the Class-A shares. Holders of class A stock are allowed to convert their stock to Class B, though not vice versa. Buffett was reluctant to create the class B shares, but did so to thwart the creation of unit trusts that would have marketed themselves as Berkshire look-alikes. As Buffett said in his 1995 shareholder letter: ""The unit trusts that have recently surfaced fly in the face of these goals. They would be sold by brokers working for big commissions, would impose other burdensome costs on their shareholders, and would be marketed en masse to unsophisticated buyers, apt to be seduced by our past record and beguiled by the publicity Berkshire and I have received in recent years. The sure outcome: a multitude of investors destined to be disappointed.""",'1-1-2-2-2-2-1-1-5,2,0,0,1,0,0,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Berkshire's annual shareholders' meetings, taking place in the CenturyLink Center in Omaha, Nebraska, are routinely visited by 20,000 people. The 2007 meeting had an attendance of approximately 27,000. The meetings, nicknamed ""Woodstock for Capitalists"", are considered Omaha's largest annual event along with the baseball College World Series. Known for their humor and light-heartedness, the meetings typically start with a movie made for Berkshire shareholders. The 2004 movie featured Arnold Schwarzenegger in the role of ""The Warrenator"" who travels through time to stop Buffett and Munger's attempt to save the world from a ""mega"" corporation formed by Microsoft-Starbucks-Wal-Mart. Schwarzenegger is later shown arguing in a gym with Buffett regarding Proposition 13. The 2006 movie depicted actresses Jamie Lee Curtis and Nicollette Sheridan lusting after Munger. The meeting, scheduled to last six hours, is an opportunity for investors to ask Buffett questions.",'1-1-2-2-2-2-1-1-6,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'The salary for the CEO is US$100,000 per year with no stock options, which is among the lowest salaries for CEOs of large companies in the United States.",'1-1-2-2-2-2-1-1-7,1,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
-'Governance,'1-1-2-2-2-2-1-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-"'The current members of the board of directors of Berkshire Hathaway are Warren Buffett, Charlie Munger, Walter Scott, Jr., Thomas S. Murphy, Howard Graham Buffett, Ronald Olson, Donald Keough, Charlotte Guyman, David Gottesman, Bill Gates, Steve Burke, Susan Decker, and Meryl Witmer.",'1-1-2-2-2-2-1-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Succession plans,'1-1-2-2-2-2-1-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'In May 2010, Buffett, months away from his 80th birthday, said he would be succeeded at Berkshire Hathaway by a team consisting of a CEO and three or four investment managers; each of the latter would be responsible for a ""significant portion of Berkshire's investment portfolio"". Five months later, Berkshire announced that Todd Combs, manager of the hedge fund Castle Point Capital, would join them as an investment manager. On September 12, 2011, Berkshire Hathaway announced that 50-year-old Ted Weschler, founder of Peninsula Capital Advisors, will join Berkshire in early 2012 as a second investment manager.",'1-1-2-2-2-2-1-3-2-1,2,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In Berkshire Hathaway's annual shareholder letter dated February 25, 2012, Buffett said that his successor as CEO had been chosen internally but not named publicly. While the intent of this message was to bolster confidence in the leadership of a ""Buffett-less Berkshire"", critics have noted that this strategy of choosing a successor without a concrete exit strategy for the sitting CEO often leaves an organization with fewer long term options, while doing little to calm shareholder fear. In reaction to the announcement, Stephen A. Miles, a leadership consultant who specializes in CEO succession, noted, ""You see this more often with successful founder CEOs. Because they’re so good, they want to take the lead in choosing their replacement, [but] most boards try to avoid what [Buffett] did.""",'1-1-2-2-2-2-1-3-2-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Businesses,'1-1-2-2-2-2-1-4-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Insurance group,'1-1-2-2-2-2-1-4-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,1,C
-"'Insurance and reinsurance business activities are conducted through approximately 70 domestic and foreign-based insurance companies. Berkshire’s insurance businesses provide insurance and reinsurance of property and casualty risks primarily in the United States. In addition, as a result of the General Re acquisition in December 1998, Berkshire’s insurance businesses also included life, accident and health reinsurers, as well as internationally based property and casualty reinsurers. Berkshire’s insurance companies maintain capital strength at exceptionally high levels. This strength differentiates Berkshire’s insurance companies from their competitors. Collectively, the aggregate statutory surplus of Berkshire’s U.S. based insurers was approximately $48 billion as of December 31, 2004. All of Berkshire’s major insurance subsidiaries are rated AAA by Standard & Poor’s Corporation, the highest Financial Strength Rating assigned by Standard & Poor’s, and are rated A++ (superior) by A. M. Best with respect to their financial condition and operating performance.",'1-1-2-2-2-2-1-4-2-1,2,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,1,0,1,1,1,I
-"'GEICO – Berkshire acquired GEICO in January 1996. GEICO is headquartered in Chevy Chase, Maryland, and its principal insurance subsidiaries include: Government Employees Insurance Company, GEICO General Insurance Company, GEICO Indemnity Company, and GEICO Casualty Company. Over the past five years, these companies have offered primarily private passenger automobile insurance to individuals in all 50 states and the District of Columbia. GEICO markets its policies primarily through direct response methods in which applications for insurance are submitted directly to the companies via the Internet or by telephone.",'1-1-2-2-2-2-1-4-2-2-1-1,2,1,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,I
-"'Gen Re – Berkshire acquired General Re in December 1998. General Re held a 91% ownership interest in Cologne Re as of December 31, 2004. General Re subsidiaries currently conduct global reinsurance business in approximately 72 cities and provide reinsurance coverage worldwide. General Re operates the following reinsurance businesses: North American property/casualty, international property/casualty, which principally consists of Cologne Re and the Faraday operations, and life/health reinsurance. General Re’s reinsurance operations are primarily based in Stamford, Connecticut, and Cologne, Germany. General Re is one of the largest reinsurers in the world based on net premiums written and capital.",'1-1-2-2-2-2-1-4-2-2-1-2,2,1,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'NRG (Nederlandse Reassurantie Groep) – Berkshire acquired NRG, a Dutch life reinsurance company, from ING Group in December 2007.",'1-1-2-2-2-2-1-4-2-2-2,1,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-"'Berkshire Hathaway Assurance – Berkshire created a government bond insurance company to insure municipal and state bonds. These type bonds are issued by local governments to finance public works projects such as schools, hospitals, roads, and sewer systems. Few companies are capable of competing in this area.",'1-1-2-2-2-2-1-4-2-2-3,2,1,0,1,0,0,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
-'Utilities and energy group,'1-1-2-2-2-2-1-5-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Berkshire currently holds 89.8% of the MidAmerican Energy Holdings Company. At the time of purchase, Berkshire's voting interest was limited to 10% of the company's shares, but this restriction ended when the Public Utility Holding Company Act of 1935 was repealed in 2005. A major subsidiary of MidAmerican is CE Electric UK.",'1-1-2-2-2-2-1-5-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'Manufacturing, service, and retailing",'1-1-2-2-2-2-1-6-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Clothing,'1-1-2-2-2-2-1-6-1-2,0,0,0,1,1,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-"'Berkshire’s clothing businesses include manufacturers and distributors of a variety of clothing and footwear. Businesses engaged in the manufacture and distribution of clothing include Union Underwear Corp. – Fruit of the Loom, Garan, Fechheimer Brothers and Russell Corporation. Berkshire’s footwear businesses include H.H. Brown Shoe Group, Acme Boots, Brooks Sports and Justin Brands. Justin Brands is made up of Chippewa Boots, Justin Boots, Justin Original Workboots, Nocona Boots, and Tony Lama Boots. Berkshire acquired Fruit of the Loom on April 29, 2002 for $835 million in cash. Fruit of the Loom, headquartered in Bowling Green, Kentucky, is a vertically integrated manufacturer of basic clothing. Berkshire acquired Russell Corporation on August 2, 2006 for $600 million or $18.00 per share.",'1-1-2-2-2-2-1-6-2,2,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Building products,'1-1-2-2-2-2-1-7-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-"'In August 2000, Berkshire entered the building products business with the acquisition of Acme Building Brands. Acme, headquartered in Fort Worth, Texas, manufactures and distributes clay bricks (Acme Brick), concrete block (Featherlite) and cut limestone (Texas Quarries). It expanded its building products business in December 2000, when it acquired Benjamin Moore & Co. of Montvale, New Jersey. Moore formulates, manufactures and sells primarily architectural coatings that are available principally in the United States and Canada.",'1-1-2-2-2-2-1-7-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In 2001, Berkshire acquired three additional building products companies. In February, it purchased Johns Manville which was established in 1858 and manufactures fiber glass wool insulation products for homes and commercial buildings, as well as pipe, duct and equipment insulation products. In July, Berkshire acquired a 90% equity interest in MiTek Inc., which makes engineered connector products, engineering software and services, and manufacturing machinery for the truss fabrication segment of the building components industry and is headquartered in Chesterfield, Missouri. Finally in 2001, Berkshire acquired 87 percent of Dalton, Georgia-based Shaw Industries, Inc. Shaw is the world’s largest carpet manufacturer based on both revenue and volume of production and designs and manufactures over 3,000 styles of tufted and woven carpet and laminate flooring for residential and commercial use under approximately 30 brand and trade names and under certain private labels. In 2002, Berkshire Acquired the remaining 12.7 percent of Shaw.",'1-1-2-2-2-2-1-7-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On August 7, 2003, Berkshire acquired Clayton Homes, Inc. Clayton, headquartered near Knoxville, Tennessee, is a vertically integrated manufactured housing company. At year-end 2004, Clayton operated 32 manufacturing plants in 12 states. Clayton’s homes are marketed in 48 states through a network of 1,540 retailers, 391 of which are company-owned sales centers. On May 1, 2008, Mitek acquired Hohmann & Barnard a fabricator of anchors and reinforcement systems for masonry and on October 3 of that year, Mitek acquired Blok-Lok, Ltd. of Toronto, Canada. On April 23, 2010, Mitek acquired the assets of Dur-O-Wal from Dayton Superior Corporation.",'1-1-2-2-2-2-1-7-2-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Flight services,'1-1-2-2-2-2-1-8-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,C
-"'In 1996, Berkshire acquired FlightSafety International Inc. FSI’s corporate headquarters is located at LaGuardia Airport in Flushing, New York. FSI engages primarily in the business of providing high technology training to operators of aircraft and ships. FlightSafety is the world's leading provider of professional aviation training services. Berkshire acquired NetJets Inc. in 1998. NetJets is the world’s leading provider of fractional ownership programs for general aviation aircraft. In 1986, NetJets created the fractional ownership of aircraft concept and introduced its NetJets program in the United States with one aircraft type. In 2004, the NetJets program operated 15 aircraft types.",'1-1-2-2-2-2-1-8-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Retail,'1-1-2-2-2-2-1-9-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'The home furnishings businesses are the Nebraska Furniture Mart, RC Willey Home Furnishings, Star Furniture Company, and Jordan’s Furniture, Inc. CORT Business Services Corporation was acquired in 2000 by an 80.1% owned subsidiary of Berkshire and is the leading national provider of rental furniture, accessories and related services in the “rent-to-rent” segment of the furniture rental industry.",'1-1-2-2-2-2-1-9-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In May 2000, Berkshire purchased Ben Bridge Jewelers. A chain of jewellery stores established in 1912 with locations primarily in the western United States. This joined Berkshire's other jeweler acquisition, Helzberg Diamonds. Helzberg is a chain of jewelry stores based in Kansas City that began in 1915 and became part of Berkshire in 1995.",'1-1-2-2-2-2-1-9-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2002, Berkshire acquired The Pampered Chef, Ltd., the largest direct seller of kitchen tools in the United States. Products are researched, designed and tested by The Pampered Chef, and manufactured by third party suppliers. From its Addison, Illinois headquarters, The Pampered Chef utilizes a network of more than 65,000 independent sales representatives to sell its products through home-based party demonstrations, principally in the United States.",'1-1-2-2-2-2-1-9-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'See's Candies produces boxed chocolates and other confectionery products in two large kitchens in California. See’s revenues are highly seasonal with approximately 50% of total annual revenues being earned in the months of November and December.,'1-1-2-2-2-2-1-9-2-4,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Dairy Queen, based in Edina, Minnesota, services a system of approximately 6,000 stores operating under the names Dairy Queen, Orange Julius and Karmelkorn that offer various dairy desserts, beverages, prepared foods, blended fruit drinks, popcorn and other snack foods.",'1-1-2-2-2-2-1-9-2-5,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In November 2012, Berkshire announced they would acquire the Oriental Trading Company, a direct marketing company for novelty items, small toys, and party items.",'1-1-2-2-2-2-1-9-2-6,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,2,I
-'Media,'1-1-2-2-2-2-1-10-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'In 1977, Berkshire Hathaway purchased the Buffalo Evening News and resumed publication of a Sunday edition of the paper that ceased in 1914. After the morning newspaper Buffalo Courier-Express ceased operation in 1982, the paper began to print morning and evening editions, currently printing only a morning edition. In 2006, the company bought Business Wire, a U.S. press release agency.",'1-1-2-2-2-2-1-10-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'The company began its BH Media Group subsidiary with a purchase of the Omaha World-Herald in December 2011, which included six other daily newspapers and several weeklies across Nebraska and southwest Iowa. In June 2012, Berkshire purchased 63 newspapers from Media General Inc. of Richmond, Va., including the Richmond Times-Dispatch and Winston-Salem Journal, for $142 million in cash.",'1-1-2-2-2-2-1-10-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2012, Berkshire bought Texas dailies The Eagle in Bryan-College Station and the Waco Tribune-Herald. In 2013, the company purchased the Tulsa World, the Greensboro, North Carolina-based News & Record and Virginia's Roanoke Times.",'1-1-2-2-2-2-1-10-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'As of March 2013, BH Media owned 28 daily and 42 non-daily newspapers.",'1-1-2-2-2-2-1-10-2-4,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-"'On March 12, 2014, it was announced that Graham Holdings Company would divest its Miami television station WPLG to BH Media in a cash and stock deal.",'1-1-2-2-2-2-1-10-2-5,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Other non-insurance,'1-1-2-2-2-2-1-11-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'MidAmerican Energy Holdings Company's HomeServices of America is a residential real estate brokerage firm based in Minneapolis, Minnesota and founded in 1998. HomeServices has operations in 19 states and over 21,000 sales associates. In addition to brokerage services, these real estate companies provide mortgage loan originations, title and closing services, home warranties, property and casualty insurance and other related services. By the end of 2013 Berkshire Hathaway will enter the residential real estate brokerage sector under the name of Berkshire Hathaway HomeServices®.",'1-1-2-2-2-2-1-11-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
-"'In 2002, Berkshire acquired Albecca Inc. Albecca is headquartered in Norcross, Georgia, and primarily does business under the Larson-Juhl name. Albecca designs, manufactures and distributes custom framing products, including wood and metal molding, matboard, foamboard, glass, equipment and other framing supplies. Berkshire acquired CTB International Corp. in 2002. CTB, headquartered in Milford, Indiana, is a designer, manufacturer and marketer of systems used in the grain industry and in the production of poultry, hogs, and eggs. Products are produced in the United States and Europe and are sold primarily through a global network of independent dealers and distributors, with peak sales occurring in the second and third quarters.",'1-1-2-2-2-2-1-11-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Berkshire acquired McLane Company, Inc. in May 2003 from Wal-Mart Stores, Inc., which brought on other subsidiaries such as Professional Datasolutions, Inc. and Salado Sales, among others. McLane provides wholesale distribution and logistics services in all 50 states and internationally in Brazil to customers that include discount retailers, convenience stores, quick service restaurants, drug stores and movie theatre complexes. Scott Fetzer Companies–The Scott Fetzer Companies are a diversified group of 21 businesses that manufacture and distribute a wide variety of products for residential, industrial and institutional use. The three most significant of these businesses are Kirby home cleaning systems, Wayne Water Systems and Campbell Hausfeld products. Scott Fetzer also manufactures Ginsu Knives.",'1-1-2-2-2-2-1-11-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On March 30, 2007 Berkshire Hathaway announced TTI Inc. to be part of the Berkshire Hathaway Group. Headquartered in Fort Worth, Texas, TTI, Inc. is the largest distributor specialist of passive, interconnect and electromechanical components. TTI’s extensive product line includes: resistors, capacitors, connectors, potentiometers, trimmers, magnetic and circuit protection components, wire and cable, identification products, application tools and electromechanical devices.",'1-1-2-2-2-2-1-11-2-4,2,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On December 25, 2007, Berkshire Hathaway acquired Marmon Holdings Inc. Previously it was a privately held conglomerate owned by the Pritzker family for over fifty years, which owned and operated an assortment of manufacturing companies that produce railroad tank cars, shopping carts, plumbing pipes, metal fasteners, wiring and water treatment products used in residential construction.",'1-1-2-2-2-2-1-11-2-5,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Andin International (designer and manufacturer of fine jewelry), founded by Ofer and Aya Azrielant, is a division of The Richline Group, Inc., a wholly owned subsidiary of Berkshire Hathaway formed in 2007.",'1-1-2-2-2-2-1-11-2-6,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Finance and financial products,'1-1-2-2-2-2-1-12-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,2,C
-"'Berkshire acquired Clayton Homes a maker of modular homes, storage trailers, chassis, intermodal piggyback trailers and domestic containers.",'1-1-2-2-2-2-1-12-2-1,1,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Clayton's finance business, (loans to manufactured home owners), earned $206 million down from $526 million in 2007. Loan losses remain 3.6% up from 2.9%.",'1-1-2-2-2-2-1-12-2-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Investments,'1-1-2-2-2-2-1-13-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Equities – beneficial ownership,'1-1-2-2-2-2-1-13-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-"'Berkshire's fifteen largest stock investments by market value, as reported in the 2013 annual report are, in alphabetical order:",'1-1-2-2-2-2-1-13-2-1,1,0,0,1,0,0,1,2,1,2,0,1,0,0,0,0,0,0,0,0,1,1,1,C
-'American Express Co. (14.2%),'1-1-2-2-2-2-1-13-2-2-1,0,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'The Coca-Cola Company (9.1%),'1-1-2-2-2-2-1-13-2-2-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'DIRECTV (4.2%),'1-1-2-2-2-2-1-13-2-2-3,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Exxon Mobil Corp. (0.9%),'1-1-2-2-2-2-1-13-2-2-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Goldman Sachs (2.8%),'1-1-2-2-2-2-1-13-2-2-5,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'IBM (6.3%),'1-1-2-2-2-2-1-13-2-2-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Moody's Corporation, owner of Moody's Analytics (11.5%)",'1-1-2-2-2-2-1-13-2-2-7,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Munich Re (11.2%),'1-1-2-2-2-2-1-13-2-2-8,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Phillips 66 (3.4%),'1-1-2-2-2-2-1-13-2-2-9,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Procter & Gamble Company (1.9%),'1-1-2-2-2-2-1-13-2-2-10,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-'Sanofi (1.7%),'1-1-2-2-2-2-1-13-2-2-11,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Tesco plc (3.7%),'1-1-2-2-2-2-1-13-2-2-12,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'U.S. Bancorp (5.3%),'1-1-2-2-2-2-1-13-2-2-13,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Wal-Mart (1.8%),'1-1-2-2-2-2-1-13-2-2-14,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Wells Fargo (9.2%),'1-1-2-2-2-2-1-13-2-2-15,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Bonds,'1-1-2-2-2-2-1-14-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'As of 2008, Berkshire owns $27 billion in fixed income securities, mainly foreign government bonds and corporate bonds.",'1-1-2-2-2-2-1-14-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Other,'1-1-2-2-2-2-1-15-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'In 2003, Pepsi paid Berkshire $10 million to insure against a contest Pepsi held which had a potential $1 billion prize. The prize had a very small chance of being won and it was not won by anyone.",'1-1-2-2-2-2-1-15-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In 2006 Berkshire Hathaway Inc. acquired Russell Corporation for $600 million, in fact getting most shares and brands in many sports leagues - like Spalding NBA official basketballs, BIKE Athletic Company protections, AAI (American Athletic) Gymnastics' tables, bars, rings, horses or Dudley softball balls and accessories.",'1-1-2-2-2-2-1-15-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In 2008, Berkshire purchased preferred stock in Wrigley, Goldman Sachs, and GE totaling $14.5 billion.",'1-1-2-2-2-2-1-15-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On April 28, 2008, Berkshire purchased Wrigley Company with Mars, Incorporated in a $23 billion deal, resulting in Berkshire having an undisclosed piece of ownership in Mars.",'1-1-2-2-2-2-1-15-2-4,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Berkshire made $3.5 billion on its investment in preferred shares of Goldman Sachs. Berkshire and Buffett have since been criticized for Buffett's defense of Lloyd Blankfein's $13.2 million pay package while they owed the United States Department of Treasury $10 billion in Troubled Asset Relief Program money.,'1-1-2-2-2-2-1-15-2-5,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On May 1, 2010 at the Berkshire shareholders meeting, Buffett also defended Goldman over $1 billion in collateralized debt obligation fraud allegations saying that its clients made a calculated risk.",'1-1-2-2-2-2-1-15-2-6,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On November 3, 2009, Berkshire Hathaway announced that, using stock and cash totaling $26 billion, it would acquire the remaining 77.4 percent of the Burlington Northern Santa Fe Corporation, parent of BNSF Railway, that it did not already own. This was the largest acquisition to-date in Berkshire's history.",'1-1-2-2-2-2-1-15-2-7,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On March 14, 2011, Berkshire Hathaway announced that it would acquire the Lubrizol Corporation for $9 billion in cash, a deal that was described as one of the largest deals ever for Berkshire Hathaway.",'1-1-2-2-2-2-1-15-2-8,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On March 25, 2011, Berkshire Hathaway made its first foray into the Indian insurance sector with its non-direct subsidiary BerkshireInsurance.com in the presence of Warren Buffett himself.",'1-1-2-2-2-2-1-15-2-9,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'On August 26, 2011, Berkshire Hathaway purchased $5 billion of preferred shares in Bank of America. In 2007, Buffett had also bought 8.7 million shares, quickly increasing the stake to 9.1 million shares in the midst of the subprime crisis.",'1-1-2-2-2-2-1-15-2-10,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On February 14, 2013, Berkshire Hathaway Inc and 3G Capital announced plans to purchase H.J. Heinz Co. for $72.50 per share, or $28 billion including debt.",'1-1-2-2-2-2-1-15-2-11,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Berkshire owns 1.74 million shares of Gannett. The company also holds part of newspaper publisher Lee Enterprises after buying some of Lee's debt after its bankruptcy filing.,'1-1-2-2-2-2-1-15-2-12,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Assets,'1-1-2-2-2-2-1-16-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Main article: List of assets owned by Berkshire Hathaway,'1-1-2-2-2-2-1-16-2,0,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Notes,'1-1-2-2-2-2-1-17-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'External links,'1-1-2-2-2-2-1-17-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-'Official website,'1-1-2-2-2-2-1-17-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,1,0,0,0,0,1,0,0,1,I
-'Berkshire Hathaway SEC Filings,'1-1-2-2-2-2-1-17-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Nebraska portal,'1-1-2-2-2-2-2-1-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Companies portal,'1-1-2-2-2-2-2-2-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'Berkshire Hathaway,'1-1-2-2-3-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-"'Corporate
-directors
-
-Warren Buffett (Chairman and CEO)
-Charlie Munger
-Howard Graham Buffett
-Susan Decker
-Bill Gates
-David Gottesman
-Charlotte Guyman
-Donald Keough
-Thomas S. Murphy
-Ronald Olson
-Walter Scott, Jr.",'1-1-2-2-3-2-1-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
-"'Insurance
-
-Applied Underwriters
-Berkshire Hathaway Assurance
-Berkshire Hathaway Homestate Companies
-Berkshire Hathaway Life Insurance Company of Nebraska
-BoatUS
-Central States Indemnity
-Gateway Underwriters Agency
-GEICO
-Gen Re
-Kansas Bankers Surety Company
-Medical Protective
-National Indemnity Company
-Seaworthy Insurance Company
-United States Liability Insurance Group
-Wesco Financial",'1-1-2-2-3-2-1-2,2,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
-"'Materials and
- construction
-
-Acme Brick
-Benjamin Moore & Co.
-Clayton Homes
-International Metalworking Companies
-Johns Manville
-Lubrizol
-Marmon
-MiTek
-Mouser Electronics
-Precision Steel Warehouse
-Shaw Industries
-TTI",'1-1-2-2-3-2-1-3,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Furniture
-
-CORT Business Services
-Jordan's Furniture
-Larson-Juhl
-Nebraska Furniture Mart
-RC Willey Home Furnishings
-Star Furniture",'1-1-2-2-3-2-1-4,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Apparel
-
-Brooks Sports
-Fruit of the Loom
-Fechheimer Brothers
-Garanimals
-H.H. Brown Shoe Group
-Justin Brands
-Russell",'1-1-2-2-3-2-1-5,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Transportation
-
-Burlington Northern Santa Fe Corporation
-FlightSafety International
-Forest River
-Marquis Jet
-McLane
-NetJets
-NetJets Europe
-XTRA Lease",'1-1-2-2-3-2-1-6,1,1,0,1,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
-'Food,'1-1-2-2-3-2-1-7-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'H. J. Heinz Company,'1-1-2-2-3-2-1-7-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,1,1,1,I
-'CTB International,'1-1-2-2-3-2-1-7-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Dairy Queen,'1-1-2-2-3-2-1-7-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Orange Julius,'1-1-2-2-3-2-1-7-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Karmelkorn,'1-1-2-2-3-2-1-7-2-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Pampered Chef,'1-1-2-2-3-2-1-7-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'See's Candies,'1-1-2-2-3-2-1-7-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Media,'1-1-2-2-3-2-2-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'The Buffalo News,'1-1-2-2-3-2-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Business Wire,'1-1-2-2-3-2-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'BH Media,'1-1-2-2-3-2-2-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Bristol Herald Courier,'1-1-2-2-3-2-2-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Culpeper Star Exponent,'1-1-2-2-3-2-2-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Daily Nonpareil,'1-1-2-2-3-2-2-2-2-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Danville Register & Bee,'1-1-2-2-3-2-2-2-2-2-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Dothan Eagle,'1-1-2-2-3-2-2-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Eden Daily News,'1-1-2-2-3-2-2-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Eagle,'1-1-2-2-3-2-2-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Enterprise Ledger,'1-1-2-2-3-2-2-2-2-2-8,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Grand Island Independent,'1-1-2-2-3-2-2-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Hickory Daily Record,'1-1-2-2-3-2-2-2-2-2-10,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Independent Tribune,'1-1-2-2-3-2-2-2-2-2-11,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Jackson County Floridan,'1-1-2-2-3-2-2-2-2-2-12,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Kearney Hub,'1-1-2-2-3-2-2-2-2-2-13,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Morning News,'1-1-2-2-3-2-2-2-2-2-14,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Nelson County Times,'1-1-2-2-3-2-2-2-2-2-15,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'News & Record,'1-1-2-2-3-2-2-2-2-2-16,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'News & Messenger,'1-1-2-2-3-2-2-2-2-2-17,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'North Platte Telegraph,'1-1-2-2-3-2-2-2-2-2-18,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Omaha World-Herald,'1-1-2-2-3-2-2-2-2-2-19,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Opelika-Auburn News,'1-1-2-2-3-2-2-2-2-2-20,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Press of Atlantic City,'1-1-2-2-3-2-2-2-2-2-21,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Roanoke Times,'1-1-2-2-3-2-2-2-2-2-22,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Richmond Times-Dispatch,'1-1-2-2-3-2-2-2-2-2-23,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Star-Herald,'1-1-2-2-3-2-2-2-2-2-24,0,0,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Statesville Record & Landmark,'1-1-2-2-3-2-2-2-2-2-25,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Daily Progress,'1-1-2-2-3-2-2-2-2-2-26,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The McDowell News,'1-1-2-2-3-2-2-2-2-2-27,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The News & Advance,'1-1-2-2-3-2-2-2-2-2-28,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The News Herald,'1-1-2-2-3-2-2-2-2-2-29,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The News Virginian,'1-1-2-2-3-2-2-2-2-2-30,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Reidsville Review,'1-1-2-2-3-2-2-2-2-2-31,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Tulsa World,'1-1-2-2-3-2-2-2-2-2-32,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Waco Tribune-Herald,'1-1-2-2-3-2-2-2-2-2-33,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Winston-Salem Journal,'1-1-2-2-3-2-2-2-2-2-34,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'York News-Times,'1-1-2-2-3-2-2-2-2-2-35,0,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,1,1,2,I
-"'Jewelry
-
-Ben Bridge Jeweler
-Borsheim's Fine Jewelry
-Helzberg Diamonds
-Richline Group Scott Fetzer
-
-Campbell Hausfeld
-Ginsu
-Kirby
-World Book MidAmerican Energy
- Holdings Company
-
-MidAmerican Energy Company
-NV Energy
-PacifiCorp
-Northern Powergrid
-CalEnergy Generation
-Kern River Gas Transmission Company
-Northern Natural Gas
-HomeServices of America Related articles
-
-Blue Chip Stamps
-Owned assets  Category",'1-1-2-2-3-2-3,2,1,0,1,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Major insurance and reinsurance companies,'1-1-2-2-4-1,0,0,0,2,1,2,1,0,2,1,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'Insurance,'1-1-2-2-4-2-1-1-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'Composite,'1-1-2-2-4-2-1-1-2-1-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Aegon,'1-1-2-2-4-2-1-1-2-1-2-1,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-'Ageas,'1-1-2-2-4-2-1-1-2-1-2-2,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'AIG,'1-1-2-2-4-2-1-1-2-1-2-3,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Allianz,'1-1-2-2-4-2-1-1-2-1-2-4,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Allstate,'1-1-2-2-4-2-1-1-2-1-2-5,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Aon,'1-1-2-2-4-2-1-1-2-1-2-6,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Aviva,'1-1-2-2-4-2-1-1-2-1-2-7,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'AXA,'1-1-2-2-4-2-1-1-2-1-2-8,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Pacific Insurance,'1-1-2-2-4-2-1-1-2-1-2-9,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'China Taiping,'1-1-2-2-4-2-1-1-2-1-2-10,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
-'Generali,'1-1-2-2-4-2-1-1-2-1-2-11,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'ING,'1-1-2-2-4-2-1-1-2-1-2-12,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'National Mutual Insurance Federation of Agricultural Cooperatives,'1-1-2-2-4-2-1-1-2-1-2-13,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
-'Ping An Insurance,'1-1-2-2-4-2-1-1-2-1-2-14,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'Prudential plc,'1-1-2-2-4-2-1-1-2-1-2-15,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'PZU,'1-1-2-2-4-2-1-1-2-1-2-16,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'State Farm Insurance,'1-1-2-2-4-2-1-1-2-1-2-17,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'The Hartford,'1-1-2-2-4-2-1-1-2-1-2-18,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'UnipolSai,'1-1-2-2-4-2-1-1-2-1-2-19,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Vienna Insurance Group,'1-1-2-2-4-2-1-1-2-1-2-20,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
-'Zurich Insurance Group,'1-1-2-2-4-2-1-1-2-1-2-21-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
-'Farmers Insurance Group,'1-1-2-2-4-2-1-1-2-1-2-21-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'General insurance,'1-1-2-2-4-2-1-1-2-2-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,2,I
-'BB Seguridade,'1-1-2-2-4-2-1-1-2-2-2-1,0,0,0,1,0,2,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Berkshire Hathaway,'1-1-2-2-4-2-1-1-2-2-2-2-1,0,0,0,1,1,2,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'BNP Paribas Bradesco Seguros CNP Assurances Hyundai Marine & Fire Insurance If P&C Insurance Insurance Australia Group Liberty Mutual Mapfre Mitsui Sumitomo Insurance Group PICC QBE Insurance RSA Insurance Group Samsung Fire & Marine Insurance Sompo Japan Tokio Marine Travelers UIIC India XL Group,'1-1-2-2-4-2-1-1-2-2-2-2-2,2,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
-'Life insurance,'1-1-2-2-4-2-1-1-2-3-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'AIA,'1-1-2-2-4-2-1-1-2-3-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Bupa,'1-1-2-2-4-2-1-1-2-3-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'China Life,'1-1-2-2-4-2-1-1-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Dai-ichi Life,'1-1-2-2-4-2-1-1-2-3-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Great Eastern,'1-1-2-2-4-2-1-1-2-3-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Jackson,'1-1-2-2-4-2-1-1-2-3-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Legal & General,'1-1-2-2-4-2-1-1-2-3-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'LIC India,'1-1-2-2-4-2-1-1-2-3-2-8,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Lincoln,'1-1-2-2-4-2-1-1-2-3-2-9,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Manulife Financial,'1-1-2-2-4-2-1-1-2-3-2-10,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Meiji Yasuda Life,'1-1-2-2-4-2-1-1-2-3-2-11,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'MetLife,'1-1-2-2-4-2-1-1-2-3-2-12,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'New York Life,'1-1-2-2-4-2-1-1-2-3-2-13,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Nippon Life,'1-1-2-2-4-2-1-1-2-3-2-14,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Northwestern Mutual,'1-1-2-2-4-2-1-1-2-3-2-15,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Old Mutual,'1-1-2-2-4-2-1-1-2-3-2-16,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Phoenix Group,'1-1-2-2-4-2-1-1-2-3-2-17,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Prudential Financial,'1-1-2-2-4-2-1-1-2-3-2-18,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Samsung Life,'1-1-2-2-4-2-1-1-2-3-2-19,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Scottish Widows,'1-1-2-2-4-2-1-1-2-3-2-20,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Standard Life,'1-1-2-2-4-2-1-1-2-3-2-21,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Sumitomo Life,'1-1-2-2-4-2-1-1-2-3-2-22,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Sun Life,'1-1-2-2-4-2-1-1-2-3-2-23,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Swiss Life,'1-1-2-2-4-2-1-1-2-3-2-24,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Taikang Life,'1-1-2-2-4-2-1-1-2-3-2-25,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Reinsurance,'1-1-2-2-4-2-1-2-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Gen Re,'1-1-2-2-4-2-1-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Hannover Re,'1-1-2-2-4-2-1-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Lloyd's of London,'1-1-2-2-4-2-1-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Munich Re,'1-1-2-2-4-2-1-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Reinsurance Group of America,'1-1-2-2-4-2-1-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Scor,'1-1-2-2-4-2-1-2-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Swiss Re,'1-1-2-2-4-2-1-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'XL Group,'1-1-2-2-4-2-1-2-2-8,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Methodology: Applicable FY2010/11 revenues of over US$3 billion,'1-1-2-2-4-2-2,0,0,0,1,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C

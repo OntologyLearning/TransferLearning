@@ -1,0 +1,62 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Tel: +44 1223 334501,'1-1-1-2-1-1,0,0,0,1,0,2,0,1,0,2,0,0,1,0,0,1,0,0,0,1,0,0,0,0,C
+'Fax: +44 1223 334678,'1-1-1-2-1-2,0,0,0,1,0,2,0,1,0,2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,C
+'John.Daugman at CL.cam.ac.uk,'1-1-1-2-2,0,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,N
+"'John Daugman, OBE FIMA FIAPR",'1-1-2-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Professor of Computer Vision and Pattern Recognition,'1-1-2-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,3,N
+'Lecture courses:,'1-2-1,0,0,1,2,1,2,0,2,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,3,C
+'Information Theory and Coding,'1-2-2-1,0,0,0,1,0,2,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,I
+'Mathematical Methods in Computer Science,'1-2-2-2,0,0,0,1,0,2,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Computer Vision,'1-2-2-3,0,0,0,1,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Research interests:,'1-3-1-1,0,0,1,2,1,2,0,2,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+"'Computer vision, statistical pattern recognition, neural computing, wavelet codes.",'1-3-1-2,1,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,I
+'Selected publications:,'1-3-2-1,0,0,1,2,1,2,0,2,1,1,0,1,0,0,0,1,0,0,0,1,0,1,1,2,C
+"'Hao F, Daugman J, Zielinski P (2008) ""A fast search algorithm for a large fuzzy database."" IEEE Trans. Information Forensics and Security 3(2), pp 203-212. ( PDF)",'1-3-2-2-1-1-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,1,0,1,0,0,0,0,0,0,1,I
+"'Daugman J (2007) ""New methods in iris recognition."" IEEE Trans. Systems, Man, Cybernetics B 37(5), pp 1167-1175. ( PDF)",'1-3-2-2-1-1-2,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J (2006) ""Probing the uniqueness and randomness of IrisCodes: Results from 200 billion iris pair comparisons."" Proceedings of the IEEE, 94(11), pp 1927-1935. ( PDF)",'1-3-2-2-1-1-3,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J (2003) ""Demodulation by complex-valued wavelets for stochastic pattern recognition."" Int'l Journal of Wavelets, Multi-resolution and Information Processing, 1(1), pp 1-17. ( PDF)",'1-3-2-2-1-1-4,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J (2003) ""The importance of being random: Statistical principles of iris recognition."" Pattern Recognition, 36(2), pp 279-291. ( PDF)",'1-3-2-2-1-1-5,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J (2002) ""Gabor wavelets and statistical pattern recognition."" The Handbook of Brain Theory and Neural Networks, 2nd ed., MIT Press (M. Arbib, editor), pp 457-463.",'1-3-2-2-1-1-6,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J (2001) ""Statistical richness of visual phase information."" Int'l Journal of Computer Vision, 45(1), pp 25-38.",'1-3-2-2-1-1-7,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J and Downing C (2001) ""Epigenetic randomness, complexity, and singularity of human iris patterns."" Proceedings of the Royal Society, B, 268, Biological Sciences, pp 1737 - 1740. (PDF)",'1-3-2-2-1-1-8,2,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J (2001) ""Brain metaphor and brain theory."" Chapter 2 in Philosophy and the Neurosciences, edited by W. Bechtel et al. Oxford: Blackwell Publishers. (Scanned PDF here)",'1-3-2-2-1-1-9,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Daugman J (2000) ""Biometric decision landscapes."" Technical Report No. TR482, University of Cambridge Computer Laboratory. (PDF)",'1-3-2-2-1-1-10,1,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Iris Recognition,'1-3-2-2-1-2-2,0,0,1,2,1,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,C
+"'All other links on this page relate to IRIS RECOGNITION, a practical application of the work in computer vision, wavelets, and statistical pattern recognition.",'1-3-2-2-1-2-3,1,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,1,1,1,I
+'History of iris recognition.,'1-3-2-2-1-3-1,0,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'General introduction (purpose, principle, current applications).",'1-3-2-2-1-3-2,0,1,0,1,0,0,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'""How Iris Recognition Works""",'1-3-2-2-1-3-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'(.pdf reprint: J. Daugman (2004), IEEE Trans. CSVT 14(1), pp. 21 - 30.)",'1-3-2-2-1-3-3-2,1,0,0,0,0,2,0,1,1,2,0,0,0,1,0,0,1,0,0,0,0,1,1,2,I
+"'An iris with its ""IrisCode"" (and localization graphics). More examples of IrisCodes.",'1-3-2-2-1-3-4,1,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'Detailed colour iris image, and another.",'1-3-2-2-1-3-5,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'What iris patterns reveal in infrared light.,'1-3-2-2-1-3-6,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Some pictures and examples of deployments of the Daugman algorithms.,'1-3-2-2-1-3-7,1,1,0,1,0,2,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Summary of statistical results from 200 billion iris cross-comparisons (spanning 152 nationalities in the UAE border-crossing database). More detailed report with full Probability Tables available here.,'1-3-2-2-1-3-8,1,1,0,1,0,0,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'deployments at airports and border-crossings,'1-3-2-2-1-3-9-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'(.pdf article from Encyclopedia of Biometrics, 2010).",'1-3-2-2-1-3-9-2,0,0,0,0,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'""Effect of Severe Image Compression on Iris Recognition Performance""",'1-3-2-2-1-3-10-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+"'(.pdf reprint: J. Daugman and C. Downing (2008), IEEE Trans. Inform. Foren. & Secur. 3(1), pp. 52 - 61.)",'1-3-2-2-1-3-10-2,1,0,0,0,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,1,1,2,I
+"'A large ""watch-list"" national security deployment of these algorithms.",'1-3-2-2-1-3-11,1,1,0,1,0,0,1,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Interview in BioSocieties (2008) about biometrics, anonymity, privacy, and the Liberal State.",'1-3-2-2-1-3-12,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Iris matching engine, and search speed.",'1-3-2-2-1-3-13,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Decision environment (separability of same vs different iris patterns).,'1-3-2-2-1-3-14,1,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Performance of these algorithms compared to other biometrics (UK National Physical Laboratory test report, 2001).",'1-3-2-2-1-3-15,1,1,0,1,0,2,1,0,1,2,1,1,1,1,1,1,0,1,0,0,0,0,0,2,I
+"'Mathematical explanation of ""IrisCodes"" and iris recognition.",'1-3-2-2-1-3-16,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Independence of bits across IrisCodes.,'1-3-2-2-1-3-17,0,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Binomial Distribution of unrelated IrisCodes (histogram of 9.1 million raw Hamming Distances).,'1-3-2-2-1-3-18,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'9.1 million comparisons between unrelated IrisCodes (with rotations for best match).,'1-3-2-2-1-3-19,1,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Quantile-Quantile comparison between the data and binomial theory (9.1 million comparisons).,'1-3-2-2-1-3-20,1,1,0,1,0,0,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Why false match probability does not accumulate in large database searches.,'1-3-2-2-1-3-21,1,1,0,1,0,0,1,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'What about genetically identical iris patterns (e.g. identical twins)?,'1-3-2-2-1-3-22,1,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Anatomy, physiology, and development of the iris.",'1-3-2-2-1-3-23,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Operators for localizing the iris within an image.,'1-3-2-2-1-3-24,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Advantages and disadvantages of the iris for identification.,'1-3-2-2-1-3-25,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Statistical demands of identification vs verification.,'1-3-2-2-1-3-26,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Is there advantage in combining multiple biometrics?,'1-3-2-2-1-3-27,0,1,0,1,0,0,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Links to some licensees and users of these algorithms; and partial list of applications.,'1-3-2-2-1-3-28,1,1,0,1,0,0,1,0,2,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Iris cameras that use these algorithms.,'1-3-2-2-1-3-29,0,1,0,1,0,0,1,0,2,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'How these algorithms identified the National Geographic Afghan girl, 18 years later.",'1-3-2-2-1-3-30,1,1,0,1,0,2,1,0,2,2,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'What about ""iridology?""",'1-3-2-2-1-3-31,0,1,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'More humour: ""Iris recognition and The Simpsons Movie""",'1-3-2-2-1-3-32,0,1,0,1,0,2,1,1,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Cartoons about iris recognition from the British press.,'1-3-2-2-1-3-33,0,1,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Back to top.,'1-3-2-2-2,0,0,0,0,0,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N

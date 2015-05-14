@@ -1,45 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
-'Ann Copestake,'1-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
-"'Professor of Computational Linguistics
-     Deputy Head of Department (Teaching)
-     University of Cambridge Computer Laboratory
-     William Gates Building,
-     15 JJ Thomson Avenue
-     Cambridge CB3 0FD, UK
-     work: (+44) 1223 334615, 
-     fax: (+44) 1223 334678
-     email: firstname.lastname @cl.cam.ac.uk",'1-1-2-2,2,0,0,0,0,2,1,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,I
-'Teaching and Research Group Links,'1-2-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
-'Natural Language group home page (incl. local resources info.),'1-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
-'The MPhil in Advanced Computer Science,'1-2-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,2,I
-'ACS project suggestions,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Language and Concepts module,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Computer Science Tripos course in Natural Language Processing,'1-2-2-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Contacting me,'1-3-1,0,0,1,2,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'page about emailing me,'1-3-2,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Research overview,'1-4-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
-'LKB system project web pages current research directions,'1-4-2-1,0,0,0,1,0,0,1,0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,0,1,I
-'Projects,'1-4-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
-'list of projects DELPH-IN LinGO,'1-4-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,I
-'I am also currently (since March 2013) involved in the COST (European Cooperation in Science and Technology framework) Action Project IC1207: `PARSEME: PARSing and Multi-word Expressions. Towards linguistic precision and computational efficiency in natural language processing'.,'1-4-2-2-2-2,2,0,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Research students (with thesis title if completed),'1-4-2-3-1,0,0,1,2,1,0,0,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,2,C
-'Matic Horvat,'1-4-2-3-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,1,1,1,I
-'Theodosia Togia,'1-4-2-3-2-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Richard Bergmair Monte Carlo Semantics: Robust inference and logical pattern processing with Natural Language text,'1-4-2-3-2-3,1,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Aurelie Herbelot Underspecified quantification,'1-4-2-3-2-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Mohan Ganesalingam The language of mathermatics,'1-4-2-3-2-5,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Diarmuid Ó Séaghdha Learning compound noun semantics,'1-4-2-3-2-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Eric Henderson Text representation in a language processing system,'1-4-2-3-2-7,1,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Advaith Siddharthan A text restructuring toolkit,'1-4-2-3-2-8,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Publications,'1-4-2-4-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
-'publications list,'1-4-2-4-2-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,1,I
-'List of slides from presentations. This also contains links to material from courses at summer schools etc.,'1-4-2-4-2-2,1,0,0,1,0,0,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,2,I
-'LKB system links,'1-4-2-5-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
-'Information about the LKB system,'1-4-2-5-2-1,0,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Web page for the `LKB book' Implementing typed feature structure grammars. The LKB system user manual is readable from this page.,'1-4-2-5-2-2,1,1,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'CSLI studies in Computational Linguistics,'1-4-2-6-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'CSLI Studies in Computational Linguistics my CSLI series page,'1-4-2-6-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'FoLLI,'1-4-2-7-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'FoLLI - The Association for Logic, Language and Information",'1-4-2-7-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,I
-'Short Biography,'1-5-1,0,0,1,2,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'ACQUILEX Computer Science at the University of Sussex  CSLI,'1-5-2,1,0,0,1,0,2,1,0,2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,I

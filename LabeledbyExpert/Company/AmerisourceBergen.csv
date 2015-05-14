@@ -1,175 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'AmerisourceBergen,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-'AmerisourceBergen Corporation,'1-1-2-1-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
-'Type,'1-1-2-1-2-2-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'Public,'1-1-2-1-2-2-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Traded as,'1-1-2-1-2-3-1,0,0,0,1,1,2,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'NYSE ABC,'1-1-2-1-2-3-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'S&P 500 Component,'1-1-2-1-2-3-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Industry,'1-1-2-1-2-4-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Pharmaceuticals,'1-1-2-1-2-4-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Founded,'1-1-2-1-2-5-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Merger between AmeriSource Health and Bergen Brunswig in 2001,'1-1-2-1-2-5-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-1-2-6-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Chesterbrook, Pennsylvania, U.S.",'1-1-2-1-2-6-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Area served,'1-1-2-1-2-7-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'North America,'1-1-2-1-2-7-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,1,0,0,0,1,0,0,1,I
-'United Kingdom,'1-1-2-1-2-7-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'Key people,'1-1-2-1-2-8-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Richard C. Gozon,'1-1-2-1-2-8-2-1,0,0,0,1,0,2,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Chairman,'1-1-2-1-2-8-2-2-1,0,0,0,1,0,1,1,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-'Steven H. Collis,'1-1-2-1-2-8-2-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'(President), (CEO) & (Director)",'1-1-2-1-2-8-2-3,0,0,0,1,0,0,1,0,0,2,1,1,0,0,0,0,0,0,1,0,0,0,2,C
-'Products,'1-1-2-1-2-9-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-'Pharmaceuticals and pharmacy services,'1-1-2-1-2-9-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Revenue,'1-1-2-1-2-10-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 79.49 billion (2012),'1-1-2-1-2-10-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operating income,'1-1-2-1-2-11-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 1.253 billion (2012),'1-1-2-1-2-11-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Net income,'1-1-2-1-2-12-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 719.0 million (2012),'1-1-2-1-2-12-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total assets,'1-1-2-1-2-13-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'US$ 15.44 billion (2012),'1-1-2-1-2-13-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total equity,'1-1-2-1-2-14-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'US$ 2.457 billion (2012),'1-1-2-1-2-14-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-1-2-15-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'14,500 (Sept 2012)",'1-1-2-1-2-15-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,1,0,0,1,I
-'Website,'1-1-2-1-2-16-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'AmerisourceBergen.com,'1-1-2-1-2-16-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'AmerisourceBergen Corporation is a Chesterbrook, Pennsylvania based drug wholesale company that was formed by the merger of Bergen Brunswig and AmeriSource in 2001. They provide drug distribution and related services designed to reduce costs and improve patient outcomes, distribute a line of brand name and generic pharmaceuticals, over-the-counter (OTC) health care products and home health care supplies and equipment to a wide variety of health care providers located throughout the United States, including acute care hospitals and health systems, independent and chain retail pharmacies, mail-order facilities, physicians, clinics and other alternate site facilities, as well as skilled nursing and assisted living centers. They also provide pharmaceuticals and pharmacy services to long-term care, workers' compensation and specialty drug patients.",'1-1-2-2-1-1-1,2,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,N
-'AmerisourceBergen is a market leader in pharmaceutical distribution handling about 20% of all of the pharmaceuticals sold and distributed throughout the country and ranked 32nd on the Fortune 500 list for 2013 with over $79 Billion in annual revenue. In terms of revenue (79.49 billion in 2012) the firm is the largest based in Pennsylvania.,'1-1-2-2-1-1-2,2,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Contents,'1-1-2-2-1-2-1-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'1 History,'1-1-2-2-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,1,0,0,1,0,0,1,I
-'2 Corporate structure,'1-1-2-2-1-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'3 Good Neighbor Pharmacy,'1-1-2-2-1-2-1-2-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'3.1 Thought Spot,'1-1-2-2-1-2-1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'4 Knowledge Driven,'1-1-2-2-1-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'5 References,'1-1-2-2-1-2-1-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'6 External links,'1-1-2-2-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'AmerisourceBergen was formed in 2001 following the merger of AmeriSource Health Corporation and Bergen Brunswig Corporation. AmeriSource and Bergen were both successful pharmaceutical distributors that served similar markets but covered somewhat different geographies. Bringing the two together gave the company a strong national presence that was geared especially towards serving independent community pharmacies, regional retail chain pharmacies, hospitals, physician offices, clinics and other alternate care facilities.",'1-1-2-2-1-2-2-1-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Today, AmerisourceBergen has 26 pharmaceutical distribution centers in the US, nine distribution centers in Canada, four specialty distribution centers in the US, and over 1 million square feet of packaging production capacity in the US and the UK. With the addition of World Courier, the largest specialty courier company in the world, over 150 company-owned offices around the globe were added to the company.",'1-1-2-2-1-2-2-1-2-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Corporate structure,'1-1-2-2-1-2-2-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'AmerisourceBergen operates its pharmaceutical distribution business under four primary units: AmerisourceBergen Drug Corporation (ABDC), AmerisrouceBergen Specialty Group (ABSG), AmerisrouceBergen Consulting Services (ABCS) and World Courier.",'1-1-2-2-1-2-2-2-2,1,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Good Neighbor Pharmacy,'1-1-2-2-1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'Good Neighbor Pharmacy is an American retailers' cooperative network of more than 3,400 independently owned and operated pharmacies. It has a business affiliation with AmerisourceBergen, which sponsors the network and owns the name ""Good Neighbor Pharmacy"" Good Neighbor Pharmacy is the sponsor for ""Thought Spot"" the annual trade show held in Las Vegas.",'1-1-2-2-1-2-2-3-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Thought Spot,'1-1-2-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'ThoughtSpot is a four-day trade show put on by Good Neighbor Pharmacy held in or around July in Las Vegas aimed for community pharmacies.,'1-1-2-2-1-2-2-4-2-1,1,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'Exhibitors are represented throughout the healthcare industry including, brand name, generic and over the counter products. ThoughtSpot 2013 was hosted at the MGM Grand, Las Vegas from July 24 to July 27. Special guest musical performance by Bret Michaels capped off the week on July 27 at a special attendee-only closing event.",'1-1-2-2-1-2-2-4-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Knowledge Driven,'1-1-2-2-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Knowledge Driven is a resource site sponsored by AmerisourceBergen.,'1-1-2-2-1-2-2-5-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'External links,'1-1-2-2-1-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Corporate Website,'1-1-2-2-1-2-2-6-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,1,0,0,0,0,1,0,0,1,I
-'AmerisourceBergen Specialty Group,'1-1-2-2-1-2-2-6-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'AmerisourceBergen SEC Filings,'1-1-2-2-1-2-2-6-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Companies portal,'1-1-2-2-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,2,C
-'Philadelphia-area corporations (including the Delaware Valley),'1-1-2-3-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'List of companies based in the Philadelphia area,'1-1-2-3-2-1,0,0,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,N
-"'Philadelphia-based Fortune 500
- corporations (rank in the 2013 list)
-
-Comcast (46)
-Aramark (205)
-Crown Holdings (312)",'1-1-2-3-2-2,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,3,C
-"'Delaware Valley-based Fortune 500
- corporations (rank in the 2013 list)
-
-Companies listed above plus AmerisourceBergen (32)
-DuPont (72)
-Lincoln National (235)
-Campbell Soup (338)
-Universal Health Services (337)
-UGI (388)
-SLM (410)",'1-1-2-3-2-3,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
-"'Other notable Philadelphia-based
- businesses
-
-Amoroso's
-Asplundh Tree Expert Company
-Beneficial Bank
-Crozer Keystone Health System
-Day & Zimmermann
-Pennsylvania Real Estate Investment Trust
-Pep Boys
-Philadelphia Media Network
-Radian Group
-Sunoco
-Urban Outfitters",'1-1-2-3-2-4,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Notable Philadelphia-based
- professional partnerships
-
-Ballard Spahr
-Blank Rome
-Cozen O'Connor
-Dechert
-Drinker Biddle & Reath
-Duane Morris
-Morgan, Lewis & Bockius
-Pepper Hamilton
-Saul Ewing
-White and Williams",'1-1-2-3-2-5,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Other notable Delaware
- Valley-based businesses
-
-Airgas
-AlliedBarton
-Aqua America
-Bentley Systems
-Brandywine Realty Trust
-Boscov's
-Burlington Coat Factory
-Carpenter Technology
-Cephalon
-Christiana Care Health System
-First Round Capital
-Forman Mills
-Hamilton Lane
-Liberty Property Trust
-Penn Mutual
-Penn National Gaming
-Polish Water Ice
-Rita's Italian Ice
-SEI Investments Company
-SunGard
-Susquehanna International Group
-Vanguard
-Unisys
-ViroPharma
-Wawa
-Wilmington Trust
-WSFS Bank",'1-1-2-3-2-6,2,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Notable Delaware Valley-based
- US headquarters of
- foreign businesses
-
-ACE
-AgustaWestland
-AstraZeneca
-Delaware Investments
-GlaxoSmithKline
-HSBC Bank USA
-ING Group
-Keystone Foods
-Santander Bank
-SAP America
-Siemens Medical
-Shire Pharmaceuticals
-Subaru
-Teva Pharmacueticals
-TD Bank",'1-1-2-3-2-7,1,1,0,1,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
-'Notable Delaware Valley-based,'1-1-2-3-2-8-1-1,0,0,0,1,1,2,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,C
-'division headquarters of,'1-1-2-3-2-8-1-2,0,0,0,1,1,0,0,0,2,2,1,0,1,1,1,0,0,0,0,1,0,0,1,N
-'US corporations,'1-1-2-3-2-8-1-3,0,0,0,1,1,2,0,0,2,2,1,0,0,1,0,0,0,0,0,0,1,1,3,N
-'Acme (Cerberus Capital Management),'1-1-2-3-2-8-2-1,0,1,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
-'Centocor (Johnson & Johnson),'1-1-2-3-2-8-2-2,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Colonial Penn (Conseco),'1-1-2-3-2-8-2-3,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Delmarva Power (Pepco Holdings),'1-1-2-3-2-8-2-4,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'GSI Commerce (eBay),'1-1-2-3-2-8-2-5,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Hercules (Ashland),'1-1-2-3-2-8-2-6,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'MAB Paints (Sherwin-Williams),'1-1-2-3-2-8-2-7,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'McNeil Laboratories (J&J),'1-1-2-3-2-8-2-8,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Neoware (Hewlett-Packard),'1-1-2-3-2-8-2-9,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'PECO (Exelon),'1-1-2-3-2-8-2-10,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'QVC (Liberty Media),'1-1-2-3-2-8-2-11,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Rohm and Haas (Dow Chemical),'1-1-2-3-2-8-2-12,0,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Tasty Baking (Flowers Foods),'1-1-2-3-2-8-2-13,0,1,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I

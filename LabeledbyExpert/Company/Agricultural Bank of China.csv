@@ -1,139 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'Agricultural Bank of China,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,C
-'Agricultural Bank of China Limited,'1-1-2-1-1-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,N
-'中国农业银行股份有限公司,'1-1-2-1-1-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Type,'1-1-2-1-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'Public,'1-1-2-1-3-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Traded as,'1-1-2-1-4-1,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'SEHK 1288,'1-1-2-1-4-2-1,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'SSE 601288,'1-1-2-1-4-2-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Industry,'1-1-2-1-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Banking, Financial services",'1-1-2-1-5-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Founded,'1-1-2-1-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'1951,'1-1-2-1-6-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-1-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Beijing, China",'1-1-2-1-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
-'Key people,'1-1-2-1-8-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Jiang Chaoliang,'1-1-2-1-8-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Zhang Yun,'1-1-2-1-8-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Products,'1-1-2-1-9-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Finance and insurance,'1-1-2-1-9-2-1,0,0,0,1,0,2,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,I
-'Consumer Banking,'1-1-2-1-9-2-2,0,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Corporate Banking,'1-1-2-1-9-2-3,0,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Investment Banking,'1-1-2-1-9-2-4,0,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Investment Management,'1-1-2-1-9-2-5,0,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Global Wealth Management,'1-1-2-1-9-2-6,0,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Private Equity,'1-1-2-1-9-2-7,0,0,0,1,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Mortgages,'1-1-2-1-9-2-8,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Credit Cards,'1-1-2-1-9-2-9,0,0,0,1,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Revenue,'1-1-2-1-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'CN¥ 377.73 billion (2011),'1-1-2-1-10-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Net income,'1-1-2-1-11-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'CN¥ 121.95 billion (2011),'1-1-2-1-11-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total assets,'1-1-2-1-12-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'CN¥ 11.677 trillion (2011),'1-1-2-1-12-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total equity,'1-1-2-1-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'CN¥ 649.78 billion (2011),'1-1-2-1-13-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Owner(s),'1-1-2-1-14-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Government of the People's Republic of China,'1-1-2-1-14-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-1-15-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'444,238 (2012)",'1-1-2-1-15-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Website,'1-1-2-1-16-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'abchina.com,'1-1-2-1-16-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Agricultural Bank of China,'1-1-2-2-1,0,0,0,2,0,2,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0,2,C
-'Simplified Chinese,'1-1-2-2-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-'中国农业银行,'1-1-2-2-2-2,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Traditional Chinese,'1-1-2-2-3-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
-'Transcriptions,'1-1-2-2-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Mandarin,'1-1-2-2-4-2-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
-'Hanyu Pinyin,'1-1-2-2-4-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
-'Zhōngguó Nóngyè Yínháng,'1-1-2-2-4-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Alternative Chinese name,'1-1-2-2-5,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Simplified Chinese,'1-1-2-2-6-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-'农行,'1-1-2-2-6-2,0,0,0,2,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Traditional Chinese,'1-1-2-2-7-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,C
-'農行,'1-1-2-2-7-2,0,0,0,2,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Transcriptions,'1-1-2-2-8-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Mandarin,'1-1-2-2-8-2-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
-'Hanyu Pinyin,'1-1-2-2-8-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,N
-'Nóngháng,'1-1-2-2-8-2-2-2,0,0,0,1,0,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-"'Agricultural Bank of China Limited (ABC, simplified Chinese: 中国农业银行; traditional Chinese: 中國農業銀行; pinyin: Zhōngguó Nóngyè Yínháng), also known as AgBank or 农行 Nóngháng, is one of the ""Big Four"" banks in the People's Republic of China. It was founded in 1951, and has its headquarters in Dongcheng District, Beijing. It has branches throughout mainland China, Hong Kong, London, Tokyo, New York, Frankfurt, Sydney, Seoul, and Singapore.",'1-1-2-3-1-1-1,2,0,0,1,0,2,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,3,N
-"'ABC has 320 million retail customers, 2.7 million corporate clients, and nearly 24,000 branches. It is China's third largest lender by assets. ABC went public in mid-2010, fetching the world's biggest ever initial public offering (IPO). As of 2011, it ranks 8th among the Top 1000 World Banks, meanwhile Forbes Global 2000 named it the 25th-largest public company in the world.",'1-1-2-3-1-1-2,2,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Contents,'1-1-2-3-1-2-1-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'1 History,'1-1-2-3-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,1,0,0,1,0,0,1,I
-'2 2010 initial public offering,'1-1-2-3-1-2-1-2-2,0,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'3 See also,'1-1-2-3-1-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'4 References,'1-1-2-3-1-2-1-2-4,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-3-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'After the establishment of the People's Republic of China in 1949, ABC has been formed and abolished several times. In 1951, two banks of the Republic of China, Farmers Bank of China and Cooperation Bank, merged to form Agricultural Cooperation Bank, which ABC regards as its ancestor. However, the bank was merged into People's Bank of China, the central bank in 1952. The first bank bearing the name Agricultural Bank of China was founded in 1955, but it was merged into the central bank in 1957. In 1963 the Chinese government formed another agricultural bank, and it was also merged into the central bank two years later. Today's Agricultural Bank of China was founded in February 1979. It was restructured to form a holding company called Agricultural Bank of China Limited. It was listed on the Shanghai and Hong Kong stock exchanges in July 2010.",'1-1-2-3-1-2-2-1-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,1,0,0,0,1,I
-'In April 2007 ABC was the victim of the largest bank robbery in Chinese history. This occurred when two vault managers at the Handan branch of the bank in Hebei province embezzled almost 51 million yuan (US$7.5 million).,'1-1-2-3-1-2-2-1-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'In 2012 ABC started a project to migrate to the Avaloq Banking System.,'1-1-2-3-1-2-2-1-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'During the 2013 Korean crisis, the Agricultural Bank of China halted business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs.",'1-1-2-3-1-2-2-1-2-4,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,1,0,0,0,2,I
-'2010 initial public offering,'1-1-2-3-1-2-2-2-1,0,0,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'ABC was the last of the ""big four"" banks in China to go public. In 2010, A shares and H shares of Agricultural Bank of China were listed on the Shanghai Stock Exchange and the Hong Kong Stock Exchange respectively. Each share was set to cost between 2.7RMB and 3.3RMB per share. H shares were set to cost between HK$2.88 and HK$3.48 per share. The final share price for the IPO launch was issued on July 7, 2010. On completion in August 2010 it became the world's biggest initial public offering (IPO) surpassing the one set by Industrial and Commercial Bank of China in 2006 of US$21.9 billion.",'1-1-2-3-1-2-2-2-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
-"'ABC raised US$19.21 billion in an IPO in Hong Kong and Shanghai on July 6, 2010, before overallotment options were exercised. On August 13, 2010, ABC officially completed the world's largest initial public offering, raising a total of $22.1 billion after both Shanghai and Hong Kong's over-allotments were fully exercised. The IPO was once thought to be able to raise US$30 billion, but weaker market sentiment dampened the value. Despite a 15 month low for the Chinese benchmark index, the IPO was said to have gone smoothly.",'1-1-2-3-1-2-2-2-2-2,2,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'CICC, Goldman Sachs, and Morgan Stanley led the Hong Kong offering, with JPMorgan, Macquarie, Deutsche Bank and ABC's own securities unit also involved. CICC, Citic Securities, Galaxy and Guotai Junan Securities handled the Shanghai portion. ABC sold about 40% of the Shanghai offering to 27 strategic investors including China Life Insurance and China State Construction. They were subject to lock-up periods of 12–18 months. Eleven cornerstone investors were selected for its Hong Kong share offering, including Qatar Investment Authority and Kuwait Investment Authority, taking a combined $5.45 billion worth of shares.",'1-1-2-3-1-2-2-2-2-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'See also,'1-1-2-3-1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,N
-'Asset management in China,'1-1-2-3-1-2-2-3-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,3,N
-'List of companies of the People's Republic of China,'1-1-2-3-1-2-2-3-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,3,N
-'An ABC location in Guangzhou,'1-1-2-3-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Companies portal,'1-1-2-3-3-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
-'Banks of China,'1-1-2-4-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,3,C
-'Banking in China,'1-1-2-4-1-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,1,C
-"'Central bank
-
-People's Bank of China",'1-1-2-4-1-2-2-1-1,0,0,0,1,1,2,1,0,1,2,1,1,1,0,0,1,0,0,1,1,1,1,1,C
-"'Policy bank
-
-China Development Bank
-Export-Import Bank of China
-Agricultural Development Bank of China",'1-1-2-4-1-2-2-1-2,1,1,0,1,1,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,1,C
-"'State-owned
-
-China Development Bank
-China Construction Bank
-Bank of China
-Industrial and Commercial Bank of China
-Agricultural Bank of China
-Postal Savings Bank of China
-Bank of Communications",'1-1-2-4-1-2-2-1-3,1,1,0,1,1,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,1,C
-"'Commercial
-
-China CITIC Bank
-China Everbright Bank
-Hua Xia Bank
-China Guangfa Bank
-Shenzhen Development Bank
-China Merchants Bank
-Shanghai Pudong Development Bank
-Industrial Bank Co.
-China Minsheng Bank
-Evergrowing Bank
-China Zheshang Bank
-China Bohai Bank
-Xiamen International Bank
-Ping An Bank",'1-1-2-4-1-2-2-1-4,1,1,0,1,1,2,1,0,1,2,1,1,0,1,0,1,0,0,1,1,0,0,1,C
-'City Bank,'1-1-2-4-1-2-2-1-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'Bank of Shanghai,'1-1-2-4-1-2-2-1-5-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,1,I
-'Bank of Beijing,'1-1-2-4-1-2-2-1-5-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'List of banks in China,'1-1-2-4-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,1,1,0,0,2,N
-'List of banks in Hong Kong,'1-1-2-4-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,3,N
-'List of banks in Macau,'1-1-2-4-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,3,N
-'China-based financial stocks in Hong Kong,'1-1-2-4-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,3,C
-'Banks,'1-1-2-4-2-2-1-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'ICBC BOC CCB BoCom CMB CITIC Minsheng,'1-1-2-4-2-2-1-1-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'ABC,'1-1-2-4-2-2-1-1-2-2,0,0,0,1,1,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Insurers,'1-1-2-4-2-2-1-2-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'China Life,'1-1-2-4-2-2-1-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,1,0,0,1,I
-'Ping An,'1-1-2-4-2-2-1-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'PICC,'1-1-2-4-2-2-1-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'China Taiping,'1-1-2-4-2-2-1-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'CPIC,'1-1-2-4-2-2-1-2-2-5,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'See also: List of companies listed on the Hong Kong Stock Exchange,'1-1-2-4-2-2-2,1,0,0,1,0,2,1,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,2,N
-'Hang Seng China Enterprises Index companies of Hong Kong,'1-1-2-4-3-1-1,1,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,3,C
-'Tsingtao Brewery Angang Steel Jiangxi Copper Sinopec China Railway Engineering Dongfeng Motor Group China Telecom Air China ZTE Petrochina Huaneng Power Anhui Conch Cement Longyuan Power China Construction Bank China CITIC Bank China Shenhua Sinopharm China Shipping Development Yanzhou Coal China Railway Construction BYD Company,'1-1-2-4-3-1-2-1,2,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,1,I
-'Agricultural Bank of China,'1-1-2-4-3-1-2-2-1,0,0,0,1,1,2,0,0,2,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
-'Industrial and Commercial Bank of China New China Life Insurance China Communications Construction China Coal Energy Minsheng Bank China COSCO GAC Group Ping An Insurance PICC Property and Casualty Company Aluminium Corporation of China China Pacific Insurance China Life Insurance R&F Properties China Oilfield Services Zijin Mining China National Building Material Bank of Communications China Merchants Bank Bank of China CITIC Securities Haitong Securities,'1-1-2-4-3-1-2-2-2,2,0,0,1,0,2,1,0,2,2,0,0,0,1,0,1,0,0,1,0,0,0,2,I
-'SSE 50 companies of China,'1-1-2-4-3-2-1,0,0,0,2,1,2,1,0,2,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
-'Agricultural Bank of China,'1-1-2-4-3-2-2-1,0,0,0,1,1,2,0,0,2,2,0,0,1,0,0,1,0,0,1,1,0,0,1,I
-'Air China Aluminium Corporation of China Bank of Beijing Bank of China Bank of Communications Baosteel China CITIC Bank China Coal Energy China Construction Bank China COSCO China Life Insurance China Merchants Bank China Metallurgical China Minsheng Bank China Pacific Insurance China Railway Construction China Railway Engineering China Shenhua China State Construction China Unicom China Yangtze Power CITIC Securities CSR Corporation Daqin Railway Everbright Securities GD Power Development Gemdale Group Haitong Securities Hua Xia Bank Industrial and Commercial Bank of China Industrial Bank Jiangxi Copper Jinduicheng Molybdenum Kweichow Moutai Liaoning Chengda Shanxi Lu'an Environmental Energy PetroChina Ping An Insurance Poly Real Estate SAIC Motor Shandong Gold Shanghai Pudong Development Bank Sinopec Tebian Electric Apparatus Tianwei Baobian Electric Western Mining Wuhan Iron and Steel Zhongjin Gold Zijin Mining,'1-1-2-4-3-2-2-2,2,0,0,1,0,2,1,0,2,2,0,0,0,1,0,1,0,0,1,0,0,0,2,I

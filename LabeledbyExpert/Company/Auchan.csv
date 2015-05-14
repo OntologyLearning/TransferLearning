@@ -1,257 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'Auchan,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-'Groupe Auchan SA,'1-1-2-1-1-1-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
-'Type,'1-1-2-1-1-1-2-2-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-"'Private, SA",'1-1-2-1-1-1-2-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Industry,'1-1-2-1-1-1-2-3-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Retailing,'1-1-2-1-1-1-2-3-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Founded,'1-1-2-1-1-1-2-4-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Roubaix, France (1961)",'1-1-2-1-1-1-2-4-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,1,I
-'Founder(s),'1-1-2-1-1-1-2-5-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Gérard Mulliez,'1-1-2-1-1-1-2-5-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-1-1-1-2-6-1,0,0,0,1,1,1,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-"'Croix, Lille Métropole",'1-1-2-1-1-1-2-6-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'France,'1-1-2-1-1-1-2-6-2-2,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'Number of locations,'1-1-2-1-1-1-2-7-1,0,0,0,1,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'3,051",'1-1-2-1-1-1-2-7-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Area served,'1-1-2-1-1-1-2-8-1,0,0,0,1,1,2,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Worldwide,'1-1-2-1-1-1-2-8-2,0,0,0,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Key people,'1-1-2-1-1-1-2-9-1,0,0,0,1,1,2,0,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Chairman,'1-1-2-1-1-1-2-9-2-1,0,0,0,1,0,1,1,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,1,I
-"'Thierry Mulliez, Vice-Chairman",'1-1-2-1-1-1-2-9-2-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Products,'1-1-2-1-1-1-2-10-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Discount store, electronics specialty, hypermarket, supercenter, supermarket, superstore, other specialty",'1-1-2-1-1-1-2-10-2,1,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Revenue,'1-1-2-1-1-1-2-11-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€44.373 billion (2011),'1-1-2-1-1-1-2-11-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operating income,'1-1-2-1-1-1-2-12-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€1.283 billion (2011),'1-1-2-1-1-1-2-12-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Net income,'1-1-2-1-1-1-2-13-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€857 million (2011),'1-1-2-1-1-1-2-13-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total assets,'1-1-2-1-1-1-2-14-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'€28.479 billion (2011),'1-1-2-1-1-1-2-14-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total equity,'1-1-2-1-1-1-2-15-1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'€9.286 billion (2011),'1-1-2-1-1-1-2-15-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-1-1-1-2-16-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'269,000 (2011)",'1-1-2-1-1-1-2-16-2,0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Parent,'1-1-2-1-1-1-2-17-1,0,0,0,1,1,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Mulliez Group,'1-1-2-1-1-1-2-17-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Website,'1-1-2-1-1-1-2-18-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'www.auchandirect.fr/Accueil,'1-1-2-1-1-1-2-18-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'Groupe Auchan SA (French pronunciation: ​[oʃɑ̃]) is a French international retail group and multinational corporation headquartered in Croix, France. It is one of the world's principal distribution groups with a presence in 12 countries and 269,000 employees.",'1-1-2-1-1-2-1-1-1,2,0,0,1,0,0,1,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,2,N
-"'The company began when Gérard Mulliez opened his first self-service shop in Roubaix in the district of Hauts-Champs - pronounced the same as ""Auchan"".",'1-1-2-1-1-2-1-1-2,1,0,0,1,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-"'Auchan has branches in France, and internationally in Italy, India, Spain, Portugal, Luxembourg, Poland, Hungary, Russia, China, Taiwan, Romania and Ukraine.",'1-1-2-1-1-2-1-1-3,1,0,0,1,0,2,1,0,0,2,1,0,1,1,0,1,0,0,0,0,0,0,3,N
-"'As of 2011, Auchan had 639 hypermarkets and 2,412 supermarkets around the world.",'1-1-2-1-1-2-1-1-4,1,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Contents,'1-1-2-1-1-2-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'1 Mulliez family,'1-1-2-1-1-2-1-2-1-2-1,0,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'2 Slogan,'1-1-2-1-1-2-1-2-1-2-2,0,0,0,1,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'3 Operations around the world 3.1 People's Republic of China
-3.2 United States",'1-1-2-1-1-2-1-2-1-2-3,1,0,0,1,0,2,1,0,0,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
-'4 Own-label product brands,'1-1-2-1-1-2-1-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'5 Divisions,'1-1-2-1-1-2-1-2-1-2-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'6 Withdrawn ventures,'1-1-2-1-1-2-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'7 Initial public offering,'1-1-2-1-1-2-1-2-1-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'8 See also,'1-1-2-1-1-2-1-2-1-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'9 References,'1-1-2-1-1-2-1-2-1-2-9,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'10 External links,'1-1-2-1-1-2-1-2-1-2-10,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Mulliez family,'1-1-2-1-1-2-1-2-2-1-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'Auchan SA is controlled by the Mulliez family, one of the wealthiest in France. The Mulliez family has interests in a large number of companies:",'1-1-2-1-1-2-1-2-2-1-2-1,1,0,0,1,0,2,1,2,1,2,0,1,0,0,0,0,0,0,0,0,1,1,1,C
-"'Decathlon (sports stores, not part of Auchan group )",'1-1-2-1-1-2-1-2-2-1-2-2-1,0,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Norauto (car repairs, not part of Auchan group)",'1-1-2-1-1-2-1-2-2-1-2-2-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Groupe Adeo (DIY shops),'1-1-2-1-1-2-1-2-2-1-2-2-3,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Boulanger (electronic devices shops),'1-1-2-1-1-2-1-2-2-1-2-2-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Phildar (fabric stores),'1-1-2-1-1-2-1-2-2-1-2-2-5,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Accord Bank (loans),'1-1-2-1-1-2-1-2-2-1-2-2-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'Kiabi (clothes shops, not part of Auchan group)",'1-1-2-1-1-2-1-2-2-1-2-2-7,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Cultura (cultural products, family not invested in it)",'1-1-2-1-1-2-1-2-2-1-2-2-8,0,1,0,1,0,0,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,2,I
-'Pimkie (girls' clothes),'1-1-2-1-1-2-1-2-2-1-2-2-9,0,1,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Slogan,'1-1-2-1-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'The slogan of the company was La Vie, La Vraie, which translates into English as ""Life, the real one"". The slogan was changed in 2007 to: La vie Auchan, elle change la vie - ""Auchan's lifestyle changes life (itself)"".",'1-1-2-1-1-2-1-2-2-2-2,2,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operations around the world,'1-1-2-1-1-2-1-2-2-3,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,1,0,0,1,0,0,2,C
-'Auchan around the world,'1-1-2-1-1-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-'Country,'1-1-2-1-2-1-1-1,0,0,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'First store,'1-1-2-1-2-1-1-2,0,0,0,1,1,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Hypermarkets,'1-1-2-1-2-1-1-3,0,0,0,1,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Supermarkets,'1-1-2-1-2-1-1-4,0,0,0,1,1,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Convenience stores,'1-1-2-1-2-1-1-5,0,0,0,1,1,2,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Shopping centres,'1-1-2-1-2-1-1-6,0,0,0,1,1,2,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'China,'1-1-2-1-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,3,N
-'1999,'1-1-2-1-2-1-2-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'230,'1-1-2-1-2-1-2-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'45,'1-1-2-1-2-1-2-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'France,'1-1-2-1-2-1-3-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,3,N
-'1961,'1-1-2-1-2-1-3-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'126 / 8*,'1-1-2-1-2-1-3-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'268 / 141*,'1-1-2-1-2-1-3-4,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'108,'1-1-2-1-2-1-3-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Hungary,'1-1-2-1-2-1-4-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'1998,'1-1-2-1-2-1-4-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'19,'1-1-2-1-2-1-4-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'18,'1-1-2-1-2-1-4-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'India,'1-1-2-1-2-1-5-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,3,N
-'2012,'1-1-2-1-2-1-5-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'11*,'1-1-2-1-2-1-5-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'3*,'1-1-2-1-2-1-5-4,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Italy,'1-1-2-1-2-1-6-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,3,N
-'1989,'1-1-2-1-2-1-6-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'52 / 7*,'1-1-2-1-2-1-6-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-"'276 / 1,385*",'1-1-2-1-2-1-6-4,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'46,'1-1-2-1-2-1-6-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Luxembourg,'1-1-2-1-2-1-7-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'1996,'1-1-2-1-2-1-7-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'1,'1-1-2-1-2-1-7-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'1,'1-1-2-1-2-1-7-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Poland,'1-1-2-1-2-1-8-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'1996,'1-1-2-1-2-1-8-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'26 / 53**,'1-1-2-1-2-1-8-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'27,'1-1-2-1-2-1-8-4,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'20,'1-1-2-1-2-1-8-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Portugal,'1-1-2-1-2-1-9-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,3,N
-'1996,'1-1-2-1-2-1-9-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'33,'1-1-2-1-2-1-9-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'9,'1-1-2-1-2-1-9-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Romania,'1-1-2-1-2-1-10-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'2006,'1-1-2-1-2-1-10-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'31,'1-1-2-1-2-1-10-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'Russia,'1-1-2-1-2-1-11-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'2002,'1-1-2-1-2-1-11-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'54 / 16**,'1-1-2-1-2-1-11-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'63,'1-1-2-1-2-1-11-4,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'25,'1-1-2-1-2-1-11-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Spain,'1-1-2-1-2-1-12-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,3,N
-'1981,'1-1-2-1-2-1-12-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'53,'1-1-2-1-2-1-12-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'125 / 16*,'1-1-2-1-2-1-12-4,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'111*,'1-1-2-1-2-1-12-5,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'30,'1-1-2-1-2-1-12-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Taiwan,'1-1-2-1-2-1-13-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,3,N
-'2001,'1-1-2-1-2-1-13-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'18,'1-1-2-1-2-1-13-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'22,'1-1-2-1-2-1-13-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Ukraine,'1-1-2-1-2-1-14-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'2008,'1-1-2-1-2-1-14-2,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'8 / 2**,'1-1-2-1-2-1-14-3,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'8,'1-1-2-1-2-1-14-6,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Note: stores with a star (*) are under franchise; stores with two stars (**) are being rebranded from the Real brand.,'1-1-2-1-2-2-1,1,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,N
-'People's Republic of China,'1-1-2-1-2-2-2-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,3,I
-"'Auchan opened its first store in Shanghai at 1999, and according to the Auchan (China) Investment Co. Ltd. official report in 2009, there are 114 stores opened nationwide in China. Suzhou Jinji Lake store that is located in Suzhou Industrial Park had nine million population during that fiscal year with over four hundred million turnover and became one of the biggest Auchan Hypermarket in the world. Suzhou store expanded in 2008 and is the biggest Auchan Hypermarket in People's Republic of China, second biggest in the world. Also, Auchan China led to open its online shopping website for store in Shanghai and Suzhou. Auchan offers online shopping only in those two cities so far and is opening in Suzhou its first AuchanDrive store, based on its French model (click & go) in May 2012.",'1-1-2-1-2-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,I
-'United States,'1-1-2-1-2-2-3-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,3,C
-"'Auchan previously had a subsidiary, Auchan U.S.A. It was the successor of interest to Texfield Inc. which did business as Auchan Hypermarket. As of 2002 Auchan was the only French hypermarket chain to still have a U.S. presence.",'1-1-2-1-2-2-3-2-1,2,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
-"'Auchan's first U.S. store opened in western Houston in 1988. The 250,000-square-foot (23,000 m) market was located on a 31.3-acre (12.7 ha) plot of land on Beltway 8, north of U.S. Route 59. The store was one of the first hypermarkets to open in the U.S. David Kaplan of the Houston Chronicle said ""it was fairly unusual and became something of a tourist attraction"" when it had first opened.",'1-1-2-1-2-2-3-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,3,I
-"'Auchan also opened a store in Greater Chicago in 1989. The store was a large hypermarket in the suburb of Bridgeview, Illinois. It only sold food, and it was not as large as the stores that were in Houston. In 1991 the store closed. It was later bought by a local Chicago chain, Dominick's supermarkets, and converted into an Omni Superstore by 1991.",'1-1-2-1-2-2-3-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,3,I
-"'Auchan's second Greater Houston location opened in southeast Houston in September 2000. Kaplan said ""Auchan had solid business its first years, but with only two stores in the country, the company lacked buying power and economy-of-scale advantages."" In January 2003 Auchan announced that both of its U.S. stores were making losses and were going to be closed; Auchan stated that it was instead going to concentrate its expansion in Asia and Europe. Auchan U.S.A. sold its first Houston location to Ho Enterprises. Lewis Food Town occupied about 110,000 square feet (10,000 m) of the space, with the rest of the space taken by other tenants. Kaplan said that by 2003, ""the Houston market is saturated with huge discounters and large grocery stores."" In addition, many similar stores, including an H-E-B Food and Drug Store, the Hong Kong Supermarket, a Sam's Club, and a Wal-Mart Supercenter had opened in proximity to the west Houston Auchan. In Europe zoning laws would prevent such a high concentration of similar stores. Kaplan further added that ""In Europe, shopping malls are not as prevalent as they are in America, and Auchan's everything-under-one-roof concept has greater appeal"" in Europe rather than in the United States. The second former Auchan remains unoccupied, but was used as a shelter for Hurricane Katrina victims in 2005 and Hurricane Ike victims in 2008 due to its large space.",'1-1-2-1-2-2-3-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,3,I
-'Own-label product brands,'1-1-2-1-2-2-4,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,C
-'This section,'1-1-2-1-3-1-2-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
-'does not cite any references or sources,'1-1-2-1-3-1-2-2-1,0,0,0,1,1,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,I
-'Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-1-3-1-2-2-2-2,1,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,3,I
-'(January 2011),'1-1-2-1-3-1-2-2-2-3,0,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,1,0,1,1,1,3,I
-"'Le Moins Cher (Translated: The least expensive) - Economy range similar to Asda Smartprice, Tesco Value or Sainsbury's Basics in the UK. In Portugal it's called ""Polegar"" (Translated: Thumb (Up)).",'1-1-2-1-3-2-1-1-1-1,2,1,0,1,0,2,1,1,1,2,1,1,1,0,0,1,0,0,0,0,0,0,3,I
-'Les Produits Auchan (Translated: Auchan Products) - Own brand of products,'1-1-2-1-3-2-1-1-1-2,1,1,0,1,0,2,0,1,1,2,1,1,0,1,1,0,0,0,0,0,0,0,3,I
-"'Rik et Rok- Products designed for children (this is also a ""club"" for children)",'1-1-2-1-3-2-1-1-1-3-1,1,1,0,1,0,2,0,0,1,2,0,0,1,0,1,0,0,0,0,0,0,0,3,I
-'Les Produits Régionaux (Translated: The regional products)- Regional products such as Breton biscuits,'1-1-2-1-3-2-1-1-1-3-2,1,1,0,1,0,2,0,1,1,2,0,0,0,1,1,0,0,0,0,0,0,0,3,I
-'Mmm! - Gourmet Auchan products.,'1-1-2-1-3-2-1-1-1-4,0,1,0,1,0,2,0,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,3,I
-'Mieux Vivre Bio/Sans Gluten (Translated: Live Better Bio/Without Gluten) - Auchan products that are either bio or without gluten.,'1-1-2-1-3-2-1-1-1-5,1,1,0,1,0,2,0,1,1,2,1,1,1,1,0,0,0,0,0,0,0,0,3,I
-'Baby - Auchan products designed for babies.,'1-1-2-1-3-2-1-1-1-6,0,1,0,1,0,2,0,0,1,2,1,1,1,1,1,0,0,0,0,0,0,0,3,I
-"'Sabores de Portugal (Translated: Flavours of Portugal) - Exclusive brand for regional Portuguese products, available only in Portugal.",'1-1-2-1-3-2-1-1-1-7,1,1,0,1,0,2,0,1,1,2,1,1,1,1,0,1,0,0,0,0,0,0,3,I
-"'Каждый День (Kazhdyi Den', translated: Every day) - Local economy brand in Russia, positioned as having the lowest (even compared to other Auchan brands) price while meeting all quality standards",'1-1-2-1-3-2-1-1-1-8,2,1,0,1,0,0,0,1,1,2,1,1,0,1,0,0,0,0,0,0,0,0,3,I
-'Divisions,'1-1-2-1-3-2-1-1-2-1-1,0,0,0,1,1,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,1,1,3,C
-"'France : Auchan, Atac, Simply Market, Auchan Direct, Voyages Auchan, Banque Accord, Alinéa.
-People's Republic of China : Auchan, RT Mart, Immochan, Accord Consulting.
-Spain : Alcampo, Sabeco, Simply Market, Immochan, accordfin.
-Hungary : Auchan, Immochan, Accord Magyarország.
-Italy : Auchan, smasupermercati, Cityper, Simply Market, Accord Italia.
-Luxembourg : Auchan, Immochan.
-Romania: Auchan, Immochan, Accord Intermed Consumer Finance.
-Poland : Auchan, Alma, A-Tak, Immochan, Accord Finance, Simply Market.
-Portugal : Jumbo, Pão de Açúcar, Oney, Jumbo Natureza, Immochan.
-Russia : Ашан, Atak, Immochan, BA Finans.
-Republic of China (Taiwan): RT Mart, Immochan.
-Ukraine: Ашан, Immochan, Oney.
-On the Internet : AuchanDirect.Fr, VoyagesAuchan",'1-1-2-1-3-2-1-1-2-1-2,2,1,0,1,1,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Withdrawn ventures,'1-1-2-1-3-2-1-1-2-1-3,0,0,0,1,1,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,C
-"'Auchan opened a number of stores in Mexico; the first of these opened in Mexico City in 1997 and eventually grew to five stores. Faced with stiff competition from Wal-Mart, as well as local superstore chains Gigante and Comercial Mexicana, and French rival Carrefour (who also sold their stores and left the country in March 2005), Auchan decided to sell their stores to Comercial Mexicana and withdrew from Mexico in early 2005.",'1-1-2-1-3-2-1-1-2-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'In 1997 Auchan sold its hypermarkets in Thailand to Groupe Casino.,'1-1-2-1-3-2-1-1-2-2-2,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'In 2007 Auchan sold its Argentine stores to Wal-Mart and withdrew from the country.,'1-1-2-1-3-2-1-1-2-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Following a conflict with its Moroccan partner ONA, Auchan sold its 49% share in August 2007.",'1-1-2-1-3-2-1-1-2-2-4,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-'In January 2011 Auchan dropped out of the Dubai market after just two years.,'1-1-2-1-3-2-1-1-2-2-5,1,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,1,0,0,0,0,2,I
-'Initial public offering,'1-1-2-1-3-2-1-1-3-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-"'Sun Art Retail Group Ltd., the Chinese hypermarket operator backed by Auchan will go Public in Hong Kong at July 15, 2011 with hope to raise about $1 billion.",'1-1-2-1-3-2-1-1-3-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'See also,'1-1-2-1-3-2-1-1-4-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'List of French companies,'1-1-2-1-3-2-1-1-4-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,N
-'List of hypermarkets,'1-1-2-1-3-2-1-1-4-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
-'External links,'1-1-2-1-3-2-1-1-5,0,0,0,1,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'IKEA's MEGA Fedyakovo shopping mall outside Nizhny Novgorod, Russia, featured with Auchan (the ""Ашан"" sign in the center of the building)",'1-1-2-1-3-2-1-2-1-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
-"'The Auchan in Mysiadło near Warsaw, Poland",'1-1-2-1-3-2-1-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
-'The Coquelles branch of Auchan,'1-1-2-1-3-2-1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
-'France portal,'1-1-2-1-3-2-1-3-1-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,N
-'Companies portal,'1-1-2-1-3-2-1-3-2-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,N
-'Food portal,'1-1-2-1-3-2-1-3-3-2,0,0,0,0,1,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
-'Wikimedia Commons has media related to Auchan.,'1-1-2-1-3-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,N
-'Official website,'1-1-2-1-3-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,1,0,0,0,0,1,1,1,2,I
-'Official website (French),'1-1-2-1-3-2-2-2-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,1,I
-'Auchan U.S.A. (Archive),'1-1-2-1-3-2-2-2-3,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-'Auchan Romania (Romanian),'1-1-2-1-3-2-2-2-4,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,1,I
-'(Auchan Hypermarkets in China) (simplified Chinese),'1-1-2-1-3-2-2-2-5,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-'(AuchanDrive in China) (simplified Chinese),'1-1-2-1-3-2-2-2-6,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-'Auchan Hungary,'1-1-2-1-3-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Supermarket chains in France,'1-1-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,2,C
-'Auchan Group,'1-1-2-2-2-1-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Auchan (Hypermarket),'1-1-2-2-2-1-2-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Atac Simply Market,'1-1-2-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,2,I
-"'Carrefour Group
-
-Carrefour (Hypermarket)
-Carrefour Express
-Carrefour City
-Carrefour Market
-Champion
-Dia
-Marché Plus
-Shopi",'1-1-2-2-2-2-1,0,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
-"'Groupe Casino
-
-Casino Supermarchés
-Géant Casino
-Franprix
-Inno
-Leader Price
-Monoprix
-Spar (France)""""
-Vival",'1-1-2-2-2-2-2,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,3,C
-"'Les Mousquetaires
-
-Intermarché
-Bricomarché
-Écomarché
-Netto
-Restaumarché
-Roady
-Vêti
-Le Relais des Mousquetaires",'1-1-2-2-2-2-3,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,3,C
-"'Louis Delhaize Group
-
-Cora
-E.Leclerc
-Match",'1-1-2-2-2-2-4,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Système U
-
-Hyper U
-Super U
-Marché U
-Utile",'1-1-2-2-2-2-5,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,3,C
-"'Other
-
-Aldi France
-Coccinelle
-Coop
-E.Leclerc
-Lidl
-Supermarchés G20",'1-1-2-2-2-2-6,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,1,0,0,0,0,0,0,3,C
-"'Former
-
-Docks de France
-Ed
-Euromarché
-Tesco Vin Plus
-Sainsbury's Calais Wine Store",'1-1-2-2-2-2-7,0,1,0,1,1,2,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,3,C
-'Category,'1-1-2-2-2-2-8-1,0,0,0,1,1,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
-'Commons,'1-1-2-2-2-2-8-2,0,0,0,1,1,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N

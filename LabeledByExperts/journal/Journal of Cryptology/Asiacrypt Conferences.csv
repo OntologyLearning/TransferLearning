@@ -1,0 +1,20 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Asiacrypt Conference,'1-2-1-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,0,C
+"'The Asiacrypt conference is an international conference on all aspects of cryptology. The Asiacrypt conference has been sponsored by IACR since 2000, and is held in a different venue each year. For information about organizing Asiacrypt in the future, contact the Asiacrypt Steering Committee representative in the Board of Directors.",'1-2-1-2-1,2,0,0,1,0,2,1,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,1,N
+'Information about previous years is available below. Information about publications from the conferences may be found in Cryptodb.,'1-2-1-2-2,1,0,0,1,0,0,1,0,1,2,1,1,0,1,0,0,0,1,0,0,1,1,3,N
+"'Asiacrypt 2014, Kaohsiung, Taiwan.",'1-2-1-2-3-1,0,1,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,3,I
+"'Asiacrypt 2013, Bangalore, India.",'1-2-1-2-3-2,0,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Asiacrypt 2012, Beijing, China. Mirror of website mirror created 4-Sep-13",'1-2-1-2-3-3,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Asiacrypt 2011, Seoul, Korea. Mirror of website mirror created 5-Sep-13",'1-2-1-2-3-4,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Asiacrypt 2010, Singapore, Singapore. Mirror of website mirror created 4-Sep-13",'1-2-1-2-3-5,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'Asiacrypt 2009, Tokyo, Japan. Mirror of website Mirror created 31-May-10",'1-2-1-2-3-6,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Asiacrypt 2008, Melbourne, AUSTRALIA. Mirror of website Mirror created 27-April-2009",'1-2-1-2-3-7,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Asiacrypt 2007, Kuching, Sarawak, Malaysia. Mirror of website Mirror created 7-Sept-2008.",'1-2-1-2-3-8,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'Asiacrypt 2006, Shanghai, China. Mirror of website Mirror created 6-Jan-07",'1-2-1-2-3-9,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Asiacrypt 2005, Chennai, India. Mirror of website Mirror created 15-Jun-07; rump session presentations",'1-2-1-2-3-10,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Asiacrypt 2004, Jeju Island, Korea. Mirror of website Mirror created 26-May-06",'1-2-1-2-3-11,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Asiacrypt 2003, Taipei, Taiwan. Mirror of website Mirror created 14-Oct-04.",'1-2-1-2-3-12,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Asiacrypt 2002, Queenstown, New Zealand. Mirror of website Mirror created 20-Oct-03.",'1-2-1-2-3-13,1,1,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Asiacrypt 2001, Gold Coast, Australia. Mirror of website Mirror created 30-Apr-02.",'1-2-1-2-3-14,1,1,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,2,I
+"'Asiacrypt 2000, Kyoto, Japan. Mirror of website Mirror created 01-Jan-01.",'1-2-1-2-3-15,1,1,0,1,0,2,1,0,2,2,1,0,0,1,0,1,0,1,0,0,0,0,2,I
+'Copyright © 2014 IACR,'1-2-2,0,0,0,1,0,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N

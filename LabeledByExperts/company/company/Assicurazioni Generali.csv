@@ -1,0 +1,153 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Assicurazioni Generali,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'Assicurazioni Generali S.p.A.,'1-1-2-1-1-1,0,0,0,1,0,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Lion of Saint Mark,'1-1-2-1-1-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Type,'1-1-2-1-1-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Società per azioni,'1-1-2-1-1-3-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-4-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'BIT: G,'1-1-2-1-1-4-2,0,0,0,1,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Industry,'1-1-2-1-1-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Financial services,'1-1-2-1-1-5-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Founded,'1-1-2-1-1-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'1831,'1-1-2-1-1-6-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Trieste, Italy",'1-1-2-1-1-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Area served,'1-1-2-1-1-8-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Italy, Europe, Asia, Middle East, Americas",'1-1-2-1-1-8-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Key people,'1-1-2-1-1-9-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Mario Greco,'1-1-2-1-1-9-2-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'(Chairman),'1-1-2-1-1-9-2-2-1-1,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,I
+'(CEO),'1-1-2-1-1-9-2-2-1-2,0,0,0,1,0,0,1,0,0,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'Alberto Minali,'1-1-2-1-1-9-2-2-2,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'(CFO),'1-1-2-1-1-9-2-2-3,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Sergio Balbinot,'1-1-2-1-1-9-2-2-4,0,0,0,1,0,2,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'(Chief Insurance officer),'1-1-2-1-1-9-2-2-5,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Sandro Panizza,'1-1-2-1-1-9-2-2-6,0,0,0,1,0,2,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'(CRO),'1-1-2-1-1-9-2-2-7,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Nikhil Srinivasan,'1-1-2-1-1-9-2-2-8,0,0,0,1,0,2,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'(CIO),'1-1-2-1-1-9-2-2-9,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Products,'1-1-2-1-1-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Insurance, banking, investment management",'1-1-2-1-1-10-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Revenue,'1-1-2-1-1-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'€113,8 billion (2012)",'1-1-2-1-1-11-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Profit,'1-1-2-1-1-12-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€0.1 billion (2012),'1-1-2-1-1-12-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'€441.74 billion (end 2012),'1-1-2-1-1-13-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-1-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'€22.57 billion (end 2012),'1-1-2-1-1-14-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-15-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'79.454 (end 2012),'1-1-2-1-1-15-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Subsidiaries,'1-1-2-1-1-16-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Genertel, Alleanza Toro, Ina Assitalia, Europ Assistance Group",'1-1-2-1-1-16-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Website,'1-1-2-1-1-17-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.generali.com,'1-1-2-1-1-17-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'Assicurazioni Generali S.p.A. is the largest insurance company in Italy and one of the largest in Europe. It has its headquarters in Trieste. In 2010, Assicurazioni Generali Group was the second largest insurance group in the world by revenue after AXA.",'1-1-2-1-2-1-1-1,2,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,2,N
+"'Under the name of Imperial Regia Privilegiata Compagnia di Assicurazioni Generali Austro-Italiche, the company was founded on December 26, 1831. At the time, Trieste was the most important sea port of the Austro-Hungarian Empire. The company grew in importance, becoming one of the largest insurance operators both in Italy and in Central Europe.",'1-1-2-1-2-1-1-2,2,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,3,N
+'Contents,'1-1-2-1-2-1-2-1-1,0,0,1,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'1 Operations,'1-1-2-1-2-1-2-1-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,1,0,0,1,0,0,1,I
+'2 Shareholder structure,'1-1-2-1-2-1-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'3 Notable employees,'1-1-2-1-2-1-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,1,0,0,2,I
+'4 See also,'1-1-2-1-2-1-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'5 References,'1-1-2-1-2-1-2-1-2-5,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'6 External links,'1-1-2-1-2-1-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Operations,'1-1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'Today Generali operates primarily in Europe, Middle East and East Asia, with large market shares in Italy, Poland, Germany (under the name of Generali Deutschland), France, Austria, Slovenia, Croatia, Serbia, Spain, Switzerland, Romania, Israel, Japan, China and Bosnia and Herzegovina, with secondary operations in Latin America, for example, in Panama. Generali's United States operations are concentrated in life reinsurance and financial products management, a result of the group's acquisition of Business Men's Assurance Company of America in 1990.",'1-1-2-1-2-1-2-2-1-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+"'On Jerusalem's Jaffa Road, the Generali Building (בניין ג'נרלי), built by the company in 1935, is still known by that name although the company operated its Jerusalem branch in the building only from 1935 to 1946. The Generali Building is still owned by the Italian insurance firm through its local representative, the Migdal Insurance Company. The building currently houses various government offices, including the Jerusalem District Administration, the Ministry of Interior, the Department of Immigration and Population Registry, and the Internal Auditing Office. It is a famous Jerusalem landmark, due to the large and well-preserved stone statue of a winged lion on its roof; this is the Lion of Saint Mark, patron saint of Venice, and the symbol of the Generali insurance company which appears on all of its branches worldwide since 1848.",'1-1-2-1-2-1-2-2-1-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'In Serbia the company operates under the name Delta Generali - a joint venture of Assicurazioni Generali and Serbian Delta Holding.,'1-1-2-1-2-1-2-2-1-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In India the company is represented by Future Generali, a joint venture of Future group and Assicurazioni Generali.",'1-1-2-1-2-1-2-2-1-2-4,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Subsidiaries of the group includes, in Italy: Genertellife, INA Assitalia, Alleanza - Toro, Genertel and Europ-Assistance.",'1-1-2-1-2-1-2-2-1-2-5,1,0,0,1,0,2,1,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Shareholder structure,'1-1-2-1-2-1-2-2-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'As of 13 March 2013, Assicurazioni Generali's largest shareholder was Mediobanca with 13.24%. Other declared shareholdings at this date were Banca d'Italia (4.49%), Delfin Sarl - Leonardo Del Vecchio (2.99%), B&D HOLDING Group (2.43%), Effeti (2.15%), Caltagirone Group (2.23%).",'1-1-2-1-2-1-2-2-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Notable employees,'1-1-2-1-2-1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,1,0,0,0,0,1,1,1,2,C
+"'Franz Kafka worked for nearly nine months (between November 1, 1907, and July 15, 1908) at the Assicurazioni Generali office in Prague.",'1-1-2-1-2-1-2-2-3-2,1,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,1,0,0,0,0,1,I
+'See also,'1-1-2-1-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Genertellife,'1-1-2-1-2-1-2-2-4-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'External links,'1-1-2-1-2-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Official website,'1-1-2-1-2-1-2-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,1,0,0,1,N
+"'The symbol of Assicurazioni Generali is derived from the flag of the Republic of Venice, dissolved by Napoleon three decades before the company was founded.",'1-1-2-1-2-2-1-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+"'Generali's headquarters in Trieste, Italy.",'1-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,1,1,0,0,0,1,0,0,3,N
+'Italy portal,'1-1-2-1-2-3-1-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,3,N
+'Companies portal,'1-1-2-1-2-3-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Wikimedia Commons has media related to Assicurazioni Generali.,'1-1-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Euro Stoxx 50 companies of Europe,'1-1-2-3-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,3,C
+'Air Liquide Allianz Anheuser-Busch InBev ArcelorMittal ASML Holding AXA Banco Santander BASF Bayer BMW BBVA BNP Paribas Carrefour CRH Daimler Danone Deutsche Bank Deutsche Telekom E.ON Enel Essilor GDF Suez,'1-1-2-3-1-2-1,2,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Generali,'1-1-2-3-1-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Iberdrola Inditex Intesa Sanpaolo L'Oréal LVMH Munich Re Nokia Orange Philips Repsol RWE Saint-Gobain Sanofi SAP Schneider Electric Siemens Société Générale Telefónica Total Unibail-Rodamco UniCredit Unilever Vinci Vivendi Volkswagen,'1-1-2-3-1-2-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'FTSE MIB companies of Italy,'1-1-2-3-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'A2A Ansaldo STS Atlantia Autogrill Azimut Holding Banca Monte dei Paschi di Siena Banca Popolare dell'Emilia Romagna Banca Popolare di Milano Banco Popolare Buzzi Unicem Campari CNH Industrial Enel Enel Green Power Exor Finmeccanica,'1-1-2-3-2-2-1,2,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Generali,'1-1-2-3-2-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'GTECH Intesa Sanpaolo Luxottica Mediaset Mediobanca Mediolanum Pirelli & C. Prysmian Saipem Salvatore Ferragamo Snam STMicroelectronics Telecom Italia Tenaris Terna Tod's UBI Banca UniCredit UnipolSai World Duty Free YOOX,'1-1-2-3-2-2-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Major insurance and reinsurance companies,'1-1-2-3-3-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'Insurance,'1-1-2-3-3-2-1-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,C
+'Composite,'1-1-2-3-3-2-1-1-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Aegon Ageas AIG Allianz Allstate Aon Aviva AXA China Pacific Insurance China Taiping,'1-1-2-3-3-2-1-1-2-1-2-1,1,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,1,0,0,0,1,I
+'Generali,'1-1-2-3-3-2-1-1-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'ING,'1-1-2-3-3-2-1-1-2-1-2-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'National Mutual Insurance Federation of Agricultural Cooperatives,'1-1-2-3-3-2-1-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Ping An Insurance,'1-1-2-3-3-2-1-1-2-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Prudential plc,'1-1-2-3-3-2-1-1-2-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'PZU,'1-1-2-3-3-2-1-1-2-1-2-2-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'State Farm Insurance,'1-1-2-3-3-2-1-1-2-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'The Hartford,'1-1-2-3-3-2-1-1-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'UnipolSai,'1-1-2-3-3-2-1-1-2-1-2-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Vienna Insurance Group,'1-1-2-3-3-2-1-1-2-1-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
+'Zurich Insurance Group,'1-1-2-3-3-2-1-1-2-1-2-2-2-10-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'Farmers Insurance Group,'1-1-2-3-3-2-1-1-2-1-2-2-2-10-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'General insurance,'1-1-2-3-3-2-1-1-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'BB Seguridade,'1-1-2-3-3-2-1-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Berkshire Hathaway,'1-1-2-3-3-2-1-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BNP Paribas,'1-1-2-3-3-2-1-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Bradesco Seguros,'1-1-2-3-3-2-1-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'CNP Assurances,'1-1-2-3-3-2-1-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Hyundai Marine & Fire Insurance,'1-1-2-3-3-2-1-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'If P&C Insurance,'1-1-2-3-3-2-1-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Insurance Australia Group,'1-1-2-3-3-2-1-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'Liberty Mutual,'1-1-2-3-3-2-1-1-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Mapfre,'1-1-2-3-3-2-1-1-2-2-2-10,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Mitsui Sumitomo Insurance Group,'1-1-2-3-3-2-1-1-2-2-2-11,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'PICC,'1-1-2-3-3-2-1-1-2-2-2-12,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'QBE Insurance,'1-1-2-3-3-2-1-1-2-2-2-13,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'RSA Insurance Group,'1-1-2-3-3-2-1-1-2-2-2-14,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Samsung Fire & Marine Insurance,'1-1-2-3-3-2-1-1-2-2-2-15,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Sompo Japan,'1-1-2-3-3-2-1-1-2-2-2-16,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Tokio Marine,'1-1-2-3-3-2-1-1-2-2-2-17,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Travelers,'1-1-2-3-3-2-1-1-2-2-2-18,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'UIIC India,'1-1-2-3-3-2-1-1-2-2-2-19,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'XL Group,'1-1-2-3-3-2-1-1-2-2-2-20,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Life insurance,'1-1-2-3-3-2-1-1-2-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'AIA,'1-1-2-3-3-2-1-1-2-3-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Bupa,'1-1-2-3-3-2-1-1-2-3-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'China Life,'1-1-2-3-3-2-1-1-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Dai-ichi Life,'1-1-2-3-3-2-1-1-2-3-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Great Eastern,'1-1-2-3-3-2-1-1-2-3-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Jackson,'1-1-2-3-3-2-1-1-2-3-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Legal & General,'1-1-2-3-3-2-1-1-2-3-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'LIC India,'1-1-2-3-3-2-1-1-2-3-2-8,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Lincoln,'1-1-2-3-3-2-1-1-2-3-2-9,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Manulife Financial,'1-1-2-3-3-2-1-1-2-3-2-10,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Meiji Yasuda Life,'1-1-2-3-3-2-1-1-2-3-2-11,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'MetLife,'1-1-2-3-3-2-1-1-2-3-2-12,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'New York Life,'1-1-2-3-3-2-1-1-2-3-2-13,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Nippon Life,'1-1-2-3-3-2-1-1-2-3-2-14,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Northwestern Mutual,'1-1-2-3-3-2-1-1-2-3-2-15,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Old Mutual,'1-1-2-3-3-2-1-1-2-3-2-16,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Phoenix Group,'1-1-2-3-3-2-1-1-2-3-2-17,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Prudential Financial,'1-1-2-3-3-2-1-1-2-3-2-18,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Samsung Life,'1-1-2-3-3-2-1-1-2-3-2-19,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Scottish Widows,'1-1-2-3-3-2-1-1-2-3-2-20,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Standard Life,'1-1-2-3-3-2-1-1-2-3-2-21,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sumitomo Life,'1-1-2-3-3-2-1-1-2-3-2-22,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sun Life,'1-1-2-3-3-2-1-1-2-3-2-23,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Swiss Life,'1-1-2-3-3-2-1-1-2-3-2-24,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Taikang Life,'1-1-2-3-3-2-1-1-2-3-2-25,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Reinsurance,'1-1-2-3-3-2-1-2-1,0,0,0,1,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Gen Re,'1-1-2-3-3-2-1-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Hannover Re,'1-1-2-3-3-2-1-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Lloyd's of London,'1-1-2-3-3-2-1-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Munich Re,'1-1-2-3-3-2-1-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Reinsurance Group of America,'1-1-2-3-3-2-1-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Scor,'1-1-2-3-3-2-1-2-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Swiss Re,'1-1-2-3-3-2-1-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'XL Group,'1-1-2-3-3-2-1-2-2-8,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Methodology: Applicable FY2010/11 revenues of over US$3 billion,'1-1-2-3-3-2-2,0,0,0,1,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I

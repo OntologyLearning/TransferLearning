@@ -1,0 +1,74 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Twenty-Fifth AAAI Conference on Artificial Intelligence,'1-1,1,0,1,2,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'The Twenty-Fifth Conference on Artificial Intelligence (AAAI-11),'1-2-2-1-2-1-1-1,0,0,0,2,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+'Call for Papers,'1-2-2-1-2-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,1,1,1,1,1,C
+"'December 1, 2010 – February 1, 2011: Authors register on the AAAI web site",'1-2-2-1-2-1-1-2-1-2-1,1,1,0,1,0,2,0,1,0,2,1,0,1,0,0,0,0,0,1,0,0,0,0,1,I
+"'February 3, 2011: Electronic abstracts due",'1-2-2-1-2-1-1-2-1-2-2,0,1,0,1,0,2,0,1,0,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+"'February 8, 2011: Electronic papers due",'1-2-2-1-2-1-1-2-1-2-3,0,1,0,1,0,2,0,1,0,2,1,0,1,1,0,0,0,0,1,1,1,0,0,2,I
+"'April 15, 2011: Notification of acceptance or rejection",'1-2-2-1-2-1-1-2-1-2-4,0,1,0,1,0,2,0,1,0,2,1,0,1,1,0,0,1,0,1,0,1,0,0,2,I
+"'May 3, 2011: Camera-ready copy due at AAAI office",'1-2-2-1-2-1-1-2-1-2-5,1,1,0,1,0,2,0,1,0,2,1,0,0,1,0,0,0,0,1,0,0,0,0,2,I
+'Paper Submission Site,'1-2-2-1-2-1-1-2-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,2,N
+'Author Instructions Page,'1-2-2-1-2-1-1-2-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Blind Review Instructions,'1-2-2-1-2-1-1-2-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+"'AAAI-11 is the Twenty-Fifth AAAI Conference on Artificial Intelligence (AI). The purpose of this conference is to promote research in AI and scientific exchange among AI researchers, practitioners, scientists, and engineers in related disciplines. AAAI-11 will have multiple technical tracks, student abstracts, poster sessions, invited speakers, and exhibit programs, all selected according to the highest reviewing standards. AAAI-11 welcomes submissions on mainstream AI topics as well as novel crosscutting work in related areas.",'1-2-2-1-2-1-1-2-2-2-2,2,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Topics include but are not limited to the following:,'1-2-2-1-2-1-1-2-2-2-3,0,0,0,1,0,0,0,2,1,2,1,1,0,1,1,0,0,0,0,1,1,1,1,3,C
+'Agent-based and multiagent systems,'1-2-2-1-2-1-1-2-2-2-4-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Cognitive modeling and human interaction,'1-2-2-1-2-1-1-2-2-2-4-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Commonsense reasoning,'1-2-2-1-2-1-1-2-2-2-4-3,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Computer vision,'1-2-2-1-2-1-1-2-2-2-4-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Constraint satisfaction, search, and optimization",'1-2-2-1-2-1-1-2-2-2-4-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Evolutionary computation,'1-2-2-1-2-1-1-2-2-2-4-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Game playing and interactive entertainment,'1-2-2-1-2-1-1-2-2-2-4-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Information retrieval, integration, and extraction",'1-2-2-1-2-1-1-2-2-2-4-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Knowledge acquisition and ontologies,'1-2-2-1-2-1-1-2-2-2-4-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Knowledge representation and reasoning,'1-2-2-1-2-1-1-2-2-2-4-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Machine learning and data mining,'1-2-2-1-2-1-1-2-2-2-4-11,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Model-based systems,'1-2-2-1-2-1-1-2-2-2-4-12,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Multidisciplinary AI,'1-2-2-1-2-1-1-2-2-2-4-13,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Natural language processing,'1-2-2-1-2-1-1-2-2-2-4-14,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Planning and scheduling,'1-2-2-1-2-1-1-2-2-2-4-15,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Probabilistic reasoning,'1-2-2-1-2-1-1-2-2-2-4-16,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Robotics,'1-2-2-1-2-1-1-2-2-2-4-17,0,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Web and information systems,'1-2-2-1-2-1-1-2-2-2-4-18,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Papers that extend the state of the art, and explore parts of the design space of AI that are not well explored are particularly encouraged. A full list of keywords is available on this site and also at the paper submission site. .",'1-2-2-1-2-1-1-2-2-2-5,2,0,0,1,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Special Tracks,'1-2-2-1-2-1-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'In addition to its main technical papers track, AAAI-11 will include several special paper tracks on focused topics, ideas previously presented at AI sister conferences, new challenges to the AI community, or other special areas of interest.Current 2011 special tracks include the following:",'1-2-2-1-2-1-2-2-1,2,0,0,1,0,0,0,2,1,2,1,1,0,0,0,0,0,0,0,1,0,0,0,1,C
+'Artificial Intelligence and the Web,'1-2-2-1-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Computational Sustainability and Artificial Intelligence,'1-2-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Integrated Intelligence,'1-2-2-1-2-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Physically Grounded Artificial Intelligence,'1-2-2-1-2-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'It is anticipated that one or two more special tracks will be included in the program.,'1-2-2-1-2-1-2-2-3,1,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,N
+"'These tracks will be an integral part of the conference program and will be subject to the high standards and rigorous review that are traditional in AAAI. However, each special track will have its own submission process and review criteria, and will have its own program committee of reviewers with appropriate backgrounds.",'1-2-2-1-2-1-2-2-4,2,0,0,1,0,0,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Author Registration,'1-2-2-1-2-1-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'Authors must register at the AAAI-11 web-based technical paper submission site before they submit their abstracts and papers. The submission site, which will be accessible from this site after December 1, 2010, will assign a password, which will enable the author to log on to submit an abstract and paper. In order to avoid a rush at the last minute, authors are encouraged to register as soon as possible after December 1, and well in advance of the February 3 abstract deadline.",'1-2-2-1-2-1-3-2-1,2,0,0,1,0,0,1,0,1,2,0,1,0,0,0,0,1,0,0,0,0,1,1,1,N
+"'Registration will close at 11:00 PM PST on February 3, 2011.",'1-2-2-1-2-1-3-2-2-1,1,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,1,0,0,0,0,3,I
+"'Abstract submission will close at 11:59 PM PST on February 3, 2011.",'1-2-2-1-2-1-3-2-2-2,1,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,0,0,0,2,I
+"'Final paper submission will close at 11:59 PM PST on February 8, 2011.",'1-2-2-1-2-1-3-2-2-3,1,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,2,I
+'Abstract and Paper Submission,'1-2-2-1-2-1-4-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,2,C
+'Electronic abstract and paper submission through the AAAI-11 paper submission site is required on or (preferably) before the deadline dates listed above. We cannot accept submissions by e-mail or fax.,'1-2-2-1-2-1-4-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,I
+"'Papers must be in trouble-free, high resolution PDF format, formatted for US letter (8.5"" x 11"") paper, using type 1 or TrueType fonts. Papers may be no longer than 6 pages including references, and formatted in AAAI two-column, camera-ready style (see the author instructions page). Please note that these formatting instructions are for final, accepted papers; no additional pages can be purchased at the review stage. In addition, the copyright slug may be omitted in the initial submission phase. Please also refer to the blind-review webpage for instructions on how to prepare your paper for blind review.",'1-2-2-1-2-1-4-2-2,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,N
+"'Authors will receive confirmation of receipt of their abstracts or papers, including an ID number, shortly after submission. AAAI will contact authors again only if problems are encountered with papers. Inquiries regarding lost papers must be made no later than February 15, 2011.",'1-2-2-1-2-1-4-2-3,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,3,N
+'Submissions to Other Conferences or Journals: Papers submitted to this conference must not have been accepted for publication elsewhere or be under review for another AI conference. The guidelines of the AAAI policy on multiple submissions are fully detailed below and must be carefully followed.,'1-2-2-1-2-1-4-2-4,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'Review Process: Program committee members will identify papers they are qualified to review based on the information submitted electronically (the paper's title, keywords, and abstract). Their reviewing will be done blind to the identities of the authors and their institutions.",'1-2-2-1-2-1-4-2-5,2,0,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'Authors will have a limited opportunity to respond to initial reviews. This author's feedback may then be taken into account in the final reviews and recommendations. The program committee's reviews will make recommendations to the senior program committee, which in turn will make recommendations to the track cochairs. Although the track cochairs will formally make all final decisions, in practice almost all will be made earlier in the process.",'1-2-2-1-2-1-4-2-6,2,0,0,1,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,3,N
+'Publication: Accepted papers will be allocated six (6) pages in the conference proceedings. Up to two (2) additional pages may be used at a cost to the authors of US$ 275 per page. Final papers exceeding eight (8) pages and those violating the instructions to authors will not be included in the proceedings. Authors will be required to transfer copyright of their paper to AAAI.,'1-2-2-1-2-1-4-2-7,2,0,0,1,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Questions and Suggestions,'1-2-2-1-2-1-5-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'Concerning author instructions and conference registration, write to:",'1-2-2-1-2-1-5-2-1,0,0,0,1,0,0,0,2,1,2,1,0,1,0,0,0,0,0,0,0,0,1,1,1,C
+'aaai11@aaai.org,'1-2-2-1-2-1-5-2-2,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,1,I
+"'Concerning suggestions for the program and other inquiries, write to the program cochairs.",'1-2-2-1-2-1-5-2-3,1,0,0,1,0,0,0,0,1,2,1,0,0,1,1,0,0,0,0,0,0,0,0,2,N
+'Program Cochairs,'1-2-2-1-2-1-6-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,1,1,1,3,C
+"'Wolfram Burgard (University of Freiburg, Germany)",'1-2-2-1-2-1-6-2-1-1,0,1,0,1,0,2,0,0,1,2,0,0,1,0,0,1,0,1,0,0,0,0,0,1,I
+"'Dan Roth (University of Illinois, Urbana/Champaign)",'1-2-2-1-2-1-6-2-1-2,0,1,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,2,I
+"'A complete listing of conference track organizers, area chairs, and senior program committee members will be available at the conference website.",'1-2-2-1-2-1-6-2-2,1,0,0,1,0,0,0,0,1,2,1,1,1,0,1,0,0,0,0,0,0,0,0,2,N
+'The AAAI-11 call for papers is also available as a printable PDF document,'1-2-2-1-2-1-6-2-3,1,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,1,0,0,0,3,N
+'AAAI-11 Policy Concerning Submissions to Other Conferences or Journals,'1-2-2-1-2-1-7-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Papers submitted to this conference must not have been accepted for publication elsewhere or be under review for another AI conference. (The AAAI Nectar paper submissions have specific guidelines that can be found in that call for papers.),'1-2-2-1-2-1-7-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,1,0,0,0,1,N
+"'To encourage interdisciplinary contributions, AAAI will consider work that has been submitted or presented in part elsewhere, if it is unlikely to have been seen by more than a few members of the AAAI audience. As such, papers may not be dually submitted to other AI or AI subarea conferences. Papers under submission to a journal that contain overlap with AAAI papers will be considered as long as the author specifies the dual submission and certifies that the journal submission contains significant material that is not included in the AAAI submission. Papers that have been published in full in another conference or journal will not be accepted for review. Novelty is an important criterion in the selection of papers.",'1-2-2-1-2-1-7-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+'AAAI requires the following:,'1-2-2-1-2-1-7-2-3,0,0,0,1,0,2,0,2,2,2,1,0,0,1,0,0,0,0,0,0,0,1,1,3,N
+'Authors must specify the conferences and journals to which the paper has been dually submitted.,'1-2-2-1-2-2-1,1,1,0,1,0,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Authors must withdraw papers under review or accepted for other AI conference venues if the paper is submitted to AAAI.,'1-2-2-1-2-2-2,1,1,0,1,0,0,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Papers not dually submitted should so indicate on the title page.,'1-2-2-1-2-2-3,1,1,0,1,0,0,0,0,2,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
+"'For questions as to whether a given meeting is considered under the dual submission policy, or for clarifications of this policy, submitters should contact the Program Chairs.",'1-2-2-1-2-3,1,0,0,1,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'AAAI Conferences AI Magazine AI Topics Awards Calendar Digital Library Meetings Membership Press Room Publications Resources Symposia Workshops,'1-2-2-2-1,1,0,0,0,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'Terms and Conditions Privacy Policy About AAAI Search Contact AAAI,'1-2-2-2-2,1,0,0,0,0,2,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Copyright,'1-2-2-2-3,0,0,0,0,0,1,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N

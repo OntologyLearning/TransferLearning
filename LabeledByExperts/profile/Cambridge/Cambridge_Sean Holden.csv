@@ -1,0 +1,30 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Dr Sean B Holden,'1-1-2-1,0,0,0,1,0,2,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,C
+'Senior Lecturer in Computer Science,'1-1-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,1,I
+'University of Cambridge Computer Laboratory,'1-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,1,0,0,2,I
+'Latest News,'1-2-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Eleventh International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics,'1-2-2-2-1,1,0,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,I
+'Our paper on learning to prove is accepted for publication in the Journal of Automated Reasoning. You can download a pre-publication version here. The final publication is available at link.springer.com.,'1-2-2-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Congratulations to my student Nicholas Pilkington for the successful defence of his thesis Hyperparameter Optimization for Multiple Kernels and now founder of the start-up DroneDeploy.,'1-2-2-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Our data set derived from a problem in first-order theorem proving is now available in the UCI Machine Learning Repository.,'1-2-2-2-4,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'I am on the Advisory Board for the Lifeboat Foundation.,'1-2-2-2-5,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Our theorem-proving data set has been donated to the UCI Machine Learning Repository.,'1-2-2-2-6,1,0,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'I am keynote speaker at the Cambridge Statistics Initiative One-Day Meeting 2013.,'1-2-2-2-7,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,1,0,0,2,I
+'I will be serving on the Program Committee of the 23rd International Joint Conference on Artificial Intelligence (IJCAI) 2013.,'1-2-2-2-8,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,2,I
+'I am an internal advisor to the Cambridge Project for Existential Risk.,'1-2-2-2-9,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,0,0,2,I
+'Myself and Dr Kathryn Lilley of the University of Cambridge Department of Biochemistry have been awarded a grant Data Fusion and Inductive Transfer for Organelle Proteomics by the BBSRC.,'1-2-2-2-10,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Congratulations to my student Nick Pilkington on having his paper Multiple Kernel Learning for Drug Discovery accepted by Molecular Informatics.,'1-2-2-2-11,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Congratulations to my student Richard Russell on the successful defence of his thesis Planning with preferences using maximum satisfiability and on starting work at Autonomy,'1-2-2-2-12,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'About me,'1-2-3-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'My brief Biography and my Contact Details.,'1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,N
+'Research,'1-2-4-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,C
+"'Detailed information on my Research Interests, and a list of my Publications",'1-2-4-2-1,1,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,0,1,I
+'A collection of open source Software that has been produced as part of my research.,'1-2-4-2-2,1,0,0,1,0,0,1,0,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,2,I
+'Some notes on Applying to do a PhD in Machine Learning.,'1-2-4-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Some further information on Machine Learning in Cambridge and on Neuroscience in Cambridge.,'1-2-4-2-4,1,0,0,1,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Assorted other research related Things.,'1-2-4-2-5,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+'Teaching,'1-2-5-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+"'Part 1a undergraduates at Trinity (and anyone I'm also supervising in 1a at Peterhouse) should read the timetable for supervision work, and carefully note the fact that solution notes are evil.",'1-2-5-2-1,2,0,0,1,0,0,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Information on my University Teaching and some suggestions for Part II Projects.,'1-2-5-2-2,1,0,0,1,0,2,1,0,2,2,0,0,0,1,0,1,0,0,0,0,0,0,0,3,N
+'Other stuff,'1-2-6-1,0,0,1,2,1,2,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'Some information on Appearances in the Media and on Other Things That I Do.,'1-2-6-2,1,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N

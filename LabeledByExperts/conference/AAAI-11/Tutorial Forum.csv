@@ -1,0 +1,60 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'AAAI-11: Tutorial Forum,'1-1,0,0,1,2,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Tutorial Forum of the Twenty-Fifth AAAI Conference on Artificial Intelligence,'1-2-2-1-1-1-1,1,0,0,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+'Call for Papers,'1-2-2-1-1-1-2-1,0,0,0,1,0,2,0,0,0,2,1,1,0,0,0,0,0,0,0,1,1,1,1,1,C
+"'December 3, 2010: Tutorial Proposals due to tutorial chairs",'1-2-2-1-1-1-2-2-1,1,1,0,1,0,2,0,1,0,2,1,0,1,0,1,0,0,0,1,0,0,0,0,1,I
+"'January 14, 2011: Tutorial Acceptances mailed",'1-2-2-1-1-1-2-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+"'January 28, 2011: Tutorial descriptions, autobiographical statements, and speaker photos due",'1-2-2-1-1-1-2-2-3,1,1,0,1,0,0,0,1,1,2,1,0,1,1,1,0,0,0,1,0,0,0,0,2,I
+"'July 1, 2011: Completed course materials must be posted on speaker’s website",'1-2-2-1-1-1-2-2-4,1,1,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+"'August 7–8, 2011: AAAI-11 Tutorial Forum",'1-2-2-1-1-1-2-2-5,0,1,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,1,0,0,0,0,2,I
+"'The AAAI-11 Program Committee invites proposals for the Tutorial Forum of the Twenty-Fifth AAAI Conference on Artificial Intelligence (AAAI-11). The Tutorial Forum will be held August 7–8, 2011 in San Francisco. Anyone interested in presenting a tutorial at AAAI-11 should submit a proposal to the 2011 Tutorial Forum Cochairs via EasyChair.",'1-2-2-1-1-1-2-3,2,0,0,1,0,2,1,0,1,2,1,1,0,0,1,0,0,0,0,0,0,0,0,2,N
+'What Is the Tutorial Forum?,'1-2-2-1-1-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'The Tutorial Forum provides an opportunity for junior and senior researchers to spend two days each year freely exploring exciting advances in disciplines outside their normal focus. We believe this type of forum is essential for the cross fertilization, cohesiveness, and vitality of the AI field. We all have a lot to learn from each other; the Tutorial Forum promotes the continuing education of each member of the AAAI. To encourage full participation by technical conference registrants, no separate fee will be charged for admittance to the Tutorial Forum in 2011.",'1-2-2-1-1-2-2-1,2,0,0,1,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Topics,'1-2-2-1-1-2-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,1,1,0,0,2,C
+'Submission Requirements,'1-2-2-1-1-2-2-3-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,1,0,0,1,C
+"'We need two kinds of information in the proposals: information that will be used for selecting proposals and information that will appear in the tutorial description brochure. The proposal should provide sufficient information to evaluate the quality of the technical content being taught, the quality of the educational material being used, and the speakers’ skill at presenting this material.",'1-2-2-1-1-2-2-3-2-1,2,0,0,1,0,0,0,1,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+'Each proposal should include at least the following:,'1-2-2-1-1-2-2-3-2-2,0,0,0,1,0,0,0,2,1,2,1,1,0,1,0,0,1,0,0,0,0,1,1,3,C
+'Goal of the tutorial: Who is the target audience? What will the audience walk away with? What makes the topic innovative?,'1-2-2-1-1-2-2-3-2-3-1,1,1,0,1,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'History: List of previous venues and approximate audience sizes, if the same or a similar tutorial has been given elsewhere; otherwise an estimate of the audience size.",'1-2-2-1-1-2-2-3-2-3-2,1,1,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Content: Detailed outline and list of additional materials, augmented with samples, such as past tutorial slides and survey articles, whenever possible. Be as complete as possible.",'1-2-2-1-1-2-2-3-2-3-3,1,1,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Tutorial description: A short paragraph summarizing the tutorial outline, and the intended duration of the symposium (default is four hours).",'1-2-2-1-1-2-2-3-2-3-4,1,1,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Prerequisite knowledge: What knowledge is assumed of the target audience.,'1-2-2-1-1-2-2-3-2-3-5,1,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Please also submit the following information about the team of presenters: name, mailing address, phone number, email address; background in the tutorial area, including a list of publications and/or presentations; any available examples of work in the area (ideally, a published tutorial-level article or presentation materials on the subject); evidence of teaching experience (courses taught or references); and evidence of scholarship in AI or computer science.",'1-2-2-1-1-2-2-3-2-3-6,2,1,0,1,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Submission Deadline,'1-2-2-1-1-2-2-4-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,0,1,0,0,2,C
+"'Proposals must be received by December 3, 2010. Decisions about the tutorial program will be made by January 14, 2011. Speakers should be prepared to submit their tutorial descriptions and bios by January 28, 2011, and to post completed course materials on their websites by July 1, 2011.",'1-2-2-1-1-2-2-4-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,1,I
+'Submissions must be in pdf format and made via EasyChair at www.easychair.org/conferences/?conf=aaai2011tutorialforum.,'1-2-2-1-1-2-2-4-2-2,1,0,0,1,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'AAAI-11 Tutorial Program Cochairs,'1-2-2-1-1-3-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,3,C
+'Thomas Lukasiewicz,'1-2-2-1-1-3-2-1-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Oxford University Computing Laboratory,'1-2-2-1-1-3-2-1-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,1,0,0,2,I
+"'Wolfson Building, Parks Road",'1-2-2-1-1-3-2-1-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Oxford OX1 3QD, UK",'1-2-2-1-1-3-2-1-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+'0044-1865-522566,'1-2-2-1-1-3-2-1-5,0,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'0044-1865-273839 (fax),'1-2-2-1-1-3-2-1-6,0,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Thomas.Lukasiewicz@comlab.ox.ac.uk,'1-2-2-1-1-3-2-1-7,0,0,0,1,0,1,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Patrick Pantel,'1-2-2-1-1-3-2-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Microsoft Research,'1-2-2-1-1-3-2-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,1,0,0,2,I
+'One Microsoft Way,'1-2-2-1-1-3-2-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Redmond, WA 98052",'1-2-2-1-1-3-2-2-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,1,0,0,2,I
+'ppantel@microsoft.com,'1-2-2-1-1-3-2-2-5,0,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'AAAI-11 Tutorial Program Committee,'1-2-2-1-1-4-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,2,C
+"'Eyal Amir (University of Illinois, USA)",'1-2-2-1-1-4-2-1-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,1,0,0,0,0,0,1,I
+"'Nate Chambers (Stanford University, USA)",'1-2-2-1-1-4-2-1-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Colin Cherry (National Research Council, Canada)",'1-2-2-1-1-4-2-1-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Peter Clark (Vulcan Inc., USA)",'1-2-2-1-1-4-2-1-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Tommaso Di Noia (Technical University of Bari, Italy)",'1-2-2-1-1-4-2-1-5,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Wolfgang Faber (University of Calabria, Italy)",'1-2-2-1-1-4-2-1-6,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Nicola Fanizzi (University of Bari, Italy)",'1-2-2-1-1-4-2-1-7,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Ariel Fuxman (Microsoft Research, USA)",'1-2-2-1-1-4-2-1-8,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Pascal Hitzler (Wright State University, USA)",'1-2-2-1-1-4-2-1-9,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Eyke Hüllermeier (University of Marburg, Germany)",'1-2-2-1-1-4-2-1-10,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Gabriele Kern-Isberner (University of Dortmund, Germany)",'1-2-2-1-1-4-2-1-11,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Jérôme Lang (University of Paul Sabatier, France)",'1-2-2-1-1-4-2-1-12,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Weiru Liu (Queen's University Belfast, UK)",'1-2-2-1-1-4-2-1-13,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Carsten Lutz (University of Bremen, Germany)",'1-2-2-1-1-4-2-1-14,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Sofus Macskassy (Fetch Technologies, USA)",'1-2-2-1-1-4-2-1-15,0,0,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Rada Mihalcea (University of North Texas, USA)",'1-2-2-1-1-4-2-1-16,0,0,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Ralf Möller (TU Hamburg, Germany)",'1-2-2-1-1-4-2-1-17,0,0,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Hoifung Poon (University of Washington, USA)",'1-2-2-1-1-4-2-1-18,0,0,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Umberto Straccia (ISTI-CNR Pisa, Italy)",'1-2-2-1-1-4-2-1-19,0,0,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Heiner Stuckenschmidt (University of Mannheim, Germany)",'1-2-2-1-1-4-2-1-20,0,0,0,1,0,2,0,0,2,2,1,0,0,1,0,1,0,1,0,0,0,0,0,2,I
+"'Partha Talukdar (Microsoft Research, USA)",'1-2-2-1-1-4-2-2,0,0,0,1,0,2,0,0,2,2,0,1,0,0,0,1,0,1,0,0,0,0,0,2,I

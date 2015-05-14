@@ -1,0 +1,15 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Daniel Bundala,'1-1,0,0,0,2,1,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Doctoral Student,'1-2-2-1-1,0,0,0,1,1,2,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Department of Computer Science University of Oxford,'1-2-2-1-2,0,0,0,1,1,2,1,0,0,2,1,0,1,1,1,0,0,0,0,0,1,0,0,2,I
+'daniel.bundala@cs.ox.ac.uk,'1-2-2-1-3,0,0,0,1,1,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'I am a doctoral student in the Department of Computer Science, University of Oxford working in the Verification Group. My supervisor is Joel Ouaknine. During my PhD I did software engineering internships at Google Research, NYC (summer 2013) and at Google Inc, Zurich (summer 2012). Before starting my PhD, I was an undergraduate at University of Oxford graduating in 2010 in Mathematics and Computer Science (1st class honours). I won silver medals at ACM International Collegiate Programming Contest and at International Olympiad in Informatics.",'1-2-2-2,2,0,0,1,0,2,1,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Research Interests,'1-3-1-1,0,0,0,0,1,2,0,0,1,2,1,1,0,0,0,1,0,0,0,1,0,0,0,2,C
+"'I am working on formal verification, especially on model checking, parameter synthesis, temporal logics, infinite-state verification, timed automata and counter machines. I am also interested in theoretical computer science (broadly conceived), combinatorial algorithms and sorting networks.",'1-3-1-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Curriculum Vitae,'1-3-1-2-2,0,0,0,0,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'[pdf] (with list of publications),'1-3-1-3-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,N
+'Selected Publications,'1-3-1-3-2,0,0,0,0,0,2,0,0,1,2,0,0,0,1,0,1,0,0,0,1,0,1,1,3,C
+"'D. Bundala, J. Ouaknine, Advances in Parametric Real-Time Reasoning, submitted to ICALP 2014 [pdf]",'1-3-2-1,1,1,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'D. Bundala, J. Ouaknine, On the Complexity of Temporal-Logic Path Checking, submitted to ICALP 2014 [arXiv]",'1-3-2-2,1,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'D. Bundala, J. Zavodny, Optimal Sorting Networks, Proceedings of LATA 2014 [arXiv] [code]",'1-3-2-3,1,1,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'D. Bundala, J. Ouaknine, J. Worrell, On the Magnitude of Completeness Thresholds in Bounded Model Checking, Proceedings of LICS 2012 [pdf]",'1-3-2-4,1,1,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

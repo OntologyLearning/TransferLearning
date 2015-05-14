@@ -1,0 +1,13 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Welcome to ACM TOCS,'1-1-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,C
+'ACM Journal Staff,'1-1-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,C
+'ACM,'1-1-2-2-1-1,0,0,1,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,1,C
+"'2 Penn Plaza, Suite 701",'1-1-2-2-1-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'New York, NY 10121-0701",'1-1-2-2-1-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Phone: +1 212-869-7440,'1-1-2-2-1-2-3,0,0,0,1,0,2,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bernard Rous,'1-1-2-2-2-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Director of Publications,'1-1-2-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Laura Lander,'1-1-2-2-3-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Journals Manager,'1-1-2-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Irma Strolia,'1-1-2-2-4-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Editorial Assistant,'1-1-2-2-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I

@@ -1,0 +1,31 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'AAAI-10: AI and the Web Special Track,'1-1,1,0,1,2,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'AI and the Web Special Track,'1-2-2-1-1-1-1,0,0,0,2,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,C
+"'The web has evolved from a simple hypertext standard into a ubiquitous, global information system including virtually all of human knowledge. Today's web provides ready access to not only text, images and audio files, but also to structured and semistructured information, sensor data, composable services and communities of people. It offers an open and decentralized environment in which anyone can publish information and services coupled with powerful search engines and agents to discover them. All of this is ubiquitously available from wired, wireless and mobile devices. The result is an environment enormously useful to people for research, learning, commerce, socializing, communication and entertainment. We have just begun to explore how this vast amount of machine accessible knowledge can be exploited and used by machines to better serve human needs as well as to discover new knowledge.",'1-2-2-1-1-1-2-1,2,0,0,1,0,0,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,N
+"'The special track includes research papers on AI techniques, systems and concepts involving or applied to the web. Papers either describe web related research or clearly explain how the work addresses problems, opportunities or issues underlying the web or web-based systems. Paper topics include the following:",'1-2-2-1-1-1-2-2,2,0,0,1,0,0,0,2,1,2,1,1,0,1,0,0,0,0,0,0,0,1,1,3,C
+"'AI for web services: semantic descriptions, planning, matching and coordination",'1-2-2-1-1-1-2-3-1,1,1,0,1,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,1,0,0,0,1,I
+'AI for web-based collaboration and cooperation,'1-2-2-1-1-1-2-3-2,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Agents and multiagent systems on the web,'1-2-2-1-1-1-2-3-3,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Enhancing web search and information retrieval,'1-2-2-1-1-1-2-3-4,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Human language technologies for web systems, including text summarization and machine translation",'1-2-2-1-1-1-2-3-5,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Information extraction on the web,'1-2-2-1-1-1-2-3-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Information integration on the web,'1-2-2-1-1-1-2-3-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Intelligent user interfaces for web systems,'1-2-2-1-1-1-2-3-8,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Knowledge acquisition from the web,'1-2-2-1-1-1-2-3-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Languages, tools and methodologies for representing, managing and visualizing semantic web data",'1-2-2-1-1-1-2-3-10,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Link-analysis and graph mining on the web,'1-2-2-1-1-1-2-3-11,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Machine learning and the web,'1-2-2-1-1-1-2-3-12,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Mining web logs, query logs, blogs",'1-2-2-1-1-1-2-3-13,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Ontologies and the web: creation, extraction, evolution, mapping, merging, and alignment; tags and folksonomies",'1-2-2-1-1-1-2-3-14,1,1,0,1,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Question answering on the web,'1-2-2-1-1-1-2-3-15,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Recognizing web spam such as link farms and splogs,'1-2-2-1-1-1-2-3-16,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Representing, reasoning and using provenance, trust, privacy, and security on the web",'1-2-2-1-1-1-2-3-17,1,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'Searching, querying, visualizing and interpreting the Semantic web",'1-2-2-1-1-1-2-3-18,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,1,0,0,0,2,I
+'Social networking and community identification,'1-2-2-1-1-1-2-3-19,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Web personalization and user modeling,'1-2-2-1-1-1-2-3-20,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Web-based opinion extraction and trend spotting,'1-2-2-1-1-1-2-3-21,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Web-based recommendation systems,'1-2-2-1-1-1-2-3-22,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Special Track Cochairs,'1-2-2-1-1-2-1,0,0,1,2,0,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,1,1,2,C
+"'Subbarao Kambhampati (Arizona State University, USA)",'1-2-2-1-1-2-2-1-1,0,1,0,1,0,2,0,0,1,2,0,0,1,0,0,1,0,1,0,0,0,0,0,1,I
+"'Lora Aroyo (Free University of Amsterdam, The Netherlands)",'1-2-2-1-1-2-2-1-2,0,1,0,1,0,2,0,0,1,2,0,0,0,1,0,1,0,1,0,0,1,0,0,2,I
+'The AI and the Web call for papers i available as a printable PDF document or in html.,'1-2-2-1-1-2-2-2,1,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,1,0,0,0,2,I

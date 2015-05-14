@@ -1,0 +1,26 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'IACR Distinguished Lectures,'1-2-1-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'IACR Distinguished Lectures have been awarded by IACR since 1994 to people who have made important contributions to cryptology research.,'1-2-1-2-1,1,0,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,N
+'The venue of the annual distinguished lecture alternates from Eurocrypt to Crypto to Asiacrypt. The distinguished lecturer is chosen by Board of Directors the year before.,'1-2-1-2-2,1,0,0,1,0,2,0,0,1,2,1,1,0,1,0,0,0,0,0,0,1,1,3,N
+'2014: Mihir Bellare,'1-2-1-2-3-1,0,1,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
+'2013: Eli Biham,'1-2-1-2-3-2,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2012: Dan Boneh,'1-2-1-2-3-3,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2011: Ron L. Rivest,'1-2-1-2-3-4,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2010: Moti Yung,'1-2-1-2-3-5,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2009: Tatsuaki Okamoto,'1-2-1-2-3-6,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2008: Gilles Brassard,'1-2-1-2-3-7,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2007: Jacques Stern,'1-2-1-2-3-8,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2006: Ivan Damgård,'1-2-1-2-3-9,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2005: Ralph Merkle,'1-2-1-2-3-10,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2004: Whitfield Diffie,'1-2-1-2-3-11,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2003: Don Coppersmith,'1-2-1-2-3-12,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2002: David Chaum,'1-2-1-2-3-13,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2001: Andrew Odlyzko,'1-2-1-2-3-14,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'2000: Tom Berson,'1-2-1-2-3-15,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1999: Martin Hellman,'1-2-1-2-3-16,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1998: Michael Rabin,'1-2-1-2-3-17,0,1,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1996: Jim Massey,'1-2-1-2-3-18,0,1,0,1,0,2,1,1,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1995: Adi Shamir,'1-2-1-2-3-19,0,1,0,1,0,2,1,1,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'1994: Gus Simmons,'1-2-1-2-3-20,0,1,0,1,0,2,1,1,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Copyright © 2014,'1-2-2-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'IACR,'1-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,3,N

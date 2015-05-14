@@ -1,0 +1,94 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,CS,Concept,Conference,Country,Month,Total,University,NextIsLi,LastEndColon,LastLabel,Label
+'Jim Davies,'1-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,C
+'Professor Jim Davies CITP,'1-2-1-2-1-1-2-1-1,0,0,0,1,0,2,0,0,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Professor of Software Engineering,'1-2-1-2-1-1-2-1-2-1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,0,0,2,I
+"'Director, Software Engineering Programme",'1-2-1-2-1-1-2-1-2-2,0,0,0,1,0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Governing Body Fellow, Kellogg College",'1-2-1-2-1-1-2-1-3,0,0,0,1,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'jim.davies@cs.ox.ac.uk,'1-2-1-2-1-1-2-1-4,0,0,0,1,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'44 1865 283521,'1-2-1-2-1-1-2-1-5,0,0,0,1,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'44 1865 283531 (fax),'1-2-1-2-1-1-2-1-6,0,0,0,1,0,0,0,0,0,2,1,1,0,1,0,1,0,0,0,1,0,0,0,2,I
+"'Room 461, Wolfson Building, Parks Road, Oxford OX1 3QD",'1-2-1-2-1-1-2-2,1,0,0,1,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2,I
+'Interests,'1-2-1-2-1-2-1-1-1-1,0,0,1,2,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Jim directs a programme of advanced, professional education in software engineering, teaching advanced techniques to people working full-time in industry.  He is leading the development of semantics-driven technology for medical research and electronic governance, and a related programme of work into the automatic generation of systems from re-usable models of structure and functionality.",'1-2-1-2-1-2-1-1-1-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Biography,'1-2-1-2-1-2-1-1-2-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Jim studied mathematics at New College, Oxford, joining the Computing Laboratory (now Department of Computer Science) in 1986 for a Masters' and doctorate. After working as a researcher and lecturer in computer science, at Oxford and Reading, he became a lecturer in software engineering at Oxford in 1995. He has led the Software Engineering Programme since 2000, and was made Professor of Software Engineering in 2006.",'1-2-1-2-1-2-1-1-2-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,I
+'Links,'1-2-1-2-1-2-1-1-3-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'The CancerGrid Project,'1-2-1-2-1-2-1-1-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Roles,'1-2-1-2-1-2-1-1-4-1-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'View all,'1-2-1-2-1-2-1-1-4-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+"'SBMF 2012: Brazilian Symposium on Formal Methods, Natal , Programme Committee, Steering Group",'1-2-1-2-1-2-1-1-4-2-1,1,0,0,1,1,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+"'IFM 2012: Integrated Formal Methods, Programme Committee",'1-2-1-2-1-2-1-1-4-2-2,0,0,0,1,1,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'RAISE 2012: Realising AI Synergies in Software Engineering, Zurich , Programme Committee",'1-2-1-2-1-2-1-1-4-2-3,1,0,0,1,1,2,1,1,1,2,1,0,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Selected Publications,'1-2-1-2-1-2-1-1-5-1-1-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,C
+'View all,'1-2-1-2-1-2-1-1-5-1-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'Manage publications,'1-2-1-2-1-2-1-1-5-1-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,3,N
+'Info,'1-2-1-2-1-2-1-1-5-2,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'The CancerGrid Experience: Metadata−Based Model−Driven Engineering for Clinical Trials,'1-2-1-2-1-2-1-2-1,0,0,0,1,0,2,0,1,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,1,I
+'Jim Davies‚ Jeremy Gibbons‚ Steve Harris and Charles Crichton,'1-2-1-2-1-2-1-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In Science of Computer Programming. March, 2013.",'1-2-1-2-1-2-1-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+'To appear,'1-2-1-2-1-2-1-2-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1016/j.scico.2013.02.010) | Download (pdf),'1-2-1-2-1-2-1-2-5,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Machine Learning and Software Engineering in Health Informatics,'1-2-1-2-1-2-1-3-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,1,0,0,0,0,1,0,0,0,3,I
+'David A. Clifton‚ Jeremy Gibbons‚ Jim Davies and Lionel Tarassenko,'1-2-1-2-1-2-1-3-2,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'May, 2012.",'1-2-1-2-1-2-1-3-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,0,2,I
+'Details | BibTeX | DOI (10.1109/RAISE.2012.6227968) | Download (pdf),'1-2-1-2-1-2-1-3-4,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Model−driven Engineering of Information Systems: 10 years and 1000 versions,'1-2-1-2-1-2-1-4-1,1,0,0,1,0,2,0,1,1,2,1,0,1,0,1,0,0,0,0,0,0,0,0,3,I
+'Jim Davies‚ Jeremy Gibbons‚ James Welch and Edward Crichton,'1-2-1-2-1-2-1-4-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In Science of Computer Programming. February, 2013.",'1-2-1-2-1-2-1-4-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,0,2,I
+'Details | BibTeX | DOI (10.1016/j.scico.2013.02.002),'1-2-1-2-1-2-1-4-4,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'Themes,'1-2-1-2-1-2-2-1-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Software Engineering,'1-2-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Activities,'1-2-1-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Research Informatics  | Information Modelling,'1-2-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,2,I
+'Projects,'1-2-1-2-1-2-2-3-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'Accelerating Cancer Research Using Semantics-Driven Technology  | Model-driven software development  |,'1-2-1-2-1-2-2-3-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,1,1,0,0,0,0,0,0,0,2,I
+'Completed Projects,'1-2-1-2-1-2-2-4-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,2,I
+'Cancer Bioinformatics | Semantic Frameworks | Integrative Biology | CancerGrid | Evolving Health Informatics | ULICE | Hospital of the Future | Vaccines Data Management,'1-2-1-2-1-2-2-4-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Current Students,'1-2-1-2-1-2-2-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Eamonn Maguire,'1-2-1-2-1-2-2-5-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'David Milward,'1-2-1-2-1-2-2-5-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Past Students,'1-2-1-2-1-2-2-6-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,0,2,I
+'Mohammed Aboulsamh,'1-2-1-2-1-2-2-6-2-1-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Aadya Shukla,'1-2-1-2-1-2-2-6-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Jackie Wang,'1-2-1-2-1-2-2-6-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'James Welch,'1-2-1-2-1-2-2-6-2-4-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Share this page: Facebook Twitter Digg Del.icio.us StumbleUpon,'1-2-1-2-2,0,0,0,1,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Main sections,'1-2-2-1-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'Home,'1-2-2-1-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Prospective Students,'1-2-2-1-2-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Students,'1-2-2-1-2-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Research,'1-2-2-1-2-4,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'People,'1-2-2-1-2-5,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'News,'1-2-2-1-2-6,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-1-2-7,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & Studentships,'1-2-2-1-2-8,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Contact Us,'1-2-2-1-2-9,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Alumni,'1-2-2-1-2-10,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Industry Liaison,'1-2-2-1-2-11,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'In This Section,'1-2-2-2-1,0,0,1,2,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'The CancerGrid Project,'1-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'RSS Feeds,'1-2-2-3-1-1,0,0,1,2,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'News,'1-2-2-3-1-2-1,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'News,'1-2-2-3-1-2-2-1,0,0,1,2,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All news,'1-2-2-3-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Awards,'1-2-2-3-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Events,'1-2-2-3-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-2-2-3-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Project news,'1-2-2-3-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Publications,'1-2-2-3-1-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,2,I
+'Current Projects,'1-2-2-3-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,1,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-3-1-3-1,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies & studentships,'1-2-2-3-1-3-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'Vacancies,'1-2-2-3-1-3-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Studentships,'1-2-2-3-1-3-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Calendars,'1-2-2-3-1-4,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Seminars & timetables,'1-2-2-3-1-5-1,0,0,0,1,0,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,I
+'Seminars & timetables,'1-2-2-3-1-5-2-1,0,0,1,2,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,I
+'All Seminars,'1-2-2-3-1-5-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Lecture timetable,'1-2-2-3-1-5-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Practical timetable,'1-2-2-3-1-5-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Class timetable,'1-2-2-3-1-5-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Internal,'1-2-2-3-1-6,0,0,1,2,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Internal / Intranet,'1-2-2-3-2-1,0,0,0,1,0,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Edit website / database login,'1-2-2-3-2-2,0,0,0,1,0,2,1,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IT Support,'1-2-2-3-2-3,0,0,0,1,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I

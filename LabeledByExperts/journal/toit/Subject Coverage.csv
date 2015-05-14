@@ -1,0 +1,26 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Subject Coverage,'1-1-2-2-1,0,0,1,2,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'ACM Transactions on Internet Technology (TOIT) is the premier multi-disciplinary scholarly journal on Internet/Web foundational and application technology and on social issues and public policy. Internet/Web technology encompasses many disciplines in computing, including computer software engineering, computer programming languages, middleware, management of unstructured, semi-structured and structured data, security, electronic commerce, knowledge discovery and data mining, multimedia data management, networking and distributed systems, communications, performance and scalability, etc. The social issues and public policy include all major ways in which use of Internet/Web technology impacts the society and people.",'1-1-2-2-2-1,2,0,0,1,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,1,N
+"'TOIT has historically focused on the technology and societal issues associated with the services on which the Internet is built, e.g., session layer and above. A good source for journal scope are the journal papers themselves. Prospective authors are encouraged to review past issues for a perspective on topic relevance. For further reference, we provide a non-inclusive list of topics that are generally appropriate for the journal:",'1-1-2-2-2-2,2,0,0,1,0,0,1,2,1,2,1,1,0,1,0,0,0,0,0,0,1,1,3,C
+'Digital mass media,'1-1-2-2-2-3-1,0,1,0,1,0,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Digital rights management,'1-1-2-2-2-3-2,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'E-government,'1-1-2-2-2-3-3,0,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Electronic commerce,'1-1-2-2-2-3-4,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Internet application programming environments,'1-1-2-2-2-3-5,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Internet crime and law,'1-1-2-2-2-3-6,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Internet performance and scalability,'1-1-2-2-2-3-7,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Internet protocols,'1-1-2-2-2-3-8,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Internet research platforms, e.g., PlanetLab, GENIE",'1-1-2-2-2-3-9,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Library and education,'1-1-2-2-2-3-10,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Online auctions and trading agents,'1-1-2-2-2-3-11,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Online entertainment (music, movies, games, art, museums, etc.)",'1-1-2-2-2-3-12,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Peer-to-peer networks,'1-1-2-2-2-3-13,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Personalization,'1-1-2-2-2-3-14,0,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Search,'1-1-2-2-2-3-15,0,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Security and privacy,'1-1-2-2-2-3-16,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Spam,'1-1-2-2-2-3-17,0,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Taxation and international trade,'1-1-2-2-2-3-18,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Tele-medicine,'1-1-2-2-2-3-19,0,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Web measurements,'1-1-2-2-2-3-20,0,1,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'XML/HTML document management,'1-1-2-2-2-3-21,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Note: TOIT will accept survey papers very rarely, i.e. one or fewer a year---authors should most likely contact the editor-in-chief before considering submission.",'1-1-2-2-2-4,1,0,0,1,0,0,0,1,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,N

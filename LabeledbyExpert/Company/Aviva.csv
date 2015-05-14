@@ -1,198 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'Aviva,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-"'For other uses, see Aviva (disambiguation).",'1-1-2-1,0,0,0,1,0,2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,N
-'Aviva plc,'1-1-2-2-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
-'Type,'1-1-2-2-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'Public limited company,'1-1-2-2-3-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Traded as,'1-1-2-2-4-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'LSE: AV., NYSE: AV",'1-1-2-2-4-2,0,0,0,1,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Industry,'1-1-2-2-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Financial services,'1-1-2-2-5-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
-'Predecessor(s),'1-1-2-2-6-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'CGU,'1-1-2-2-6-2-1,0,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Norwich Union,'1-1-2-2-6-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Founded,'1-1-2-2-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'2000 (by merger),'1-1-2-2-7-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-2-8-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'St. Helen's Tower,'1-1-2-2-8-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'London,'1-1-2-2-8-2-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Key people,'1-1-2-2-9-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'John McFarlane,'1-1-2-2-9-2-1,0,0,0,1,0,2,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Chairman,'1-1-2-2-9-2-2-1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,2,I
-'Mark Wilson,'1-1-2-2-9-2-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'CEO,'1-1-2-2-9-2-3,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,2,I
-'Services,'1-1-2-2-10-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'Life insurance,'1-1-2-2-10-2-1,0,0,0,1,0,2,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,I
-'Pensions,'1-1-2-2-10-2-2,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'General Insurance,'1-1-2-2-10-2-3,0,0,0,1,0,2,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,2,I
-'Operating income,'1-1-2-2-11-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'£2.049 billion (2013),'1-1-2-2-11-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Net income,'1-1-2-2-12-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'£2.151 billion (2013),'1-1-2-2-12-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-2-13-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'40,800 (end 2011)",'1-1-2-2-13-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Website,'1-1-2-2-14-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'aviva.com,'1-1-2-2-14-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'Aviva plc is a British multinational insurance company headquartered in London, United Kingdom. It is the sixth-largest insurance company in the world measured by net premium income and has around 43 million customers across 21 countries. It is the market leader in both general insurance and life and pensions in the UK and has major businesses in Asia, continental Europe and North America.",'1-1-2-3-1-1-1,2,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,2,N
-'Aviva has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index. It has a secondary listing on the New York Stock Exchange.,'1-1-2-3-1-1-2,2,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Contents,'1-1-2-3-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'1 Name,'1-1-2-3-1-2-1-2-1,0,0,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-'2 History,'1-1-2-3-1-2-1-2-2,0,0,0,1,0,1,1,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,2,I
-'3 Operations,'1-1-2-3-1-2-1-2-3-1,0,0,0,1,0,1,1,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,I
-'3.1 Principal subsidiaries,'1-1-2-3-1-2-1-2-3-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'4 Senior management,'1-1-2-3-1-2-1-2-4,0,0,0,1,0,2,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'5 Sponsorships,'1-1-2-3-1-2-1-2-5,0,0,0,1,0,1,1,0,0,1,1,1,1,1,0,0,1,0,0,1,0,0,2,I
-'6 References,'1-1-2-3-1-2-1-2-6,0,0,0,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'7 External links,'1-1-2-3-1-2-1-2-7,0,0,0,1,0,2,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Name,'1-1-2-3-1-2-2-1-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'The name of the company upon its formation in May 2000 was CGNU plc. In April 2002 the company's shareholders voted to change the company name to ""Aviva plc"", an invented word derived from ""viva"", the Latin for 'life' and designed to be short, memorable and work worldwide. In April 2008 Aviva announced that it would adopt the ""Aviva"" name as its worldwide consumer-facing brand, and that the Norwich Union brand would be phased out in the United Kingdom.",'1-1-2-3-1-2-2-1-2,2,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'History,'1-1-2-3-1-2-2-2-1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-'Aviva can trace its history back to the establishment of the Hand in Hand Fire & Life Insurance Society in London in 1696.,'1-1-2-3-1-2-2-2-2-1,1,0,0,1,0,2,1,0,0,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
-"'It was created by a merger of two British insurance firms, Norwich Union and CGU plc (itself created by the 1998 merger of Commercial Union and General Accident) as CGNU in 2000. The Aviva name was adopted in July 2002. Thereafter, most of the group operations, except for some strong local brands, were carried out under the uniform brand ""Aviva"".",'1-1-2-3-1-2-2-2-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'During March 2005 Aviva acquired the RAC plc breakdown recovery operation for around £1.1 billion.,'1-1-2-3-1-2-2-2-2-3,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-"'In July 2006, Aviva greatly increased its presence in the United States by acquiring AmerUs Group, a Des Moines-based financial services company founded in 1896 in a $2.9 billion (£1.6 billion) deal. AmerUs Group was rebranded as Aviva USA when the acquisition was completed.",'1-1-2-3-1-2-2-2-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'The Company continued to use the Norwich Union name as a trading name in the UK until 1 June 2009 when it became formally known as Aviva within the United Kingdom. The launch was supported by a £9 million advertising campaign to promote the rebranding (one of the most expensive ever in the UK insurance field), with the participation of celebrities including Bruce Willis and Alice Cooper.",'1-1-2-3-1-2-2-2-2-5,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-"'In June 2009 the Company decided to dispose of Navigator, its Australian wealth management business, to National Australia Bank for A$825 million (£401 million).",'1-1-2-3-1-2-2-2-2-6,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'In October 2009 the company decided to focus on its commercial insurance sector and demonstrate its commitment to brokers by launching their 'find a broker' facility, using the British Insurance Brokers Association search engine. To help them with this endeavour, Paul Whitehouse was recruited to play the part of a successful hairdresser running three salons. The message of the campaign focused on business insurance through insurance brokers. The closing line of the campaign was ""We're in business to keep you in business"".",'1-1-2-3-1-2-2-2-2-7,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'In September 2011, Aviva completed the sale of RAC plc breakdown recovery operation for £1.0 billion to The Carlyle Group.",'1-1-2-3-1-2-2-2-2-8,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In February 2012, Aviva sold its occupational health business to the British support services company Capita.",'1-1-2-3-1-2-2-2-2-9,1,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'In July 2012, Aviva announced plans to sell or close 16 non-core businesses in order to simplify its activities and boost shareholder returns. As part of the plans Aviva announced the sale of its operations in South Korea and the closure to new business of its bulk-buying annuity unit in the United Kingdom.",'1-1-2-3-1-2-2-2-2-10,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-"'In August 2012, Aviva announced that up to 800 jobs would be lost following a reorganization caused by further turmoil in the Eurozone.",'1-1-2-3-1-2-2-2-2-11,1,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-"'In December 2012, Aviva agreed to sell Aviva USA Corporation to Athene Holding for US$1.8 billion (£1.1 billion) as part of a plan to improve shareholder returns and reduce the group's capital requirements. Athene subsequently sold the life insurance business of Aviva to Atlantic Global.",'1-1-2-3-1-2-2-2-2-12,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Operations,'1-1-2-3-1-2-2-3-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-"'Aviva's main activities are the provision of general and life insurance, long-term savings products and fund management services. The group has around 36,600 employees, £379 billion of assets under management and 43 million customers.",'1-1-2-3-1-2-2-3-2,2,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Principal subsidiaries,'1-1-2-3-1-2-2-4-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-"'United Kingdom Aviva Life – Pensions, investments, Life Insurance and long term savings (formerly Norwich Union)
-Aviva Insurance – General Insurance
-Aviva Investors – Fund Management (formerly Morley)
-
-Ireland Aviva Direct
-Aviva Health
-
-Poland – Aviva
-Spain
-Netherlands – Delta Lloyd Groep (43.1% shareholding)
-Canada – Aviva Canada
-France – Aviva France
-China – Aviva-Cofco
-India – Aviva India
-Malaysia – CIMB Aviva
-Singapore
-Turkey AvivaSA Emeklilik
-Aviva Sigorta
-
-Taiwan – First Aviva (in traditional Chinese)
-Sri Lanka
-Russia - Aviva Russia
-Lithuania
-Italy – Aviva Italia Holding S.p.A.
-South Korea - Woori Aviva",'1-1-2-3-1-2-2-4-2-1,2,1,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
-'Former companies,'1-1-2-3-1-2-2-4-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,1,1,1,2,C
-"'Australia: Aviva Investors Australia Ltd, sold to National Australia Bank in 2009.",'1-1-2-3-1-2-2-4-2-3,1,1,0,1,0,2,1,1,1,2,1,0,0,1,0,1,0,0,1,1,0,0,1,I
-'Senior management,'1-1-2-3-1-2-2-5-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'CEO Richard Harvey retired on 11 July 2007. His successor was Andrew Moss, the former group finance director. Moss was paid an annual base salary of £925,000 for his role as Chief Executive. Moss resigned on 8 May 2012 after shareholders voted down a proposed senior management pay deal which would have seen Moss increase his basic pay by 5% despite several years of Aviva underperformance. John McFarlane was appointed to the board of Aviva plc in September 2011. Following the departure of Aviva’s CEO, Andrew Moss, McFarlane assumed the role of executive deputy chairman and became executive chairman on 1 July 2012. On 20 November 2012, Aviva announced that Mark Wilson will become CEO on 1 January 2013.",'1-1-2-3-1-2-2-5-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Sponsorships,'1-1-2-3-1-2-2-6-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,2,C
-"'In May 2008 Aviva became Norwich City Football Club's main sponsor. In a 2009 television advert starring Paul Whitehouse they feature a Plymouth Argyle F.C. fan who uses Aviva car insurance followed by a Green Army chant. It also acquired the naming rights for the redeveloped Lansdowne Road stadium in Dublin, Ireland, and will now be called the Aviva Stadium.",'1-1-2-3-1-2-2-6-2-1,2,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'In 2010, Aviva also took over sponsorship of rugby union's English Premiership from Guinness. The four-year sponsorship deal is valued at £20 million.",'1-1-2-3-1-2-2-6-2-2,1,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'External links,'1-1-2-3-1-2-2-7-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Aviva plc,'1-1-2-3-1-2-2-7-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-"'Predecessor company London and Lancashire Fire and Life, pictured in Dublin, ca. 1871",'1-1-2-3-2-1-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,3,N
-"'St. Helen's, Aviva's world headquarters in London",'1-1-2-3-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,3,N
-'London portal,'1-1-2-3-3-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
-'Companies portal,'1-1-2-3-3-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
-'Aviva,'1-1-2-4-1,0,0,0,2,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Divisions and subsidiaries,'1-1-2-4-2-1-1,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Current,'1-1-2-4-2-1-2-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Aviva Canada,'1-1-2-4-2-1-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,1,0,0,1,I
-'Aviva Investors,'1-1-2-4-2-1-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Aviva Ireland,'1-1-2-4-2-1-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,1,1,2,I
-'First Aviva,'1-1-2-4-2-1-2-1-2-4,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Former,'1-1-2-4-2-1-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
-'RAC,'1-1-2-4-2-1-2-2-2,0,1,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Other,'1-1-2-4-2-1-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Aviva A League,'1-1-2-4-2-1-4-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Aviva Indoor Grand Prix,'1-1-2-4-2-1-4-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Aviva International Match,'1-1-2-4-2-1-4-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,2,I
-'Category,'1-1-2-4-2-2,0,1,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N
-'FTSE 100 companies of the United Kingdom   → FTSE 250,'1-1-2-5-1-1,1,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,3,C
-'As of 24 March 2014:,'1-1-2-5-1-2-1,0,0,0,1,0,2,0,2,1,1,0,1,0,0,0,0,0,1,0,1,0,0,1,C
-'Aberdeen Asset Management Admiral Group Aggreko Anglo American Antofagasta ARM Holdings Ashtead Group Associated British Foods AstraZeneca,'1-1-2-5-1-2-2-1,1,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Aviva,'1-1-2-5-1-2-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'BAE Systems BG Group BHP Billiton Babcock International Barclays Barratt Developments British American Tobacco British Land Company British Sky Broadcasting BT Group Bunzl Burberry Group Capita Carnival Centrica Coca-Cola Hellenic Compass Group CRH Diageo easyJet Experian Fresnillo G4S GKN GlaxoSmithKline Glencore Xstrata Hammerson Hargreaves Lansdown HSBC Imperial Tobacco InterContinental Hotels Group International Airlines Group Intertek Group ITV Johnson Matthey Kingfisher Land Securities Group Legal & General Lloyds Banking Group London Stock Exchange Group Marks & Spencer Meggitt Melrose Mondi Wm Morrison Supermarkets National Grid Next Old Mutual Pearson Persimmon Petrofac Prudential Randgold Resources RBS Group Reckitt Benckiser Reed Elsevier Resolution Rexam Rio Tinto Group Rolls-Royce Royal Dutch Shell Royal Mail RSA Insurance Group SABMiller Sage Group J Sainsbury Schroders Severn Trent Shire Smith & Nephew Smiths Group Sports Direct SSE Standard Chartered Standard Life St. James's Place Tesco Travis Perkins TUI Travel Tullow Oil Unilever United Utilities Vodafone Weir Group Whitbread William Hill Wolseley WPP,'1-1-2-5-1-2-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Major insurance and reinsurance companies,'1-1-2-5-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'Insurance,'1-1-2-5-2-2-1-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'Composite,'1-1-2-5-2-2-1-1-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Aegon Ageas AIG Allianz Allstate Aon,'1-1-2-5-2-2-1-1-2-1-2-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'Aviva,'1-1-2-5-2-2-1-1-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'AXA,'1-1-2-5-2-2-1-1-2-1-2-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'China Pacific Insurance,'1-1-2-5-2-2-1-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'China Taiping,'1-1-2-5-2-2-1-1-2-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
-'Generali,'1-1-2-5-2-2-1-1-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'ING,'1-1-2-5-2-2-1-1-2-1-2-2-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'National Mutual Insurance Federation of Agricultural Cooperatives,'1-1-2-5-2-2-1-1-2-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
-'Ping An Insurance,'1-1-2-5-2-2-1-1-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'Prudential plc,'1-1-2-5-2-2-1-1-2-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'PZU,'1-1-2-5-2-2-1-1-2-1-2-2-2-9,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'State Farm Insurance,'1-1-2-5-2-2-1-1-2-1-2-2-2-10,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'The Hartford,'1-1-2-5-2-2-1-1-2-1-2-2-2-11,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'UnipolSai,'1-1-2-5-2-2-1-1-2-1-2-2-2-12,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Vienna Insurance Group,'1-1-2-5-2-2-1-1-2-1-2-2-2-13,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
-'Zurich Insurance Group,'1-1-2-5-2-2-1-1-2-1-2-2-2-14-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
-'Farmers Insurance Group,'1-1-2-5-2-2-1-1-2-1-2-2-2-14-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'General insurance,'1-1-2-5-2-2-1-1-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'BB Seguridade,'1-1-2-5-2-2-1-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Berkshire Hathaway,'1-1-2-5-2-2-1-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'BNP Paribas,'1-1-2-5-2-2-1-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bradesco Seguros,'1-1-2-5-2-2-1-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'CNP Assurances,'1-1-2-5-2-2-1-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Hyundai Marine & Fire Insurance,'1-1-2-5-2-2-1-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'If P&C Insurance,'1-1-2-5-2-2-1-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Insurance Australia Group,'1-1-2-5-2-2-1-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
-'Liberty Mutual,'1-1-2-5-2-2-1-1-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Mapfre,'1-1-2-5-2-2-1-1-2-2-2-10,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Mitsui Sumitomo Insurance Group,'1-1-2-5-2-2-1-1-2-2-2-11,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'PICC,'1-1-2-5-2-2-1-1-2-2-2-12,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'QBE Insurance,'1-1-2-5-2-2-1-1-2-2-2-13,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'RSA Insurance Group,'1-1-2-5-2-2-1-1-2-2-2-14,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Samsung Fire & Marine Insurance,'1-1-2-5-2-2-1-1-2-2-2-15,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Sompo Japan,'1-1-2-5-2-2-1-1-2-2-2-16,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Tokio Marine,'1-1-2-5-2-2-1-1-2-2-2-17,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Travelers,'1-1-2-5-2-2-1-1-2-2-2-18,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'UIIC India,'1-1-2-5-2-2-1-1-2-2-2-19,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'XL Group,'1-1-2-5-2-2-1-1-2-2-2-20,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Life insurance,'1-1-2-5-2-2-1-1-2-3-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'AIA,'1-1-2-5-2-2-1-1-2-3-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Bupa,'1-1-2-5-2-2-1-1-2-3-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'China Life,'1-1-2-5-2-2-1-1-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Dai-ichi Life,'1-1-2-5-2-2-1-1-2-3-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Great Eastern,'1-1-2-5-2-2-1-1-2-3-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Jackson,'1-1-2-5-2-2-1-1-2-3-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Legal & General,'1-1-2-5-2-2-1-1-2-3-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'LIC India,'1-1-2-5-2-2-1-1-2-3-2-8,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Lincoln,'1-1-2-5-2-2-1-1-2-3-2-9,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Manulife Financial,'1-1-2-5-2-2-1-1-2-3-2-10,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Meiji Yasuda Life,'1-1-2-5-2-2-1-1-2-3-2-11,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'MetLife,'1-1-2-5-2-2-1-1-2-3-2-12,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'New York Life,'1-1-2-5-2-2-1-1-2-3-2-13,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Nippon Life,'1-1-2-5-2-2-1-1-2-3-2-14,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Northwestern Mutual,'1-1-2-5-2-2-1-1-2-3-2-15,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Old Mutual,'1-1-2-5-2-2-1-1-2-3-2-16,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Phoenix Group,'1-1-2-5-2-2-1-1-2-3-2-17,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Prudential Financial,'1-1-2-5-2-2-1-1-2-3-2-18,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Samsung Life,'1-1-2-5-2-2-1-1-2-3-2-19,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Scottish Widows,'1-1-2-5-2-2-1-1-2-3-2-20,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Standard Life,'1-1-2-5-2-2-1-1-2-3-2-21,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Sumitomo Life,'1-1-2-5-2-2-1-1-2-3-2-22,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Sun Life,'1-1-2-5-2-2-1-1-2-3-2-23,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Swiss Life,'1-1-2-5-2-2-1-1-2-3-2-24,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Taikang Life,'1-1-2-5-2-2-1-1-2-3-2-25,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Reinsurance,'1-1-2-5-2-2-1-2-1,0,0,0,1,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Gen Re,'1-1-2-5-2-2-1-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Hannover Re,'1-1-2-5-2-2-1-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Lloyd's of London,'1-1-2-5-2-2-1-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Munich Re,'1-1-2-5-2-2-1-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Reinsurance Group of America,'1-1-2-5-2-2-1-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Scor,'1-1-2-5-2-2-1-2-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Swiss Re,'1-1-2-5-2-2-1-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'XL Group,'1-1-2-5-2-2-1-2-2-8,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Methodology: Applicable FY2010/11 revenues of over US$3 billion,'1-1-2-5-2-2-2,0,0,0,1,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C

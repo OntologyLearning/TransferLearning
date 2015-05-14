@@ -1,0 +1,86 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies,'1-2-1-1,1,0,1,2,1,2,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'To be held at the Portland Marriott Downtown Waterfront in 
+Portland, Oregon, USA, June 19-24, 2011",'1-2-1-2,1,0,0,1,1,2,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,I
+'Instructions for Preparing Papers and Posters,'1-2-2-1-1,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,2,C
+'Poster Presentations,'1-2-2-1-2-1-1,0,0,1,1,1,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+"'Main conference and workshop posters should be no larger than 48 inches wide and 36 inches high. The conference will provide self-standing posterboards (which sit on tables), pushpins, clips, double-sided tape, etc. for mounting.",'1-2-2-1-2-1-2,2,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'ACL-HLT 2011 Style Files,'1-2-2-1-2-2,0,0,1,1,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+'Latex,'1-2-2-2-1-1-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'MS Word,'1-2-2-2-1-1-2,0,0,0,1,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'acl-hlt2011.tex,'1-2-2-2-1-2-1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'acl-hlt2011.doc,'1-2-2-2-1-2-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.sty,'1-2-2-2-1-3-1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.dot,'1-2-2-2-1-3-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.pdf,'1-2-2-2-1-4-1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N
+'acl-hlt2011.pdf,'1-2-2-2-1-4-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'acl.bst,'1-2-2-2-1-5,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,N
+'NOTE: Style files have changed from original call for papers.,'1-2-2-2-2-1,1,0,0,1,0,2,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,3,N
+'ACL-HLT 2011 Copyright Transfer Form,'1-2-2-2-2-2,0,0,1,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,C
+'PDF,'1-2-2-3-1-1-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'MS Word,'1-2-2-3-1-1-2,0,0,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'acl-hlt2011.copyright.pdf,'1-2-2-3-1-2-1,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'acl-hlt2011.copyright.doc,'1-2-2-3-1-2-2,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Instructions for Camera-Ready Copy,'1-2-2-3-2-1-1-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'The camera-ready copy of the accepted paper should follow the requirements in the above style file. These instructions are for authors of papers accepted by the main conference and workshops as oral or poster papers. Some general guidelines and a quick check list for publication requirements that conform to the specifications are provided here. Camera-ready copies that fail to meet these instructions may be returned for re-submission. For details please refer to the above style file.,'1-2-2-3-2-1-1-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'General Guidelines,'1-2-2-3-2-1-2-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'Long papers may consist of up to 9 pages of content and an unlimited number of reference pages, and short papers may consist of up to 5 pages of content and an unlimited number of reference pages.",'1-2-2-3-2-1-2-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,1,1,0,0,0,1,I
+"'Those papers that had software and/or dataset submitted for the review process, should also submit it with the camera-ready. Besides, the software and dataset should not be anonymous, and their size should not exceed 10MB.",'1-2-2-3-2-1-2-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,N
+'Both long and short paper submissions should follow the two-column format of ACL HLT 2011 proceedings.,'1-2-2-3-2-1-2-2-3,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+'We strongly recommend the use of ACL LaTeX style files or Microsoft Word Style files tailored for this year's conference.,'1-2-2-3-2-1-2-2-4,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+'All submissions must conform to the official ACL 2011 style guidelines and they must be electronic in PDF.,'1-2-2-3-2-1-2-2-5,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,N
+"'It is very important to specify US Letter paper size. The page limit has to be strictly observed. DO NOT include page numbers. They will be generated when compiling the proceedings. All camera-ready manuscripts should look like the sample PDF file, which also contains detailed formatting requirements.",'1-2-2-3-2-1-2-2-6,2,0,0,1,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+'Camera-Ready Copy Submission Due,'1-2-2-3-2-1-3,0,0,1,1,1,2,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,3,C
+'Camera-Ready Deadline for Long Papers :,'1-2-2-3-2-2-1-1,0,0,0,1,0,2,0,2,1,2,0,0,1,0,0,0,1,0,0,1,1,0,0,1,C
+"'April 15, 2011 (11:59pm, PST)",'1-2-2-3-2-2-1-2,0,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Camera-Ready Deadline for Short Papers :,'1-2-2-3-2-2-2-1,0,0,0,1,0,2,0,2,1,2,0,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+"'April 22, 2011 (11:59pm, PST)",'1-2-2-3-2-2-2-2,0,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'Quick Check List for Camera-Ready Papers,'1-2-2-3-2-3-1,0,0,1,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,2,C
+'Here is a list of the most important stylistic features to be checked before you submit your final camera-ready copy.,'1-2-2-3-2-3-2-1,1,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0,1,N
+'Failing to observe these instructions may result in re-submission. Remember to sign the copyright transfer agreement electronically or physically as well.,'1-2-2-3-2-3-2-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,1,1,3,N
+'Paper format: PDF.,'1-2-2-3-2-4-1,0,1,0,1,0,2,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,I
+'Non-English characters: embed all fonts when generating the PDF file.,'1-2-2-3-2-4-2,1,1,0,1,0,2,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Paper size: US Letter (8.5 x 11.0 inches).,'1-2-2-3-2-4-3,0,1,0,1,0,2,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Title,'1-2-2-3-2-4-4-1,0,0,0,1,0,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Length: DO NOT exceed the left & right margins. Fold a long title into multiple lines if necessary.,'1-2-2-3-2-4-4-2-1,1,1,0,1,0,2,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Capitalization: DO NOT FULLY CAPITALIZE THE TITLE LIKE THIS.,'1-2-2-3-2-4-4-2-2,1,1,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Names of Authors:,'1-2-2-3-2-4-5-1,0,0,0,1,0,2,0,2,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,C
+'Capitalization: AUTHOR NAMES SHOULD NOT INCLUDE FULLY CAPITALIZED PARTS.,'1-2-2-3-2-4-5-2-1,1,1,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Order: First Name First,'1-2-2-3-2-4-5-2-2,0,1,0,1,0,2,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Consistency: Same as registered to the submission page; same spelling style in all accepted papers to avoid generating multiple author index entries for authors with more than one accepted paper,'1-2-2-3-2-4-5-2-3,2,1,0,1,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Page numbers and running headers: DO NOT supply.,'1-2-2-3-2-4-6,0,1,0,1,0,2,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Non-English terms: supply transliteration or translation or both as appropriate as possible.,'1-2-2-3-2-4-7,1,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Font sizes, types, styles and line spacing: as specified in style file.",'1-2-2-3-2-4-8,1,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'Tables, Figures, Equations, Images: make small details clearly visible and add captions to each.",'1-2-2-3-2-4-9,1,1,0,1,0,2,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'References: sort in ascending order of family name of first authors and do not miss required information.,'1-2-2-3-2-4-10,1,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Grammar: check common spelling and grammatical mistakes carefully.,'1-2-2-3-2-4-11,0,1,0,1,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Please see the style file for other details.,'1-2-2-3-2-5-1-1,0,0,0,1,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'Where do I send my final camera-ready paper?,'1-2-2-3-2-5-1-2-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+'You may upload your paper via the START Conference Manager:,'1-2-2-3-2-5-1-2-2-1,1,0,0,1,0,2,0,2,1,2,1,1,0,0,0,0,0,0,1,0,0,0,0,1,C
+'https://www.softconf.com/acl2011/papers/,'1-2-2-3-2-5-1-2-2-2-1,0,0,0,1,0,0,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'https://www.softconf.com/acl2011/shortpapers/,'1-2-2-3-2-5-1-2-2-2-2,0,0,0,1,0,0,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'Please double check that all meta-data (author names, affiliations, paper title, etc) are entered into the system correctly and exactly as they appear on the paper, especially if they contain non-ASCII characters.",'1-2-2-3-2-5-1-2-2-3,2,0,0,1,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,N
+'How should the final copy differ from the original submission?,'1-2-2-3-2-5-1-3-1,1,0,1,1,1,0,0,0,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,3,C
+"'The paper should be improved to address the comments of the reviewers, and in any other way that you see fit. The final version should, of course, not be anonymous:",'1-2-2-3-2-5-1-3-2-1,2,0,0,1,0,0,0,2,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,1,C
+'Include the authors' names and affiliations under the title,'1-2-2-3-2-5-1-3-2-2-1,1,1,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'De-anonymize references to your own work,'1-2-2-3-2-5-1-3-2-2-2,0,1,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Add acknowledgments where appropriate,'1-2-2-3-2-5-1-3-2-2-3,0,1,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'How long can it be?,'1-2-2-3-2-5-1-4-1,0,0,1,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Long papers may consist of up to 9 pages of content and an unlimited number of reference pages, and short papers may consist of up to 5 pages of content and an unlimited number of reference pages.",'1-2-2-3-2-5-1-4-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,0,1,I
+'What is the format for the camera-ready copy?,'1-2-2-3-2-5-1-5-1,0,0,1,1,1,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'The file must be in Portable Document Format (PDF) on US Letter paper (8.5 x 11 inches).,'1-2-2-3-2-5-1-5-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'How do I ensure that my file is correctly formatted?,'1-2-2-3-2-5-1-6-1,1,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,C
+"'Please check the paper size by viewing your document in Acrobat Reader. The bottom of the window should show the size as ""8.5 x 11 in"" or ""US Letter"".",'1-2-2-3-2-5-1-6-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'If your paper uses Asian fonts, please ensure that they are encoded/embedded in the PDF file so that they can be displayed by non-Asian versions of the PDF reader. (Asian versions ship with a larger set of default fonts.) See Adobe's discussion of this issue, which unfortunately does not discuss LaTeX. Suggested diagnostics and solutions are welcomed.",'1-2-2-3-2-5-1-6-2-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'How about copyright?,'1-2-2-3-2-5-1-7-1,0,0,1,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,C
+"'When you submit the paper, you will be asked to sign electronically (via the START Conference Manager) or physically the ACL Copyright Transfer Agreement on behalf of all authors.",'1-2-2-3-2-5-1-7-2-1,2,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+"'Before signing this form, please confirm with your co-authors (and, if applicable, your and their employers) that they authorize you to sign on their behalf.",'1-2-2-3-2-5-1-7-2-2,1,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'What is the official publication date?,'1-2-2-3-2-5-1-8-1,0,0,1,1,1,0,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,0,3,C
+"'Please note that the publications of ACL-HLT 2011 will be publicly available at ACL Anthology (http://aclweb.org/anthology-new/) on June 13th, 2011, one week before the start of the conference. Since some of the authors may have plans to file patents related to their papers in the conference, we are sending this reminder that June 13th, 2011 may be considered to be the official publication date, instead of the opening day of the conference.",'1-2-2-3-2-5-1-8-2,2,0,0,1,0,0,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,0,1,I
+'What if my paper's title or author list has changed?,'1-2-2-3-2-5-1-9-1,1,0,1,1,1,0,0,0,2,2,0,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+"'Then please edit those metadata fields when you upload the camera-ready version, so that they will appear correctly in the table of contents, author index, conference schedule, etc. The program chairs and publication chairs should also be notified of such changes.",'1-2-2-3-2-5-1-9-2,2,0,0,1,0,0,0,0,2,2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,I
+'My question isn't answered here ...,'1-2-2-3-2-5-1-10-1,0,0,1,1,1,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Please email the publications chair Guodong Zhou (gdzhou[at]suda.edu.cn). We will update this page as new issues arise.,'1-2-2-3-2-5-1-10-2,1,0,0,1,0,2,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Original Submission Information,'1-2-2-3-2-5-2-1,0,0,1,2,1,2,0,0,2,2,0,0,1,0,1,0,1,0,0,0,1,0,0,2,C
+'here,'1-2-2-3-2-5-2-2,0,0,0,1,0,0,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,N
+'acl2011.conference@gmail.com   ♦   Oregon Health & Science University,'1-2-3,1,0,0,1,0,2,1,0,2,0,1,1,0,0,0,1,0,1,0,0,1,0,0,3,N

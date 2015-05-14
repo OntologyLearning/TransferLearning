@@ -1,0 +1,288 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Allianz,'1-1-1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
+'Allianz SE,'1-1-2-1-1-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
+'Type,'1-1-2-1-1-3-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
+'Societas Europaea,'1-1-2-1-1-3-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-2-1-1-4-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'FWB: ALV,'1-1-2-1-1-4-2,0,0,0,1,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Industry,'1-1-2-1-1-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Financial services,'1-1-2-1-1-5-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Founded,'1-1-2-1-1-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'1891 (Berlin),'1-1-2-1-1-6-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-2-1-1-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Munich, Germany",'1-1-2-1-1-7-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Area served,'1-1-2-1-1-8-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Worldwide,'1-1-2-1-1-8-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Key people,'1-1-2-1-1-9-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Michael Diekmann,'1-1-2-1-1-9-2-1,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'(CEO),'1-1-2-1-1-9-2-2,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,2,C
+'Helmut Perlet,'1-1-2-1-1-9-2-3-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'(Chairman of the supervisory board),'1-1-2-1-1-9-2-3-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,2,C
+'Maximilian Zimmerer,'1-1-2-1-1-9-2-4,0,0,0,1,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'(CFO),'1-1-2-1-1-9-2-5,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,2,C
+'Products,'1-1-2-1-1-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
+"'Insurance, banking, asset management",'1-1-2-1-1-10-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
+'Revenue,'1-1-2-1-1-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'$115.451 billion (2013),'1-1-2-1-1-11-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operating income,'1-1-2-1-1-12-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'$8.243 billion (2013),'1-1-2-1-1-12-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Profit,'1-1-2-1-1-13-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'$5.053 billion (2013),'1-1-2-1-1-13-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-2-1-1-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'$624.95 billion (end 2013),'1-1-2-1-1-14-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total equity,'1-1-2-1-1-15-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'$46.56 billion (end 2013),'1-1-2-1-1-15-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-2-1-1-16-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'171,340 (end 2013)",'1-1-2-1-1-16-2,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Subsidiaries,'1-1-2-1-1-17-1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Allianz France,'1-1-2-1-1-17-2-1,0,0,0,1,0,2,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,1,I
+'Allianz Global Investors,'1-1-2-1-1-17-2-2-1,0,0,0,1,0,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Allianz Insurance plc,'1-1-2-1-1-17-2-2-2,0,0,0,1,0,2,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Allianz Global Corporate and Speciality,'1-1-2-1-1-17-2-2-3,0,0,0,1,0,2,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Allianz Life,'1-1-2-1-1-17-2-3,0,0,0,1,0,2,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Fireman's Fund,'1-1-2-1-1-17-2-4,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Club Marine,'1-1-2-1-1-17-2-5,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Hunter Premium Funding,'1-1-2-1-1-17-2-6,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Allianz Marine & Transit,'1-1-2-1-1-17-2-7,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Mondial,'1-1-2-1-1-17-2-8,0,0,0,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'PIMCO,'1-1-2-1-1-17-2-9,0,0,0,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Website,'1-1-2-1-1-18-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'www.allianz.com,'1-1-2-1-1-18-2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Allianz (help·info) SE,'1-1-2-1-2-1-1-1-1-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,N
+'multinational financial services Munich insurance Forbes,'1-1-2-1-2-1-1-1-1-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+"'Its Allianz Global Investors division ranks as a top-five global active investment manager, having €1,443 billion of assets under management (AuM), of which €1,131 billion are third-party assets (as of 2010-09-30), with specialized asset managers including PIMCO (bonds), RCM (equities) and Degi (real estate).",'1-1-2-1-2-1-1-1-2-1,2,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,N
+"'Allianz sold Dresdner Bank to Commerzbank in November 2008. As a result of this merger, Allianz gained a 14% controlling stake in the new Commerzbank.",'1-1-2-1-2-1-1-1-2-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Contents,'1-1-2-1-2-1-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+"'1 History 1.1 Foundation
+1.2 20th century developments
+1.3 Allianz in the 21st century",'1-1-2-1-2-1-1-2-1-2-1-1,1,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,1,I
+"'2 Operations 2.1 Australia
+2.2 Belgium
+2.3 Bulgaria
+2.4 Canada
+2.5 Germany
+2.6 India
+2.7 Indonesia
+2.8 Italy
+2.9 Pakistan
+2.10 Slovakia
+2.11 United Kingdom
+2.12 United States",'1-1-2-1-2-1-1-2-1-2-1-2,1,0,0,1,0,2,1,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'3 Senior management,'1-1-2-1-2-1-1-2-1-2-2,0,0,0,1,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'4 Sponsorships,'1-1-2-1-2-1-1-2-1-2-3,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,1,0,0,1,0,0,2,I
+'5 Controversies,'1-1-2-1-2-1-1-2-1-2-4,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'6 See also,'1-1-2-1-2-1-1-2-1-2-5,0,0,0,1,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'7 References,'1-1-2-1-2-1-1-2-1-2-6,0,0,0,1,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'8 External links,'1-1-2-1-2-1-1-2-1-2-7,0,0,0,1,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-2-1-2-1-1-2-2-1-1-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
+'Foundation,'1-1-2-1-2-1-1-2-2-1-1-2,0,0,0,1,1,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+"'Allianz AG was founded in Berlin on 5 February 1890 by then director of the Munich Reinsurance Company Carl von Thieme (a native of Erfurt, whose father was the director of Thuringia) and Wilhelm von Finck (co-owner of the Merck Finck & Co bank). The joint company was listed in Berlin's trade register under the name Allianz Versicherungs-Aktiengesellschaft. The first Allianz products were marine and accident policies first sold only in Germany, however in 1893 Allianz opened its first international branch office in London. It distributed marine insurance coverage to German clientele looking for coverage abroad.",'1-1-2-1-2-1-1-2-2-1-2-1,2,0,0,1,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In 1900 the company became the first insurer to obtain a license to distribute corporate policies. In 1904 Paul Von Naher took over the sole leadership of the company, as it moved into the US and other markets. Markets entered by 1914 included the Netherlands, Italy, Belgium, France, the Scandinavian countries and the Baltic States, and Allianz had become the largest maritime insurer in Germany. The company suffered an early disaster in expansion, when the 1906 San Francisco earthquake caused the company to sustain 300,000 marks in losses. In 1905 the company acquired Fides Insurance Company, a firm that had innovated the first form of home invasion insurance. Other places it would expand into during the 1910s and 1920s included Palestine, Cyprus, Iraq, China, the Dutch Indies, Ceylon, and Siam.",'1-1-2-1-2-1-1-2-2-1-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'20th century developments,'1-1-2-1-2-1-1-2-2-2-1,0,0,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In 1905 the company began to offer fire insurance, and in 1911 it began to sell machinery breakdown policies. Allianz remained the only company in the world that sold machine breakdown insurance until 1924. Then in 1918 it began to offer automobile insurance as well. In 1921 Von Naher passed away, and was succeeded by Kurt Schmitt. The company would begin to offer life insurance as of 1922, becoming Europe's largest offerer of the policies by the end of the 1920s.",'1-1-2-1-2-1-1-2-2-2-2-1,2,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'In 1927 Allianz merged with Stuttgarter Verein Versicherung AG and two years later acquired the insurance businesses of Favag, a large German insurer that declared bankruptcy due to the onset of the Great Depression. Expansion of the company then slowed until 1938 at which point it employed more than 24,000 people. Christian Stadler wrote of the history of Allianz that it ""shows how important it is to diversify into related areas to hedge against the risk of fundamental changes in markets and economies"".",'1-1-2-1-2-1-1-2-2-2-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'During World War II the Munich headquarters of Allianz were destroyed by Allied bombing runs. Following the end of the war in 1945, Hans Heb became head of the company, and Allianz shifted its headquarters to Munich in 1949 due to the split between East and West Germany. Heb only held the position until 1948, when he was replaced by Hans Goudefroy. After World War II, global business activities were gradually resumed. Allianz opened an office in Paris in 1959, and started repurchasing stakes in former subsidiaries in Italy and Austria. In 1971 Wolfgang Schieren became the head of the company.",'1-1-2-1-2-1-1-2-2-2-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'These expansions were followed in the 1970s by the establishment of business in the United Kingdom, the Netherlands, Spain, Brazil and the United States. In 1986, Allianz acquired Cornhill Insurance PLC, London, and the purchase of a stake in Riunione Adriatica di Sicurità (RAS), Milan, strengthened its presence in Western and Southern Europe in the 1980s.",'1-1-2-1-2-1-1-2-2-2-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'In 1990, Allianz started an expansion into eight Eastern European countries with establishing a presence in Hungary. In the same decade, Allianz also acquired Fireman's Fund, an insurer in the United States, which was followed by the purchase of Assurances Générales de France (AGF), Paris. These acquisitions were followed by the expansion into Asia with several joint ventures and acquisitions in China and South Korea and the acquisition of Australia's Manufacturers Mutual Insurance. Around this time Allianz expanded its asset management business as well by purchasing for example asset management companies in California.",'1-1-2-1-2-1-1-2-2-2-2-5,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Allianz in the 21st century,'1-1-2-1-2-1-1-2-2-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In April 2001, Allianz agreed to acquire the 80 per cent of Dresdner Bank that it did not already own for US$20 billion. As part of the transaction, Allianz agreed to sell its 13.5 per cent stake in HypoVereinsbank to Munich Re, and to acquire Munich Re's 40 per cent stake in Allianz Leben. Following completion of the acquisition, Allianz and Dresdner Bank combined their asset management activities by forming Allianz Global Investors. In 2002, Michael Diekmann succeeded Henning Schulte-Noelle as CEO of Allianz AG. In June 2006, Allianz announced the layoff of 7,280 employees, about 4 percent of its worldwide work force at the time, as part of a restructuring program aimed at raising profitability. The reductions comprised 5,000 staff at Allianz insurance operations and 2,480 at Dresdner Bank. In the same month, Allianz announced that its Dresdner Kleinwort Wasserstein investment banking operation would be renamed as simply Dresdner Kleinwort.",'1-1-2-1-2-1-1-2-2-3-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In September 2005, Allianz announced that it would convert its holding company into a European Company (Societas Europaea), becoming one of the first major companies to do so. The conversion was made in conjunction with Allianz's acquisition of 100 per cent control of its principal Italian subsidiary Riunione Adriatica di Sicurtà (RAS) for around US$7 billion. The conversion to an SE was completed on 13 October 2006. The Allianz Group also simplified its brand strategy from 2006 and their previous emblem was replaced by the current combination mark. By 2008 the company was Europe's largest insurer.",'1-1-2-1-2-1-1-2-2-3-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On 31 August 2008, it was announced that Allianz had agreed to sell 60.2 per cent of Dresdner Bank to Commerzbank for €9.8 billion (US$14.4 billion), with an agreement that Commerzbank would acquire the remainder of Dresdner Bank by the end of 2009. After renegotiations, it was announced in November 2008 that Commerzbank would acquire the 100% ownership of Dresdner Bank earlier (12 January 2009). The sale price was lowered to 5.5 billion Euro. Shortly after the transaction completed, Commerzbank was partially nationalized by the German government to save it from bankruptcy. Allianz currently retains a stake of around 14% in Commerzbank.",'1-1-2-1-2-1-1-2-2-3-2-3,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Operations,'1-1-2-1-2-1-1-2-2-4-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
+"'Allianz has operations in over 70 countries and has around 180,000 employees. The parent company, Allianz SE, is headquartered in Munich, Germany. Allianz has more than 76 million customers worldwide and its services include property and casualty insurance, life and health insurance and asset management. In 2013 it was number 25 on the global Forbes 2000 list.",'1-1-2-1-2-1-1-2-2-4-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Australia,'1-1-2-1-2-1-1-2-2-5-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'Tracing its roots back to 1914, Allianz Australia Insurance Limited operates throughout Australia and New Zealand and through its subsidiaries offers a range of insurance and risk management products and services. Subsidiaries of Allianz Australia include Club Marine, Allianz Life and Hunter Premium Funding. In 2012, Allianz Australia announced a multi-year agreement with the SCG Trust to rename the Sydney Football Stadium to Allianz Stadium.",'1-1-2-1-2-1-1-2-2-5-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,1,I
+'Belgium,'1-1-2-1-2-1-1-2-2-6-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Allianz operates through Allianz Belgium, previously AGF Belgium which has been re-branded to Allianz Belgium in November 2007.",'1-1-2-1-2-1-1-2-2-6-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Bulgaria,'1-1-2-1-2-1-1-2-2-7-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Allianz Bank Bulgaria is a universal commercial bank having its headquarters in Sofia. It was established in 1997. On October 13, 2003 the bank received the name of its principal shareholder – Allianz Bulgaria Holding. Before that the bank was named ‘Bulgaria Invest’ Commercial Bank. Allianz Bank Bulgaria offers its products in more than hundred branches and offices all over the country, as well as through the broad agents’ network of Allianz Bulgaria Holding. The bank possesses a full banking license for carrying out banking and financial transactions.",'1-1-2-1-2-1-1-2-2-7-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Canada,'1-1-2-1-2-1-1-2-2-8-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'Allianz entered the Canadian market in the early 1990s through an acquisition of several North American insurers, namely the American Firemans Fund and the Canadian Surety. Upon the market exit the personal and commercial lines unit was sold off to the market leader ING Canada (Now Intact), and Allianz Canada ceased operations in 2004. Its industrial underwriting branch was bought by Allianz US, which has retained the Toronto office.",'1-1-2-1-2-1-1-2-2-8-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Germany,'1-1-2-1-2-1-1-2-2-9-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'Allianz offers a wide range of general, life and health insurance products in Germany through its Allianz Deutschland AG subsidiary. It is the market leader in both the general and life insurance markets. Allianz products are distributed principally through a network of full-time tied agents. Since September 2010 Allianz products have also been sold through Commerzbank branches.",'1-1-2-1-2-1-1-2-2-9-2,2,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'India,'1-1-2-1-2-1-1-2-2-10-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'In India Allianz primarily operates through Bajaj Allianz General Insurance Company Limited, a joint venture between Allianz and Bajaj Finserv Limited. Bajaj Allianz has around 1,200 branches across India and offers services including unit-linked, traditional, health, child and pension policies.",'1-1-2-1-2-1-1-2-2-10-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Indonesia,'1-1-2-1-2-1-1-2-2-11-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Allianz started its operations in Indonesia with a representative office in 1981. In 1989, Allianz established PT Asuransi Allianz Utama Indonesia, a general insurance company. Furthermore, Allianz entered the Indonesian life insurance market by opening PT Asuransi Allianz Life Indonesia in 1996.",'1-1-2-1-2-1-1-2-2-11-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Italy,'1-1-2-1-2-1-1-2-2-12-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,2,C
+'The Allianz Group in Italy is headed by composite insurance company Allianz SpA and it ranks second in terms of premiums written and fifth in terms of assets under management as well as fourth for financial advisors.,'1-1-2-1-2-1-1-2-2-12-2-1,2,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'The Italian parent company, Allianz SpA, resulted from the integration – in October 2007 – of three former insurance companies: Ras, established in 1838 and based in Milan (part of the Allianz Group since 1987), Lloyd Adriatico, established in 1936 and based in Trieste (part of the Allianz Group since 1995) and Allianz Subalpina, established in 1928 and based in Turin (formerly a subsidiary of Ras).",'1-1-2-1-2-1-1-2-2-12-2-2,2,0,0,1,0,2,0,1,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Pakistan,'1-1-2-1-2-1-1-2-2-13-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In Pakistan Allianz primarily operates through EFU Allianz Health Insurance Company Limited, a joint venture between Allianz and Eastern Federal Union.",'1-1-2-1-2-1-1-2-2-13-2,1,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Slovakia,'1-1-2-1-2-1-1-2-2-14-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Allianz started its life and Property & Casualty (P&C) operation in Slovakia in 1993. In 2001 Allianz AG bought the majority ownership in then state-owned Slovenská poisťovňa (SP, Slovak Insurance Company). Upon the purchase SP held a market share of well over 50%. Upon the purchase the local Allianz operation was merged with SP creating a new company Allianz - Slovenská poisťovňa.",'1-1-2-1-2-1-1-2-2-14-2,2,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'United Kingdom,'1-1-2-1-2-1-1-2-2-15-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'Allianz owns British insurance company Cornhill Insurance plc, subsequently renamed Allianz Cornhill Insurance plc. This then simply became Allianz Insurance plc in April 2007. It also owns the high-net-worth insurance broker Home and Legacy, which it purchased in 2006. Their IT captive unit in India ACIS is located at Technopark, Trivandrum in Kerala. Allianz previously owned Kleinwort Benson, which it inherited when it acquired Dresdner Bank. The investment bank has subsequently been merged with the corporate bank of Dresdner Bank and rebranded as Dresdner Kleinwort.",'1-1-2-1-2-1-1-2-2-15-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'United States,'1-1-2-1-2-1-1-2-2-16-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,C
+"'Allianz has a presence within the United States, including Allianz Life Insurance Company of North America and Allianz Global Corporate & Specialty and Fireman's Fund. Allianz Life Insurance Company of North America has been ranked among the 100 best companies to work for by Fortune Magazine. Allianz's investment arm, Allianz Global Investors (AGI), owns Pacific Investment Management Company, commonly called PIMCO, on the fixed income side, and RCM Capital Management and NFJ on the equities side.",'1-1-2-1-2-1-1-2-2-16-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Senior management,'1-1-2-1-2-1-1-2-2-17-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'CEOs to date:,'1-1-2-1-2-1-1-2-2-17-2-1,0,0,0,1,0,2,0,2,1,2,0,1,0,0,0,0,0,0,1,1,1,1,1,C
+'2003 — Present : Michael Diekmann,'1-1-2-1-2-1-1-2-2-17-2-2-1,0,1,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'1991 — 2003: Henning Schulte-Noelle,'1-1-2-1-2-1-1-2-2-17-2-2-2,0,1,0,1,0,2,1,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sponsorships,'1-1-2-1-2-1-1-2-2-18-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+"'Allianz provided naming rights for the Allianz Arena, a football stadium in the north of Munich, Germany. The two professional Munich football clubs Bayern Munich and TSV 1860 München have played their home games at Allianz Arena since the start of the 2005–06 season. Other stadiums owned by Allianz include the Allianz Parque soccer stadium in Sao Paulo, Brazil, the Allianz Riviera soccer stadium in Nice, France and the Allianz Park rugby stadium in London, UK.",'1-1-2-1-2-1-1-2-2-18-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Allianz had been in negotiations with the New York Jets and the Giants to buy naming rights to the New Meadowlands Stadium (now known as MetLife Stadium) in East Rutherford, New Jersey, but those talks ended due to opposition from Jewish groups and Holocaust survivors.",'1-1-2-1-2-1-1-2-2-18-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Allianz owned the Polish football team Gornik Zabrze but sold its shares in the club in April 2011. Allianz has been involved in Formula One since 2000, firstly as a sponsor of the AT&T WilliamsF1 Team, and since 2011 as a sponsor of the Mercedes GP Petronas team. In 2009 Allianz signed an agreement to become the Global Partner of the St. Andrews Links Trust. In early 2012, Allianz entered an agreement with the Sydney Cricket & Sports Ground Trust which oversaw the Sydney Football Stadium being renamed Allianz Stadium. 2012 also saw Allianz partner up with Saracens to be their main shirt sponsor as well as securing an £8m deal for naming rights to their new Barnet Copthall home to be called Allianz Park.",'1-1-2-1-2-1-1-2-2-18-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'The company has also been the sponsor of others sports, including the Women’s British Open (golf), Allianz Open de Lyon (golf), Allianz Championship (golf), Allianz Golf Open du Grand Toulouse (golf), Allianz Suisse Open Gstaad (tennis), Allianz Cup (tennis), Allianz Championship (golf), and FINA Swimming World Cup (swimming) events. The National Football League of Ireland is named the Allianz National Football League for its sponsorship.",'1-1-2-1-2-1-1-2-2-18-2-4,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Controversies,'1-1-2-1-2-1-1-2-2-19-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In 1993 Henning Schulte-Noelle commissioned a new Archive for Corporate History, becoming the first Allianz CEO to address the company's activities during the Third Reich. In 1997 Schulte-Noelle asked Gerald Feldman, historian from the University of California-Berkeley, if he would undertake a larger research project on Allianz's past involvement with the Third Reich. After research began, Jewish World War II survivors and their descendants took Allianz and other European insurance companies to court, accusing them of unpaid insurance policies. Allianz and four other insurers supported the creation of the ""International Commission on Holocaust Era Insurance Claims"" (ICHEIC).",'1-1-2-1-2-1-1-2-2-19-2-1,2,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'Furthermore, Allianz became a founding member of the German Foundation ""Remembrance, Responsibility and Future"". Feldman published the comprehensive results of his research in September 2001. Based on these results Allianz established an exhibition in the Archive for Corporate History and on the Internet. The research concluded that Allianz, as an organization and through its corporate officers, voluntarily partnered with the Nazi Regime and the Third Reich, starting as early as the early 1930s and continuing all the way through to the collapse of the Third Reich.",'1-1-2-1-2-1-1-2-2-19-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Feldman summarized his findings stating: ""It was just one more piece of business in the Third Reich, but it demonstrated that such pieces on any large scale made contact at some point with all that is represented by the name ""Auschwitz"" – from slave labor to extermination – virtually inescapable."" They were recorded in a book published by Cambridge University Press.",'1-1-2-1-2-1-1-2-2-19-2-3,2,0,0,1,0,0,1,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'See also,'1-1-2-1-2-1-1-2-2-20-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'European Financial Services Roundtable,'1-1-2-1-2-1-1-2-2-20-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,1,I
+'The Geneva Association,'1-1-2-1-2-1-1-2-2-20-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'External links,'1-1-2-1-2-1-1-2-2-21,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'An early Allianz agent's plaque.,'1-1-2-1-2-1-2-1-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+"'The original Allianz logo, designed in 1923 by Karl Schulpig.",'1-1-2-1-2-1-2-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Allianz's current head office is located in Munich.,'1-1-2-1-2-1-2-3-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Countries in which Allianz currently has operations.,'1-1-2-1-2-1-2-4-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,3,N
+"'The Allianz complex in Alt-Treptow, Berlin",'1-1-2-1-2-1-2-5-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'The headquarters of Allianz - Slovenská poisťovňa in Bratislava,'1-1-2-1-2-1-2-6-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,3,N
+"'The Allianz Arena in Munich, Germany.",'1-1-2-1-2-1-2-7-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,3,N
+'Allianz has been a key sponsor of Formula One since 2000.,'1-1-2-1-2-1-2-7-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'The former Allianz Head Office in Berlin.,'1-1-2-1-2-1-2-8-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Bavaria portal,'1-1-2-1-2-1-3-1-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Companies portal,'1-1-2-1-2-1-3-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Wikimedia Commons has media related to Allianz.,'1-1-2-1-2-2-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Official website,'1-1-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,1,0,0,0,0,1,0,0,3,N
+'Allianz Reiseversicherung,'1-1-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Euro Stoxx 50 companies of Europe,'1-1-2-2-1-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,3,C
+'Air Liquide,'1-1-2-2-1-1-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Allianz,'1-1-2-2-1-1-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Anheuser-Busch InBev ArcelorMittal ASML Holding AXA Banco Santander BASF Bayer BMW BBVA BNP Paribas Carrefour CRH Daimler Danone Deutsche Bank Deutsche Telekom E.ON Enel Essilor GDF Suez Generali Iberdrola Inditex Intesa Sanpaolo L'Oréal LVMH Munich Re Nokia Orange Philips Repsol RWE Saint-Gobain Sanofi SAP Schneider Electric Siemens Société Générale Telefónica Total Unibail-Rodamco UniCredit Unilever Vinci Vivendi Volkswagen,'1-1-2-2-1-1-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'DAX companies of Germany,'1-1-2-2-1-2-1-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
+'Adidas,'1-1-2-2-1-2-1-2-1-1,0,0,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Allianz,'1-1-2-2-1-2-1-2-1-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'BASF Bayer Beiersdorf BMW Commerzbank Continental Daimler Deutsche Bank Deutsche Börse Deutsche Post Deutsche Telekom E.ON Fresenius Fresenius Medical Care HeidelbergCement Henkel Infineon Technologies K+S Linde Lanxess Lufthansa Merck Munich Re RWE SAP Siemens ThyssenKrupp Volkswagen,'1-1-2-2-1-2-1-2-1-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'(24. September 2012),'1-1-2-2-1-2-1-2-2,0,0,0,1,0,2,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,2,N
+'Present International Credit Insurance & Surety Association (ICISA) Members,'1-1-2-2-1-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,3,C
+'ACE USA (United States),'1-1-2-2-1-2-2-2-1,0,1,0,1,0,2,1,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,1,I
+'Afianzadora Latinoamericana (Argentina),'1-1-2-2-1-2-2-2-2,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Arch Re Europe (Ireland),'1-1-2-2-1-2-2-2-3,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Argo Surety (United States),'1-1-2-2-1-2-2-2-4,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Askrindo (Indonesia),'1-1-2-2-1-2-2-2-5,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Aspen Re Europe (Switzerland),'1-1-2-2-1-2-2-2-6,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Atradius (Netherlands),'1-1-2-2-1-2-2-2-7,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'AXA Assurcredit (France),'1-1-2-2-1-2-2-2-8,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'AXA-Winterthur (Switzerland),'1-1-2-2-1-2-2-2-9,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'AXIS Re (Ireland),'1-1-2-2-1-2-2-2-10,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Catlin Re (Switzerland,'1-1-2-2-1-2-2-2-11,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'CESCE (Spain),'1-1-2-2-1-2-2-2-12,0,1,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'China National Investment & Guaranty Company (China),'1-1-2-2-1-2-2-2-13-1,0,1,0,1,0,2,1,0,1,1,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'Chubb (United States),'1-1-2-2-1-2-2-2-13-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'CLAL (Israel),'1-1-2-2-1-2-2-2-14,0,1,0,1,0,2,1,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Coface (France),'1-1-2-2-1-2-2-2-15,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'COSEC (Portugal),'1-1-2-2-1-2-2-2-16,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'CGIC (South Africa),'1-1-2-2-1-2-2-2-17,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Credimundi (ex-Ducroire/Delcredere) (Belgium),'1-1-2-2-1-2-2-2-18,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'ECICS (Singapore),'1-1-2-2-1-2-2-2-19,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Endurance (Switzerland),'1-1-2-2-1-2-2-2-20,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Euler Hermes (France),'1-1-2-2-1-2-2-2-21,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Fianzas Atlas (Mexico),'1-1-2-2-1-2-2-2-22,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Garant (Austria),'1-1-2-2-1-2-2-2-23,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'GCNA (Canada),'1-1-2-2-1-2-2-2-24,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Groupama (France),'1-1-2-2-1-2-2-2-25,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Hannover Re (worldwide),'1-1-2-2-1-2-2-2-26,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'HCC International (UK),'1-1-2-2-1-2-2-2-27,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'ICIC (Israel),'1-1-2-2-1-2-2-2-28,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Lombard Insurance Company (South Africa),'1-1-2-2-1-2-2-2-29,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'Mitsui Sumitomo (Japan),'1-1-2-2-1-2-2-2-30,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Munich Re (worldwide),'1-1-2-2-1-2-2-2-31,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Nationale Borg (Netherlands),'1-1-2-2-1-2-2-2-32,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Novae Group plc (UK),'1-1-2-2-1-2-2-2-33,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Partner Re (worldwide),'1-1-2-2-1-2-2-2-34,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'PICC (China),'1-1-2-2-1-2-2-2-35,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Ping An P&C (China),'1-1-2-2-1-2-2-2-36,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Prisma (Austria),'1-1-2-2-1-2-2-2-37,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'QBE Insurance (Australia),'1-1-2-2-1-2-2-2-38,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'R+V Re (Germany),'1-1-2-2-1-2-2-2-39,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'SACE BT (Italy),'1-1-2-2-1-2-2-2-40,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'SCOR Global P&C SE (worldwide),'1-1-2-2-1-2-2-2-41,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Seoul Guarantee Insurance Company (Korea),'1-1-2-2-1-2-2-2-42,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'SID First Credit (Slovenia),'1-1-2-2-1-2-2-2-43,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Sompo Japan (Japan),'1-1-2-2-1-2-2-2-44,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Swiss Re (worldwide),'1-1-2-2-1-2-2-2-45,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Tokio Marine & Nichido Fire (Japan),'1-1-2-2-1-2-2-2-46,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Tryg Garanti (Denmark),'1-1-2-2-1-2-2-2-47,0,1,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Zurich Insurance Group (Zurich Insurance plc, Niederlassung für Deutschland (Germany), Zurich North America (USA), Zurich Global Corporate, Surety (UK))",'1-1-2-2-1-2-2-2-48,1,1,0,1,0,2,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0,2,I
+'Major insurance and reinsurance companies,'1-1-2-2-1-3-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,I
+'Insurance,'1-1-2-2-1-3-2-1-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'Composite,'1-1-2-2-1-3-2-1-1-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Aegon Ageas AIG,'1-1-2-2-1-3-2-1-1-2-1-2-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Allianz,'1-1-2-2-1-3-2-1-1-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Allstate,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Aon,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Aviva,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'AXA,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'China Pacific Insurance,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
+'China Taiping,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-6,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Generali,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-7,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'ING,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-8,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'National Mutual Insurance Federation of Agricultural Cooperatives,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-9,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'Ping An Insurance,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-10,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'Prudential plc,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-11,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'PZU,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-12,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'State Farm Insurance,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-13,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
+'The Hartford,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-14,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'UnipolSai,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-15,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Vienna Insurance Group,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-16,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
+'Zurich Insurance Group,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-17-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'Farmers Insurance Group,'1-1-2-2-1-3-2-1-1-2-1-2-2-2-17-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
+'General insurance,'1-1-2-2-1-3-2-1-1-2-2-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'BB Seguridade,'1-1-2-2-1-3-2-1-1-2-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Berkshire Hathaway,'1-1-2-2-1-3-2-1-1-2-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BNP Paribas,'1-1-2-2-1-3-2-1-1-2-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Bradesco Seguros,'1-1-2-2-1-3-2-1-1-2-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'CNP Assurances,'1-1-2-2-1-3-2-1-1-2-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Hyundai Marine & Fire Insurance,'1-1-2-2-1-3-2-1-1-2-2-2-6,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'If P&C Insurance,'1-1-2-2-1-3-2-1-1-2-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Insurance Australia Group,'1-1-2-2-1-3-2-1-1-2-2-2-8,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
+'Liberty Mutual,'1-1-2-2-1-3-2-1-1-2-2-2-9,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Mapfre,'1-1-2-2-1-3-2-1-1-2-2-2-10,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Mitsui Sumitomo Insurance Group,'1-1-2-2-1-3-2-1-1-2-2-2-11,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'PICC,'1-1-2-2-1-3-2-1-1-2-2-2-12,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'QBE Insurance,'1-1-2-2-1-3-2-1-1-2-2-2-13,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'RSA Insurance Group,'1-1-2-2-1-3-2-1-1-2-2-2-14,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Samsung Fire & Marine Insurance,'1-1-2-2-1-3-2-1-1-2-2-2-15,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
+'Sompo Japan,'1-1-2-2-1-3-2-1-1-2-2-2-16,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Tokio Marine,'1-1-2-2-1-3-2-1-1-2-2-2-17,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Travelers,'1-1-2-2-1-3-2-1-1-2-2-2-18,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'UIIC India,'1-1-2-2-1-3-2-1-1-2-2-2-19,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'XL Group,'1-1-2-2-1-3-2-1-1-2-2-2-20,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Life insurance,'1-1-2-2-1-3-2-1-1-2-3-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'AIA,'1-1-2-2-1-3-2-1-1-2-3-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Bupa,'1-1-2-2-1-3-2-1-1-2-3-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'China Life,'1-1-2-2-1-3-2-1-1-2-3-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Dai-ichi Life,'1-1-2-2-1-3-2-1-1-2-3-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Great Eastern,'1-1-2-2-1-3-2-1-1-2-3-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Jackson,'1-1-2-2-1-3-2-1-1-2-3-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Legal & General,'1-1-2-2-1-3-2-1-1-2-3-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'LIC India,'1-1-2-2-1-3-2-1-1-2-3-2-8,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Lincoln,'1-1-2-2-1-3-2-1-1-2-3-2-9,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Manulife Financial,'1-1-2-2-1-3-2-1-1-2-3-2-10,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Meiji Yasuda Life,'1-1-2-2-1-3-2-1-1-2-3-2-11,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'MetLife,'1-1-2-2-1-3-2-1-1-2-3-2-12,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'New York Life,'1-1-2-2-1-3-2-1-1-2-3-2-13,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Nippon Life,'1-1-2-2-1-3-2-1-1-2-3-2-14,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Northwestern Mutual,'1-1-2-2-1-3-2-1-1-2-3-2-15,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Old Mutual,'1-1-2-2-1-3-2-1-1-2-3-2-16,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Phoenix Group,'1-1-2-2-1-3-2-1-1-2-3-2-17,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Prudential Financial,'1-1-2-2-1-3-2-1-1-2-3-2-18,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Samsung Life,'1-1-2-2-1-3-2-1-1-2-3-2-19,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Scottish Widows,'1-1-2-2-1-3-2-1-1-2-3-2-20,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Standard Life,'1-1-2-2-1-3-2-1-1-2-3-2-21,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sumitomo Life,'1-1-2-2-1-3-2-1-1-2-3-2-22,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Sun Life,'1-1-2-2-1-3-2-1-1-2-3-2-23,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Swiss Life,'1-1-2-2-1-3-2-1-1-2-3-2-24,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Taikang Life,'1-1-2-2-1-3-2-1-1-2-3-2-25,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Reinsurance,'1-1-2-2-1-3-2-1-2-1,0,0,0,1,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Gen Re,'1-1-2-2-1-3-2-1-2-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Hannover Re,'1-1-2-2-1-3-2-1-2-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
+'Lloyd's of London,'1-1-2-2-1-3-2-1-2-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Munich Re,'1-1-2-2-1-3-2-1-2-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Reinsurance Group of America,'1-1-2-2-1-3-2-1-2-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,C
+'Scor,'1-1-2-2-1-3-2-1-2-2-6,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,1,I
+'Swiss Re,'1-1-2-2-1-3-2-1-2-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'XL Group,'1-1-2-2-1-3-2-1-2-2-8,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Methodology: Applicable FY2010/11 revenues of over US$3 billion,'1-1-2-2-1-3-2-2,0,0,0,1,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Coordinates: 48°09′16″N 11°35′20″E﻿ / ﻿48.15444°N 11.58889°E﻿ / 48.15444; 11.58889,'1-1-2-2-2,0,0,0,0,1,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N

@@ -1,40 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
-'acm,'1-1-1-1-2-1,0,0,0,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,C
-'Knowledge Discovery from Data,'1-1-1-1-2-2,0,0,0,2,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-'Subscribe to TKDD,'1-1-1-2,0,0,0,1,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Subscriptions,'1-1-2-2-1-1,0,0,0,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'The price for submission will be made available as soon as the journal is in production.  You can subscribe the journal by:,'1-1-2-2-1-2-1,1,0,0,1,0,0,0,2,0,2,0,1,0,0,0,0,0,0,1,0,0,0,1,C
-'the web,'1-1-2-2-1-2-2-1,0,0,0,1,0,0,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-"'calling 1-800-342-6626 (outside the U.S., 1-212-626-0500), or",'1-1-2-2-1-2-2-2,0,0,0,1,0,0,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'sending e-mail to,'1-1-2-2-1-2-2-3-1-1,0,0,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'acmhelp@acm.org (or,'1-1-2-2-1-2-2-3-1-2,0,0,0,0,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'acm_europe@acm.org,'1-1-2-2-1-2-2-3-2,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Acquiring Individual Articles,'1-1-2-2-2-1,0,0,0,2,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'All past articles published in ACM TKDD are available through the ACM Portal (TKDD gateway) and the ACM Article Delivery Service.,'1-1-2-2-2-2,1,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Single Copies of Issues,'1-1-2-2-3-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'Single copies are $18 each to ACM members and $40 to nonmembers. For credit card orders (MasterCard, VISA, American Express) in the US and Canada, call toll tree 1-800-342-6626. From New York or outside the US and Canada: 212-626-0500.",'1-1-2-2-3-2-1,2,0,0,1,0,2,0,1,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
-"'Alternatively, in North America, please send your order to one of the following addresses.",'1-1-2-2-3-2-2,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,C
-'Postal mail:,'1-1-2-2-3-2-3,0,0,0,1,0,2,0,2,1,2,1,0,1,1,0,0,0,0,0,0,0,0,1,I
-"'ACM Order Department
-RO. Box 12114
-Church Street Station
-New York, NY 10257",'1-1-2-2-3-2-4,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Fax: 212-944-1318 
-E-mail: acmhelp@acm.org",'1-1-2-2-3-2-5,0,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'In Europe you may use one of the following contact addresses.,'1-1-2-2-3-2-6,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,C
-'Postal mail:,'1-1-2-2-3-2-7,0,0,0,1,0,2,0,2,1,2,1,0,1,1,0,0,0,0,0,0,0,0,1,I
-"'ACM European Member Service Center
-Avenue Marcel Third 204
-1200 Brussels
-Belgium",'1-1-2-2-3-2-8,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,1,0,1,0,0,0,2,I
-"'Phone: 32 2 774 9602
-Fax: 32 2 774 9690
-Email: acm_europe@acm.org",'1-1-2-2-3-2-9,1,0,0,1,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'You may subscribe to ACM TKDD or obtain copies of individual issues or back volumes.,'1-1-2-2-3-2-10,1,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,1,1,0,0,0,2,N
-'Address Changes and Requests for Membership Applications and Information,'1-1-2-2-4-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-'Notices of address changes and requests for membership applications and subscription information should be sent to the following address.,'1-1-2-2-4-2-1,1,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,N
-"'ACM
-1515 Broadway
-New York, NY 10036",'1-1-2-2-4-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,3,I
-"'Allow 6-8 weeks for change of name and address or new membership to become effective. Send old label with new address notification.  To avoid interruption of service, notify your local post office before change of residence; for a fee, the post office will forward second and third class periodicals.",'1-1-2-2-4-2-3,2,0,0,1,0,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,N
-'Email questions and comments to tkdd@acm.org,'1-2,0,0,1,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,N

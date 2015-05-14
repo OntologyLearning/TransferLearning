@@ -1,0 +1,1104 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
+'AT&T,'1-1-1-1-1-1,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,C
+"'This article is about the company known as AT&T since 2005. For the original AT&T (American Telephone & Telegraph) founded in 1885, see AT&T Corporation. For other uses, see AT&T (disambiguation).",'1-1-1-1-1-2-1-1-1,2,0,0,0,0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,N
+'AT&T Inc.,'1-1-1-1-1-2-1-1-2-1,0,0,0,0,0,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,3,N
+'Type,'1-1-1-1-1-2-1-1-2-3-1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
+'Public,'1-1-1-1-1-2-1-1-2-3-2,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Traded as,'1-1-1-1-1-2-1-1-2-4-1,0,0,0,0,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'NYSE,'1-1-1-1-1-2-1-1-2-4-2-1,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Dow Jones Industrial Average Component,'1-1-1-1-1-2-1-1-2-4-2-2-1,0,0,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'S&P 500 Component,'1-1-1-1-1-2-1-1-2-4-2-2-2,0,0,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Industry,'1-1-1-1-1-2-1-1-2-5-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'Telecommunications,'1-1-1-1-1-2-1-1-2-5-2,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Predecessor(s),'1-1-1-1-1-2-1-1-2-6-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'American Telephone and Telegraph Company,'1-1-1-1-1-2-1-1-2-6-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Founded,'1-1-1-1-1-2-1-1-2-7-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'October 5, 1983 (1983-10-05)",'1-1-1-1-1-2-1-1-2-7-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,I
+'Founder(s),'1-1-1-1-1-2-1-1-2-8-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Alexander Graham Bell,'1-1-1-1-1-2-1-1-2-8-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Headquarters,'1-1-1-1-1-2-1-1-2-9-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Whitacre Tower, Downtown,
+Dallas, Texas, United States",'1-1-1-1-1-2-1-1-2-9-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Key people,'1-1-1-1-1-2-1-1-2-10-1,0,0,0,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Randall Stephenson,'1-1-1-1-1-2-1-1-2-10-2-1,0,0,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'(Chairman & CEO),'1-1-1-1-1-2-1-1-2-10-2-2,0,0,0,0,0,2,0,0,0,2,0,0,0,1,0,0,1,0,1,1,0,0,2,I
+'Products,'1-1-1-1-1-2-1-1-2-11-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'Fixed line and mobile telephony, broadband and fixed-line internet services, digital television",'1-1-1-1-1-2-1-1-2-11-2,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'Revenue,'1-1-1-1-1-2-1-1-2-12-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 128.752 billion (2013),'1-1-1-1-1-2-1-1-2-12-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Operating income,'1-1-1-1-1-2-1-1-2-13-1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 030.479 billion (2013),'1-1-1-1-1-2-1-1-2-13-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Net income,'1-1-1-1-1-2-1-1-2-14-1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'US$ 018.249 billion (2013),'1-1-1-1-1-2-1-1-2-14-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Total assets,'1-1-1-1-1-2-1-1-2-15-1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'US$ 277.787 billion (2013),'1-1-1-1-1-2-1-1-2-15-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Employees,'1-1-1-1-1-2-1-1-2-16-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+"'246,740 (2013)",'1-1-1-1-1-2-1-1-2-16-2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Subsidiaries,'1-1-1-1-1-2-1-1-2-17-1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'AT&T Corporation,'1-1-1-1-1-2-1-1-2-17-2-1,0,0,0,0,0,2,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'AT&T Mobility,'1-1-1-1-1-2-1-1-2-17-2-2,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BellSouth,'1-1-1-1-1-2-1-1-2-17-2-3,0,0,0,0,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Southwestern Bell,'1-1-1-1-1-2-1-1-2-17-2-4,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Teleholdings,'1-1-1-1-1-2-1-1-2-17-2-5,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Aio Wireless,'1-1-1-1-1-2-1-1-2-17-2-6,0,0,0,0,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Website,'1-1-1-1-1-2-1-1-2-18-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
+'ATT.com,'1-1-1-1-1-2-1-1-2-18-2,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+"'References: for DJIA listing, http://www.marketwatch.com/investing/index/djia",'1-1-1-1-1-2-1-1-2-19,0,0,0,0,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'AT&T Inc. (stylized as at&t) is an American multinational telecommunications corporation, headquartered at Whitacre Tower in downtown Dallas, Texas. AT&T is the second largest provider of mobile telephony and the largest provider of fixed telephony in the United States, and also provides broadband subscription television services. AT&T is the third-largest company in Texas (the largest non-oil company, behind only ExxonMobil and ConocoPhillips, and also the largest Dallas company). As of May 2013, AT&T is the 21st largest company in the world by market value, and the 13th largest non-oil company. As of 2014, it is also the 20th largest mobile telecom operator in the world, with over 250 million mobile customers.",'1-1-1-1-1-2-1-2-1-1-1,2,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,N
+"'The current iteration of AT&T Inc. began its existence as Southwestern Bell Corporation, one of seven Regional Bell Operating Companies (RBOC's) created in 1983 in the divestiture of parent company American Telephone and Telegraph Company (founded 1885, later AT&T Corp.) due to the United States v. AT&T antitrust lawsuit. Southwestern Bell changed its name to SBC Communications Inc. in 1995. In 2005, SBC purchased former parent AT&T Corp. and took on its branding, with the merged entity naming itself AT&T Inc. and using the iconic AT&T Corp. logo and stock-trading symbol.",'1-1-1-1-1-2-1-2-1-1-2,2,0,0,0,0,2,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
+"'The current AT&T reconstitutes much of the former Bell System and includes ten of the original 22 Bell Operating Companies, along with one it partially owned (Southern New England Telephone), and the original long distance division.",'1-1-1-1-1-2-1-2-1-1-3,2,0,0,0,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Contents,'1-1-1-1-1-2-1-2-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'1 History,'1-1-1-1-1-2-1-2-1-2-1-2-1,0,0,0,0,0,1,1,0,0,2,1,0,1,0,0,0,1,0,0,1,0,0,1,I
+"'2 Political contributions and lobbying 2.1 American Legislative Exchange Council
+2.2 Legislation",'1-1-1-1-1-2-1-2-1-2-1-2-2,1,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'3 Landline operating companies 3.1 Former operating companies
+3.2 Future of rural landlines",'1-1-1-1-1-2-1-2-1-2-1-2-3,1,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'4 Corporate structure,'1-1-1-1-1-2-1-2-1-2-1-2-4,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'5 Corporate governance,'1-1-1-1-1-2-1-2-1-2-1-2-5,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+"'6 Criticism and controversies 6.1 Hemisphere database
+6.2 Censorship
+6.3 Privacy controversy
+6.4 Intellectual property filtering
+6.5 Discrimination against local Public-access television channels
+6.6 Information security
+6.7 Accusations of enabling fraud",'1-1-1-1-1-2-1-2-1-2-1-2-6,1,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'7 Naming rights and sponsorships 7.1 Buildings
+7.2 Venues
+7.3 Sponsorships
+7.4 Miscellaneous",'1-1-1-1-1-2-1-2-1-2-1-2-7,1,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'8 Global presence,'1-1-1-1-1-2-1-2-1-2-1-2-8,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'9 Enterprise SIP Trunking Services,'1-1-1-1-1-2-1-2-1-2-1-2-9,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'10 Alliances,'1-1-1-1-1-2-1-2-1-2-1-2-10,0,0,0,0,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'11 See also,'1-1-1-1-1-2-1-2-1-2-1-2-11,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'12 References,'1-1-1-1-1-2-1-2-1-2-1-2-12,0,0,0,0,0,1,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'13 External links,'1-1-1-1-1-2-1-2-1-2-1-2-13,0,0,0,0,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'History,'1-1-1-1-1-2-1-2-1-2-2-1-1,0,0,0,0,1,1,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+'Main article: History of AT&T,'1-1-1-1-1-2-1-2-1-2-2-1-2-1,0,0,0,0,0,2,1,1,0,2,1,0,1,0,0,0,1,0,0,0,0,0,1,I
+"'AT&T can indirectly trace its origin back to the original Bell Telephone Company founded by Alexander Graham Bell after his invention of the telephone. One of that company's subsidiaries was American Telephone and Telegraph Company (AT&T), established in 1885, which acquired the Bell Company on December 31, 1899 for legal reasons, leaving AT&T as the main company. AT&T established a network of subsidiaries in the United States that held a government-authorized phone service monopoly, formalized with the Kingsbury Commitment, throughout most of the twentieth century. This monopoly was known as the Bell System, and during this period, AT&T was also known by the nickname Ma Bell. For periods of time, the former AT&T was the world's largest phone company.",'1-1-1-1-1-2-1-2-1-2-2-1-2-2,2,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 1984, US regulators broke up the AT&T monopoly, requiring AT&T to divest its regional subsidiaries and turning them each into individual companies. These new companies were known as Regional Bell Operating Companies, or more informally, Baby Bells. AT&T continued to operate long distance services, but thanks to the breakup, faced competition from new competitors such as MCI and Sprint.",'1-1-1-1-1-2-1-2-1-2-2-1-2-3,2,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'Southwestern Bell was one of the companies created by the breakup of AT&T. It wasn't long before the company started a series of acquisitions. This includes the 1987 acquisition of Metromedia mobile business, and the acquisition of several cable companies in the early 1990s. In the later half of the 1990s, the company acquired several other telecommunications companies, including some baby bells, while selling its cable business. During this time, the company changed its name to SBC Communications. By 1998, the company was in the top 15 of the Fortune 500, and by 1999 the company was part of the Dow Jones Industrial Average.",'1-1-1-1-1-2-1-2-1-2-2-1-2-4,2,0,0,0,0,0,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+"'In 2005, SBC purchased AT&T for $16 billion. After this purchase, SBC adopted the AT&T name and brand. The original 1885 AT&T still exists as the long-distance phone subsidiary of this company. Today, the current AT&T owns 11 of the original 24 Bell System companies.",'1-1-1-1-1-2-1-2-1-2-2-1-2-5,2,0,0,0,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In 2013, the Spanish Government would have dampened a friendly takeover attempt of AT&T on Telefónica, valued in 122,000 million euros. Such an impediment would be justified in the strategic nature of the company and AT&T would have taken a step backward.",'1-1-1-1-1-2-1-2-1-2-2-1-2-6,2,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T today is the seventh-largest company in the United States and the 14th largest in the world. It provides landline phone service, long-distance, mobile phone service and cable television service.",'1-1-1-1-1-2-1-2-1-2-2-1-2-7,2,0,0,0,0,0,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'In September 2013, AT&T announced it would expand into Latin America through a collaboration with Carlos Slim’s America Movil.",'1-1-1-1-1-2-1-2-1-2-2-1-2-8,1,0,0,0,0,2,1,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On December 17, 2013, AT&T announced plans to sell its Connecticut wireline operations to Stamford-based Frontier Communications. Roughly 2,700 wireline employees supporting AT&T’s operations in Connecticut will transfer with the business to Frontier, as well as 900,000 voice connections, 415,000 broadband connections, and 180,000 U-verse video subscribers.",'1-1-1-1-1-2-1-2-1-2-2-1-2-9,2,0,0,0,0,2,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Political contributions and lobbying,'1-1-1-1-1-2-1-2-1-2-2-2-1,0,0,0,0,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'According to the Center for Responsive Politics, AT&T is the second largest donor to United States political campaigns, and the top American corporate donor, having contributed more than US$47.7 million since 1990, 56% and 44% of which went to Republican and Democratic recipients, respectively. Also, during the period of 1998 to 2010, the company expended US$130 million on lobbying in the United States. A key political issue for AT&T has been the question of which businesses win the right to profit by providing broadband internet access in the United States.",'1-1-1-1-1-2-1-2-1-2-2-2-2-1,2,0,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In 2005, AT&T was among 53 entities that contributed the maximum of $250,000 to the second inauguration of President George W. Bush.",'1-1-1-1-1-2-1-2-1-2-2-2-2-2,1,0,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'American Legislative Exchange Council,'1-1-1-1-1-2-1-2-1-2-2-3-1,0,0,0,0,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'Bill Leahy, representing AT&T, sits on the Private Enterprise Board of the American Legislative Exchange Council (ALEC).",'1-1-1-1-1-2-1-2-1-2-2-3-2,1,0,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Legislation,'1-1-1-1-1-2-1-2-1-2-2-4-1,0,0,0,0,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'AT&T supported the Federal Communications Commission Process Reform Act of 2013 (H.R. 3675; 113th Congress), a bill that would make a number of changes to procedures that the Federal Communications Commission (FCC) follows in its rulemaking processes. The FCC would have to act in a more transparent way as a result of this bill, forced to accept public input about regulations. Executive Vice President - Federal Relations Tim McKone said that the bill's ""much needed institutional reforms will help arm the agency with the tools to keep pace with the Internet speed of today's marketplace. It will also ensure that outmoded regulatory practices for today's competitive marketplace are properly placed in the dustbin of history.""",'1-1-1-1-1-2-1-2-1-2-2-4-2,2,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Landline operating companies,'1-1-1-1-1-2-1-2-1-2-2-5-1,0,0,0,0,1,2,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+"'Of the twenty-four companies that were part of the Bell System, eleven are a part of the current AT&T:",'1-1-1-1-1-2-1-2-1-2-2-5-2-1,1,0,0,0,0,2,1,2,0,2,0,1,0,0,0,0,0,0,1,0,1,1,1,C
+'BellSouth Telecommunications (formerly known as Southern Bell; includes former South Central Bell),'1-1-1-1-1-2-1-2-1-2-2-5-2-2-1,1,1,0,0,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Illinois Bell,'1-1-1-1-1-2-1-2-1-2-2-5-2-2-2,0,0,0,0,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Indiana Bell,'1-1-1-1-1-2-1-2-1-2-2-5-2-2-3,0,0,0,0,0,2,1,0,0,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Michigan Bell,'1-1-1-1-1-2-1-2-1-2-2-5-2-2-4,0,0,0,0,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Ohio Bell,'1-1-1-1-1-2-1-2-1-2-2-5-2-2-5,0,0,0,0,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Pacific Bell,'1-1-1-1-1-2-1-2-1-2-2-5-2-2-6-1,0,0,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,1,1,2,I
+'Nevada Bell (formerly known as Bell Telephone Company of Nevada),'1-1-1-1-1-2-1-2-1-2-2-5-2-2-6-2,1,1,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Southwestern Bell,'1-1-1-1-1-2-1-2-1-2-2-5-2-2-7,0,0,0,0,0,2,1,0,0,2,1,1,1,0,0,0,0,0,0,0,1,1,2,I
+'Wisconsin Bell (formerly Wisconsin Telephone),'1-1-1-1-1-2-1-2-1-2-2-5-2-2-8,0,1,0,0,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Southern New England Telephone (sale pending to Frontier Communications),'1-1-1-1-1-2-1-2-1-2-2-5-2-2-9,0,1,0,0,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Former operating companies,'1-1-1-1-1-2-1-2-1-2-2-6-1,0,0,0,0,1,2,0,0,0,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'The following companies have gone to defunct status under SBC/AT&T ownership:,'1-1-1-1-1-2-1-2-1-2-2-6-2-1,1,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,0,1,0,1,1,1,C
+"'Southwestern Bell Texas – a separate operating company created by SBC, absorbed operations of original SWBT on December 30, 2001 and became Southwestern Bell Telephone, L.P.; eventually merged into SWBT Inc. in 2007 which became the current Southwestern Bell",'1-1-1-1-1-2-1-2-1-2-2-6-2-2-1,2,1,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Woodbury Telephone – merged into Southern New England Telephone on June 1, 2007.",'1-1-1-1-1-2-1-2-1-2-2-6-2-2-2,1,1,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,2,I
+'Future of rural landlines,'1-1-1-1-1-2-1-2-1-2-2-7-1,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'AT&T has stated that it will declare its intentions for its rural landlines on November 7, 2012. AT&T had previously announced that it was considering a sale of its rural landlines, which are not wired for AT&T's U-verse service; however, it has also stated that it may keep the business after all.",'1-1-1-1-1-2-1-2-1-2-2-7-2-1,2,0,0,0,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'AT&T would not be the first Baby Bell to sell off rural landlines. Ameritech sold some of its Wisconsin lines to CenturyTel in 1998; BellSouth sold some of its lines to MebTel in the 2000s; U S WEST sold many historically Bell landlines to Lynch Communications and Pacific Telecom in the 1990s; Verizon sold many of its New England lines to FairPoint in 2008 and its West Virginia operations to Frontier Communications in 2010.,'1-1-1-1-1-2-1-2-1-2-2-7-2-2,2,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Corporate structure,'1-1-1-1-1-2-1-2-1-2-2-8-1,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'AT&T Inc. has retained the holding companies it has acquired over the years resulting in the following corporate structure:,'1-1-1-1-1-2-1-2-1-2-2-8-2-1,1,0,0,0,0,0,0,2,1,2,0,1,0,0,0,0,0,0,1,0,0,0,1,C
+'publicly traded holding company,'1-1-1-1-1-2-1-2-1-2-2-8-2-2-1,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,0,0,0,1,0,1,1,1,I
+"'Southwestern Bell Telephone Company d/b/a AT&T Arkansas, AT&T Kansas, AT&T Missouri, AT&T Oklahoma, AT&T Southwest, AT&T Texas",'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-1,1,1,0,0,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'AT&T Teleholdings, Inc. d/b/a AT&T East, AT&T Midwest, AT&T West; formerly Ameritech, acquired in 1999; absorbed Pacific Telesis and SNET Corp. under AT&T ownership Illinois Bell Telephone Company d/b/a AT&T Illinois
+Indiana Bell Telephone Company d/b/a AT&T Indiana
+Michigan Bell Telephone Company d/b/a AT&T Michigan
+The Ohio Bell Telephone Company d/b/a AT&T Ohio
+Pacific Bell Telephone Company d/b/a AT&T California Nevada Bell Telephone Company d/b/a AT&T Nevada
+
+The Southern New England Telephone Company d/b/a AT&T Connecticut (includes former Woodbury Telephone)
+Wisconsin Bell, Inc. d/b/a AT&T Wisconsin",'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-2,2,1,0,0,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Corp.,'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-3-1,0,0,0,0,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,I
+"'Alascom, Inc. d/b/a AT&T Alaska",'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-3-2,0,1,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'BellSouth Corporation d/b/a AT&T South, acquired 2006",'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-4,0,1,0,0,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'BellSouth Telecommunications, LLC d/b/a AT&T Alabama, AT&T Florida, AT&T Georgia, AT&T Louisiana, AT&T Kentucky, AT&T Mississippi, AT&T North Carolina, AT&T South Carolina, AT&T Southeast, AT&T Tennessee",'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-5,1,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Mobility,'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-6,0,0,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Aio Wireless,'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-7,0,0,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Cricket Communications,'1-1-1-1-1-2-1-2-1-2-2-8-2-2-2-8,0,0,0,0,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Corporate governance,'1-1-1-1-1-2-1-2-1-2-2-9-1,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,0,2,C
+'AT&T's current board of directors:,'1-1-1-1-1-2-1-2-1-2-2-9-2-1,0,0,0,0,0,2,0,2,1,2,0,1,0,0,0,0,0,0,0,0,1,1,1,C
+'Randall L. Stephenson – Chairman and Chief Executive Officer,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-1-1,0,1,0,0,0,2,1,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,1,I
+'James H. Blanchard,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-1-2,0,1,0,0,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Gilbert F. Amelio,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-2,0,0,0,0,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,1,1,2,I
+'Reuben V. Anderson,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-3,0,1,0,0,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Jaime Chico Pardo,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-4,0,1,0,0,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'James P. Kelly,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-5,0,1,0,0,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Jon C. Madonna,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-6,0,0,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Lynn M. Martin,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-7,0,0,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'John B. McCoy,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-8,0,0,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,1,1,2,I
+'Joyce M. Roché,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-9,0,1,0,0,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Matthew K. Rose,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-10,0,1,0,0,0,2,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Laura D'Andrea Tyson,'1-1-1-1-1-2-1-2-1-2-2-9-2-2-11,0,1,0,0,0,2,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Criticism and controversies,'1-1-1-1-1-2-1-2-1-2-2-10-1-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Hemisphere database,'1-1-1-1-1-2-1-2-1-2-2-10-1-2,0,0,0,0,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+'Main article: Hemisphere Project,'1-1-1-1-1-2-1-2-1-2-2-10-2-1,0,0,0,0,0,2,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'The company maintains a database of call detail records of all telephone calls that have passed through its network since 1987. AT&T employees work at High Intensity Drug Trafficking Area offices (operated by the Office of National Drug Control Policy) in Los Angeles, Atlanta, and Houston so data can be quickly turned over to law enforcement agencies. Records are requested via administrative subpoena, without the involvement of a court or grand jury.",'1-1-1-1-1-2-1-2-1-2-2-10-2-2,2,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Censorship,'1-1-1-1-1-2-1-2-1-2-2-11-1,0,0,0,0,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'In August 2007, the band Pearl Jam performed in Chicago at Lollapalooza which was being web-broadcast by AT&T. The band, while playing the song ""Daughter"", started playing a version of Pink Floyd's ""Another Brick in the Wall"" but with altered lyrics critical of president George W. Bush. These lyrics included ""George Bush, leave this world alone!"" and, ""George Bush, find yourself another home!"". Listeners to AT&T's web broadcast heard only the first line because the rest was censored, although AT&T spokesman Michael Coe said that the silencing was ""a mistake.""",'1-1-1-1-1-2-1-2-1-2-2-11-2-1,2,0,0,0,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In September 2007, AT&T changed their legal policy to state that ""AT&T may immediately terminate or suspend all or a portion of your Service, any Member ID, electronic mail address, IP address, Universal Resource Locator or domain name used by you, without notice for conduct that AT&T believes""...""(c) tends to damage the name or reputation of AT&T, or its parents, affiliates and subsidiaries."" By October 10, 2007 AT&T had altered the terms and conditions for its Internet service to explicitly support freedom of expression by its subscribers, after an outcry claiming the company had given itself the right to censor its subscribers' transmissions. Section 5.1 of AT&T's new terms of service now reads ""AT&T respects freedom of expression and believes it is a foundation of our free society to express differing points of view. AT&T will not terminate, disconnect or suspend service because of the views you or we express on public policy matters, political issues or political campaigns.""",'1-1-1-1-1-2-1-2-1-2-2-11-2-2,2,0,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On July 26, 2009, AT&T customers were unable to access certain sections of the image board 4chan, specifically /b/ (the ""random"" board) and /r9k/ (the ""ROBOT 9000"" board, a spin-off of the random board). However, by the morning of Monday, July 27, the block had been lifted and access to the affected boards was restored. AT&T's official reason for the block was that a distributed denial of service attack had originated from the img.4chan.org server, and access was blocked to stop the attack. Major news outlets have reported that the issue may be related to DDoSing of 4chan, and that the suspicions of 4chan users fell on AnonTalk.com (later AnonTalk.se) at that time for doing this.",'1-1-1-1-1-2-1-2-1-2-2-11-2-3,2,0,0,0,0,0,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Privacy controversy,'1-1-1-1-1-2-1-2-1-2-2-12-1,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Further information: NSA call database, Mark Klein, NSA warrantless surveillance controversy, Hepting v. AT&T",'1-1-1-1-1-2-1-2-1-2-2-12-2-1,1,0,0,0,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'In 2006, the Electronic Frontier Foundation lodged a class action lawsuit, Hepting v. AT&T, which alleged that AT&T had allowed agents of the National Security Agency (NSA) to monitor phone and Internet communications of AT&T customers without warrants. If true, this would violate the Foreign Intelligence Surveillance Act of 1978 and the First and Fourth Amendments of the U.S. Constitution. AT&T has yet to confirm or deny that monitoring by the NSA is occurring. In April 2006, a retired former AT&T technician, Mark Klein, lodged an affidavit supporting this allegation. The Department of Justice has stated they will intervene in this lawsuit by means of State Secrets Privilege. In July 2006, the United States District Court for the Northern District of California – in which the suit was filed – rejected a federal government motion to dismiss the case. The motion to dismiss, which invoked the State Secrets Privilege, had argued that any court review of the alleged partnership between the federal government and AT&T would harm national security. The case was immediately appealed to the Ninth Circuit. It was dismissed on June 3, 2009, citing retroactive legislation in the Foreign Intelligence Surveillance Act. In May 2006, USA Today reported that all international and domestic calling records had been handed over to the National Security Agency by AT&T, Verizon, SBC, and BellSouth for the purpose of creating a massive calling database. The portions of the new AT&T that had been part of SBC Communications before November 18, 2005 were not mentioned.",'1-1-1-1-1-2-1-2-1-2-2-12-2-2,2,0,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On June 21, 2006, the San Francisco Chronicle reported that AT&T had rewritten rules on their privacy policy. The policy, which took effect June 23, 2006, says that ""AT&T – not customers – owns customers' confidential info and can use it 'to protect its legitimate business interests, safeguard others, or respond to legal process.' """,'1-1-1-1-1-2-1-2-1-2-2-12-2-3,2,0,0,0,0,0,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On August 22, 2007, National Intelligence Director Mike McConnell confirmed that AT&T was one of the telecommunications companies that assisted with the government's warrantless wire-tapping program on calls between foreign and domestic sources.",'1-1-1-1-1-2-1-2-1-2-2-12-2-4,2,0,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'On November 8, 2007, Mark Klein, a former AT&T technician, told Keith Olbermann of MSNBC that all Internet traffic passing over AT&T lines was copied into a locked room at the company's San Francisco office – to which only employees with National Security Agency clearance had access.",'1-1-1-1-1-2-1-2-1-2-2-12-2-5,2,0,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T keeps for five to seven years a record of who text messages whom and the date and time, but not the content of the messages.",'1-1-1-1-1-2-1-2-1-2-2-12-2-6,1,0,0,0,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Intellectual property filtering,'1-1-1-1-1-2-1-2-1-2-2-13-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In January 2008, the company reported plans to begin filtering all Internet traffic which passes through its network for intellectual property violations. Commentators in the media have speculated that if this plan is implemented, it would lead to a mass exodus of subscribers leaving AT&T, although this is misleading as Internet traffic may go through the company's network anyway. Internet freedom proponents used these developments as justification for government-mandated network neutrality.",'1-1-1-1-1-2-1-2-1-2-2-13-2,2,0,0,0,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Discrimination against local Public-access television channels,'1-1-1-1-1-2-1-2-1-2-2-14-1,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'AT&T is accused by community media groups of discriminating against local Public, educational, and government access (PEG) cable TV channels:, by ""impictions that will severely restrict the audience"".",'1-1-1-1-1-2-1-2-1-2-2-14-2-1,1,0,0,0,0,0,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'According to Barbara Popovic, Executive Director of the Chicago public-access service CAN-TV, the new AT&T U-verse system forces all Public-access television into a special menu system, denying normal functionality such as channel numbers, access to the standard program guide, and DVR recording. The Ratepayer Advocates division of the California Public Utilities Commission reported: ""Instead of putting the stations on individual channels, AT&T has bundled community stations into a generic channel that can only be navigated through a complex and lengthy process.""",'1-1-1-1-1-2-1-2-1-2-2-14-2-2,2,0,0,0,0,2,1,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Sue Buske (president of telecommunications consulting firm the Buske Group and a former head of the National Federation of Local Cable Programmers/Alliance for Community Media) argue that this is ""an overall attack [...] on public access across the [United States], the place in the dial around cities and communities where people can make their own media in their own communities"".",'1-1-1-1-1-2-1-2-1-2-2-14-2-3,2,0,0,0,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Information security,'1-1-1-1-1-2-1-2-1-2-2-15-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In June 2010, a hacker group known as Goatse Security discovered a vulnerability within the AT&T that could allow anyone to uncover email addresses belonging to customers of AT&T 3G service for the Apple iPad. These email addresses could be accessed without a protective password. Using a script, Goatse Security collected thousands of email addresses from AT&T. Goatse Security informed AT&T about the security flaw through a third party. Goatse Security then disclosed around 114,000 of these emails to Gawker Media, which published an article about the security flaw and disclosure in Valleywag. Praetorian Security Group criticized the web application that Goatse Security exploited as ""poorly designed"".",'1-1-1-1-1-2-1-2-1-2-2-15-2,2,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Accusations of enabling fraud,'1-1-1-1-1-2-1-2-1-2-2-16-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'In March 2012, the United States federal government announced a lawsuit against AT&T. The specific accusations state that AT&T ""violated the False Claims Act by facilitating and seeking federal payment for IP Relay calls by international callers who were ineligible for the service and sought to use it for fraudulent purposes. The complaint alleges that, out of fears that fraudulent call volume would drop after the registration deadline, AT&T knowingly adopted a non-compliant registration system that did not verify whether the user was located within the United States. The complaint further contends that AT&T continued to employ this system even with the knowledge that it facilitated use of IP Relay by fraudulent foreign callers, which accounted for up to 95 percent of AT&T's call volume. The government's complaint alleges that AT&T improperly billed the TRS Fund for reimbursement of these calls and received millions of dollars in federal payments as a result.""",'1-1-1-1-1-2-1-2-1-2-2-16-2,2,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Naming rights and sponsorships,'1-1-1-1-1-2-1-2-1-2-2-17-1-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,C
+'Buildings,'1-1-1-1-1-2-1-2-1-2-2-17-1-2,0,0,0,0,1,1,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,1,C
+"'AT&T 220 Building – building in Indianapolis, Indiana",'1-1-1-1-1-2-1-2-1-2-2-17-2-1,0,1,0,0,0,2,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,0,1,I
+"'AT&T Building – building in Detroit, Michigan",'1-1-1-1-1-2-1-2-1-2-2-17-2-2,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Building – building in Indianapolis, Indiana",'1-1-1-1-1-2-1-2-1-2-2-17-2-3,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+"'AT&T Building – building in Kingman, Arizona",'1-1-1-1-1-2-1-2-1-2-2-17-2-4,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Building – (aka ""The Batman Building"") in Nashville, Tennessee",'1-1-1-1-1-2-1-2-1-2-2-17-2-5,1,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Building – building in Omaha, Nebraska",'1-1-1-1-1-2-1-2-1-2-2-17-2-6,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Building Addition – building in Detroit, Michigan",'1-1-1-1-1-2-1-2-1-2-2-17-2-7,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Center – building in Los Angeles,'1-1-1-1-1-2-1-2-1-2-2-17-2-8,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Center – building in St. Louis, Missouri",'1-1-1-1-1-2-1-2-1-2-2-17-2-9,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Center – building in Charlotte, NC",'1-1-1-1-1-2-1-2-1-2-2-17-2-10,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T City Center – building in Birmingham, Alabama",'1-1-1-1-1-2-1-2-1-2-2-17-2-11,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Corporate Center – building in Chicago, Illinois",'1-1-1-1-1-2-1-2-1-2-2-17-2-12,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Huron Road Building – building in Cleveland, Ohio",'1-1-1-1-1-2-1-2-1-2-2-17-2-13,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Lenox Park Campus – AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia",'1-1-1-1-1-2-1-2-1-2-2-17-2-14,1,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Midtown Center – building in Atlanta, Georgia",'1-1-1-1-1-2-1-2-1-2-2-17-2-15,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Switching Center – building in Los Angeles,'1-1-1-1-1-2-1-2-1-2-2-17-2-16,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Switching Center – building in Oakland, California",'1-1-1-1-1-2-1-2-1-2-2-17-2-17,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
+'AT&T Switching Center – building in San Francisco,'1-1-1-1-1-2-1-2-1-2-2-17-2-18,0,1,0,0,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Building – building in San Diego,'1-1-1-1-1-2-1-2-1-2-2-17-2-19,0,1,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Whitacre Tower (One AT&T Plaza) – Corporate Headquarters, Dallas, Texas",'1-1-1-1-1-2-1-2-1-2-2-17-2-20,1,1,0,0,0,2,1,0,1,2,1,0,1,1,1,0,0,0,0,0,0,0,2,I
+"'AT&T Tower – building in Jacksonville, FL",'1-1-1-1-1-2-1-2-1-2-2-17-2-21,0,1,0,0,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Venues,'1-1-1-1-1-2-1-2-1-2-2-18-1,0,0,0,0,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+"'AT&T Center – San Antonio, Texas (formerly SBC Center)",'1-1-1-1-1-2-1-2-1-2-2-18-2-1-1,0,1,0,0,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'AT&T Field – Chattanooga, Tennessee (formerly BellSouth Park)",'1-1-1-1-1-2-1-2-1-2-2-18-2-1-2,0,1,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Park – San Francisco (formerly Pacific Bell Park, SBC Park)",'1-1-1-1-1-2-1-2-1-2-2-18-2-2,1,1,0,0,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'AT&T Plaza – Chicago, Illinois (public space that hosts the Cloud Gate sculpture in Millennium Park)",'1-1-1-1-1-2-1-2-1-2-2-18-2-3,1,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Plaza – Dallas, Texas (plaza in front of the American Airlines Center at Victory Park)",'1-1-1-1-1-2-1-2-1-2-2-18-2-4,1,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Performing Arts Center – Dallas, Texas",'1-1-1-1-1-2-1-2-1-2-2-18-2-5,0,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Stadium – Arlington, Texas (formerly Cowboys Stadium)",'1-1-1-1-1-2-1-2-1-2-2-18-2-6,0,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Jones AT&T Stadium – Lubbock, Texas (formerly Clifford B. and Audrey Jones Stadium, Jones SBC Stadium)",'1-1-1-1-1-2-1-2-1-2-2-18-2-7,1,1,0,0,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'TPC San Antonio – San Antonio, Texas (AT&T Oaks Course & AT&T Canyons Course)",'1-1-1-1-1-2-1-2-1-2-2-18-2-8-1,1,1,0,0,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'War Memorial Stadium, AT&T Field - Little Rock, Arkansas",'1-1-1-1-1-2-1-2-1-2-2-18-2-8-2,0,1,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sponsorships,'1-1-1-1-1-2-1-2-1-2-2-19-1,0,0,0,0,1,1,0,0,1,2,0,1,0,0,0,0,1,0,0,1,1,1,2,C
+"'AT&T Champions Classic – Valencia, California",'1-1-1-1-1-2-1-2-1-2-2-19-2-1,0,1,0,0,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,0,0,0,1,I
+"'AT&T Championship - San Antonio, Texas",'1-1-1-1-1-2-1-2-1-2-2-19-2-2,0,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Classic – Atlanta, Georgia (formerly BellSouth Classic)",'1-1-1-1-1-2-1-2-1-2-2-19-2-3,0,1,0,0,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T Cotton Bowl Classic (formerly Mobil Cotton Bowl Classic, Southwestern Bell Cotton Bowl Classic, SBC Cotton Bowl Classic) – played in Arlington, Texas, at AT&T Stadium.",'1-1-1-1-1-2-1-2-1-2-2-19-2-4-1,1,1,0,0,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+"'AT&T National – Washington, D.C.",'1-1-1-1-1-2-1-2-1-2-2-19-2-4-2,0,1,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Pebble Beach National Pro-Am,'1-1-1-1-1-2-1-2-1-2-2-19-2-5,0,0,0,0,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,1,1,2,I
+"'AT&T Red River Rivalry – Dallas, Texas (formerly Red River Shootout, SBC Red River Rivalry)",'1-1-1-1-1-2-1-2-1-2-2-19-2-6,1,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'Major League Soccer and the United States Soccer Federation, including the U.S. men's and U.S. women's national teams and the Major League Soccer All-Star Game from 2009",'1-1-1-1-1-2-1-2-1-2-2-19-2-7,1,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'United States Olympic team,'1-1-1-1-1-2-1-2-1-2-2-19-2-8,0,0,0,0,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,1,1,2,I
+'National Collegiate Athletic Association (Corporate Champion),'1-1-1-1-1-2-1-2-1-2-2-19-2-9,0,1,0,0,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+"'AT&T American Cup, Artistic gymnastics competition. Sponsored by AT&T since 2011.",'1-1-1-1-1-2-1-2-1-2-2-19-2-10,1,1,0,0,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Miscellaneous,'1-1-1-1-1-2-1-2-1-2-2-20-1,0,0,0,0,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+"'AT&T (SEPTA station) – Public Transportation Station in Philadelphia, PA",'1-1-1-1-1-2-1-2-1-2-2-20-2,1,1,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Global presence,'1-1-1-1-1-2-1-2-1-2-2-21-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'AT&T offers services in many locations throughout the Asia Pacific; its regional headquarters is located in Hong Kong.,'1-1-1-1-1-2-1-2-1-2-2-21-2,1,0,0,0,0,2,0,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,1,I
+'Enterprise SIP Trunking Services,'1-1-1-1-1-2-1-2-1-2-2-22-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,C
+"'In 2008, Toshiba announced SIP interoperability with the AT&T IP Flexible Reach service, and this partnership would improve Toshiba's IP-PBX offerings. In 2010, AT&T combined its virtual private network (VPN) service with its IP Flexible Reach.",'1-1-1-1-1-2-1-2-1-2-2-22-2,2,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Alliances,'1-1-1-1-1-2-1-2-1-2-2-23-1,0,0,0,0,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+"'On October 29, 2012 AT&T announced its support in the PMA (Power Matters Alliance) and its membership in the PMA board, along with Google and Starbucks, in order to create a real-world ecosystem of wireless power and to ensure mobile devices never run out of power.",'1-1-1-1-1-2-1-2-1-2-2-23-2,2,0,0,0,0,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'See also,'1-1-1-1-1-2-1-2-1-2-2-24,0,0,0,0,1,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'AT&T Center in San Antonio, Texas",'1-1-1-1-1-2-1-2-2-2,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Wikimedia Commons has media related to AT&T.,'1-1-1-1-1-2-2-2,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Dallas-Fort Worth portal,'1-1-1-1-1-3-1-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Texas portal,'1-1-1-1-1-3-2-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
+'Companies portal,'1-1-1-1-1-3-3-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
+'Aio Wireless,'1-1-1-1-2-1-1,0,0,0,0,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,3,I
+'AT&T Corporation,'1-1-1-1-2-1-2,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Internet Services,'1-1-1-1-2-1-3,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'AT&T Mobility,'1-1-1-1-2-1-4,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'att.net,'1-1-1-1-2-1-5,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Bell System,'1-1-1-1-2-1-6,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Bell System Divestiture,'1-1-1-1-2-1-7,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Communications Assistance For Law Enforcement Act,'1-1-1-1-2-1-8,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Cricket Communications,'1-1-1-1-2-1-9,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Hepting v. AT&T,'1-1-1-1-2-1-10,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Lists of public utilities,'1-1-1-1-2-1-11,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Modification of Final Judgment,'1-1-1-1-2-1-12,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'NSA warrantless surveillance,'1-1-1-1-2-1-13,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Pacific Bell,'1-1-1-1-2-1-14,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'PRX (telephony),'1-1-1-1-2-1-15,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Regional Bell Operating Company,'1-1-1-1-2-1-16,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Toktumi,'1-1-1-1-2-1-17,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Tying of the iPhone to AT&T,'1-1-1-1-2-1-18,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Information technology in India,'1-1-1-1-2-1-19,0,0,0,0,0,2,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,2,I
+'External links,'1-1-1-1-2-2-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Corporate information,'1-1-1-1-2-2-2-1,0,0,0,0,0,2,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,C
+"'Official website
+Brand evolution of AT&T companies
+AT&T History and science resources at The Franklin Institute's Case Files online exhibit
+Press Release announcing FCC Approval of SBC-Ameritech merger (October 6, 1999)
+Block stolen AT&T phones
+AT&T Sip Trunking",'1-1-1-1-2-2-2-2,2,1,0,0,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+'Articles,'1-1-1-1-2-2-2-3,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,2,C
+"'Thierer, Adam D. ""Unnatural Monopoly: Critical Moments in the Development of the Bell System Monopoly"". cato.org.",'1-1-1-1-2-2-2-4-1,1,1,0,0,0,2,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'""AT&T buys IBM's Global Network"". BBC News. December 8, 1998.",'1-1-1-1-2-2-2-4-2,1,1,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'Reardon, Marguerite (November 18, 2005). ""SBC closes AT&T acquisition"". CNet News.",'1-1-1-1-2-2-2-4-3,1,1,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'Reardon, Marguerite (March 5, 2006). ""AT&T to buy BellSouth for $67 billion"". CNet News.",'1-1-1-1-2-2-2-4-4,1,1,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'""AT&T Whistleblower to Urge Senate to Reject Blanket Immunity for Telecoms"". Electronic Frontier Foundation.",'1-1-1-1-2-2-2-4-5,1,1,0,0,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Inc.,'1-1-1-2-1,0,0,0,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Corporate directors,'1-1-1-2-2-1-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Chairman, CEO and president",'1-1-1-2-2-1-2-1-1,0,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,1,0,1,1,1,1,1,C
+'Randall L. Stephenson,'1-1-1-2-2-1-2-1-2,0,1,0,0,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Gilbert F. Amelio,'1-1-1-2-2-1-2-2-1,0,0,0,0,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,2,I
+'August A. Busch III,'1-1-1-2-2-1-2-2-2,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,2,I
+"'Martin K. Eby, Jr.",'1-1-1-2-2-1-2-2-3,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'James A. Henderson,'1-1-1-2-2-1-2-2-4,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Charles F. Knight,'1-1-1-2-2-1-2-2-5,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Lynn M. Martin,'1-1-1-2-2-1-2-2-6,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'John B. McCoy,'1-1-1-2-2-1-2-2-7,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Mary S. Metz,'1-1-1-2-2-1-2-2-8,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Toni Rembe,'1-1-1-2-2-1-2-2-9,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'S. Donley Ritchey,'1-1-1-2-2-1-2-2-10,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Joyce M. Roche,'1-1-1-2-2-1-2-2-11,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Laura D. Tyson,'1-1-1-2-2-1-2-2-12,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Patricia P. Upton,'1-1-1-2-2-1-2-2-13,0,0,0,0,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,2,I
+"'Acquired companies
+
+AT&T Corp.
+Ameritech
+BellSouth
+Pacific Telesis
+Southern New England Telecommunications",'1-1-1-2-2-2-1,0,1,0,0,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,C
+"'Local telephone companies
+
+BellSouth Telecommunications
+Illinois Bell
+Indiana Bell
+Michigan Bell
+Nevada Bell
+Ohio Bell
+Pacific Bell
+Southern New England Telephone
+Southwestern Bell
+Wisconsin Bell",'1-1-1-2-2-2-2,1,1,0,0,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Competitive local exchange carrier
+
+SBC Telecom",'1-1-1-2-2-2-3,0,1,0,0,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,I
+"'Long distance services
+
+Alascom
+AT&T Corp.
+BellSouth Long Distance
+SBC Long Distance
+SNET America",'1-1-1-2-2-2-4,0,1,0,0,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,C
+'AT&T Mobility,'1-1-1-2-2-2-5-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Ameritech Mobile Communications,'1-1-1-2-2-2-5-2-1,0,0,0,0,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'AT&T Wireless Services,'1-1-1-2-2-2-5-2-2,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'BellSouth Mobility,'1-1-1-2-2-2-5-2-3,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'BellSouth Mobility DCS,'1-1-1-2-2-2-5-2-4,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Centennial Wireless,'1-1-1-2-2-2-5-2-5,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Dobson Communications,'1-1-1-2-2-2-5-2-6,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Houston Cellular,'1-1-1-2-2-2-5-2-7,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Pacific Bell Wireless,'1-1-1-2-2-2-5-2-8,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Pacific Bell Wireless Northwest,'1-1-1-2-2-2-5-2-9,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'SBC Wireless,'1-1-1-2-2-2-5-2-10,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'SNET Mobility,'1-1-1-2-2-2-5-2-11,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Southwestern Bell Mobile Systems,'1-1-1-2-2-2-5-2-12,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Southwestern Bell Wireless,'1-1-1-2-2-2-5-2-13,0,0,0,0,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Internet services,'1-1-1-2-2-3-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+"'IP services (VoIP, IPTV)",'1-1-1-2-2-3-2-1-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,C
+'CallVantage,'1-1-1-2-2-3-2-1-2-1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'U-verse,'1-1-1-2-2-3-2-1-2-2,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'AT&T Internet Services,'1-1-1-2-2-3-2-2-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+'Ameritech Interactive Media Services,'1-1-1-2-2-3-2-2-2-1,0,0,0,0,0,2,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,I
+'Pacific Bell Internet Services,'1-1-1-2-2-3-2-2-2-2,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,2,I
+'Prodigy,'1-1-1-2-2-3-2-2-2-3,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'SNET Diversified Group,'1-1-1-2-2-3-2-2-2-4,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Southwestern Bell Internet Services,'1-1-1-2-2-3-2-2-2-5,0,0,0,0,0,2,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Other ISPs,'1-1-1-2-2-3-2-3-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'AT&T Business Internet,'1-1-1-2-2-3-2-3-2-1,0,0,0,0,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'BellSouth FastAccess DSL,'1-1-1-2-2-3-2-3-2-2,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Directories,'1-1-1-2-2-3-2-4-1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Anywho.com,'1-1-1-2-2-3-2-4-2-1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Yellowpages.com,'1-1-1-2-2-3-2-4-2-2,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+"'Telephone directories
+
+YP Holdings (47%)",'1-1-1-2-2-4-1,0,0,0,0,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,2,C
+"'AT&T Intellectual Property
+
+AT&T Intellectual Property I
+AT&T Intellectual Property II
+AT&T Intellectual Property Marketing
+AT&T Properties
+Ameritech Properties",'1-1-1-2-2-4-2,1,1,0,0,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'Research and development,'1-1-1-2-2-4-3-1,0,0,0,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,1,C
+'AT&T Labs,'1-1-1-2-2-4-3-2,0,1,0,0,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Links to related articles,'1-1-2-1,0,0,0,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,N
+'Components of the Dow Jones Industrial Average,'1-1-2-2-1-1-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
+'American Express,'1-1-2-2-1-1-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'AT&T Boeing,'1-1-2-2-1-1-2-2-1,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Caterpillar,'1-1-2-2-1-1-2-2-2,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Chevron,'1-1-2-2-1-1-2-2-3,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Cisco Systems The Coca-Cola Company,'1-1-2-2-1-1-2-2-4,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'DuPont,'1-1-2-2-1-1-2-2-5,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'ExxonMobil,'1-1-2-2-1-1-2-2-6,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'General Electric,'1-1-2-2-1-1-2-2-7,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Goldman Sachs The Home Depot,'1-1-2-2-1-1-2-2-8,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Intel,'1-1-2-2-1-1-2-2-9,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'IBM,'1-1-2-2-1-1-2-2-10,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Johnson & Johnson JPMorgan Chase,'1-1-2-2-1-1-2-2-11,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'McDonald's,'1-1-2-2-1-1-2-2-12,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Merck & Co.,'1-1-2-2-1-1-2-2-13,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Microsoft Nike,'1-1-2-2-1-1-2-2-14,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Pfizer,'1-1-2-2-1-1-2-2-15,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Procter & Gamble,'1-1-2-2-1-1-2-2-16,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Travelers,'1-1-2-2-1-1-2-2-17,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'UnitedHealth Group United Technologies,'1-1-2-2-1-1-2-2-18,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,2,I
+'Verizon Communications,'1-1-2-2-1-1-2-2-19,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Visa,'1-1-2-2-1-1-2-2-20,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Walmart,'1-1-2-2-1-1-2-2-21-1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'The Walt Disney Company,'1-1-2-2-1-1-2-2-21-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'United States landline telephone companies,'1-1-2-2-1-2-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,2,C
+'Alaska Communications,'1-1-2-2-1-2-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'AT&T,'1-1-2-2-1-2-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'CenturyLink Cincinnati Bell Claro Puerto Rico EarthLink Emery Telcom FairPoint Communications Frontier Communications GCI GTA Teleguam Hawaiian Telcom Sprint Corporation Telephone and Data Systems tw telecom Verizon Communications Windstream Communications XO Communications,'1-1-2-2-1-2-2-2-2,2,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Spinoffs of American Telephone & Telegraph Company,'1-1-2-2-2-1,0,0,0,0,1,2,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,2,C
+'First generation,'1-1-2-2-2-2-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'1929,'1-1-2-2-2-2-2-1-1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,1,C
+'Graybar Electric Company,'1-1-2-2-2-2-2-1-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'1956,'1-1-2-2-2-2-2-2-1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Bell Canada,'1-1-2-2-2-2-2-2-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,I
+'Northern Electric,'1-1-2-2-2-2-2-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'1984 Divestiture,'1-1-2-2-2-2-2-3-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Ameritech,'1-1-2-2-2-2-2-3-2-1-1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Bell Atlantic,'1-1-2-2-2-2-2-3-2-1-2,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Bell Communications Research,'1-1-2-2-2-2-2-3-2-1-3,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'BellSouth,'1-1-2-2-2-2-2-3-2-1-4,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'NYNEX,'1-1-2-2-2-2-2-3-2-1-5-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Pacific Telesis,'1-1-2-2-2-2-2-3-2-1-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Southwestern Bell Corporation,'1-1-2-2-2-2-2-3-2-2-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'US West,'1-1-2-2-2-2-2-3-2-2-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'1996,'1-1-2-2-2-2-2-4-1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Lucent Technologies,'1-1-2-2-2-2-2-4-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'NCR,'1-1-2-2-2-2-2-4-2-2,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'1997,'1-1-2-2-2-2-2-5-1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'AT&T Submarine Systems,'1-1-2-2-2-2-2-5-2-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,1,I
+'sold to Tyco International,'1-1-2-2-2-2-2-5-2-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'2001,'1-1-2-2-2-2-2-6-1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'AT&T Wireless Services,'1-1-2-2-2-2-2-6-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
+'2003,'1-1-2-2-2-2-2-7-1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'AT&T Broadband,'1-1-2-2-2-2-2-7-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Second generation spinoffs,'1-1-2-2-2-3-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,I
+"'Lucent Technologies
+
+Advanced American Telephones (2000)
+Avaya (2000)
+QLT Consumer Lease Services (2000)
+Agere Systems (2002)",'1-1-2-2-2-3-2-1-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,C
+"'MediaOne Group
+(f/k/a US West)
+
+U S WEST (1998)",'1-1-2-2-2-3-2-1-2,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'NCR
+
+Teradata (2007)",'1-1-2-2-2-3-2-1-3,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Pacific Telesis
+
+AirTouch (1994)",'1-1-2-2-2-3-2-1-4,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Qwest
+
+Dex Media (2002)",'1-1-2-2-2-3-2-1-5,0,1,0,1,1,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'Regional Bells,'1-1-2-2-2-3-2-1-6-1,0,0,0,1,1,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,1,C
+'Telcordia Technologies (1997),'1-1-2-2-2-3-2-1-6-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'SBC Communications / AT&T,'1-1-2-2-2-3-2-2-1-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'R.H. Donnelley Publishing and Advertising of Illinois (2004),'1-1-2-2-2-3-2-2-1-2-1,0,1,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'YP Holdings (2012),'1-1-2-2-2-3-2-2-1-2-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Verizon Communications,'1-1-2-2-2-3-2-2-2-1,0,0,0,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
+'Hawaiian Telcom (2005),'1-1-2-2-2-3-2-2-2-2-1-1,0,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Idearc (2006),'1-1-2-2-2-3-2-2-2-2-1-2,0,1,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Northern New England Spinco (2008) New Communications Holdings (2010),'1-1-2-2-2-3-2-2-2-2-2,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Bell System,'1-1-2-2-3-1-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Parent company,'1-1-2-2-3-1-2-1-1,0,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1,1,2,C
+'American Telephone and Telegraph Company,'1-1-2-2-3-1-2-1-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,C
+'Local telephone companies still extant,'1-1-2-2-3-1-2-2-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,C
+'Wholly owned,'1-1-2-2-3-1-2-2-2-1-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Bell Telephone Company of Nevada,'1-1-2-2-3-1-2-2-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,1,I
+'The Bell Telephone Company of Pennsylvania,'1-1-2-2-3-1-2-2-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'The Chesapeake & Potomac Telephone Company,'1-1-2-2-3-1-2-2-2-1-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'The Chesapeake & Potomac Telephone Company of Maryland,'1-1-2-2-3-1-2-2-2-1-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'The Chesapeake & Potomac Telephone Company of West Virginia,'1-1-2-2-3-1-2-2-2-1-2-5,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'The Chesapeake & Potomac Telephone Company of Virginia,'1-1-2-2-3-1-2-2-2-1-2-6,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+'Diamond State Telephone,'1-1-2-2-3-1-2-2-2-1-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Illinois Bell,'1-1-2-2-3-1-2-2-2-1-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Indiana Bell,'1-1-2-2-3-1-2-2-2-1-2-8,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Michigan Bell,'1-1-2-2-3-1-2-2-2-1-2-9,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Mountain Bell,'1-1-2-2-3-1-2-2-2-1-2-10,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'New England Telephone,'1-1-2-2-3-1-2-2-2-1-2-11-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'New Jersey Bell,'1-1-2-2-3-1-2-2-2-1-2-11-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'New York Telephone,'1-1-2-2-3-1-2-2-2-1-2-12,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Northwestern Bell,'1-1-2-2-3-1-2-2-2-1-2-13-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Ohio Bell,'1-1-2-2-3-1-2-2-2-1-2-13-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Pacific Northwest Bell,'1-1-2-2-3-1-2-2-2-1-2-14,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Pacific Telephone,'1-1-2-2-3-1-2-2-2-1-2-15,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'South Central Bell,'1-1-2-2-3-1-2-2-2-1-2-16-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Southern Bell,'1-1-2-2-3-1-2-2-2-1-2-16-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Southwestern Bell,'1-1-2-2-3-1-2-2-2-1-2-17,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Wisconsin Telephone,'1-1-2-2-3-1-2-2-2-1-2-18,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Partially owned,'1-1-2-2-3-1-2-2-2-2-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Southern New England Telephone,'1-1-2-2-3-1-2-2-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Cincinnati Bell,'1-1-2-2-3-1-2-2-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Other subsidiaries,'1-1-2-2-3-1-2-3-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Manufacturing,'1-1-2-2-3-1-2-3-2-1-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'Western Electric,'1-1-2-2-3-1-2-3-2-1-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Research,'1-1-2-2-3-1-2-3-2-2-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'Bell Labs,'1-1-2-2-3-1-2-3-2-2-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Long distance,'1-1-2-2-3-1-2-3-2-3-1,0,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'Long Lines,'1-1-2-2-3-1-2-3-2-3-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Wireless,'1-1-2-2-3-1-2-3-2-4-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'Advanced Mobile Phone Service,'1-1-2-2-3-1-2-3-2-4-2,0,1,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Historical,'1-1-2-2-3-1-2-4-1,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Commemorative,'1-1-2-2-3-1-2-4-2-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Alexander Graham Bell National Historic Site,'1-1-2-2-3-1-2-4-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Bell Homestead National Historic Site,'1-1-2-2-3-1-2-4-2-1-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Bell Telephone Memorial,'1-1-2-2-3-1-2-4-2-1-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Telephone Pioneers of America,'1-1-2-2-3-1-2-4-2-1-2-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Spirit of Communication,'1-1-2-2-3-1-2-4-2-1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Defunct,'1-1-2-2-3-1-2-4-2-2-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Bell Telephone Company, National Bell Telephone Company, American Bell Telephone Company",'1-1-2-2-3-1-2-4-2-2-2-1,1,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,1,I
+'New England Telephone and Telegraph Company,'1-1-2-2-3-1-2-4-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
+'International Bell Telephone Company,'1-1-2-2-3-1-2-4-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
+'The Bell Telephone Company of Canada,'1-1-2-2-3-1-2-4-2-2-2-4-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
+'Northern Electric,'1-1-2-2-3-1-2-4-2-2-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bell Telephone Manufacturing Company,'1-1-2-2-3-1-2-4-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'AT&T Technologies, Inc.",'1-1-2-2-3-1-2-4-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Telecommunications,'1-1-2-2-3-2-1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'History,'1-1-2-2-3-2-2-1,0,0,0,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,C
+'Beacon,'1-1-2-2-3-2-2-2-1-1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Broadcasting,'1-1-2-2-3-2-2-2-1-2,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Communications satellite,'1-1-2-2-3-2-2-2-2,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Computer network,'1-1-2-2-3-2-2-2-3,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Drums,'1-1-2-2-3-2-2-2-4,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Electrical telegraph,'1-1-2-2-3-2-2-2-5-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Fax,'1-1-2-2-3-2-2-2-5-2,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Heliographs,'1-1-2-2-3-2-2-2-6,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Hydraulic telegraph,'1-1-2-2-3-2-2-2-7,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Internet,'1-1-2-2-3-2-2-2-8-1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Mass media,'1-1-2-2-3-2-2-2-8-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Mobile phone,'1-1-2-2-3-2-2-2-9,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Optical telecommunication,'1-1-2-2-3-2-2-2-10,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Optical telegraphy,'1-1-2-2-3-2-2-2-11,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Photophone,'1-1-2-2-3-2-2-2-12-1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Prepaid mobile phone,'1-1-2-2-3-2-2-2-12-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Radio,'1-1-2-2-3-2-2-2-13,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Radiotelephone,'1-1-2-2-3-2-2-2-14,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Satellite communications,'1-1-2-2-3-2-2-2-15-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Smoke signals,'1-1-2-2-3-2-2-2-15-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Telecommunications history,'1-1-2-2-3-2-2-2-16,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,1,0,0,1,0,0,2,I
+'Telegraphy,'1-1-2-2-3-2-2-2-17,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Telephone,'1-1-2-2-3-2-2-2-18-1,0,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'The Telephone Cases,'1-1-2-2-3-2-2-2-18-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Television,'1-1-2-2-3-2-2-2-19,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Timeline of communication technology,'1-1-2-2-3-2-2-2-20,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Undersea telegraph line,'1-1-2-2-3-2-2-2-21-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Videoconferencing,'1-1-2-2-3-2-2-2-21-2,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Videophone,'1-1-2-2-3-2-2-2-22,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Videotelephony,'1-1-2-2-3-2-2-2-23,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Pioneers,'1-1-2-2-3-2-2-4-1-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Edwin Howard Armstrong,'1-1-2-2-3-2-2-4-1-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'John Logie Baird,'1-1-2-2-3-2-2-4-1-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Alexander Graham Bell,'1-1-2-2-3-2-2-4-1-2-2,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Tim Berners-Lee,'1-1-2-2-3-2-2-4-1-2-3,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Jagadish Chandra Bose,'1-1-2-2-3-2-2-4-1-2-4,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Vint Cerf,'1-1-2-2-3-2-2-4-1-2-5-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Claude Chappe,'1-1-2-2-3-2-2-4-1-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Lee De Forest,'1-1-2-2-3-2-2-4-1-2-6,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Philo Farnsworth,'1-1-2-2-3-2-2-4-1-2-7,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Reginald Fessenden,'1-1-2-2-3-2-2-4-1-2-8-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Elisha Gray,'1-1-2-2-3-2-2-4-1-2-8-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Guglielmo Marconi,'1-1-2-2-3-2-2-4-1-2-9,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Alexander Stepanovich Popov,'1-1-2-2-3-2-2-4-1-2-10,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Johann Philipp Reis,'1-1-2-2-3-2-2-4-1-2-11-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Nikola Tesla,'1-1-2-2-3-2-2-4-1-2-11-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Camille Papin Tissot,'1-1-2-2-3-2-2-4-1-2-12,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Alfred Vail,'1-1-2-2-3-2-2-4-1-2-13,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Charles Wheatstone,'1-1-2-2-3-2-2-4-1-2-14,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Vladimir K. Zworykin,'1-1-2-2-3-2-2-4-1-2-15,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Network topology,'1-1-2-2-3-2-2-4-2-1,0,0,0,1,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Links,'1-1-2-2-3-2-2-4-2-2-1,0,0,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Nodes,'1-1-2-2-3-2-2-4-2-2-2,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Terminal node,'1-1-2-2-3-2-2-4-2-2-3,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Transmission,'1-1-2-2-3-2-2-4-3-1-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'media,'1-1-2-2-3-2-2-4-3-1-2,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
+'Coaxial cable,'1-1-2-2-3-2-2-4-3-2-1,0,0,0,1,0,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Free-space optical,'1-1-2-2-3-2-2-4-3-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Optical fiber,'1-1-2-2-3-2-2-4-3-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Radio waves,'1-1-2-2-3-2-2-4-3-2-3,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Telephone lines,'1-1-2-2-3-2-2-4-3-2-4,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Terrestrial microwave,'1-1-2-2-3-2-2-4-3-2-5,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Switching,'1-1-2-2-3-2-2-4-4-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Circuit switching,'1-1-2-2-3-2-2-4-4-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Packet switching,'1-1-2-2-3-2-2-4-4-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Telephone exchange,'1-1-2-2-3-2-2-4-4-2-2,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Network switch,'1-1-2-2-3-2-2-4-4-2-3,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Multiplexing,'1-1-2-2-3-2-2-4-5-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Space-division multiplexing,'1-1-2-2-3-2-2-4-5-2-1,0,0,0,1,0,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Frequency-division multiplexing,'1-1-2-2-3-2-2-4-5-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Time-division multiplexing,'1-1-2-2-3-2-2-4-5-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Polarization-division multiplexing,'1-1-2-2-3-2-2-4-5-2-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Orbital angular momentum multiplexing,'1-1-2-2-3-2-2-4-5-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Code division multiplexing,'1-1-2-2-3-2-2-4-5-2-4,0,0,0,1,0,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Networks,'1-1-2-2-3-2-2-4-6-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'ARPANET,'1-1-2-2-3-2-2-4-6-2-1,0,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'BITNET,'1-1-2-2-3-2-2-4-6-2-2-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Computer,'1-1-2-2-3-2-2-4-6-2-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Ethernet,'1-1-2-2-3-2-2-4-6-2-3,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'FidoNet,'1-1-2-2-3-2-2-4-6-2-4,0,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Internet,'1-1-2-2-3-2-2-4-6-2-5,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'ISDN,'1-1-2-2-3-2-2-4-6-2-6-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'LAN,'1-1-2-2-3-2-2-4-6-2-6-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Mobile,'1-1-2-2-3-2-2-4-6-2-7,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'NGN,'1-1-2-2-3-2-2-4-6-2-8,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Public Switched Telephone,'1-1-2-2-3-2-2-4-6-2-9-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Radio,'1-1-2-2-3-2-2-4-6-2-9-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Telecommunications equipment,'1-1-2-2-3-2-2-4-6-2-10,0,0,0,1,0,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Television,'1-1-2-2-3-2-2-4-6-2-11,0,0,0,1,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Telex,'1-1-2-2-3-2-2-4-6-2-12-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'WAN,'1-1-2-2-3-2-2-4-6-2-12-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Wireless,'1-1-2-2-3-2-2-4-6-2-13,0,0,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'World Wide Web,'1-1-2-2-3-2-2-4-6-2-14,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Geographic,'1-1-2-2-3-2-2-5-1,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Telecommunications in Africa,'1-1-2-2-3-2-2-5-2-1-1,0,0,0,0,1,2,1,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,C
+'Sovereign states,'1-1-2-2-3-2-2-5-2-1-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Algeria,'1-1-2-2-3-2-2-5-2-1-2-2-1-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Angola,'1-1-2-2-3-2-2-5-2-1-2-2-1-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Benin,'1-1-2-2-3-2-2-5-2-1-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Botswana,'1-1-2-2-3-2-2-5-2-1-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Burkina Faso,'1-1-2-2-3-2-2-5-2-1-2-2-4,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Burundi,'1-1-2-2-3-2-2-5-2-1-2-2-5-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Cameroon,'1-1-2-2-3-2-2-5-2-1-2-2-5-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Cape Verde,'1-1-2-2-3-2-2-5-2-1-2-2-6,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Central African Republic,'1-1-2-2-3-2-2-5-2-1-2-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Chad,'1-1-2-2-3-2-2-5-2-1-2-2-7-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Comoros,'1-1-2-2-3-2-2-5-2-1-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Democratic Republic of the Congo,'1-1-2-2-3-2-2-5-2-1-2-2-9,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Republic of the Congo,'1-1-2-2-3-2-2-5-2-1-2-2-10,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Djibouti,'1-1-2-2-3-2-2-5-2-1-2-2-11,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Egypt,'1-1-2-2-3-2-2-5-2-1-2-2-12-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Equatorial Guinea,'1-1-2-2-3-2-2-5-2-1-2-2-12-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Eritrea,'1-1-2-2-3-2-2-5-2-1-2-2-13,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Ethiopia,'1-1-2-2-3-2-2-5-2-1-2-2-14-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Gabon,'1-1-2-2-3-2-2-5-2-1-2-2-14-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'The Gambia,'1-1-2-2-3-2-2-5-2-1-2-2-15,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Ghana,'1-1-2-2-3-2-2-5-2-1-2-2-16,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Guinea,'1-1-2-2-3-2-2-5-2-1-2-2-17-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Guinea-Bissau,'1-1-2-2-3-2-2-5-2-1-2-2-17-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Ivory Coast (Côte d'Ivoire),'1-1-2-2-3-2-2-5-2-1-2-2-18,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Kenya,'1-1-2-2-3-2-2-5-2-1-2-2-19,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Lesotho,'1-1-2-2-3-2-2-5-2-1-2-2-20-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Liberia,'1-1-2-2-3-2-2-5-2-1-2-2-20-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Libya,'1-1-2-2-3-2-2-5-2-1-2-2-21,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Madagascar,'1-1-2-2-3-2-2-5-2-1-2-2-22,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Malawi,'1-1-2-2-3-2-2-5-2-1-2-2-23-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Mali,'1-1-2-2-3-2-2-5-2-1-2-2-23-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Mauritania,'1-1-2-2-3-2-2-5-2-1-2-2-24,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Mauritius,'1-1-2-2-3-2-2-5-2-1-2-2-25,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Morocco,'1-1-2-2-3-2-2-5-2-1-2-2-26,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Mozambique,'1-1-2-2-3-2-2-5-2-1-2-2-27-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Namibia,'1-1-2-2-3-2-2-5-2-1-2-2-27-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Niger,'1-1-2-2-3-2-2-5-2-1-2-2-28,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Nigeria,'1-1-2-2-3-2-2-5-2-1-2-2-29,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Rwanda,'1-1-2-2-3-2-2-5-2-1-2-2-30-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'São Tomé and Príncipe,'1-1-2-2-3-2-2-5-2-1-2-2-30-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Senegal,'1-1-2-2-3-2-2-5-2-1-2-2-31,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Seychelles,'1-1-2-2-3-2-2-5-2-1-2-2-32-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Sierra Leone,'1-1-2-2-3-2-2-5-2-1-2-2-32-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Somalia,'1-1-2-2-3-2-2-5-2-1-2-2-33,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'South Africa,'1-1-2-2-3-2-2-5-2-1-2-2-34,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'South Sudan,'1-1-2-2-3-2-2-5-2-1-2-2-35,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Sudan,'1-1-2-2-3-2-2-5-2-1-2-2-36-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Swaziland,'1-1-2-2-3-2-2-5-2-1-2-2-36-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Tanzania,'1-1-2-2-3-2-2-5-2-1-2-2-37,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Togo,'1-1-2-2-3-2-2-5-2-1-2-2-38,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Tunisia,'1-1-2-2-3-2-2-5-2-1-2-2-39-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Uganda,'1-1-2-2-3-2-2-5-2-1-2-2-39-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Zambia,'1-1-2-2-3-2-2-5-2-1-2-2-40,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Zimbabwe,'1-1-2-2-3-2-2-5-2-1-2-2-41,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'States with limited,'1-1-2-2-3-2-2-5-2-1-3-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'recognition,'1-1-2-2-3-2-2-5-2-1-3-1-2,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Sahrawi Arab Democratic Republic,'1-1-2-2-3-2-2-5-2-1-3-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,I
+'Somaliland,'1-1-2-2-3-2-2-5-2-1-3-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Dependencies,'1-1-2-2-3-2-2-5-2-1-4-1-1,0,0,0,1,1,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'other territories,'1-1-2-2-3-2-2-5-2-1-4-1-2,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,1,N
+'Canary Islands / Ceuta / Melilla / Plazas de soberanía (Spain),'1-1-2-2-3-2-2-5-2-1-4-2-1-1,1,1,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,3,I
+'Madeira (Portugal),'1-1-2-2-3-2-2-5-2-1-4-2-1-2-1,0,1,0,0,0,2,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,2,I
+'Mayotte / Réunion (France),'1-1-2-2-3-2-2-5-2-1-4-2-1-2-2-1,0,1,0,0,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
+'Saint Helena / Ascension Island / Tristan da Cunha (United Kingdom),'1-1-2-2-3-2-2-5-2-1-4-2-1-2-2-2,1,1,0,0,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Western Sahara,'1-1-2-2-3-2-2-5-2-1-4-2-2,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Telecommunications in Asia,'1-1-2-2-3-2-2-5-2-2-1,0,0,0,0,1,2,1,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,2,C
+'Sovereign states,'1-1-2-2-3-2-2-5-2-2-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Afghanistan,'1-1-2-2-3-2-2-5-2-2-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Armenia,'1-1-2-2-3-2-2-5-2-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Azerbaijan,'1-1-2-2-3-2-2-5-2-2-2-2-3-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Bahrain,'1-1-2-2-3-2-2-5-2-2-2-2-3-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Bangladesh,'1-1-2-2-3-2-2-5-2-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Bhutan,'1-1-2-2-3-2-2-5-2-2-2-2-5,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Brunei,'1-1-2-2-3-2-2-5-2-2-2-2-6-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Burma (Myanmar),'1-1-2-2-3-2-2-5-2-2-2-2-6-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Cambodia,'1-1-2-2-3-2-2-5-2-2-2-2-7,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'China,'1-1-2-2-3-2-2-5-2-2-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Cyprus,'1-1-2-2-3-2-2-5-2-2-2-2-9-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'East Timor (Timor-Leste),'1-1-2-2-3-2-2-5-2-2-2-2-9-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Egypt,'1-1-2-2-3-2-2-5-2-2-2-2-10,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Georgia,'1-1-2-2-3-2-2-5-2-2-2-2-11,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'India,'1-1-2-2-3-2-2-5-2-2-2-2-12-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Indonesia,'1-1-2-2-3-2-2-5-2-2-2-2-12-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Iran,'1-1-2-2-3-2-2-5-2-2-2-2-13,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Iraq,'1-1-2-2-3-2-2-5-2-2-2-2-14,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Israel,'1-1-2-2-3-2-2-5-2-2-2-2-15-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Japan,'1-1-2-2-3-2-2-5-2-2-2-2-15-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Jordan,'1-1-2-2-3-2-2-5-2-2-2-2-16,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Kazakhstan,'1-1-2-2-3-2-2-5-2-2-2-2-17,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'North Korea,'1-1-2-2-3-2-2-5-2-2-2-2-18-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'South Korea,'1-1-2-2-3-2-2-5-2-2-2-2-18-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Kuwait,'1-1-2-2-3-2-2-5-2-2-2-2-19,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Kyrgyzstan,'1-1-2-2-3-2-2-5-2-2-2-2-20,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Laos,'1-1-2-2-3-2-2-5-2-2-2-2-21,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Lebanon,'1-1-2-2-3-2-2-5-2-2-2-2-22-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Malaysia,'1-1-2-2-3-2-2-5-2-2-2-2-22-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Maldives,'1-1-2-2-3-2-2-5-2-2-2-2-23,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Mongolia,'1-1-2-2-3-2-2-5-2-2-2-2-24,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Nepal,'1-1-2-2-3-2-2-5-2-2-2-2-25-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Oman,'1-1-2-2-3-2-2-5-2-2-2-2-25-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Pakistan,'1-1-2-2-3-2-2-5-2-2-2-2-26,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Philippines,'1-1-2-2-3-2-2-5-2-2-2-2-27,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Qatar,'1-1-2-2-3-2-2-5-2-2-2-2-28-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Russia,'1-1-2-2-3-2-2-5-2-2-2-2-28-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Saudi Arabia,'1-1-2-2-3-2-2-5-2-2-2-2-29,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Singapore,'1-1-2-2-3-2-2-5-2-2-2-2-30,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'Sri Lanka,'1-1-2-2-3-2-2-5-2-2-2-2-31,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Syria,'1-1-2-2-3-2-2-5-2-2-2-2-32-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tajikistan,'1-1-2-2-3-2-2-5-2-2-2-2-32-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Thailand,'1-1-2-2-3-2-2-5-2-2-2-2-33,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Turkey,'1-1-2-2-3-2-2-5-2-2-2-2-34,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Turkmenistan,'1-1-2-2-3-2-2-5-2-2-2-2-35-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'United Arab Emirates,'1-1-2-2-3-2-2-5-2-2-2-2-35-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
+'Uzbekistan,'1-1-2-2-3-2-2-5-2-2-2-2-36,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Vietnam,'1-1-2-2-3-2-2-5-2-2-2-2-37-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Yemen,'1-1-2-2-3-2-2-5-2-2-2-2-37-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'States with limited recognition,'1-1-2-2-3-2-2-5-2-2-3-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Abkhazia,'1-1-2-2-3-2-2-5-2-2-3-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Nagorno-Karabakh,'1-1-2-2-3-2-2-5-2-2-3-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Northern Cyprus,'1-1-2-2-3-2-2-5-2-2-3-2-3,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Palestine,'1-1-2-2-3-2-2-5-2-2-3-2-4-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'South Ossetia,'1-1-2-2-3-2-2-5-2-2-3-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Taiwan,'1-1-2-2-3-2-2-5-2-2-3-2-5,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,1,0,0,0,1,0,0,2,I
+'Other dependent territories,'1-1-2-2-3-2-2-5-2-2-4-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'British Indian Ocean Territory,'1-1-2-2-3-2-2-5-2-2-4-2-1,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Christmas Island,'1-1-2-2-3-2-2-5-2-2-4-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Cocos (Keeling) Islands,'1-1-2-2-3-2-2-5-2-2-4-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Hong Kong,'1-1-2-2-3-2-2-5-2-2-4-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Macau,'1-1-2-2-3-2-2-5-2-2-4-2-4,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Telecommunications in Europe,'1-1-2-2-3-2-2-5-2-3-1,0,0,0,0,1,2,1,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,2,C
+'Sovereign states,'1-1-2-2-3-2-2-5-2-3-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Albania,'1-1-2-2-3-2-2-5-2-3-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Andorra,'1-1-2-2-3-2-2-5-2-3-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Armenia,'1-1-2-2-3-2-2-5-2-3-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Austria,'1-1-2-2-3-2-2-5-2-3-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Azerbaijan,'1-1-2-2-3-2-2-5-2-3-2-2-5-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Belarus,'1-1-2-2-3-2-2-5-2-3-2-2-5-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Belgium,'1-1-2-2-3-2-2-5-2-3-2-2-6,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Bosnia and Herzegovina,'1-1-2-2-3-2-2-5-2-3-2-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Bulgaria,'1-1-2-2-3-2-2-5-2-3-2-2-7-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Croatia,'1-1-2-2-3-2-2-5-2-3-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Cyprus,'1-1-2-2-3-2-2-5-2-3-2-2-9,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Czech Republic,'1-1-2-2-3-2-2-5-2-3-2-2-10-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Denmark,'1-1-2-2-3-2-2-5-2-3-2-2-10-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Estonia,'1-1-2-2-3-2-2-5-2-3-2-2-11,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Finland,'1-1-2-2-3-2-2-5-2-3-2-2-12,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
+'France,'1-1-2-2-3-2-2-5-2-3-2-2-13,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Georgia,'1-1-2-2-3-2-2-5-2-3-2-2-14-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Germany,'1-1-2-2-3-2-2-5-2-3-2-2-14-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Greece,'1-1-2-2-3-2-2-5-2-3-2-2-15,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Hungary,'1-1-2-2-3-2-2-5-2-3-2-2-16,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Iceland,'1-1-2-2-3-2-2-5-2-3-2-2-17-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Ireland,'1-1-2-2-3-2-2-5-2-3-2-2-17-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Italy,'1-1-2-2-3-2-2-5-2-3-2-2-18,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Kazakhstan,'1-1-2-2-3-2-2-5-2-3-2-2-19,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Latvia,'1-1-2-2-3-2-2-5-2-3-2-2-20-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Liechtenstein,'1-1-2-2-3-2-2-5-2-3-2-2-20-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Lithuania,'1-1-2-2-3-2-2-5-2-3-2-2-21,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Luxembourg,'1-1-2-2-3-2-2-5-2-3-2-2-22,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Macedonia,'1-1-2-2-3-2-2-5-2-3-2-2-23,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Malta,'1-1-2-2-3-2-2-5-2-3-2-2-24-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Moldova,'1-1-2-2-3-2-2-5-2-3-2-2-24-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Monaco,'1-1-2-2-3-2-2-5-2-3-2-2-25,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Montenegro,'1-1-2-2-3-2-2-5-2-3-2-2-26,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Netherlands,'1-1-2-2-3-2-2-5-2-3-2-2-27-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Norway,'1-1-2-2-3-2-2-5-2-3-2-2-27-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Poland,'1-1-2-2-3-2-2-5-2-3-2-2-28,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Portugal,'1-1-2-2-3-2-2-5-2-3-2-2-29,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Romania,'1-1-2-2-3-2-2-5-2-3-2-2-30-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Russia,'1-1-2-2-3-2-2-5-2-3-2-2-30-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'San Marino,'1-1-2-2-3-2-2-5-2-3-2-2-31,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Serbia,'1-1-2-2-3-2-2-5-2-3-2-2-32,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Slovakia,'1-1-2-2-3-2-2-5-2-3-2-2-33,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Slovenia,'1-1-2-2-3-2-2-5-2-3-2-2-34-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Spain,'1-1-2-2-3-2-2-5-2-3-2-2-34-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Sweden,'1-1-2-2-3-2-2-5-2-3-2-2-35,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Switzerland,'1-1-2-2-3-2-2-5-2-3-2-2-36,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
+'Turkey,'1-1-2-2-3-2-2-5-2-3-2-2-37-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Ukraine,'1-1-2-2-3-2-2-5-2-3-2-2-37-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'United Kingdom,'1-1-2-2-3-2-2-5-2-3-2-2-38,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,1,0,0,0,1,0,0,2,I
+'States with limited,'1-1-2-2-3-2-2-5-2-3-3-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'recognition,'1-1-2-2-3-2-2-5-2-3-3-1-2,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Abkhazia,'1-1-2-2-3-2-2-5-2-3-3-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,3,I
+'Kosovo,'1-1-2-2-3-2-2-5-2-3-3-2-2,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Nagorno-Karabakh,'1-1-2-2-3-2-2-5-2-3-3-2-3-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Northern Cyprus,'1-1-2-2-3-2-2-5-2-3-3-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'South Ossetia,'1-1-2-2-3-2-2-5-2-3-3-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Transnistria,'1-1-2-2-3-2-2-5-2-3-3-2-5,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Dependencies,'1-1-2-2-3-2-2-5-2-3-4-1-1,0,0,0,1,1,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'other territories,'1-1-2-2-3-2-2-5-2-3-4-1-2,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Åland,'1-1-2-2-3-2-2-5-2-3-4-2-1-1,0,0,0,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,I
+'Faroe Islands,'1-1-2-2-3-2-2-5-2-3-4-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Gibraltar,'1-1-2-2-3-2-2-5-2-3-4-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Guernsey,'1-1-2-2-3-2-2-5-2-3-4-2-3,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Jersey,'1-1-2-2-3-2-2-5-2-3-4-2-4-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Isle of Man,'1-1-2-2-3-2-2-5-2-3-4-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Svalbard,'1-1-2-2-3-2-2-5-2-3-4-2-5,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Other entities,'1-1-2-2-3-2-2-5-2-3-5-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,C
+'European Union,'1-1-2-2-3-2-2-5-2-3-5-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,1,I
+'Telecommunications in North America,'1-1-2-2-3-2-2-5-2-4-1-1,0,0,0,0,1,2,1,0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,2,C
+'Sovereign states,'1-1-2-2-3-2-2-5-2-4-1-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Antigua and Barbuda,'1-1-2-2-3-2-2-5-2-4-1-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Bahamas,'1-1-2-2-3-2-2-5-2-4-1-2-2-1-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Barbados,'1-1-2-2-3-2-2-5-2-4-1-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Belize,'1-1-2-2-3-2-2-5-2-4-1-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Canada,'1-1-2-2-3-2-2-5-2-4-1-2-2-4-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Costa Rica,'1-1-2-2-3-2-2-5-2-4-1-2-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Cuba,'1-1-2-2-3-2-2-5-2-4-1-2-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Dominica,'1-1-2-2-3-2-2-5-2-4-1-2-2-6,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Dominican Republic,'1-1-2-2-3-2-2-5-2-4-1-2-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'El Salvador,'1-1-2-2-3-2-2-5-2-4-1-2-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Grenada,'1-1-2-2-3-2-2-5-2-4-1-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Guatemala,'1-1-2-2-3-2-2-5-2-4-1-2-2-9-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Haiti,'1-1-2-2-3-2-2-5-2-4-1-2-2-9-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Honduras,'1-1-2-2-3-2-2-5-2-4-1-2-2-10,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Jamaica,'1-1-2-2-3-2-2-5-2-4-1-2-2-11,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Mexico,'1-1-2-2-3-2-2-5-2-4-1-2-2-12,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Nicaragua,'1-1-2-2-3-2-2-5-2-4-1-2-2-13-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Panama,'1-1-2-2-3-2-2-5-2-4-1-2-2-13-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Saint Kitts and Nevis,'1-1-2-2-3-2-2-5-2-4-1-2-2-14,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Saint Lucia,'1-1-2-2-3-2-2-5-2-4-1-2-2-15-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Saint Vincent and the Grenadines,'1-1-2-2-3-2-2-5-2-4-1-2-2-15-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Trinidad and Tobago,'1-1-2-2-3-2-2-5-2-4-1-2-2-16-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'United States,'1-1-2-2-3-2-2-5-2-4-1-2-2-16-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Dependencies and,'1-1-2-2-3-2-2-5-2-4-1-3-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'other territories,'1-1-2-2-3-2-2-5-2-4-1-3-1-2,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Anguilla,'1-1-2-2-3-2-2-5-2-4-1-3-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,3,I
+'Aruba,'1-1-2-2-3-2-2-5-2-4-1-3-2-2,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Bermuda,'1-1-2-2-3-2-2-5-2-4-1-3-2-3-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Bonaire,'1-1-2-2-3-2-2-5-2-4-1-3-2-3-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'British Virgin Islands,'1-1-2-2-3-2-2-5-2-4-1-3-2-4,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Cayman Islands,'1-1-2-2-3-2-2-5-2-4-1-3-2-5-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Curaçao,'1-1-2-2-3-2-2-5-2-4-1-3-2-5-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Greenland,'1-1-2-2-3-2-2-5-2-4-1-3-2-6,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Guadeloupe,'1-1-2-2-3-2-2-5-2-4-1-3-2-7,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Martinique,'1-1-2-2-3-2-2-5-2-4-1-3-2-8,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Montserrat,'1-1-2-2-3-2-2-5-2-4-1-3-2-9-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Navassa Island,'1-1-2-2-3-2-2-5-2-4-1-3-2-9-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Puerto Rico,'1-1-2-2-3-2-2-5-2-4-1-3-2-10,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Saint Barthélemy,'1-1-2-2-3-2-2-5-2-4-1-3-2-11,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Saint Martin,'1-1-2-2-3-2-2-5-2-4-1-3-2-12-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Saint Pierre and Miquelon,'1-1-2-2-3-2-2-5-2-4-1-3-2-12-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Saba,'1-1-2-2-3-2-2-5-2-4-1-3-2-13,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Sint Eustatius,'1-1-2-2-3-2-2-5-2-4-1-3-2-14,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Sint Maarten,'1-1-2-2-3-2-2-5-2-4-1-3-2-15-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Turks and Caicos Islands,'1-1-2-2-3-2-2-5-2-4-1-3-2-15-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'United States Virgin Islands,'1-1-2-2-3-2-2-5-2-4-1-3-2-16,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,2,I
+'Telecommunications in Oceania,'1-1-2-2-3-2-2-5-2-4-2-1,0,0,0,0,1,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Sovereign states,'1-1-2-2-3-2-2-5-2-4-2-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Australia,'1-1-2-2-3-2-2-5-2-4-2-2-2-1,0,0,0,1,0,1,1,0,1,2,0,1,0,0,0,1,0,0,0,1,0,0,1,I
+'Kiribati,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Marshall Islands,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Federated States of Micronesia,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Nauru,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'New Zealand,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-4-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'Palau,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-4-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Papua New Guinea,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Samoa,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-6,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Solomon Islands,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tonga,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-7-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Tuvalu,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vanuatu,'1-1-2-2-3-2-2-5-2-4-2-2-2-2-9,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Associated states of New Zealand,'1-1-2-2-3-2-2-5-2-4-2-3-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,2,C
+'Cook Islands,'1-1-2-2-3-2-2-5-2-4-2-3-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Niue,'1-1-2-2-3-2-2-5-2-4-2-3-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Dependencies and other territories,'1-1-2-2-3-2-2-5-2-4-2-4-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'American Samoa,'1-1-2-2-3-2-2-5-2-4-2-4-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Christmas Island,'1-1-2-2-3-2-2-5-2-4-2-4-2-2,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Cocos (Keeling) Islands,'1-1-2-2-3-2-2-5-2-4-2-4-2-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Easter Island,'1-1-2-2-3-2-2-5-2-4-2-4-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'French Polynesia,'1-1-2-2-3-2-2-5-2-4-2-4-2-4,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Guam,'1-1-2-2-3-2-2-5-2-4-2-4-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Hawaii,'1-1-2-2-3-2-2-5-2-4-2-4-2-6,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'New Caledonia,'1-1-2-2-3-2-2-5-2-4-2-4-2-7-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Norfolk Island,'1-1-2-2-3-2-2-5-2-4-2-4-2-7-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Northern Mariana Islands,'1-1-2-2-3-2-2-5-2-4-2-4-2-8,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Pitcairn Islands,'1-1-2-2-3-2-2-5-2-4-2-4-2-9-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Tokelau,'1-1-2-2-3-2-2-5-2-4-2-4-2-9-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Wallis and Futuna,'1-1-2-2-3-2-2-5-2-4-2-4-2-10,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Telecommunications in South America,'1-1-2-2-3-2-2-5-2-5-1,0,0,0,0,1,2,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,2,C
+'Sovereign states,'1-1-2-2-3-2-2-5-2-5-2-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Argentina,'1-1-2-2-3-2-2-5-2-5-2-2-1-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Bolivia,'1-1-2-2-3-2-2-5-2-5-2-2-1-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Brazil,'1-1-2-2-3-2-2-5-2-5-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Chile,'1-1-2-2-3-2-2-5-2-5-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Colombia,'1-1-2-2-3-2-2-5-2-5-2-2-4-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Ecuador,'1-1-2-2-3-2-2-5-2-5-2-2-4-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Guyana,'1-1-2-2-3-2-2-5-2-5-2-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Paraguay,'1-1-2-2-3-2-2-5-2-5-2-2-6,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Peru,'1-1-2-2-3-2-2-5-2-5-2-2-7-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Suriname,'1-1-2-2-3-2-2-5-2-5-2-2-7-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Uruguay,'1-1-2-2-3-2-2-5-2-5-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Venezuela,'1-1-2-2-3-2-2-5-2-5-2-2-9,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Dependencies,'1-1-2-2-3-2-2-5-2-5-3-1-1,0,0,0,1,1,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'other territories,'1-1-2-2-3-2-2-5-2-5-3-1-2,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Falkland Islands,'1-1-2-2-3-2-2-5-2-5-3-2-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,3,I
+'French Guiana,'1-1-2-2-3-2-2-5-2-5-3-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'South Georgia and the South Sandwich Islands,'1-1-2-2-3-2-2-5-2-5-3-2-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Major information technology companies,'1-1-2-2-3-3-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+'Largest IT companies,'1-1-2-2-3-3-2-1-1-1,0,0,0,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,N
+'Largest Internet companies,'1-1-2-2-3-3-2-1-1-2,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,3,N
+'Largest software companies,'1-1-2-2-3-3-2-1-1-3,0,0,0,1,0,2,1,0,1,1,1,0,1,1,0,0,0,0,1,1,0,0,3,N
+'Semiconductor sales leaders by year,'1-1-2-2-3-3-2-1-1-4,0,0,0,1,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,3,N
+"'Consulting and
+ outsourcing
+
+Accenture
+Atos
+Booz Allen Hamilton
+BT
+CACI
+Capgemini
+CGI Group
+Cognizant
+CSC
+Deloitte
+Dell Services
+Digital China
+Fujitsu
+HCL Technologies
+Hitachi Consulting
+HP
+IBM
+Indra
+Infosys
+NEC
+NTT Data
+Orange Business Services
+TCS
+T-Systems
+Unisys
+Wipro",'1-1-2-2-3-3-2-1-2-1-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,3,C
+"'Imaging
+
+Canon
+HP
+Kodak
+Konica Minolta
+Kyocera
+Lexmark
+Nikon
+Olympus
+Ricoh
+Samsung
+Seiko Epson
+Sharp
+Sony
+Toshiba
+Xerox",'1-1-2-2-3-3-2-1-2-1-2,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Information storage
+
+Dell
+EMC
+Fujitsu
+Hitachi Data Systems
+HP
+IBM
+NetApp
+Oracle
+Samsung
+Seagate
+Western Digital",'1-1-2-2-3-3-2-1-2-1-3,0,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Internet
+
+Alibaba
+Amazon.com
+AOL
+Baidu
+eBay
+Facebook
+Google
+Groupon
+IAC
+JD.com
+Microsoft
+NHN
+NetEase
+Rakuten
+Salesforce.com
+Tencent
+Yahoo!",'1-1-2-2-3-3-2-1-2-1-4,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Mainframes
+
+Fujitsu
+IBM",'1-1-2-2-3-3-2-1-2-1-5,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Mobile devices
+
+Acer
+Apple
+Asus
+BlackBerry
+HTC
+Huawei
+Lenovo
+LG
+Motorola Mobility
+Nokia
+Samsung
+Sony
+TCL (Alcatel)
+ZTE",'1-1-2-2-3-3-2-1-2-1-6,0,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
+"'Networking equipment
+
+Alcatel-Lucent
+Avaya
+Cisco
+Ericsson
+Fujitsu
+HP
+Huawei
+Juniper
+Mitsubishi Electric
+Motorola Solutions
+NEC
+Nokia Solutions and Networks
+Samsung
+ZTE",'1-1-2-2-3-3-2-1-2-1-7,0,1,0,1,1,2,1,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,1,C
+'OEMs,'1-1-2-2-3-3-2-1-2-1-8-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
+'Celestica,'1-1-2-2-3-3-2-1-2-1-8-2-1,0,0,0,1,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
+'Compal Electronics,'1-1-2-2-3-3-2-1-2-1-8-2-2-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
+'Flextronics,'1-1-2-2-3-3-2-1-2-1-8-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Foxconn,'1-1-2-2-3-3-2-1-2-1-8-2-3,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Jabil,'1-1-2-2-3-3-2-1-2-1-8-2-4,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Pegatron,'1-1-2-2-3-3-2-1-2-1-8-2-5-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Quanta,'1-1-2-2-3-3-2-1-2-1-8-2-5-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sanmina-SCI,'1-1-2-2-3-3-2-1-2-1-8-2-6,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'TPV Technology,'1-1-2-2-3-3-2-1-2-1-8-2-7,0,0,0,1,0,2,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Wistron,'1-1-2-2-3-3-2-1-2-1-8-2-8,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Personal computers,'1-1-2-2-3-3-2-1-2-2-1-1,0,0,0,1,1,2,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'and servers,'1-1-2-2-3-3-2-1-2-2-1-2,0,0,0,1,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,1,N
+'Acer,'1-1-2-2-3-3-2-1-2-2-2-1-1-1-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,3,I
+'Apple,'1-1-2-2-3-3-2-1-2-2-2-1-1-1-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Asus,'1-1-2-2-3-3-2-1-2-2-2-1-1-2,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Dell,'1-1-2-2-3-3-2-1-2-2-2-1-1-3,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Fujitsu,'1-1-2-2-3-3-2-1-2-2-2-1-1-4,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Lenovo,'1-1-2-2-3-3-2-1-2-2-2-1-2,0,0,0,1,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'NEC,'1-1-2-2-3-3-2-1-2-2-2-1-3-1-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Samsung,'1-1-2-2-3-3-2-1-2-2-2-1-3-1-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sony,'1-1-2-2-3-3-2-1-2-2-2-1-3-2,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Toshiba,'1-1-2-2-3-3-2-1-2-2-2-1-3-3,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Servers only,'1-1-2-2-3-3-2-1-2-2-2-2-1,0,0,0,1,1,2,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Cisco,'1-1-2-2-3-3-2-1-2-2-2-2-2-1,0,0,0,1,0,1,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
+'IBM,'1-1-2-2-3-3-2-1-2-2-2-2-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Oracle,'1-1-2-2-3-3-2-1-2-2-2-2-2-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Point of sale,'1-1-2-2-3-3-2-1-2-3-1,0,0,0,1,1,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'NCR,'1-1-2-2-3-3-2-1-2-3-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Toshiba,'1-1-2-2-3-3-2-1-2-3-2-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Semiconductors,'1-1-2-2-3-3-2-1-2-4-1,0,0,0,1,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Advanced Micro Devices,'1-1-2-2-3-3-2-1-2-4-2-1-1-1,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'Broadcom,'1-1-2-2-3-3-2-1-2-4-2-1-1-2,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Freescale Semiconductor,'1-1-2-2-3-3-2-1-2-4-2-1-1-3-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Fujitsu,'1-1-2-2-3-3-2-1-2-4-2-1-1-3-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Infineon Technologies,'1-1-2-2-3-3-2-1-2-4-2-1-2-1,0,0,0,1,0,2,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Intel,'1-1-2-2-3-3-2-1-2-4-2-1-2-2-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Marvell Technology Group,'1-1-2-2-3-3-2-1-2-4-2-1-2-2-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'MediaTek,'1-1-2-2-3-3-2-1-2-4-2-1-2-3,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Micron Technology,'1-1-2-2-3-3-2-1-2-4-2-1-2-4,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Nvidia,'1-1-2-2-3-3-2-1-2-4-2-1-2-5-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'NXP,'1-1-2-2-3-3-2-1-2-4-2-1-2-5-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Panasonic,'1-1-2-2-3-3-2-1-2-4-2-1-2-6,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Qualcomm,'1-1-2-2-3-3-2-1-2-4-2-1-2-7,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Renesas Electronics,'1-1-2-2-3-3-2-1-2-4-2-1-2-8,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
+'Samsung,'1-1-2-2-3-3-2-1-2-4-2-1-2-9-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'SK Hynix,'1-1-2-2-3-3-2-1-2-4-2-1-2-9-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Sony,'1-1-2-2-3-3-2-1-2-4-2-1-2-10,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'STMicroelectronics,'1-1-2-2-3-3-2-1-2-4-2-1-2-11,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Texas Instruments,'1-1-2-2-3-3-2-1-2-4-2-1-2-12-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Toshiba,'1-1-2-2-3-3-2-1-2-4-2-1-2-12-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Foundries,'1-1-2-2-3-3-2-1-2-4-2-2-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'GlobalFoundries,'1-1-2-2-3-3-2-1-2-4-2-2-2-1,0,0,0,1,0,1,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+'TSMC,'1-1-2-2-3-3-2-1-2-4-2-2-2-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'UMC,'1-1-2-2-3-3-2-1-2-4-2-2-2-3,0,0,0,1,0,1,1,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Software,'1-1-2-2-3-3-2-1-2-5-1-1,0,0,0,1,1,1,0,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
+'Adobe,'1-1-2-2-3-3-2-1-2-5-1-2-1-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
+'Apple,'1-1-2-2-3-3-2-1-2-5-1-2-1-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Google,'1-1-2-2-3-3-2-1-2-5-1-2-2,0,0,0,1,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'IBM,'1-1-2-2-3-3-2-1-2-5-1-2-3-1-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Intuit,'1-1-2-2-3-3-2-1-2-5-1-2-3-1-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Microsoft,'1-1-2-2-3-3-2-1-2-5-1-2-3-2,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Oracle,'1-1-2-2-3-3-2-1-2-5-1-2-3-3,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'SAP,'1-1-2-2-3-3-2-1-2-5-1-2-3-4-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Symantec,'1-1-2-2-3-3-2-1-2-5-1-2-3-4-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'VMware,'1-1-2-2-3-3-2-1-2-5-1-2-3-5,0,0,0,1,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Telecommunications,'1-1-2-2-3-3-2-1-2-5-2-1-1,0,0,0,1,1,1,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'services,'1-1-2-2-3-3-2-1-2-5-2-1-2,0,0,0,1,1,0,0,0,2,2,0,0,0,1,0,0,0,0,1,1,0,0,1,N
+'América Móvil,'1-1-2-2-3-3-2-1-2-5-2-2-1-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,3,I
+'AT&T,'1-1-2-2-3-3-2-1-2-5-2-2-1-2,0,0,0,1,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Bell Canada,'1-1-2-2-3-3-2-1-2-5-2-2-1-3,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,1,0,0,0,1,0,0,2,I
+'Bharti Airtel,'1-1-2-2-3-3-2-1-2-5-2-2-2-1,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'CenturyLink,'1-1-2-2-3-3-2-1-2-5-2-2-2-2,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'China Mobile,'1-1-2-2-3-3-2-1-2-5-2-2-2-3-1,0,0,0,1,0,2,1,0,2,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
+'China Telecom,'1-1-2-2-3-3-2-1-2-5-2-2-2-3-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
+'China Unicom,'1-1-2-2-3-3-2-1-2-5-2-2-2-4,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
+'Comcast,'1-1-2-2-3-3-2-1-2-5-2-2-2-5,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'Deutsche Telekom,'1-1-2-2-3-3-2-1-2-5-2-2-2-6,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Hutchison,'1-1-2-2-3-3-2-1-2-5-2-2-2-7-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'KDDI,'1-1-2-2-3-3-2-1-2-5-2-2-2-7-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'KPN,'1-1-2-2-3-3-2-1-2-5-2-2-2-8,0,0,0,1,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'MTN,'1-1-2-2-3-3-2-1-2-5-2-2-3-1-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'MTS,'1-1-2-2-3-3-2-1-2-5-2-2-3-1-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'NTT,'1-1-2-2-3-3-2-1-2-5-2-2-3-2,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'NTT DoCoMo,'1-1-2-2-3-3-2-1-2-5-2-2-3-3,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Orange,'1-1-2-2-3-3-2-1-2-5-2-2-4,0,0,0,1,0,1,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
+'Rogers,'1-1-2-2-3-3-2-1-2-5-2-2-5-1,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Saudi Telecom,'1-1-2-2-3-3-2-1-2-5-2-2-5-2,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'SingTel,'1-1-2-2-3-3-2-1-2-5-2-2-5-3-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'SK Telecom,'1-1-2-2-3-3-2-1-2-5-2-2-5-3-2,0,0,0,1,0,2,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'SoftBank Mobile,'1-1-2-2-3-3-2-1-2-5-2-2-5-4,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Sprint Corporation,'1-1-2-2-3-3-2-1-2-5-2-2-5-5,0,0,0,1,0,2,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Swisscom,'1-1-2-2-3-3-2-1-2-5-2-2-5-6-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'Telenor,'1-1-2-2-3-3-2-1-2-5-2-2-5-6-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Telecom Italia,'1-1-2-2-3-3-2-1-2-5-2-2-5-7,0,0,0,1,0,2,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Telefónica,'1-1-2-2-3-3-2-1-2-5-2-2-5-8,0,0,0,1,0,1,1,0,2,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
+'TeliaSonera,'1-1-2-2-3-3-2-1-2-5-2-2-5-9,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Verizon,'1-1-2-2-3-3-2-1-2-5-2-2-5-10-1,0,0,0,1,0,1,1,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
+'VimpelCom,'1-1-2-2-3-3-2-1-2-5-2-2-5-10-2,0,0,0,1,0,1,1,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Vivendi,'1-1-2-2-3-3-2-1-2-5-2-2-5-11,0,0,0,1,0,1,1,0,2,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'Vodafone,'1-1-2-2-3-3-2-1-2-5-2-2-5-12,0,0,0,1,0,1,1,0,2,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+"'Methodology: FY2012/13 applicable revenues of over: group 1-3, 6-12 - US$3 billion; group 4 - US$2 billion; group 5 - US$1 billion; group 13 - US$10 billion",'1-1-2-2-3-3-2-2,1,0,0,0,0,2,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,2,N

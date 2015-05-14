@@ -1,297 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'American International Group,'1-1-1,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,C
-'It has been suggested that Chartis be merged into this article. (Discuss) Proposed since February 2014.,'1-1-2-1-1-1-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,N
-"'""AIG"" redirects here. For other uses, see AIG (disambiguation).",'1-1-2-1-1-2,0,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
-"'American International Group, Inc.",'1-1-2-1-2-1,0,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,N
-'Type,'1-1-2-1-2-2-2-1,0,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'Public,'1-1-2-1-2-2-2-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Traded as,'1-1-2-1-2-2-3-1,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'NYSE AIG,'1-1-2-1-2-2-3-2-1,0,0,0,1,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'S&P 500 Component,'1-1-2-1-2-2-3-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Industry,'1-1-2-1-2-2-4-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Insurance, Financial services",'1-1-2-1-2-2-4-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,I
-'Founded,'1-1-2-1-2-2-5-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Shanghai, China (1919)",'1-1-2-1-2-2-5-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,I
-'Founder(s),'1-1-2-1-2-2-6-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'Cornelius Vander Starr,'1-1-2-1-2-2-6-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Headquarters,'1-1-2-1-2-2-7-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'New York, New York, U.S.",'1-1-2-1-2-2-7-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Area served,'1-1-2-1-2-2-8-1,0,0,0,1,1,2,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Worldwide,'1-1-2-1-2-2-8-2,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Key people,'1-1-2-1-2-2-9-1,0,0,0,1,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,2,C
-'Bob Benmosche,'1-1-2-1-2-2-9-2-1,0,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'(President & CEO),'1-1-2-1-2-2-9-2-2-1,0,0,0,1,0,2,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,2,I
-'Steve Miller,'1-1-2-1-2-2-9-2-2-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Products,'1-1-2-1-2-2-10-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Insurance, Property Casualty: Commercial & Consumer, Life & Retirement, Mortgage Insurance, Aircraft Leasing",'1-1-2-1-2-2-10-2,1,0,0,1,0,2,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,I
-'Revenue,'1-1-2-1-2-2-11-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'US$ 65,656 million (2012)",'1-1-2-1-2-2-11-2,0,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Operating income,'1-1-2-1-2-2-12-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'US$ 6,635 million (2012)",'1-1-2-1-2-2-12-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Net income,'1-1-2-1-2-2-13-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'US$ 3,438 million (2012)",'1-1-2-1-2-2-13-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total assets,'1-1-2-1-2-2-14-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'US$ 548,633 million (2012)",'1-1-2-1-2-2-14-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Total equity,'1-1-2-1-2-2-15-1,0,0,0,1,1,2,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'US$ 98,669 million (2012)",'1-1-2-1-2-2-15-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Employees,'1-1-2-1-2-2-16-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-"'Approximately 63,000 (2012)",'1-1-2-1-2-2-16-2,0,0,0,1,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Website,'1-1-2-1-2-2-17-1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'AIG.com,'1-1-2-1-2-2-17-2,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-"'American International Group, Inc. – also known as AIG – is an American multinational insurance corporation with over 63,000 employees globally. AIG companies serve customers in more than 130 countries around the world; the company is a provider of property casualty insurance, life insurance and retirement services, and mortgage insurance. AIG’s corporate headquarters are in New York City, its British headquarters are in London, continental Europe operations are based in La Défense, Paris, and its Asian headquarters are in Hong Kong. According to the 2013 Forbes Global 2000 list, AIG was the 62nd-largest public company in the world. As of February 20, 2014, it had a market capitalization of $73.11 billion, per FactSet.",'1-1-2-1-3-1-1,2,0,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,2,I
-'Contents,'1-1-2-1-3-1-2-1-1,0,0,1,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'1 History 1.1 The Early Years: 1919 to 1939
-1.2 International and Domestic Expansion: 1940 to 1959
-1.3 Reorganization and Specialization: 1960 to 1979
-1.4 New Opportunities and Directions: 1980 to 1999
-1.5 2000s
-1.6 Financial crisis",'1-1-2-1-3-1-2-1-2-1,2,0,0,1,0,2,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,I
-'2 Corporate governance,'1-1-2-1-3-1-2-1-2-2-1,0,0,0,1,0,2,1,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,I
-'2.1 Board of directors,'1-1-2-1-3-1-2-1-2-2-2,0,0,0,1,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'3 Business,'1-1-2-1-3-1-2-1-2-3,0,0,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'4 Restatement,'1-1-2-1-3-1-2-1-2-4,0,0,0,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'5 See also,'1-1-2-1-3-1-2-1-2-5,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'6 References,'1-1-2-1-3-1-2-1-2-6,0,0,0,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'7 Further reading,'1-1-2-1-3-1-2-1-2-7,0,0,0,1,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'8 External links,'1-1-2-1-3-1-2-1-2-8,0,0,0,1,0,2,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-1-3-1-2-2-1-1-1,0,0,0,1,1,1,0,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-'The Early Years: 1919 to 1939,'1-1-2-1-3-1-2-2-1-1-2,0,0,0,1,1,2,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,C
-"'AIG traces its roots back to 1919, when American Cornelius Vander Starr (1892-1968) established a general insurance agency, American Asiatic Underwriters (AAU), in Shanghai, China. Business grew rapidly, and two years later, Starr formed a life insurance operation. By the late 1920s, AAU had branches throughout China and Southeast Asia, including the Philippines, Indonesia, and Malaysia. In 1926, Mr. Starr opened his first office in the United States, American International Underwriters Corporation (AIU). He also focused on opportunities in Latin America and, in the late 1930s, AIU entered Havana, Cuba. The steady growth of the Latin American agencies proved significant as it would offset the decline in business from Asia due to the impending World War II. In 1939, Mr. Starr moved his headquarters from Shanghai, China, to New York City.",'1-1-2-1-3-1-2-2-1-2,2,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'International and Domestic Expansion: 1940 to 1959,'1-1-2-1-3-1-2-2-2-1,0,0,0,1,1,2,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,2,C
-"'After World War II, American International Underwriters (AIU) entered Japan and Germany, to provide insurance for American military personnel. Throughout the late 1940s and early 1950s, AIU continued to expand in Europe, with offices opening in France, Italy, and the United Kingdom. In 1952, Mr. Starr began to focus on the American market by acquiring Globe & Rutgers Fire Insurance Company and its subsidiary, American Home Fire Assurance Company. By the end of the decade, C.V. Starr's general and life insurance organization included an extensive network of agents and offices in over 75 countries.",'1-1-2-1-3-1-2-2-2-2,2,0,0,1,0,2,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,I
-'Reorganization and Specialization: 1960 to 1979,'1-1-2-1-3-1-2-2-3-1,0,0,0,1,1,2,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'In 1960, C.V. Starr hired Maurice R. Greenberg to develop an international accident and health business. Two years later, Mr.Greenberg reorganized one of C.V. Starr’s U.S. holdings into a successful multiple line carrier. Greenberg focused on selling insurance through independent brokers rather than agents to eliminate agent salaries. Using brokers, AIU could price insurance according to its potential return even if it suffered decreased sales of certain products for great lengths of time with very little extra expense. In 1967, American International Group, Inc. (AIG) was incorporated as a unifying umbrella organization for most of C.V. Starr’s general and life insurance businesses. In 1968, Starr named Greenberg his successor. The company went public in 1969. The 1970s presented many challenges for AIG as operations in the Middle East and Southeast Asia were curtailed or ceased altogether due to the changing political landscape. However, AIG continued to expand its markets by introducing specialized energy, transportation, and shipping products to serve the needs of niche industries. By 1979, with a growing workforce and a worldwide network of offices, AIG offered clients superior technical and risk management skills in an increasingly competitive marketplace.",'1-1-2-1-3-1-2-2-3-2,2,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'New Opportunities and Directions: 1980 to 1999,'1-1-2-1-3-1-2-2-4-1,0,0,0,1,1,2,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'During the 1980s, AIG continued expanding its market distribution and worldwide network by offering a wide range of specialized products, including pollution liability and political risk. In 1984 AIG listed its shares on the New York Stock Exchange (NYSE). Throughout the 1990s, AIG developed new sources of income through diverse investments, including the acquisition of International Lease Finance Corporation (ILFC), a provider of leased aircraft to the airline industry. In 1992, AIG received the first foreign insurance license granted in over 40 years by the Chinese government. Within the U.S., AIG acquired Sun America Inc. a retirement savings company, in 1999.",'1-1-2-1-3-1-2-2-4-2,2,0,0,1,0,2,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'2000s,'1-1-2-1-3-1-2-2-5-1,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'The early 2000s saw a marked period of growth as AIG acquired American General Corporation, a leading domestic life insurance and annuities provider, and AIG entered new markets including India. In February 2000, AIG created a strategic advisory venture team with the Blackstone Group and Kissinger Associates ""to provide financial advisory services to corporations seeking high level independent strategic advice."" AIG has been an investor in the Blackstone Group since 1998 and just recently sold all of its' shares in the company, which was also an adviser for them during the '07-'08 financial crisis.",'1-1-2-1-3-1-2-2-5-2-1,2,0,0,1,0,0,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'On October 14, 2004, the New York State Office of Attorney General Eliot Spitzer announced that it had commenced a civil action against Marsh & McLennan Companies for steering clients to preferred insurers with whom the company maintained lucrative payoff agreements, and for soliciting rigged bids for insurance contracts from the insurers. The Attorney General announced in a release that two AIG executives pleaded guilty to criminal charges in connection with this illegal course of conduct. In early May 2005, AIG restated its financial position and issued a reduction in book value of USD $2.7 billion, a 3.3 percent reduction in net worth. On February 9, 2006, AIG and the New York State Attorney General's office agreed to a settlement in which AIG would pay a fine of $1.6 billion.",'1-1-2-1-3-1-2-2-5-2-2,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In November 2004, AIG reached a US$126 million settlement with the U.S. Securities and Exchange Commission and the Justice Department partly resolving a number of regulatory matters, but the company must still cooperate with investigators continuing to probe the sale of a non-traditional insurance product.",'1-1-2-1-3-1-2-2-5-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'Beginning in 2005, AIG became embroiled in a series of fraud investigations conducted by the Securities and Exchange Commission, U.S. Justice Department, and New York State Attorney General's Office. Greenberg was ousted amid an accounting scandal in February 2005; he is still fighting civil charges being pursued by New York state. The New York Attorney General's investigation led to a $1.6 billion fine for AIG and criminal charges for some of its executives. Greenberg was succeeded as CEO by Martin J. Sullivan, who had begun his career at AIG as a clerk in its London office in 1970.",'1-1-2-1-3-1-2-2-5-2-4,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'After Greenberg left, AIG took on tens of billions of risk associated with mortgages. It insured tens of billions of derivatives against default, but did not purchase reinsurance on that risk. Secondly, it used collateral on deposit to buy mortgage-backed securities. When losses hit the mortgage market in 2007-8, AIG had to pay out insurance claims and also replace the losses in its collateral accounts.",'1-1-2-1-3-1-2-2-5-2-5,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'AIG purchased the remaining 39% that it did not own of online auto insurance specialist 21st Century Insurance in 2007 for $749 million. With the failure of the parent company and the continuing recession in late 2008, AIG rebranded its insurance unit to 21st Century Insurance.",'1-1-2-1-3-1-2-2-5-2-6,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'On June 15, 2008, after disclosure of financial losses and subsequent to a falling stock price, Sullivan resigned and was replaced by Robert B. Willumstad, Chairman of the AIG Board of Directors since 2006. Willumstad was forced by the US government to step down and was replaced by Edward M. Liddy on September 17, 2008. AIG's board of directors named Robert Benmosche CEO on August 3, 2009 to replace Mr. Liddy, who earlier in the year announced his retirement.",'1-1-2-1-3-1-2-2-5-2-7,2,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Financial crisis,'1-1-2-1-3-1-2-2-6-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Further information: Subprime mortgage crisis and Financial crisis of 2007–08,'1-1-2-1-3-1-2-2-6-2-1,1,0,0,1,0,2,1,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,N
-"'AIG faced the most difficult financial crisis in its history when a series of events unfolded in late 2008. The insurer had sold credit protection through its London unit in the form of credit default swaps (CDSs) on collateralized debt obligations (CDOs) but they had declined in value. The AIG Financial Products division, headed by Joseph Cassano, in London, had entered into credit default swaps to insure $441 billion worth of securities originally rated AAA. Of those securities, $57.8 billion were structured debt securities backed by subprime loans. As a result, AIG’s credit rating was downgraded and it was required to post additional collateral with its trading counter-parties, leading to a liquidity crisis that began on September 16, 2008 and essentially bankrupted all of AIG. The United States Federal Reserve Bank stepped in, announcing the creation of a secured credit facility of up to US$85 billion to prevent the company's collapse, enabling AIG to deliver additional collateral to its credit default swap trading partners. The credit facility was secured by the stock in AIG-owned subsidiaries in the form of warrants for a 79.9% equity stake in the company and the right to suspend dividends to previously issued common and preferred stock. The AIG board accepted the terms of the Federal Reserve rescue package that same day, making it the largest government bailout of a private company in U.S. history.",'1-1-2-1-3-1-2-2-6-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,3,I
-"'On January 21, 2009, it was announced that AIG would not be renewing its sponsorship of the Manchester United Soccer club at the end of the deal in May 2010.",'1-1-2-1-3-1-2-2-6-2-3,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,2,I
-"'On March 17, 2009, AIG announced that they were paying $165 million in executive bonuses, according to news reports. Total bonuses for the financial unit could reach $450 million and bonuses for the entire company could reach $1.2 billion. President Barack Obama, who voted for the AIG bailout as a Senator responded to the planned payments by saying ""[I]t's hard to understand how derivative traders at AIG warranted any bonuses, much less $165 million in extra pay. How do they justify this outrage to the taxpayers who are keeping the company afloat?"" and ""In the last six months, AIG has received substantial sums from the U.S. Treasury. I’ve asked Secretary [Timothy] Geithner to use that leverage and pursue every legal avenue to block these bonuses and make the American taxpayers whole.""[100] Politicians on both sides of the Congressional aisle reacted with outrage to the planned bonuses. Political commentators and journalists expressed an equally bipartisan outrage.",'1-1-2-1-3-1-2-2-6-2-4,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'Due to the Q3 2011 net loss widening, on November 3, 2011, the AIG shares plunged 49 percent year to date. The insurer's board approved the share buyback of as much as $1 billion.",'1-1-2-1-3-1-2-2-6-2-5,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'The U.S. Department of The Treasury in December 2012 published an itemized list of the loans, stock purchases, special purpose vehicles (SPVs) and other investments engaged in with AIG, the amount AIG paid back and the positive return on the loans and investments to the government. Treasury said that it and the Federal Reserve Bank of New York provided a total $182.3 billion to AIG, which paid back a total $205 billion, for a total positive return, or profit, to the government of $22.7 billion. In addition, AIG sold off a number of its own assets to raise money to pay back the government.",'1-1-2-1-3-1-2-2-6-2-6,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'On June 11, 2008, three stockholders, collectively owning 4% of the outstanding stock of AIG, delivered a letter to the Board of Directors of AIG seeking to oust CEO Martin Sullivan and make certain other management and Board of Directors changes. This letter was the latest volley in what the Wall Street Journal deemed a ""public spat"" between the Company's Board and management, on the one hand, and its key stockholders, and former CEO Maurice ""Hank"" Greenberg on the other hand.",'1-1-2-1-3-1-2-2-6-2-7,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'AIG since September 2008 marketed its assets to pay off its government loans. A global decline in the valuation of insurance businesses, and the weakening financial condition of potential bidders, challenged its efforts. AIG closed on the sale of its Hartford Steam Boiler unit on March 31, 2009 to Munich Re for $742 million, which was announced December 22, 2008. On April 16, 2009, AIG announced plans to sell 21st Century Insurance subsidiary to Farmers Insurance Group for $1.9 billion. June 10, 2009. AIG sold down its majority ownership of reinsurer Transatlantic Re. The Wall Street Journal reported on September 7, 2009 that Pacific Century Group had agreed to pay $500 million for a part of American International Group's asset management business, and that they also expected to pay an additional $200 million to AIG in carried interest and other payments linked to future performance of the business.",'1-1-2-1-3-1-2-2-6-2-8,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'AIG agreed in March 2010 to sell its American Life Insurance Co. (ALICO) to MetLife Inc. for $15.5 billion in cash and MetLife stock. Bloomberg L.P. reported on March 29 that after almost three months of delays, AIG had completed the $500 million sale of a portion of its asset management business, branded PineBridge Investments, to the Asia-based Pacific Century Group. Fortress Investment Group purchased 80% of the interest in financing company American General Finance in August 2010. AIG in September sold AIG Starr and AIG Edison, two of its Japan-based companies, to Prudential Financial for $4.2 billion in cash and $600 million in assumption of third party AIG debt by Prudential. On November 1, AIG announced it has raised $36.71 billion from both the sale of ALICO and its IPO of AIA. Proceeds go specifically to pay off FRB of New York loan.",'1-1-2-1-3-1-2-2-6-2-9,2,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'In October 2010 the WSJ reported that a family sued AIG for alleged complicity in a 'stranger-originated life insurance' scheme, whereby AIG managers allegedly welcomed people without an insurable interest to take out life insurance policies against others. The case involved JB Carlson and Germaine Tomlinson, and was one of many similar lawsuits in the US at the time.",'1-1-2-1-3-1-2-2-6-2-10,2,0,0,1,0,0,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'Reported in January 2011, AIG sold its Taiwanese life insurance company, Nan Shan Life, to a consortium of buyers for $2.16 billion.",'1-1-2-1-3-1-2-2-6-2-11,1,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-"'September 6, 2012. AIG sold $2 billion of its investment in AIA to repay government loans. The board also approved a $5 billion stock repurchase of government-owned shares in AIA.",'1-1-2-1-3-1-2-2-6-2-12,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'The Treasury Department realized a gain of more than $22 billion from the sale of AIG common stock and $0.9 billion from the sale of AIG preferred stock.,'1-1-2-1-3-1-2-2-6-2-13,1,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'May 7, 2012. Treasury announced an offering of 188.5 million shares of AIG for a total of $5.8 billion. The sale reduced Treasury’s stake in AIG to 61 percent, from 70 percent before the transaction.",'1-1-2-1-3-1-2-2-6-2-14,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'September 14, 2012. The Treasury completed its fifth sale of AIG common stock, with proceeds of approximately $20.7 billion, reducing the Treasury’s ownership stake in AIG to approximately 15.9 percent from 53 percent. Government commitments were fully recovered, and Treasury and the FRBNY to date had received a combined positive return of approximately $15.1 billion.",'1-1-2-1-3-1-2-2-6-2-15,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'December 14, 2012. Treasury sold the last of its AIG stock in its sixth stock stale for a total of approximately $7.6 billion. As a result of these sales, the U.S. Government and America fully recouped their investment in AIG, plus a total combined positive return of more than $22 billion.",'1-1-2-1-3-1-2-2-6-2-16,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Corporate governance,'1-1-2-1-3-1-2-2-7-1-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-'Board of directors,'1-1-2-1-3-1-2-2-7-1-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,1,C
-"'Robert H. Benmosche – President and Chief Executive Officer, American International Group, Inc.",'1-1-2-1-3-1-2-2-7-2-1-1,1,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-"'W. Don Cornwell – Former Chairman of the Board and Chief Executive Officer, Granite Broadcasting Corporation",'1-1-2-1-3-1-2-2-7-2-1-2,1,1,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-"'John H. Fitzpatrick – Chairman, Oak Street Management Co., LLC",'1-1-2-1-3-1-2-2-7-2-1-3-1,1,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
-"'Christopher S. Lynch – Former Partner, KPMG LLP",'1-1-2-1-3-1-2-2-7-2-1-3-2,0,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'Arthur C. Martinez – Former Chairman of the Board, President and Chief Executive Officer, Sears, Roebuck and Co.",'1-1-2-1-3-1-2-2-7-2-1-4,1,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-"'George L. Miles, Jr. – President and Chief Executive Officer, WQED Multimedia",'1-1-2-1-3-1-2-2-7-2-1-5,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'Henry S. Miller – Chairman and Managing Director, Miller Buckfire & Co., LLC",'1-1-2-1-3-1-2-2-7-2-1-6,1,1,0,1,0,2,1,0,1,2,1,1,0,1,0,0,1,0,0,0,0,0,2,I
-"'Robert S. Miller – Non-Executive Chairman of the Board, American International Group, Inc.",'1-1-2-1-3-1-2-2-7-2-1-7-1,1,1,0,1,0,2,1,0,1,2,0,0,1,0,0,0,1,0,0,0,0,0,2,I
-"'Suzanne Nora Johnson – Former Vice Chairman, The Goldman Sachs Group, Inc.",'1-1-2-1-3-1-2-2-7-2-1-7-2,1,1,0,1,0,2,1,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,2,I
-"'Ronald A. Rittenmeyer – Former Chairman, Chief Executive Officer and President, Electronic Data Systems Corporation",'1-1-2-1-3-1-2-2-7-2-1-8,1,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-"'Douglas Steenland – Former President and Chief Executive Officer, Northwest Airlines Corporation",'1-1-2-1-3-1-2-2-7-2-1-9,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-"'Theresa M. Stone - Former Executive Vice President and Treasurer, Massachusetts Institute of Technology",'1-1-2-1-3-1-2-2-7-2-1-10,1,1,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'William G. Jurgensen - Former Chief Executive Officer Nationwide Insurance,'1-1-2-1-3-1-2-2-7-2-1-11,1,1,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
-'As of May 2013.,'1-1-2-1-3-1-2-2-7-2-2,0,0,0,1,0,2,0,0,1,2,0,1,0,0,0,0,0,1,0,1,0,0,2,N
-'Business,'1-1-2-1-3-1-2-2-8-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3,C
-"'In the United States, AIG is the largest underwriter of commercial and industrial insurance.",'1-1-2-1-3-1-2-2-8-2-1,1,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,1,0,0,0,1,I
-"'AIG offers property casualty insurance, life insurance, retirement products, mortgage insurance and other financial services. In the third quarter of 2012, the global property-and-casualty insurance business, Chartis, was renamed AIG Property Casualty. SunAmerica, life-insurance and retirement-services division, was renamed AIG Life and Retirement, other existing brands continue to be used in certain geographies and market segments.",'1-1-2-1-3-1-2-2-8-2-2,2,0,0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-'AIG Property Casualty,'1-1-2-1-3-1-2-2-8-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'AIG Life and Retirement,'1-1-2-1-3-1-2-2-8-2-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Mortgage Guaranty (United Guaranty Corporation or UGC),'1-1-2-1-3-1-2-2-8-2-5,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-"'On October 12, 2012, AIG announced a 5 ½ year agreement to sponsor six New Zealand-based rugby teams, including world champion All Blacks. The AIG logo and the Adidas logo, the league’s primary sponsor, will be displayed on the league’s team jerseys.",'1-1-2-1-3-1-2-2-8-2-6,2,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Restatement,'1-1-2-1-3-1-2-2-9-1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'On May 1, 2005, investigations conducted by outside counsel at the request of AIG's Audit Committee and the consultation with AIG's independent auditors, PricewaterhouseCoopers LLP resulted in AIG's decision to restate its financial statements for the years ended December 31, 2003, 2002, 2001 and 2000, the quarters ended March 31, June 30 and September 30, 2004 and 2003 and the quarter ended December 31, 2003. On November 9, 2005, the company was reported of delaying its third-quarter earnings report because it must restate earlier financial results to correct accounting errors.",'1-1-2-1-3-1-2-2-9-2,2,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,I
-'See also,'1-1-2-1-3-1-2-2-10-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'AIG Advisor Group,'1-1-2-1-3-1-2-2-10-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'AIG Retirement,'1-1-2-1-3-1-2-2-10-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bailout,'1-1-2-1-3-1-2-2-10-2-3,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Chartis,'1-1-2-1-3-1-2-2-10-2-4,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Late-2000s financial crisis,'1-1-2-1-3-1-2-2-10-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Lemon socialism,'1-1-2-1-3-1-2-2-10-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'List of United States insurance companies,'1-1-2-1-3-1-2-2-10-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
-'MBIA,'1-1-2-1-3-1-2-2-10-2-8,0,0,0,1,0,1,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Further reading,'1-1-2-1-3-1-2-2-11-1,0,0,0,1,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,C
-"'Maurice R. Greenberg and Lawrence A. Cunningham, The AIG Story (2013)",'1-1-2-1-3-1-2-2-11-2-1,1,1,0,1,0,2,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,I
-"'Sjostrom, Jr., William K. ""The AIG Bailout"".",'1-1-2-1-3-1-2-2-11-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'(2009),'1-1-2-1-3-1-2-2-11-2-2-2,0,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'""An Insurance Giant, Brought Down"". New York Times. September 27, 2008. Archived from the original on September 30, 2008. Retrieved September 27, 2008.",'1-1-2-1-3-1-2-2-11-2-3-1,1,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,1,1,0,0,0,2,I
-'(Graphic),'1-1-2-1-3-1-2-2-11-2-3-2,0,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,2,I
-"'""Losses in Perspective"" New York Times. September 17, 2008. (Graphic of AIG quarterly net profit & losses over five years, comparing Finance vs. Insurance activities.)",'1-1-2-1-3-1-2-2-11-2-4,1,1,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,1,0,0,0,2,I
-"'Marsh, Bill (September 28, 2008). ""A Tally of Federal Rescues"". New York Times. Archived from the original on October 1, 2008. Retrieved September 28, 2008.",'1-1-2-1-3-1-2-2-11-2-5,1,1,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,1,0,0,0,0,2,I
-"'Schneiderman, R.M; Philip Caulfield, Celena Fang, Elisabeth Goodridge and Vikas Bajaj (September 15, 2008). ""How a Market Crisis Unfolded: Some of the key events in the upheaval"". The New York Times. Archived from the original on September 16, 2008. Retrieved September 17, 2008.",'1-1-2-1-3-1-2-2-11-2-6-1,2,0,0,1,0,2,1,1,1,2,0,0,1,0,0,0,0,1,0,0,0,0,2,I
-'(Graphic and interactive timeline.),'1-1-2-1-3-1-2-2-11-2-6-2,0,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1,1,2,I
-"'Shelp, Ron (2006). Fallen Giant: The Amazing Story of Hank Greenberg and the History of AIG. Hoboken, NJ: Wiley. ISBN 0-471-91696-X.",'1-1-2-1-3-1-2-2-11-2-7,1,1,0,1,0,2,1,1,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-"'For a list of counterparties receiving U.S. taxpayer dollars, see: Business Week – List of Counterparties and Payouts",'1-1-2-1-3-1-2-2-11-2-8,1,1,0,1,0,2,1,1,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'External links,'1-1-2-1-3-1-2-2-12,0,0,0,1,1,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,C
-'70 Pine Street was known as the American International Building.,'1-1-2-1-3-2-1-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,N
-"'The American International Building on 175 Water Street, New York City.",'1-1-2-1-3-2-2-2,1,0,0,1,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Companies portal,'1-1-2-1-3-3-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,3,N
-'Wikimedia Commons has media related to American International Group.,'1-1-2-2-1-2,0,0,0,1,0,2,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,3,N
-'Official website,'1-1-2-2-2-1-1,0,0,0,1,0,2,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,3,I
-'List of AIG subsidiary companies,'1-1-2-2-2-1-2,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,2,I
-'AIG at Google Finance,'1-1-2-2-2-1-3,0,0,0,1,0,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'AIG at Yahoo! Finance,'1-1-2-2-2-1-4,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'AIG topics at The New York Times,'1-1-2-2-2-1-5-1,0,0,0,1,0,2,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Major insurance and reinsurance companies,'1-1-2-2-2-2-1,0,0,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'Insurance,'1-1-2-2-2-2-2-1-1-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'Composite,'1-1-2-2-2-2-2-1-1-2-1-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Aegon Ageas,'1-1-2-2-2-2-2-1-1-2-1-2-1,0,0,0,1,0,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'AIG,'1-1-2-2-2-2-2-1-1-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Allianz,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-1,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Allstate,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Aon,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Aviva,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'AXA,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-5,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Pacific Insurance,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'China Taiping,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
-'Generali,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-8,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'ING,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-9,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'National Mutual Insurance Federation of Agricultural Cooperatives,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-10,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
-'Ping An Insurance,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-11,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'Prudential plc,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-12,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'PZU,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-13,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'State Farm Insurance,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-14,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'The Hartford,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-15,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'UnipolSai,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-16,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Vienna Insurance Group,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-17,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,1,0,0,2,I
-'Zurich Insurance Group,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-18-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
-'Farmers Insurance Group,'1-1-2-2-2-2-2-1-1-2-1-2-2-2-18-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'General insurance,'1-1-2-2-2-2-2-1-1-2-2-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'BB Seguridade,'1-1-2-2-2-2-2-1-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Berkshire Hathaway,'1-1-2-2-2-2-2-1-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'BNP Paribas,'1-1-2-2-2-2-2-1-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Bradesco Seguros,'1-1-2-2-2-2-2-1-1-2-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'CNP Assurances,'1-1-2-2-2-2-2-1-1-2-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Hyundai Marine & Fire Insurance,'1-1-2-2-2-2-2-1-1-2-2-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'If P&C Insurance,'1-1-2-2-2-2-2-1-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Insurance Australia Group,'1-1-2-2-2-2-2-1-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,I
-'Liberty Mutual,'1-1-2-2-2-2-2-1-1-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Mapfre,'1-1-2-2-2-2-2-1-1-2-2-2-10,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Mitsui Sumitomo Insurance Group,'1-1-2-2-2-2-2-1-1-2-2-2-11,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'PICC,'1-1-2-2-2-2-2-1-1-2-2-2-12,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'QBE Insurance,'1-1-2-2-2-2-2-1-1-2-2-2-13,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'RSA Insurance Group,'1-1-2-2-2-2-2-1-1-2-2-2-14,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Samsung Fire & Marine Insurance,'1-1-2-2-2-2-2-1-1-2-2-2-15,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Sompo Japan,'1-1-2-2-2-2-2-1-1-2-2-2-16,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Tokio Marine,'1-1-2-2-2-2-2-1-1-2-2-2-17,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Travelers,'1-1-2-2-2-2-2-1-1-2-2-2-18,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'UIIC India,'1-1-2-2-2-2-2-1-1-2-2-2-19,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'XL Group,'1-1-2-2-2-2-2-1-1-2-2-2-20,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Life insurance,'1-1-2-2-2-2-2-1-1-2-3-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'AIA,'1-1-2-2-2-2-2-1-1-2-3-2-1,0,0,0,1,0,1,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Bupa,'1-1-2-2-2-2-2-1-1-2-3-2-2,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'China Life,'1-1-2-2-2-2-2-1-1-2-3-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Dai-ichi Life,'1-1-2-2-2-2-2-1-1-2-3-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Great Eastern,'1-1-2-2-2-2-2-1-1-2-3-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Jackson,'1-1-2-2-2-2-2-1-1-2-3-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Legal & General,'1-1-2-2-2-2-2-1-1-2-3-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'LIC India,'1-1-2-2-2-2-2-1-1-2-3-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Lincoln,'1-1-2-2-2-2-2-1-1-2-3-2-9,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Manulife Financial,'1-1-2-2-2-2-2-1-1-2-3-2-10,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Meiji Yasuda Life,'1-1-2-2-2-2-2-1-1-2-3-2-11,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'MetLife,'1-1-2-2-2-2-2-1-1-2-3-2-12,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'New York Life,'1-1-2-2-2-2-2-1-1-2-3-2-13,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Nippon Life,'1-1-2-2-2-2-2-1-1-2-3-2-14,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Northwestern Mutual,'1-1-2-2-2-2-2-1-1-2-3-2-15,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Old Mutual,'1-1-2-2-2-2-2-1-1-2-3-2-16,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Phoenix Group,'1-1-2-2-2-2-2-1-1-2-3-2-17,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Prudential Financial,'1-1-2-2-2-2-2-1-1-2-3-2-18,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Samsung Life,'1-1-2-2-2-2-2-1-1-2-3-2-19,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Scottish Widows,'1-1-2-2-2-2-2-1-1-2-3-2-20,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Standard Life,'1-1-2-2-2-2-2-1-1-2-3-2-21,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Sumitomo Life,'1-1-2-2-2-2-2-1-1-2-3-2-22,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Sun Life,'1-1-2-2-2-2-2-1-1-2-3-2-23,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Swiss Life,'1-1-2-2-2-2-2-1-1-2-3-2-24,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Taikang Life,'1-1-2-2-2-2-2-1-1-2-3-2-25,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Reinsurance,'1-1-2-2-2-2-2-1-2-1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Gen Re,'1-1-2-2-2-2-2-1-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Hannover Re,'1-1-2-2-2-2-2-1-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'Lloyd's of London,'1-1-2-2-2-2-2-1-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Munich Re,'1-1-2-2-2-2-2-1-2-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Reinsurance Group of America,'1-1-2-2-2-2-2-1-2-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Scor,'1-1-2-2-2-2-2-1-2-2-6,0,0,0,1,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Swiss Re,'1-1-2-2-2-2-2-1-2-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'XL Group,'1-1-2-2-2-2-2-1-2-2-8,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Methodology: Applicable FY2010/11 revenues of over US$3 billion,'1-1-2-2-2-2-2-2,0,0,0,1,0,2,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'American International Group,'1-1-2-2-2-3-1,0,0,0,2,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,C
-"'Key People
-
-Cornelius Vander Starr (founder)
-Maurice R. Greenberg
-Martin J. Sullivan
-Edward M. Liddy
-Robert H. Benmosche (current President & CEO)
-Joe Cassano
-Win Neuger",'1-1-2-2-2-3-2-1,1,1,0,1,1,2,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,C
-"'Board of Directors
-
-Robert H. Benmosche
-Arthur C. Martinez
-W. Don Cornwell
-Henry S. Miller
-John H. Fitzpatrick
-Theresa M. Stone
-Suzanne Nora Johnson
-Robert S. Miller
-Christopher S. Lynch
-George L. Miles, Jr.
-Ronald A. Rittenmeyer
-Douglas M. Steenland
-William G. Jurgensen",'1-1-2-2-2-3-2-2,2,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Current subsidiaries
-
-AIG Property Casualty
-AIG Life and Retirement
-AIG Bank
-AIG Direct
-SunAmerica Financial Group
-American General Life Companies
-AGLA
-VALIC
-United Guaranty
-AIG Israel
-Travel Guard
-Lexington Insurance
-AIU
-American Home Direct
-Fuji Fire & Marine
-Fuji Life International Lease Finance
-Stowe Mountain Resort",'1-1-2-2-2-3-2-3,1,1,0,1,1,2,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,C
-"'Former subsidiaries
-
-Chartis Insurance
-SunAmerica Financial Group (SAFG)
-ALICO
-AIG Star Life Insurance (AIG Star)
-AIG Edison Life Insurance (AIG Edison)
-Nan Shan Life Insurance (Nan Shan)
-American General Finance (AGF)",'1-1-2-2-2-3-2-4,1,1,0,1,1,2,1,0,2,1,1,1,1,1,0,0,0,0,1,0,0,0,1,C
-"'Products
-
-Insurance
-Property Casualty: Commercial & Consumer, Life & Retirement
-Mortgage Insurance",'1-1-2-2-2-3-2-5,0,1,0,1,1,2,1,1,2,1,1,1,0,1,1,0,0,0,1,1,0,0,1,C
-'Buildings,'1-1-2-2-2-3-2-6-1,0,0,0,1,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,1,1,1,C
-'175 Water Street (New York),'1-1-2-2-2-3-2-6-2-1,0,1,0,1,0,2,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'America Tower (Houston),'1-1-2-2-2-3-2-6-2-2,0,1,0,1,0,2,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'1999 Avenue of the Stars (Los Angeles),'1-1-2-2-2-3-2-6-2-3,0,1,0,1,0,2,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Life Tower (Houston),'1-1-2-2-2-3-2-6-2-4,0,1,0,1,0,2,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'58 Fenchurch St (London),'1-1-2-2-2-3-2-6-2-5,0,1,0,1,0,2,0,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Kamiyachi Building (Tokyo),'1-1-2-2-2-3-2-6-2-6,0,1,0,1,0,2,0,0,2,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'50 largest banks and bank holding companies in the United States,'1-1-2-2-2-4-1,1,0,0,2,1,0,1,0,2,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
-'Ally American Express,'1-1-2-2-2-4-2-1-1,0,0,0,1,0,2,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,I
-'American International Group,'1-1-2-2-2-4-2-1-2-1,0,0,0,1,1,2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,1,1,2,I
-'BancWest* Bank of America Bank of New York Mellon BB&T BBVA Compass* BMO Harris* BOK Financial Capital One Charles Schwab CIT Citigroup Citizens Financial Group* City National (California) Comerica Deutsche Bank* Discover E-Trade Fifth Third First Niagara GE Capital Goldman Sachs HSBC Bank USA* Hudson City Huntington John Deere Capital JPMorgan Chase Key M&T Morgan Stanley New York Community Northern Trust People's United PNC Popular Principal Regions Santander* State Street SunTrust Synovus TD Bank* UnionBanCal* U.S. Bank USAA Utrecht-America* Wells Fargo Zions,'1-1-2-2-2-4-2-1-2-2,2,1,0,1,0,2,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'* indicates the U.S. subsidiary of a non-U.S. bank. Inclusion on this list is based on U.S. assets only, and is current as of September 30, 2013.",'1-1-2-2-2-4-2-2,1,1,0,1,0,0,0,0,2,1,0,1,0,0,0,0,0,1,1,0,0,0,2,N

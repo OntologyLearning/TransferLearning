@@ -1,0 +1,29 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Date,Institution,Month,Topic,Total,NextIsLi,LastEndColon,LastLabel,Label
+'Call for Demonstrations,'1-2-1-1-1-2,0,0,1,2,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,C
+"'We invite proposals for demonstrations describing first-hand experiences with research prototype systems in any of the topics identified in the call for papers http://www.cikm2011.org/callforpapers. We especially encourage demonstrations bridging these topics, or presenting new perspectives on these topics.",'1-2-1-1-2-1,2,0,0,1,0,0,1,1,1,2,1,1,1,0,0,0,0,0,0,1,0,0,0,1,I
+"'Demonstration papers must be submitted electronically through the conference submission system, in PDF format and formatted using the ACM camera-ready templates available at: http://www.acm.org/sigs/publications/proceedings-templates.",'1-2-1-1-2-2,1,0,0,1,0,0,1,1,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,2,I
+"'Demonstration papers should not exceed 4 pages in length and can describe system components, implementation techniques, experiences as well as interactive demonstration plans. Submissions must also include a URL linking to a preview of the demonstration.",'1-2-1-1-2-3,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'In a pure start-up fashion and to make demos more attractive, all accepted proposals will be presented *live* on the main auditorium. A prize will be announced for the winner.",'1-2-1-1-2-4,2,0,0,1,0,0,0,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,2,I
+'The review process for demonstration submission is NOT double-blind.,'1-2-1-1-2-5,0,0,0,1,0,2,0,0,1,2,1,1,0,1,0,0,1,0,0,0,0,0,0,2,I
+'Important Dates for Demonstrations,'1-2-1-1-2-6-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,0,2,C
+"'Demo papers due: June 26, 2011",'1-2-1-1-2-6-2-1,0,0,0,1,0,2,0,1,1,2,1,0,1,0,0,0,0,0,1,1,1,0,0,1,I
+"'Notification of Acceptance: July 25, 2011",'1-2-1-1-2-6-2-2,0,0,0,1,0,2,0,1,1,2,1,0,1,1,0,0,1,0,1,0,1,0,0,2,I
+"'Camera Ready: August 12, 2011",'1-2-1-1-2-6-2-3,0,0,0,1,0,2,0,1,1,2,1,0,0,1,1,0,0,0,1,0,1,0,0,2,I
+'Demonstrations committee,'1-2-1-1-2-7-1,0,0,0,1,1,2,0,0,1,2,1,1,0,0,1,0,0,0,0,0,1,0,0,2,C
+"'Enrique Alfonseca, Google (Switzerland)",'1-2-1-1-2-7-2-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,1,0,1,0,0,1,0,0,1,I
+"'Klaus Berberich, Max-Planck Institute (Germany)",'1-2-1-1-2-7-2-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Alex Dow, Microsoft (USA)",'1-2-1-1-2-7-2-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Conny Junghans, University of Heidelberg (Germany)",'1-2-1-1-2-7-2-4,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'David Gerster, Groupon (USA)",'1-2-1-1-2-7-2-5,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,2,I
+"'Vasilis Kandylas, Microsoft (USA)",'1-2-1-1-2-7-2-6,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Jussi Karlgren, SICS (Sweden)",'1-2-1-1-2-7-2-7,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,I
+"'David Losada, University of Santiago de Compostela (Spain)",'1-2-1-1-2-7-2-8,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Bertram Ludaescher, University of California, Davis (USA)",'1-2-1-1-2-7-2-9,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Gerard de Melo, Max-Planck Institute (Germany)",'1-2-1-1-2-7-2-10,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Ullas Nambiar, IBM Research (India)",'1-2-1-1-2-7-2-11,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,0,0,0,2,I
+"'Cristobal Pedregal-Martin, Oracle (USA)",'1-2-1-1-2-7-2-12,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Alvaro Pereira, Federal University of Ouro Preto (Brazil)",'1-2-1-1-2-7-2-13,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,0,2,I
+"'Igor Perisic, LinkedIn (USA)",'1-2-1-1-2-7-2-14,0,0,0,1,0,2,0,0,2,2,1,0,1,1,0,1,0,1,0,0,1,0,0,2,I
+"'Jorge Quiane-Ruiz, Saarland University (Germany)",'1-2-1-1-2-7-2-15,0,0,0,1,0,2,0,0,2,2,1,0,0,1,0,1,0,1,0,0,0,0,0,2,I
+"'Mandar Rahurkar, Yahoo! (USA)",'1-2-1-1-2-7-3,0,0,0,1,0,2,0,0,2,2,1,1,0,0,0,1,0,1,0,0,1,0,0,2,I
+'Queries regarding demonstration submissions should be sent to the Demonstrations Chair: Omar Alonso (demos@cikm2011.org),'1-2-1-1-2-8,1,0,0,1,0,2,1,1,2,2,1,1,0,0,1,0,0,0,0,0,0,0,0,2,C

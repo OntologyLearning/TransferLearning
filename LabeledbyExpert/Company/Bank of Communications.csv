@@ -1,346 +1,0 @@
-content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Introduction,Month,Organisation,Total,NextIsLi,LastEndColon,LastLabel,Label
-'Bank of Communications,'1-1-1,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,C
-'This article,'1-1-2-1-1-1-2,0,0,0,0,0,2,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,N
-'needs additional citations for verification,'1-1-2-1-1-1-3-1,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,3,N
-'Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.,'1-1-2-1-1-1-3-3,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,3,N
-'(November 2007),'1-1-2-1-1-1-3-4,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,3,N
-'Bank of Communication Limited,'1-1-2-1-1-2-1-1,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,3,N
-'Type,'1-1-2-1-1-2-2-2-1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,3,C
-'Public,'1-1-2-1-1-2-2-2-2,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,I
-'Traded as,'1-1-2-1-1-2-2-3-1,0,0,0,0,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,C
-"'SEHK: 3328, SSE: 601328",'1-1-2-1-1-2-2-3-2,0,0,0,0,0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Industry,'1-1-2-1-1-2-2-4-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-'Financial services,'1-1-2-1-1-2-2-4-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'Founded,'1-1-2-1-1-2-2-5-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-'1908,'1-1-2-1-1-2-2-5-2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Headquarters,'1-1-2-1-1-2-2-6-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-"'Shanghai, People's Republic of China",'1-1-2-1-1-2-2-6-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,2,I
-'Key people,'1-1-2-1-1-2-2-7-1,0,0,0,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,C
-'Chaoliang Jiang Chairman,'1-1-2-1-1-2-2-7-2-1,0,0,0,0,0,2,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,2,I
-'Jianguo Zhang President,'1-1-2-1-1-2-2-7-2-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Products,'1-1-2-1-1-2-2-8-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,C
-'Insurance,'1-1-2-1-1-2-2-8-2,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'Revenue,'1-1-2-1-1-2-2-9-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-'$20.274 billion RMB (2007),'1-1-2-1-1-2-2-9-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Employees,'1-1-2-1-1-2-2-10-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-"'79,122 (31 December 2009)",'1-1-2-1-1-2-2-10-2,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,2,I
-'Parent,'1-1-2-1-1-2-2-11-1,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,C
-'Chinese Ministry of Finance,'1-1-2-1-1-2-2-11-2-1-1,0,0,0,0,0,2,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,2,I
-'HKSCC Nominees Limited (21.92%),'1-1-2-1-1-2-2-11-2-1-2,0,0,0,0,0,2,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,1,I
-'HSBC,'1-1-2-1-1-2-2-11-2-1-3,0,0,0,0,0,1,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'(As of 31 December 2011),'1-1-2-1-1-2-2-11-2-2,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,2,I
-'Subsidiaries,'1-1-2-1-1-2-2-12-1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-"'BOCOM International, BOCOM Insurance, BOCOM Leasing, BOCOM Schroder",'1-1-2-1-1-2-2-12-2,0,0,0,0,0,2,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,2,I
-'Website,'1-1-2-1-1-2-2-13-1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,C
-'www.bankcomm.com,'1-1-2-1-1-2-2-13-2,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'Bank of Communications Limited (BoCom or BoComm) (simplified Chinese: 交通银行; traditional Chinese: 交通銀行; pinyin: Jiāotōng Yínháng; often abbreviated as 交行), founded in 1908, is one of the largest banks in China.",'1-1-2-1-2-1-1-1-1-1,2,0,0,0,0,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-"'Established in 1908, Bank of Communication boasts a long history in China and is one of the banks to have issued banknotes in modern Chinese history. It was listed on the Stock Exchanges of Hong Kong Limited and Shanghai Stock Exchange respectively in June 2005 and May 2007.",'1-1-2-1-2-1-1-1-1-2,2,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Contents,'1-1-2-1-2-1-1-1-2-1-1,0,0,1,2,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'1 History 1.1 Before 1949
-1.2 After 1949 1.2.1 Republic of China
-1.2.2 People's Republic of China",'1-1-2-1-2-1-1-1-2-1-2-1,1,0,0,0,0,2,1,0,0,2,1,1,0,0,0,1,1,0,0,1,0,0,2,I
-'2 Today,'1-1-2-1-2-1-1-1-2-1-2-2-1,0,0,0,0,0,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'2.1 Events in 2005,'1-1-2-1-2-1-1-1-2-1-2-2-2,0,0,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'3 Shareholders,'1-1-2-1-2-1-1-1-2-1-2-3,0,0,0,0,0,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'4 See also,'1-1-2-1-2-1-1-1-2-1-2-4,0,0,0,0,0,2,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'5 References,'1-1-2-1-2-1-1-1-2-1-2-5,0,0,0,0,0,1,1,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'6 External links,'1-1-2-1-2-1-1-1-2-1-2-6,0,0,0,0,0,2,1,0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'History,'1-1-2-1-2-1-1-1-2-2-1-1-1,0,0,0,0,1,1,0,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,2,C
-'Before 1949,'1-1-2-1-2-1-1-1-2-2-1-1-2,0,0,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-"'The Bank of Communication was founded in 1908 (the 34th year of the Guangxu reign period, Qing Dynasty) and emerged as one of the first few major national and note-issuing banks in the early days of the Republic of China. It was chartered as ""the Bank for developing the country's industries"". In order to expand business into the overseas arena, the Bank opened its first Hong Kong Branch on 27 November 1934.",'1-1-2-1-2-1-1-1-2-2-1-2,2,0,0,0,0,2,1,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0,1,I
-'After 1949,'1-1-2-1-2-1-1-1-2-2-2-1-1,0,0,0,0,1,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Republic of China,'1-1-2-1-2-1-1-1-2-2-2-1-2,0,0,0,0,1,2,0,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-"'After the Chinese Civil War ended in 1949, the Bank of Communication, like the Bank of China, was effectively split into two operations, part of it relocating to Taiwan with the Kuomintang government. In Taiwan, the bank is also known as Bank of Transportation (交通銀行, Chiao Tung Bank). It eventually merged with the International Commercial Bank of China (中國國際商業銀行), the renamed Bank of China in Taiwan after its 1971 privatization to become the Mega International Commercial Bank (兆豐國際商業銀行).",'1-1-2-1-2-1-1-1-2-2-2-2,2,0,0,0,0,2,1,0,0,2,0,1,0,0,0,1,0,0,1,0,0,0,2,I
-'People's Republic of China,'1-1-2-1-2-1-1-1-2-2-3-1,0,0,0,0,1,2,0,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,2,I
-'The mainland operation is the current Bank of Communication.,'1-1-2-1-2-1-1-1-2-2-3-2-1,0,0,0,0,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,2,I
-"'Following the State Council's decision to restructure the Bank in 1986, the Bank was then restructured and re-commenced operations on 1 April 1987. Since then, its Head Office has been relocated from Beijing to Shanghai.",'1-1-2-1-2-1-1-1-2-2-3-2-2,2,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
-'Today,'1-1-2-1-2-1-1-1-2-2-4-1,0,0,0,0,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-"'Today, the Bank of Communication is amongst the top 5 leading commercial banks in China and has an extensive network of over 2,800 branches covering over 80 major cities. Apart from Hong Kong, the Bank has also established overseas branches in New York, Tokyo, Singapore and representative offices in London and Frankfurt. As of end-2002, the Bank had over 88,000 employees and a total asset reaching RMB 5.15 trillion.",'1-1-2-1-2-1-1-1-2-2-4-2-1,2,0,0,0,0,2,1,0,1,2,1,0,1,0,0,0,0,0,1,0,0,0,2,I
-"'The Bank was awarded ""The Best Bank in China"" by international acclaimed magazines Euromoney and Global Finance in 1998 and 1999 respectively. According to the latest ranking of 1000 banks worldwide conducted by the authoritative magazine The Banker, Bank of Communication was ranked 94th, its first time to join the Top-100 list. In addition, the Feb 2003 edition of The Banker also ranked Bank of Communications 92nd amongst the 100 most efficient lending banks of the world.",'1-1-2-1-2-1-1-1-2-2-4-2-2,2,0,0,0,0,2,1,0,1,2,1,0,1,1,0,0,0,0,1,0,0,0,1,I
-"'Bank of Communication currently possesses 128 domestic organs including 30 provincial branches, 7 directly-managed branches, 90 sub-branches managed by the provincial branches with 2,643 network organs in over 220 large- and medium-sized cities. In addition, it has established 12 overseas organs including branch banks in Hong Kong, New York, San Francisco, Tokyo, Singapore, Seoul, Frankfurt, Macau, Sydney, and Ho Chi Minh City, BOCOMUK in London, and representative office in Taipei. According to the ranking announced by the British journal “The Banker” concerning 1,000 worldwide banks in 2011, Bank of Communication ranked 35th for its tier l capital, entering the world’s top 50 banks for two consecutive years. Among the World’s Top 500 Enterprises listed by Fortune in 2011, Bank of Communication ranked 397th., up by 43 as compared with 2010 and entering the World’s Top 500 Enterprises for three straight years. Bank of Communication is one of the major financial service suppliers in China with its business scope covering commercial banking, securities, trust, financial leasing, fund management, insurance, offshore financial services, etc. Bank of Communications is fully engaged to provide efficient and good quality financial services to clients at home and abroad.",'1-1-2-1-2-1-1-1-2-2-4-2-3,2,0,0,0,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Events in 2005,'1-1-2-1-2-1-1-1-2-2-5-1,0,0,0,0,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-"'As of January 2005, 19.9% of the bank is owned by HSBC. An HSBC spokeswoman said HSBC Holdings Plc and its 19.9% held Bank of Communication (BoComms) affiliate, would seek to acquire a brokerage to expand their operations in China. The plan was part of HSBC's broader China expansion strategy, but ""there is nothing further to disclose at the present."" HSBC's operations in China include its own banking operations, its stake in BoCom and an 8% stake in Bank of Shanghai. HSBC also holds a 19.9% stake in Ping An Insurance (Group) Co of China through its wholly owned subsidiary HSBC Insurance Holdings. The South China Morning Post today cited Peter Wong Tung-shun, executive director at The Hongkong and Shanghai Banking Corporation, as saying that the acquisition is being considered in the light of the Chinese government's reforms of the country's securities brokerages. This includes a provision allowing foreign companies to get management control of brokerage firms. Wong did not provide a timetable for any acquisition or identify any acquisition target. The Hongkong and Shanghai Banking Corp is a wholly owned HSBC subsidiary.",'1-1-2-1-2-1-1-1-2-2-5-2,2,0,0,0,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Shareholders,'1-1-2-1-2-1-1-1-2-2-6-1,0,0,0,0,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'The largest shareholders as of 31 December 2011 are:,'1-1-2-1-2-1-1-1-2-2-6-2,0,0,0,0,0,2,0,2,1,2,0,0,0,1,0,0,0,1,0,0,0,0,2,I
-'A sub-branch of the Bank of Communications Hong Kong Branch.,'1-1-2-1-2-1-1-2-2,1,0,0,0,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,0,1,1,1,I
-"'Ministry of Finance of the People's Republic of China: 16,413,353,049, 26.52%",'1-1-2-1-2-1-2-1,1,1,0,0,0,2,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,2,I
-"'HKSCC Nominees Limited: 13,564,847,033, 21.92%",'1-1-2-1-2-1-2-2,0,1,0,0,0,2,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-"'The Hongkong and Shanghai Banking Corporation: 11,530,478,263, 18.63%",'1-1-2-1-2-1-2-3,0,1,0,0,0,2,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,2,I
-'See also,'1-1-2-1-2-2,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Companies portal,'1-1-2-2-1-2,0,0,0,0,1,2,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'Bank of Communications Hong Kong Branch,'1-1-2-2-2-1-1-1,0,0,0,0,0,2,1,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0,1,I
-'Communications Clique,'1-1-2-2-2-1-1-2,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Banking in China,'1-1-2-2-2-1-1-3,0,0,0,0,0,2,1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,2,I
-'List of banks in the People's Republic of China,'1-1-2-2-2-1-1-4,0,0,0,0,0,2,1,0,1,1,1,0,0,1,0,1,0,0,1,0,0,0,2,I
-'External links,'1-1-2-2-2-1-2-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,C
-'Bank of Communications Head Office,'1-1-2-2-2-1-2-2-1,0,0,0,0,0,2,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,2,I
-'Bank of Communications Hong Kong Branch,'1-1-2-2-2-1-2-2-2,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,I
-'Links to related articles,'1-1-2-2-2-2-1,0,0,0,0,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Banks of China,'1-1-2-2-2-2-2-1-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,I
-'Banking in China,'1-1-2-2-2-2-2-1-2-1,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,2,C
-"'Central bank
-
-People's Bank of China",'1-1-2-2-2-2-2-1-2-2-1-1,0,0,0,1,1,2,1,0,1,2,1,1,1,0,0,1,0,0,1,1,1,1,2,C
-"'Policy bank
-
-China Development Bank
-Export-Import Bank of China
-Agricultural Development Bank of China",'1-1-2-2-2-2-2-1-2-2-1-2,1,1,0,1,1,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,1,C
-"'State-owned
-
-China Development Bank
-China Construction Bank
-Bank of China
-Industrial and Commercial Bank of China
-Agricultural Bank of China
-Postal Savings Bank of China
-Bank of Communications",'1-1-2-2-2-2-2-1-2-2-1-3,1,1,0,1,1,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,1,C
-"'Commercial
-
-China CITIC Bank
-China Everbright Bank
-Hua Xia Bank
-China Guangfa Bank
-Shenzhen Development Bank
-China Merchants Bank
-Shanghai Pudong Development Bank
-Industrial Bank Co.
-China Minsheng Bank
-Evergrowing Bank
-China Zheshang Bank
-China Bohai Bank
-Xiamen International Bank
-Ping An Bank",'1-1-2-2-2-2-2-1-2-2-1-4,1,1,0,1,1,2,1,0,1,2,1,1,0,1,0,1,0,0,1,1,0,0,1,I
-'City Bank,'1-1-2-2-2-2-2-1-2-2-1-5-1,0,0,0,1,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'Bank of Shanghai,'1-1-2-2-2-2-2-1-2-2-1-5-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,2,I
-'Bank of Beijing,'1-1-2-2-2-2-2-1-2-2-1-5-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,1,I
-'List of banks in China,'1-1-2-2-2-2-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,1,0,0,1,1,0,0,2,N
-'List of banks in Hong Kong,'1-1-2-2-2-2-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,0,0,1,1,0,0,2,N
-'List of banks in Macau,'1-1-2-2-2-2-2-1-2-2-2-3,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,0,0,1,0,0,0,3,N
-'China-based financial stocks in Hong Kong,'1-1-2-2-2-2-2-2-1-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,3,C
-'Banks,'1-1-2-2-2-2-2-2-1-2-1-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,3,C
-'ICBC,'1-1-2-2-2-2-2-2-1-2-1-1-2-1-1-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'BOC,'1-1-2-2-2-2-2-2-1-2-1-1-2-1-1-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'CCB,'1-1-2-2-2-2-2-2-1-2-1-1-2-1-2,0,0,0,1,0,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'BoCom,'1-1-2-2-2-2-2-2-1-2-1-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'CMB CITIC Minsheng ABC,'1-1-2-2-2-2-2-2-1-2-1-1-2-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Insurers,'1-1-2-2-2-2-2-2-1-2-1-2-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,2,C
-'China Life,'1-1-2-2-2-2-2-2-1-2-1-2-2-1,0,0,0,1,0,2,1,0,1,2,1,1,0,0,0,1,0,0,0,1,0,0,2,I
-'Ping An,'1-1-2-2-2-2-2-2-1-2-1-2-2-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,I
-'PICC,'1-1-2-2-2-2-2-2-1-2-1-2-2-2-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'China Taiping,'1-1-2-2-2-2-2-2-1-2-1-2-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
-'CPIC,'1-1-2-2-2-2-2-2-1-2-1-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'See also: List of companies listed on the Hong Kong Stock Exchange,'1-1-2-2-2-2-2-2-1-2-2,1,0,0,1,0,2,1,1,1,2,0,1,0,0,0,1,0,0,1,0,0,0,2,N
-'SSE 50 companies of China,'1-1-2-2-2-2-2-2-2-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,2,C
-'Agricultural Bank of China Air China Aluminium Corporation of China Bank of Beijing Bank of China,'1-1-2-2-2-2-2-2-2-2-1,1,0,0,1,0,2,1,0,1,2,0,1,0,0,0,1,0,0,1,1,0,0,3,I
-'Bank of Communications,'1-1-2-2-2-2-2-2-2-2-2-1,0,0,0,1,1,2,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,1,I
-'Baosteel China CITIC Bank China Coal Energy China Construction Bank China COSCO China Life Insurance China Merchants Bank China Metallurgical China Minsheng Bank China Pacific Insurance China Railway Construction China Railway Engineering China Shenhua China State Construction China Unicom China Yangtze Power CITIC Securities CSR Corporation Daqin Railway Everbright Securities GD Power Development Gemdale Group Haitong Securities Hua Xia Bank Industrial and Commercial Bank of China Industrial Bank Jiangxi Copper Jinduicheng Molybdenum Kweichow Moutai Liaoning Chengda Shanxi Lu'an Environmental Energy PetroChina Ping An Insurance Poly Real Estate SAIC Motor Shandong Gold Shanghai Pudong Development Bank Sinopec Tebian Electric Apparatus Tianwei Baobian Electric Western Mining Wuhan Iron and Steel Zhongjin Gold Zijin Mining,'1-1-2-2-2-2-2-2-2-2-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,1,0,0,0,2,I
-'Hang Seng Index companies of Hong Kong,'1-1-2-2-2-2-2-3-1-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,0,1,1,2,C
-"'Finance
-
-HSBC Holdings
-Hang Seng Bank
-Bank of East Asia
-HKEx
-China Construction Bank
-AIA
-Industrial and Commercial Bank of China
-Ping An Insurance
-BOC Hong Kong (Holdings)
-China Life Insurance Company
-Bank of Communications
-Bank of China",'1-1-2-2-2-2-2-3-1-2-1,1,1,0,1,1,2,1,0,1,2,1,1,1,0,0,1,0,0,1,1,0,0,2,C
-"'Utilities
-
-CLP Holdings
-Hong Kong and China Gas
-Power Assets Holdings
-China Resources Power",'1-1-2-2-2-2-2-3-1-2-2,1,1,0,1,1,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,1,I
-"'Property
-
-Cheung Kong
-Henderson Land Development
-Sun Hung Kai Properties
-Sino Land
-Hang Lung Properties
-China Overseas
-China Resources Land",'1-1-2-2-2-2-2-3-1-2-3,1,1,0,1,1,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,1,C
-'Commercial,'1-1-2-2-2-2-2-3-1-2-4-1-1,0,0,0,1,1,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
-'industrial,'1-1-2-2-2-2-2-3-1-2-4-1-2,0,0,0,1,1,0,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,I
-'Wharf Holdings,'1-1-2-2-2-2-2-3-1-2-4-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
-'Hutchison Whampoa,'1-1-2-2-2-2-2-3-1-2-4-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'New World Development,'1-1-2-2-2-2-2-3-1-2-4-2-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Swire Pacific,'1-1-2-2-2-2-2-3-1-2-4-2-4,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'MTR Corporation,'1-1-2-2-2-2-2-3-1-2-4-2-5-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Kunlun Energy,'1-1-2-2-2-2-2-3-1-2-4-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'China Merchants,'1-1-2-2-2-2-2-3-1-2-4-2-6,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
-'Want Want China,'1-1-2-2-2-2-2-3-1-2-4-2-7,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
-'CITIC Pacific,'1-1-2-2-2-2-2-3-1-2-4-2-8-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'China Resources,'1-1-2-2-2-2-2-3-1-2-4-2-8-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'Cathay Pacific Airways,'1-1-2-2-2-2-2-3-1-2-4-2-9,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Tingyi,'1-1-2-2-2-2-2-3-1-2-4-2-10,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Esprit Holdings,'1-1-2-2-2-2-2-3-1-2-4-2-11-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Sinopec,'1-1-2-2-2-2-2-3-1-2-4-2-11-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Li & Fung,'1-1-2-2-2-2-2-3-1-2-4-2-12,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Tencent Holdings,'1-1-2-2-2-2-2-3-1-2-4-2-13,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Unicom,'1-1-2-2-2-2-2-3-1-2-4-2-14,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
-'CNOOC,'1-1-2-2-2-2-2-3-1-2-4-2-15-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'PetroChina,'1-1-2-2-2-2-2-3-1-2-4-2-15-2,0,0,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'China Mobile,'1-1-2-2-2-2-2-3-1-2-4-2-16,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
-'Hengan,'1-1-2-2-2-2-2-3-1-2-4-2-17,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'China Shenhua,'1-1-2-2-2-2-2-3-1-2-4-2-18-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
-'COSCO Pacific,'1-1-2-2-2-2-2-3-1-2-4-2-18-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Belle,'1-1-2-2-2-2-2-3-1-2-4-2-19,0,0,0,1,0,1,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'China Coal Energy,'1-1-2-2-2-2-2-3-1-2-4-2-20,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
-'Sands China,'1-1-2-2-2-2-2-3-1-2-4-2-21-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
-'Aluminum Corporation of China,'1-1-2-2-2-2-2-3-1-2-4-2-21-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
-'Hang Seng China Enterprises Index companies of Hong Kong,'1-1-2-2-2-2-2-3-2-1,1,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,2,C
-'Tsingtao Brewery,'1-1-2-2-2-2-2-3-2-2-1-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Angang Steel,'1-1-2-2-2-2-2-3-2-2-1-2,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,1,I
-'Jiangxi Copper Sinopec,'1-1-2-2-2-2-2-3-2-2-1-3,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Railway Engineering,'1-1-2-2-2-2-2-3-2-2-1-4,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-'Dongfeng Motor Group,'1-1-2-2-2-2-2-3-2-2-1-5,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Telecom Air China,'1-1-2-2-2-2-2-3-2-2-1-6,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
-'ZTE,'1-1-2-2-2-2-2-3-2-2-1-7,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Petrochina,'1-1-2-2-2-2-2-3-2-2-1-8,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Huaneng Power,'1-1-2-2-2-2-2-3-2-2-1-9,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Anhui Conch Cement Longyuan Power,'1-1-2-2-2-2-2-3-2-2-1-10,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Construction Bank,'1-1-2-2-2-2-2-3-2-2-1-11,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'China CITIC Bank,'1-1-2-2-2-2-2-3-2-2-1-12,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'China Shenhua Sinopharm,'1-1-2-2-2-2-2-3-2-2-1-13,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-'China Shipping Development,'1-1-2-2-2-2-2-3-2-2-1-14,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-'Yanzhou Coal,'1-1-2-2-2-2-2-3-2-2-1-15,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Railway Construction BYD Company,'1-1-2-2-2-2-2-3-2-2-1-16,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,0,0,0,2,I
-'Agricultural Bank of China,'1-1-2-2-2-2-2-3-2-2-1-17,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'Industrial and Commercial Bank of China,'1-1-2-2-2-2-2-3-2-2-1-18,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'New China Life Insurance,'1-1-2-2-2-2-2-3-2-2-1-19,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'China Communications Construction China Coal Energy,'1-1-2-2-2-2-2-3-2-2-1-20,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-'Minsheng Bank,'1-1-2-2-2-2-2-3-2-2-1-21,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'China COSCO,'1-1-2-2-2-2-2-3-2-2-1-22,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,1,0,0,2,I
-'GAC Group Ping An Insurance,'1-1-2-2-2-2-2-3-2-2-1-23,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,1,0,0,2,I
-'PICC Property and Casualty Company,'1-1-2-2-2-2-2-3-2-2-1-24,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,1,0,0,0,2,I
-'Aluminium Corporation of China,'1-1-2-2-2-2-2-3-2-2-1-25,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-'China Pacific Insurance China Life Insurance,'1-1-2-2-2-2-2-3-2-2-1-26,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'R&F Properties,'1-1-2-2-2-2-2-3-2-2-1-27,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'China Oilfield Services,'1-1-2-2-2-2-2-3-2-2-1-28,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,1,1,0,0,2,I
-'Zijin Mining,'1-1-2-2-2-2-2-3-2-2-1-29,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'China National Building Material,'1-1-2-2-2-2-2-3-2-2-1-30-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
-'Bank of Communications,'1-1-2-2-2-2-2-3-2-2-1-30-2,0,0,0,1,1,2,0,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,2,I
-'China Merchants Bank,'1-1-2-2-2-2-2-3-2-2-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,1,1,0,0,2,I
-'Bank of China,'1-1-2-2-2-2-2-3-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,1,1,0,0,2,I
-'CITIC Securities,'1-1-2-2-2-2-2-3-2-2-2-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Haitong Securities,'1-1-2-2-2-2-2-3-2-2-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Hang Seng China 50 Index Constitutent Stocks,'1-1-2-2-2-2-2-4-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,2,I
-'A shares/H shares,'1-1-2-2-2-2-2-4-2-1-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Finance,'1-1-2-2-2-2-2-4-2-1-2-1-1,0,0,0,1,1,1,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Bank of Beijing Bank of China,'1-1-2-2-2-2-2-4-2-1-2-1-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,1,1,0,0,2,I
-'Bank of Communications China Construction Bank China CITIC Bank China Life Insurance China Merchants Bank China Merchants Securities China Minsheng Bank China Pacific Insurance CITIC Securities Everbright Securities Haitong Securities Industrial and Commercial Bank of China Industrial Bank Ping An Insurance Shanghai Pudong Development Bank,'1-1-2-2-2-2-2-4-2-1-2-1-2-2,2,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,1,1,0,0,2,I
-'Other,'1-1-2-2-2-2-2-4-2-1-2-2-1,0,0,0,1,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Air China,'1-1-2-2-2-2-2-4-2-1-2-2-2-1-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
-'Angang Steel,'1-1-2-2-2-2-2-4-2-1-2-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Anhui Conch Cement,'1-1-2-2-2-2-2-4-2-1-2-2-2-2,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Baosteel,'1-1-2-2-2-2-2-4-2-1-2-2-2-3,0,0,0,1,0,1,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'BYD,'1-1-2-2-2-2-2-4-2-1-2-2-2-4,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Aluminium Corporation of China,'1-1-2-2-2-2-2-4-2-1-2-2-2-5-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
-'China Coal Energy,'1-1-2-2-2-2-2-4-2-1-2-2-2-5-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,0,0,0,2,I
-'China Communications Construction,'1-1-2-2-2-2-2-4-2-1-2-2-2-6-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
-'China COSCO,'1-1-2-2-2-2-2-4-2-1-2-2-2-6-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'China Railway Construction,'1-1-2-2-2-2-2-4-2-1-2-2-2-7,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,0,0,0,2,I
-'China Railway Engineering,'1-1-2-2-2-2-2-4-2-1-2-2-2-8,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,1,0,0,0,0,0,0,2,I
-'China Shenhua,'1-1-2-2-2-2-2-4-2-1-2-2-2-9,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,1,0,0,2,I
-'China State Construction,'1-1-2-2-2-2-2-4-2-1-2-2-2-10-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,2,I
-'China Telecom,'1-1-2-2-2-2-2-4-2-1-2-2-2-10-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'China Vanke,'1-1-2-2-2-2-2-4-2-1-2-2-2-11,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
-'Daqin Railway Company,'1-1-2-2-2-2-2-4-2-1-2-2-2-12,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,0,0,0,1,0,0,0,2,I
-'Datang Power,'1-1-2-2-2-2-2-4-2-1-2-2-2-13-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Huaneng Power,'1-1-2-2-2-2-2-4-2-1-2-2-2-13-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Kweichow Moutai,'1-1-2-2-2-2-2-4-2-1-2-2-2-14,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'MCC,'1-1-2-2-2-2-2-4-2-1-2-2-2-15,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Petrochina,'1-1-2-2-2-2-2-4-2-1-2-2-2-16-1,0,0,0,1,0,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'SAIC Motor,'1-1-2-2-2-2-2-4-2-1-2-2-2-16-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Shanghai Electric,'1-1-2-2-2-2-2-4-2-1-2-2-2-17,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,2,I
-'Shanghai Port,'1-1-2-2-2-2-2-4-2-1-2-2-2-18,0,0,0,1,0,2,1,0,1,2,1,1,1,1,0,0,0,0,0,0,0,0,2,I
-'Sinopec,'1-1-2-2-2-2-2-4-2-1-2-2-2-19,0,0,0,1,0,1,1,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
-'Yangtze Power,'1-1-2-2-2-2-2-4-2-1-2-2-2-20-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,I
-'Zijin Mining,'1-1-2-2-2-2-2-4-2-1-2-2-2-20-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'Red chip,'1-1-2-2-2-2-2-4-2-2-1-1,0,0,0,1,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,I
-'China Mobile,'1-1-2-2-2-2-2-4-2-2-1-2-1,0,0,0,1,0,2,1,0,1,2,1,1,1,0,0,1,0,0,0,1,0,0,2,I
-'China Resources Power,'1-1-2-2-2-2-2-4-2-2-1-2-2,0,0,0,1,0,2,1,0,1,2,1,1,0,1,0,1,0,0,0,0,0,0,2,I
-'China Overseas,'1-1-2-2-2-2-2-4-2-2-1-2-3-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,1,0,0,0,1,0,0,2,I
-'China Unicom,'1-1-2-2-2-2-2-4-2-2-1-2-3-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,1,0,0,0,1,0,0,2,I
-'CNOOC,'1-1-2-2-2-2-2-4-2-2-1-2-4,0,0,0,1,0,1,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,I
-'Others,'1-1-2-2-2-2-2-4-2-2-2-1,0,0,0,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,1,2,I
-'Tencent,'1-1-2-2-2-2-2-4-2-2-2-2,0,1,0,1,0,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
-'HSBC Holdings,'1-1-2-2-2-3-1,0,0,0,0,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,2,I
-"'Corporate directors:
-
-Douglas Flint (Group Chairman)
-Stuart Gulliver (Group CEO)
-Safra A. Catz
-Laura Cha
-Vincent Cheng
-Marvin Cheung
-John Coombe
-Rona Fairhead
-Sandy Flockhart
-James Hughes-Hallett
-Sam Laidlaw
-Rachel Lomax
-Iain Mackay
-Gwyn Morgan
-Simon Robertson
-John L. Thornton
-Brian Williamson",'1-1-2-2-2-3-2-1-1,1,1,0,0,1,2,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,2,C
-"'Brands:
-
-First Direct
-Hang Seng Bank
-HSBC
-HSBC Bank International
-HSBC Premier
-HSBC Private Bank
-HSBC Trinkaus
-M&S Money
-Proa
-SABB",'1-1-2-2-2-3-2-1-2,1,1,0,0,1,2,1,1,2,1,1,1,1,1,0,0,0,0,1,0,0,0,2,C
-"'Principal local banks:
-
-Argentina
-Brazil
-Canada
-People's Republic of China
-Egypt
-France
-Germany
-Hong Kong
-Malaysia
-Middle East
-Mexico
-Panama
-Saudi Arabia
-Sri Lanka
-Republic of China (Taiwan)
-Turkey
-United Kingdom
-United States",'1-1-2-2-2-3-2-1-3,1,1,0,0,1,2,1,1,2,1,1,1,1,1,0,1,0,0,0,0,0,0,1,C
-"'Minority stakes and joint ventures:
-
-Bank of Communications (19%)
-HSBC Saudi Arabia (60%)
-SABB (40%)
-Ping An Insurance (19.9%)
-Techcombank (15%)
-Bank of Shanghai (8%)",'1-1-2-2-2-3-2-1-4,1,1,0,0,1,2,1,1,2,1,1,1,0,1,0,0,0,0,1,0,0,0,1,C
-'Predecessor companies,'1-1-2-2-2-3-2-1-5-1,0,0,0,0,1,2,0,0,2,1,0,1,0,0,0,0,0,0,1,1,0,0,1,C
-'Grupo Banistmo,'1-1-2-2-2-3-2-1-5-2-1,0,0,0,0,0,2,1,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
-'Bank of British Columbia,'1-1-2-2-2-3-2-1-5-2-2,0,0,0,0,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,0,0,0,1,I
-'Beneficial,'1-1-2-2-2-3-2-1-5-2-3,0,0,0,0,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Crédit Commercial de France,'1-1-2-2-2-3-2-1-5-2-4,0,0,0,0,0,2,1,0,2,2,1,0,1,1,0,1,0,0,0,0,0,0,2,I
-'Guyerzeller,'1-1-2-2-2-3-2-1-5-2-5,0,0,0,0,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Household,'1-1-2-2-2-3-2-1-5-2-6,0,0,0,0,0,1,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Imperial Bank of Persia,'1-1-2-2-2-3-2-1-5-2-7,0,0,0,0,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-'Marine Midland Bank,'1-1-2-2-2-3-2-1-5-2-8,0,0,0,0,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,0,0,0,2,I
-'Midland Bank,'1-1-2-2-2-3-2-1-5-2-9,0,0,0,0,0,2,1,0,2,2,1,0,1,1,0,0,0,0,1,1,0,0,2,I
-'Republic New York,'1-1-2-2-2-3-2-1-5-2-10,0,0,0,0,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
-'Samuel Montagu & Co.,'1-1-2-2-2-3-2-1-5-2-11,0,0,0,0,0,2,1,0,2,2,1,0,0,1,0,0,0,0,0,0,1,1,2,I
-"'Annual group revenue: US$75.60 billion (2012) Employees: 260,591 (2012) nGroup Headquarters: 8 Canada Square, London, E14 5HQ, United Kingdom",'1-1-2-2-2-3-2-2,1,1,0,0,0,2,1,1,2,1,0,1,0,0,1,1,0,0,0,0,0,0,2,N

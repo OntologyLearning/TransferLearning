@@ -1,0 +1,69 @@
+content,nodeID,#ofWords,isLI,isH,FontSize,FontWeight,XxxRatio,ContainUrl,ContainColon,VisionLocation,Depth,#ofSibling,SiblingType,NextNodeType,LastNodeType,Concept,Country,Institution,Month,Others,Total,NextIsLi,LastEndColon,LastLabel,Label
+'ACM Transactions on,'1-1-2-1,0,0,0,2,1,2,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,C
+'Graphics,'1-1-2-2,0,0,0,2,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,C
+'Editorial board,'1-2-2-1,0,0,1,2,1,2,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,1,C
+'Editor-in-chief,'1-2-2-2-1-1,0,0,1,2,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,1,C
+'Julie Dorsey (Yale University),'1-2-2-2-1-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,1,0,0,1,0,0,1,I
+'Assistant to the editor-in-chief,'1-2-2-2-2-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+'Judi L. Paige,'1-2-2-2-2-2-1,0,0,0,1,0,2,0,0,1,2,1,1,1,0,0,0,0,0,0,0,0,0,1,I
+'judi.paige@yale.edu,'1-2-2-2-2-2-2,0,0,0,1,0,0,0,0,1,2,1,1,0,1,0,0,0,0,0,0,0,0,2,I
+'Yale University,'1-2-2-2-2-2-3-1,0,0,0,1,0,2,0,0,1,2,1,0,1,0,0,0,1,0,0,1,0,0,2,I
+'Department Computer Science,'1-2-2-2-2-2-3-2,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'P.O. Box 208285,'1-2-2-2-2-2-3-3,0,0,0,1,0,2,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'New Haven, CT 06520-8285",'1-2-2-2-2-2-3-4,0,0,0,1,0,2,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Information director,'1-2-2-2-3-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Jianye Lu (Microsoft Corporation),'1-2-2-2-3-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,1,I
+'Past editor-in-chief,'1-2-2-2-4-1,0,0,1,2,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,2,C
+'Hugues Hoppe (Microsoft Research),'1-2-2-2-4-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,1,0,0,0,0,0,1,I
+'Senior Associate editors,'1-2-2-2-5-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,2,C
+'Kavita Bala (Cornell University),'1-2-2-2-5-2-1,0,0,0,1,0,2,1,0,1,2,0,0,1,0,0,0,1,0,0,1,0,0,1,I
+'Peter-Pike Sloan (Activision),'1-2-2-2-5-2-2,0,0,0,1,0,2,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,2,I
+'Associate editors,'1-2-2-2-6-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,1,0,0,0,0,1,0,0,2,C
+'Aseem Agarwala (Adobe Systems Inc.),'1-2-2-2-6-2-1,0,0,0,1,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,1,I
+"'Maneesh Agrawala (University of California, Berkeley)",'1-2-2-2-6-2-2,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,1,0,0,1,0,0,2,I
+'Pierre Alliez (INRIA),'1-2-2-2-6-2-3,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Adam Bargteil (University of Utah),'1-2-2-2-6-2-4,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Marie-Paule Cani (Grenoble Institute of Technology),'1-2-2-2-6-2-5,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Daniel Cohen-Or (Tel Aviv University),'1-2-2-2-6-2-6,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Adam Finkelstein (Princeton University),'1-2-2-2-6-2-7,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'David Forsyth (University of Illinois at Urbana-Champaign),'1-2-2-2-6-2-8,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Steven Gortler (Harvard University),'1-2-2-2-6-2-9,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+'Eitan Grinspun (Columbia University),'1-2-2-2-6-2-10,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'John Hart (University of Illinois at Urbana-Champaign),'1-2-2-2-6-2-11,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Aaron Hertzmann (Adobe Research),'1-2-2-2-6-2-12,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Takeo Igarashi (University of Tokyo),'1-2-2-2-6-2-13,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Doug James (Cornell University),'1-2-2-2-6-2-14,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+"'Henrik Wann Jensen (University of California, San Diego)",'1-2-2-2-6-2-15,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+'Ladislav Kavan (University of Pennsylvania),'1-2-2-2-6-2-16,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Michael Kazhdan (Johns Hopkins University),'1-2-2-2-6-2-17,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Jason Lawrence (University of Virginia),'1-2-2-2-6-2-18,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Sylvain Lefebvre (INRIA),'1-2-2-2-6-2-19,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Jaakko Lehtinen (Aalto University and NVIDIA Research Helsinki),'1-2-2-2-6-2-20,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Dani Lischinski (Hebrew University of Jerusalem),'1-2-2-2-6-2-21,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Karen Liu (Georgia Tech),'1-2-2-2-6-2-22,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Dinesh Manocha (UNC Chapel Hill),'1-2-2-2-6-2-23,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'Nelson Max (University of California, Davis)",'1-2-2-2-6-2-24,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+'Niloy Mitra (University College London),'1-2-2-2-6-2-25,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Jorg Peters (University of Florida),'1-2-2-2-6-2-26,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Ravi Ramamoorthi (University of California, Berkeley)",'1-2-2-2-6-2-27,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,1,0,0,1,0,0,2,I
+'Erik Reinhard (Technicolor Research),'1-2-2-2-6-2-28,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Thomas Sederberg (Brigham Young University),'1-2-2-2-6-2-29,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'François Sillion (INRIA),'1-2-2-2-6-2-30,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Noah Snavely (Cornell University),'1-2-2-2-6-2-31,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+'John Snyder (Microsoft Research),'1-2-2-2-6-2-32,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Jos Stam (Autodesk, Inc.)",'1-2-2-2-6-2-33,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+'Li-Yi Wei (The University of Hong Kong),'1-2-2-2-6-2-34,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,1,1,0,0,0,0,0,2,I
+'Peter Wonka (Arizona State University),'1-2-2-2-6-2-35,0,0,0,1,0,2,1,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+'Kun Zhou (Zhejiang University),'1-2-2-2-6-2-36,0,0,0,1,0,2,1,0,1,2,1,0,0,1,0,0,1,0,0,0,0,0,2,I
+'ACM headquarters staff,'1-2-2-2-7-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,1,0,0,0,2,C
+"'Laura A. Lander, Journals Manager, ACM Journals",'1-2-2-2-7-2-1,0,0,0,1,0,2,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,1,I
+"'Irma Strolia, Editorial Assistant, ACM Journals",'1-2-2-2-7-2-2,0,0,0,1,0,2,0,0,1,2,0,0,0,1,0,0,0,0,1,0,0,0,2,I
+'Previous editors-in-chief,'1-2-2-2-8-1,0,0,1,2,1,2,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,C
+"'Hugues Hoppe (Microsoft Research), 2009-2011",'1-2-2-2-8-2-1,0,0,0,1,0,2,1,0,2,2,1,0,1,0,0,0,1,0,0,0,0,0,1,I
+"'John Hart (University of Illinois at Urbana-Champaign), 2003-2008",'1-2-2-2-8-2-2,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Jessica Hodgins (Carnegie Mellon University), 2000-2002",'1-2-2-2-8-2-3,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'Holly Rushmeier (Yale University), 1997-1999",'1-2-2-2-8-2-4,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,1,0,0,1,0,0,2,I
+"'Andrew Glassner (Coyote Wind Studios, LLC), 1995-1997",'1-2-2-2-8-2-5,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,0,0,0,0,0,0,2,I
+"'James Foley (Georgia Institute of Technology), 1991-1995",'1-2-2-2-8-2-6,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'John Beatty (University of Waterloo), 1986-1991",'1-2-2-2-8-2-7,0,0,0,1,0,2,1,0,2,2,1,0,1,1,0,0,1,0,0,0,0,0,2,I
+"'R. Daniel Bergeron (University of New Hampshire), 1981-1986",'1-2-2-2-8-2-8,0,0,0,1,0,2,1,0,2,2,1,0,0,1,0,0,1,0,0,0,0,0,2,I
